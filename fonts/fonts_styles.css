@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Century Gothic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Century Gothic'), url('GOTHIC.TTF') format('truetype');
+}
+
+@font-face {
+  font-family: 'Century Gothic bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Century Gothic bold'), url('GOTHICB.TTF') format('truetype');
+}
+
+@font-face {
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Arial'), url('arial.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Arial bold';
+  font-style: bolder;
+  font-weight: bolder;
+  src: local('Arial bold'), url('arialb.ttf') format('truetype');
+}
