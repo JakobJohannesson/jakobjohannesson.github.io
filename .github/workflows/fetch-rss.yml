@@ -1,0 +1,36 @@
+name: Fetch Cision RSS Feed
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Every hour
+  workflow_dispatch:       # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-rss:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch RSS feed
+        run: python scripts/fetch_rss.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add rss_feed/
+          if git diff --cached --quiet; then
+            echo "No new items found."
+          else
+            git commit -m "Add new press releases from Cision RSS feed"
+            git push
+          fi
