@@ -1,0 +1,147 @@
+# Styrelsen för Transtema Group AB (publ) beslutar om en fullt garanterad företrädesemission av aktier om ca 40,3 miljoner kronor och ingår ett ändrings- och bekräftelseavtal till befintligt låneavtal
+
+**Published:** Fri, 27 Mar 2026 17:25:00 GMT
+**Source:** [https://news.cision.com/se/transtema/r/styrelsen-for-transtema-group-ab--publ--beslutar-om-en-fullt-garanterad-foretradesemission-av-aktier,c4328106](https://news.cision.com/se/transtema/r/styrelsen-for-transtema-group-ab--publ--beslutar-om-en-fullt-garanterad-foretradesemission-av-aktier,c4328106)
+**GUID:** cision5333312
+**Cision ID:** transtema
+**Keywords:** 
+
+---
+
+EJ FÖR OFFENTLIGGÖRANDE, DISTRIBUTION ELLER PUBLICERING, HELT ELLER DELVIS, DIREKT ELLER INDIREKT, INOM ELLER TILL AUSTRALIEN, HONGKONG, ISRAEL, JAPAN, KANADA, NYA ZEELAND, SCHWEIZ, SINGAPORE, SYDAFRIKA, SYDKOREA, USA ELLER I NÅGON ANNAN JURISDIKTION DÄR OFFENTLIGGÖRANDE, DISTRIBUTION ELLER PUBLICERING HELT ELLER DELVIS ÄR FÖREMÅL FÖR LEGALA RESTRIKTIONER. VÄNLIGEN SE VIKTIG INFORMATION I SLUTET AV PRESSMEDDELANDET.
+
+**Styrelsen för Transtema Group AB (publ) ("Transtema" eller "Bolaget") har idag, den 27 mars 2026, beslutat om en nyemission av 16 106 682 aktier med företrädesrätt för Bolagets befintliga aktieägare (”Företrädesemissionen”), under förutsättning av efterföljande godkännande vid en extra bolagsstämma som förväntas hållas den 30 april 2026, samt ingått ett ändrings- och bekräftelseavtal till Bolagets befintliga låneavtal. Bolagets befintliga aktieägare Törnäs Invest AB, Fore C Holding AB, Jonas Nordlund (EFG Bank), IGC Industrial Growth Company AB, Sune Tholin och Jovitech Invest AB har åtagit sig att teckna sin pro rata-andel motsvarande cirka 50,4 procent av Företrädesemissionen (cirka 20,3 miljoner kronor). Därutöver har Törnäs Invest AB, Fore C Holding AB, Jonas Nordlund (EFG Bank) och Jovitech Invest AB lämnat garantiåtaganden för resterande del motsvarande cirka 49,6 procent av Företrädesemissionen (cirka 20,0 miljoner kronor), därmed är Företrädesemissionen fullt garanterad. Teckningskursen uppgår till 2,50 kronor per aktie och Bolaget kommer att tillföras cirka 40,3 miljoner kronor före transaktionsrelaterade kostnader. Nettolikviden från Företrädesemissionen, efter transaktionsrelaterade kostnader, kommer att användas för att stärka rörelsekapitalet under pågående omstrukturering syftande till att stärka konkurrenskraften och förbättra lönsamheten.**
+
+                        
+
+**Sammanfattning:**
+
+	- Styrelsen för Transtema har idag beslutat om Företrädesemissionen, under förutsättning av efterföljande godkännande vid en extra bolagsstämma som förväntas hållas den 30 april 2026. Transtema har idag även ingått ett ändrings- och bekräftelseavtal till Bolagets befintliga låneavtal.
+	- Kallelse till den extra bolagsstämman, som förväntas hållas den 30 april 2026, kommer att publiceras separat i nära anslutning till detta pressmeddelande.
+	- En (1) befintlig aktie i Bolaget berättigar till en (1) teckningsrätt. Åtta (8) teckningsrätter berättigar till teckning av tre (3) nyemitterade aktier. Detta innebär att totalt 16 106 682 nya aktier kommer att emitteras inom ramen för Företrädesemissionen.
+	- Teckningskursen har fastställts till 2,50 kronor per aktie.
+	- Teckningskursen om 2,50 kronor per aktie motsvarar en rabatt om cirka 45,0 procent jämfört med det teoretiska priset (så kallat TERP – theoretical ex-rights price) baserat på stängningskursen för Transtemas aktie på Nasdaq Stockholm den 27 mars 2026.
+	- Vid full teckning i Företrädesemissionen kommer Transtema att tillföras cirka 40,3 miljoner kronor före transaktionsrelaterade kostnader.
+	- Nettolikviden, efter transaktionsrelaterade kostnader, avses användas för att stärka rörelsekapitalet under pågående omstrukturering syftande till att stärka konkurrenskraften och förbättra lönsamheten.
+	- Företrädesemissionen är fullt garanterad genom tecknings- och garantiåtaganden från Törnäs Invest AB, Fore C Holding AB, Jonas Nordlund (EFG Bank), IGC Industrial Growth Company AB, Sune Tholin och Jovitech Invest AB. Ingen ersättning utgår för vare sig teckningsåtaganden eller garantiåtaganden. Varken teckningsåtaganden eller garantiåtaganden är säkerställda genom bankgaranti, pant eller liknande arrangemang.
+	- Avstämningsdagen för Företrädesemission är den 8 maj 2026 och teckningsperioden löper från den 11 maj 2026 till och med den 25 maj 2026.
+	- Teckningsrätter som inte utnyttjas under teckningsperioden blir ogiltiga och förlorar sitt värde. Handel i teckningsrätter planeras att äga rum på Nasdaq Stockholm från den 11 maj 2026 till och med den 20 maj 2026. Handel i BTA (Betald Tecknad Aktie) planeras att äga rum på Nasdaq Stockholm under perioden från den 11 maj 2026 till omkring den 12 juni 2026.
+	- Företrädesemissionen innebär en maximal utspädning för befintliga aktieägare som inte tecknar aktier i Företrädesemissionen om cirka 27,3 procent.
+	- Fullständiga villkor för Företrädesemissionen och viss information om Bolaget kommer att presenteras i ett informationsdokument i enlighet med artikel 1.4 db i Europaparlamentets och rådets förordning (EU) 2017/1129 (”**Prospektförordningen**”). Informationsdokumentet, upprättat i enlighet med bilaga IX till Prospektförordningen, förväntas publiceras omkring den 11 maj 2026.
+
+**Bakgrund och motiv**
+
+Transtema är ett av Nordens ledande företag inom kommunikationsinfrastruktur med fokus på installation, service, drift och övervakning samt tillhörande tekniska tjänster. Transtema verkar i hela värdekedjan och bland kunderna återfinns teleoperatörer, energibolag, stadsnät, större företag och offentlig verksamhet. Transtemas uppdrag är att säkerställa hög tillgänglighet, kvalitet och driftsäkerhet i ett alltmer digitaliserat och uppkopplat samhälle. Företaget grundades 1997 och under 2025 uppgick Bolagets nettoomsättning till 2 600 miljoner kronor (2 489 miljoner kronor) och antalet anställda uppgick till cirka 1 300.
+
+För att stödja den löpande verksamhetsutvecklingen och stärka Bolagets finansiella ställning ingår Transtema ett ändrings- och bekräftelseavtal till Bolagets befintliga låneavtal samt genomför en fullt garanterad företrädesemission om cirka 40,3 miljoner kronor. Nettolikviden avses användas för att stärka rörelsekapitalet under pågående omstrukturering syftande till att stärka konkurrenskraften och förbättra lönsamheten.
+
+Vid full teckning av de nyemitterade aktierna beräknas Bolaget tillföras en nettolikvid om cirka 40,3 miljoner kronor, före transaktionsrelaterade kostnader.
+
+**Villkor för företrädesemissionen, aktier, aktiekapital och utspädning**
+
+De som på avstämningsdagen den 8 maj 2026 är registrerade som aktieägare i Transtema har företrädesrätt att teckna nya aktier i Bolaget i förhållande till sitt befintliga aktieinnehav.
+
+Aktieägarna erhåller en (1) teckningsrätt för varje innehavd aktie i Bolaget. Åtta (8) teckningsrätter berättigar till teckning av tre (3) nyemitterade aktier. Därutöver erbjuds investerare möjlighet att ansöka om teckning av aktier utan stöd av teckningsrätter.
+
+Teckningskursen i Företrädesemissionen har fastställts till 2,50 kronor per aktie. Vid full teckning i Företrädesemissionen kommer Bolaget att tillföras cirka 40,3 miljoner kronor före transaktionsrelaterade kostnader.
+
+Om inte samtliga aktier tecknas med stöd av teckningsrätter ska styrelsen, inom ramen för emissionens högsta belopp, besluta om tilldelning av aktier till dem som tecknat aktier utan stöd av teckningsrätter enligt följande tilldelningsprinciper:
+
+	- i första hand tilldelas dem som anmält sig för teckning och tecknat nya aktier med stöd av teckningsrätter, oavsett om tecknaren var aktieägare på avstämningsdagen eller inte, och vid överteckning, i förhållande till det antal teckningsrätter var och en har utnyttjat för teckning av nya aktier,
+	- i andra hand tilldelas övriga som anmält sig för teckning utan stöd av teckningsrätter och, vid överteckning, i förhållande till det antal nya aktier som inges i teckningsanmälan, och i den mån detta inte kan ske, genom lottning, samt
+	- i tredje hand till den som genom avtal ingått garantiåtagande.
+
+Det totala antalet aktier i Bolaget kommer att öka med 16 106 682 aktier, från 42 951 158 aktier till 59 057 840 aktier. Aktiekapitalet kommer att öka med 16 106 682,00 kronor från 42 951 158,00 kronor till 59 057 840,00 kronor. Aktieägare som väljer att inte delta i Företrädesemissionen kommer att få sitt ägande utspätt med cirka 27,3 procent.
+
+Teckning av de nya aktierna ska ske under perioden från den 11 maj 2026 till och med den 25 maj 2026.
+
+Handel i teckningsrätter planeras att äga rum på Nasdaq Stockholm under perioden 11 maj 2026 till20 maj 2026. Handel i BTA (Betald Tecknad Aktie) planeras att äga rum på Nasdaq Stockholm under perioden från den 11 maj 2026 till omkring den 12 juni 2026.
+
+**Ändrings- och bekräftelseavtal i förhållande till befintligt låneavtal**
+
+Bolaget har idag ingått ett ändrings- och bekräftelseavtal till Bolagets befintliga låneavtal och justerat vissa av dess villkor. Den totala faciliteten, inklusive checkkredit samt avtalets ursprungliga löptid kvarstår oförändrad efter genomförandet av Företrädesemissionen. 
+
+**Informationsdokument**
+
+Fullständiga villkor för Företrädesemissionen samt viss information om Bolaget kommer att presenteras i ett informationsdokument i enlighet med artikel 1.4 db i . Informationsdokumentet, upprättat i enlighet med bilaga IX till Prospektförordningen, förväntas publiceras omkring den 11 maj 2026.
+
+**Teckningsåtaganden och garantiåtaganden**
+
+Bolagets befintliga aktieägare Törnäs Invest AB, Fore C Holding AB, Jonas Nordlund (EFG Bank), IGC Industrial Growth Company AB, Sune Tholin och Jovitech Invest AB har åtagit sig att teckna sin pro rata-andel motsvarande cirka 50,4 procent av Företrädesemissionen (cirka 20,3 miljoner kronor). Därutöver har Törnäs Invest AB, Fore C Holding AB, Jonas Nordlund (EFG Bank) och Jovitech Invest AB lämnat garantiåtaganden för resterande del motsvarande cirka 49,6 procent av Företrädesemissionen (cirka 20,0 miljoner kronor), därmed är Företrädesemissionen fullt garanterad. Ingen ersättning utgår för vare sig teckningsåtaganden eller garantiåtaganden. Varken teckningsåtaganden eller garantiåtaganden är säkerställda genom bankgaranti, spärrade medel, pantsättning eller liknande arrangemang.
+
+**Preliminär tidsplan för Företrädesemissionen**
+
+	
+		
+			**Preliminär tidsplan för Företrädesemissionen**
+			**Datum**
+		
+		
+			Extra bolagsstämma för beslut om godkännande av Företrädesemissionen
+			30 april 2026
+		
+		
+			Sista dag för handel i aktien inklusive rätt att erhålla teckningsrätter
+			6 maj 2026
+		
+		
+			Första dag för handel i aktien exklusive rätt att erhålla teckningsrätter    
+			7 maj 2026
+		
+		
+			Avstämningsdag för rätten att erhålla teckningsrätter                                                                 
+			8 maj 2026
+		
+		
+			Publicering av informationsdokument                                                                                                                              
+			11 maj 2026
+		
+		
+			Handel med teckningsrätter                                                                                                                                                 
+			11 – 20 maj 2026
+		
+		
+			Teckningsperiod                                                                                                                                                                                                     
+			11 – 25 maj 2026
+		
+		
+			Handel med BTA (Betald Tecknad Aktie)                                                                                            
+			11 maj – 12 juni 2026
+		
+		
+			Offentliggörande av utfallet i Företrädesemissionen                                                                     
+			Omkring 26 maj 2026
+		
+	
+
+**Rådgivare**
+
+Partner Fondkommission AB agerar finansiell rådgivare och emissionsinstitut och Advokatfirman Vinge är legal rådgivare i samband med Företrädesemissionen.
+
+**För mer information, vänligen kontakta:**
+
+Jonas Rigner, tf VD och koncernchef, 031-746 83 00, eller;
+
+Tobias Martinsson, CFO, 031-746 83 00
+
+Denna information är sådan som Transtema Group AB (publ) är skyldigt att offentliggöra enligt EU:s marknadsmissbruksförordning. Informationen lämnades, genom ovanstående kontaktpersonerns försorg, för offentliggörande den 27 mars 2026 kl 18:25 CET.
+
+**Om Transtema**
+
+Transtema är ett av Nordens ledande företag inom kommunikationsinfrastruktur med fokus på installation, service, drift och övervakning samt tillhörande tekniska tjänster. Transtema verkar i hela värdekedjan och bland kunderna återfinns teleoperatörer, energibolag, stadsnät, större företag och offentlig verksamhet. Transtemas uppdrag är att säkerställa hög tillgänglighet, kvalitet och driftsäkerhet i ett alltmer digitaliserat och uppkopplat samhälle. Företaget grundades 1997 och är verksamma i Norden.
+
+Nettoomsättning i Transtema Group AB (publ) år 2025 var 2 600 miljoner kronor (2 489). Antal anställda i koncernen är cirka 1 300. Transtema Group AB (publ) är listat på Nasdaq Stockholm med ticker TRANS.
+
+**Viktig information**
+
+Publicering, offentliggörande eller distribution av detta pressmeddelande kan i vissa jurisdiktioner vara föremål för restriktioner enligt lag och personer i de jurisdiktionerna där detta pressmeddelande har offentliggjorts eller distribueras bör informera sig om och följa sådana legala restriktioner. Mottagaren av detta pressmeddelande ansvarar för att använda detta pressmeddelande och informationen häri i enlighet med tillämpliga regler i respektive jurisdiktion. Detta pressmeddelande utgör inte ett erbjudande om, eller inbjudan att, förvärva eller teckna några värdepapper i Transtema i någon jurisdiktion, varken från Transtema eller från någon annan.
+
+Detta pressmeddelande är inte ett prospekt enligt definitionen i Prospektförordningen och har inte godkänts av någon tillsynsmyndighet i någon jurisdiktion. Ett informationsdokument som upprättats i enlighet med artikel 1.4 db och bilaga IX i Prospektförordningen avseende den Företrädesemission som beskrivs i detta pressmeddelande kommer att upprättas och offentliggöras av Bolaget vid teckningsperiodens början.
+
+Detta pressmeddelande utgör inte ett erbjudande eller en uppmaning att köpa eller teckna värdepapper i USA. De värdepapper som nämns här får inte säljas i USA utan registrering eller undantag från registrering enligt den amerikanska Securities Act från 1933 (”**Securities Act**”) och får inte erbjudas eller säljas i USA utan att vara registrerade, omfattas av ett undantag från eller ingå i en transaktion som inte omfattas av registreringskraven enligt Securities Act. Det finns ingen avsikt att registrera några av de värdepapper som nämns här i USA eller att genomföra en offentlig emission av sådana värdepapper i USA. Informationen i detta pressmeddelande får inte offentliggöras, publiceras, kopieras, reproduceras eller distribueras, direkt eller indirekt, helt eller delvis, i eller till Australien, Hongkong, Israel, Japan, Kanada, Nya Zeeland, Schweiz, Singapore, Sydafrika, Sydkorea, USA eller någon annan jurisdiktion där offentliggörande, publicering eller distribution av denna information skulle strida mot gällande regler eller där en sådan åtgärd är föremål för rättsliga restriktioner eller skulle kräva ytterligare registrering eller andra åtgärder utöver vad som följer av svensk lag. Åtgärder som strider mot denna instruktion kan utgöra ett brott mot tillämplig värdepapperslagstiftning.
+
+**Framåtblickande uttalanden**
+
+Detta pressmeddelande innehåller framåtblickande uttalanden om Bolagets avsikter, uppskattningar eller förväntningar avseende Bolagets framtida resultat, finansiella ställning, likviditet, utveckling, utsikter, beräknad tillväxt, strategier och möjligheter samt de marknader där Bolaget är verksamt. Framåtblickande uttalanden är uttalanden som inte avser historiska fakta och kan identifieras genom användning av termer som ”tror”, ”förväntar”, ”förutser”, ”avser”, ”uppskattar”, ”kommer”, ”kan”, ”implicerar”, ’bör’, ”skulle kunna” och, i varje fall, deras negativa eller jämförbara terminologi. De framåtblickande uttalandena i detta pressmeddelande baseras på olika antaganden, som i flera fall bygger på ytterligare antaganden. Även om Bolaget anser att de antaganden som återspeglas i dessa framåtblickande uttalanden är rimliga, finns det ingen garanti för att de kommer att inträffa eller att de är korrekta. Eftersom dessa antaganden baseras på antaganden eller uppskattningar och innefattar risker och osäkerhetsfaktorer, kan de faktiska resultaten eller utfallen, av många olika skäl, avvika väsentligt från vad som anges i de framåtblickande uttalandena. På grund av sådana risker, osäkerhetsfaktorer, oförutsedda händelser och andra väsentliga faktorer kan faktiska händelser avvika väsentligt från de förväntningar som uttryckligen eller implicit framgår av detta pressmeddelande genom de framåtblickande uttalandena. Bolaget garanterar inte att de antaganden som ligger till grund för de framåtblickande uttalandena i detta pressmeddelande är korrekta, och varje läsare av pressmeddelandet bör inte förlita sig på de framåtblickande uttalandena i detta pressmeddelande. Den information, de åsikter och de framåtblickande uttalanden som uttryckligen eller implicit anges här lämnas endast per dagen för detta pressmeddelande och kan komma att ändras. Varken Bolaget eller någon annan part kommer att granska, uppdatera, bekräfta eller offentliggöra någon revidering av något framåtblickande uttalande för att återspegla händelser som inträffar eller omständigheter som uppstår med avseende på innehållet i detta pressmeddelande, utöver vad som krävs enligt lag eller Nasdaq Stockholms regelverk.
+
+Potentiella investerare bör inte fästa alltför stor tilltro till de framåtblickande uttalandena i detta dokument, och potentiella investerare rekommenderas starkt att läsa de avsnitt i informationsdokumentet som innehåller en mer detaljerad beskrivning av de faktorer som kan påverka Bolagets verksamhet och dess marknad.
