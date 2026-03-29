@@ -395,6 +395,10 @@ ul.task-list li input[type="checkbox"] {{
 <span class="menu-text">Feed</span></a>
   </li>
   <li class="nav-item">
+    <a class="nav-link" href="agm.html">
+<span class="menu-text">AGM</span></a>
+  </li>
+  <li class="nav-item">
     <a class="nav-link" href="about.html">
 <span class="menu-text">Om Aktiecase.com</span></a>
   </li>

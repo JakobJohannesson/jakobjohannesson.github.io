@@ -1,0 +1,1547 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<title>AGM – Aktiecase.com</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+</style>
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<link href="image/kaka.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-4adc78a17a60de5a17a6a54b05501aa1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="fonts/fonts_styles.css">
+
+<style>
+  .agm-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .agm-header {
+    margin-bottom: 30px;
+  }
+  .agm-header h1 {
+    font-family: 'Century Gothic bold', sans-serif;
+    font-size: 48px;
+    margin-bottom: 10px;
+  }
+  .agm-header-description {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  .agm-legend {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 25px;
+    flex-wrap: wrap;
+    font-family: 'Arial', sans-serif;
+    font-size: 14px;
+  }
+  .agm-legend-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .agm-company {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 14px;
+    cursor: pointer;
+    transition: box-shadow 0.2s, border-color 0.2s;
+    background: #fff;
+  }
+  .agm-company:hover {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    border-color: #ccc;
+  }
+  .agm-company.expanded {
+    border-color: #999;
+  }
+  .agm-company-title {
+    font-family: 'Century Gothic bold', sans-serif;
+    font-size: 24px;
+    margin: 6px 0 4px 0;
+    color: #282828;
+  }
+  .agm-company-subtitle {
+    font-family: 'Arial', sans-serif;
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 8px;
+  }
+  .agm-summary {
+    display: flex;
+    gap: 12px;
+    font-family: 'Arial', sans-serif;
+    font-size: 13px;
+  }
+  .agm-summary-ok {
+    color: #16a34a;
+    font-weight: bold;
+  }
+  .agm-summary-warning {
+    color: #d97706;
+    font-weight: bold;
+  }
+  .agm-summary-info {
+    color: #2563eb;
+    font-weight: bold;
+  }
+  .agm-body {
+    margin-top: 16px;
+    padding-top: 16px;
+    border-top: 1px solid #e8e8e8;
+  }
+  .agm-agenda-item {
+    padding: 12px 0;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  .agm-agenda-item:last-child {
+    border-bottom: none;
+  }
+  .agm-agenda-title {
+    font-family: 'Century Gothic bold', sans-serif;
+    font-size: 17px;
+    color: #282828;
+    margin-bottom: 8px;
+  }
+  .agm-assessment {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin: 6px 0;
+    padding: 8px 12px;
+    border-radius: 6px;
+    background: #f9f9f9;
+  }
+  .agm-status {
+    font-family: 'Arial', sans-serif !important;
+    font-size: 11px !important;
+    font-weight: bold;
+    padding: 2px 8px;
+    border-radius: 4px;
+    white-space: nowrap;
+    color: #fff !important;
+    flex-shrink: 0;
+  }
+  .agm-ok {
+    background: #16a34a;
+  }
+  .agm-warning {
+    background: #d97706;
+  }
+  .agm-info {
+    background: #2563eb;
+  }
+  .agm-neutral {
+    background: #9ca3af;
+  }
+  .agm-assessment-text {
+    flex: 1;
+  }
+  .agm-assessment-msg {
+    font-family: 'Arial', sans-serif;
+    font-size: 14px;
+    color: #282828;
+    line-height: 1.5;
+  }
+  .agm-assessment-ref {
+    font-family: 'Arial', sans-serif;
+    font-size: 12px;
+    color: #888;
+    margin-top: 2px;
+    font-style: italic;
+  }
+  .feed-badge {
+    font-family: 'Arial', sans-serif !important;
+    font-size: 11px !important;
+    font-weight: bold;
+    padding: 2px 8px;
+    border-radius: 4px;
+    text-transform: uppercase;
+    color: #fff !important;
+  }
+  .feed-badge-cision {
+    background: #2563eb;
+  }
+  .feed-badge-mfn {
+    background: #0e6655;
+  }
+  .feed-item-meta {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .feed-date {
+    font-family: 'Arial', sans-serif !important;
+    font-size: 13px !important;
+    color: #888 !important;
+  }
+  .feed-source-link {
+    font-family: 'Arial', sans-serif;
+    font-size: 13px;
+    color: #2563eb !important;
+    text-decoration: none;
+  }
+  .feed-source-link:hover {
+    text-decoration: underline;
+  }
+</style>
+
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="index.html">
+    <span class="navbar-title">Aktiecase.com</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="posts.html">
+<span class="menu-text">Bloggen</span></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="bokhyllan.html">
+<span class="menu-text">Bokhyllan</span></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="feed.html">
+<span class="menu-text">Feed</span></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link active" href="agm.html">
+<span class="menu-text">AGM</span></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="about.html">
+<span class="menu-text">Om Aktiecase.com</span></a>
+  </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="index.xml"> <i class="bi bi-rss" role="img">
+</i>
+<span class="menu-text"></span></a>
+  </li>
+</ul>
+          </div>
+            <div class="quarto-navbar-tools">
+</div>
+      </div>
+    </nav>
+</header>
+
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+</div>
+<main class="content" id="quarto-document-content">
+
+<div class="agm-container">
+  <div class="agm-header">
+    <h1>AGM Policy Assessment</h1>
+    <div class="agm-header-description">
+      Annual General Meeting notices assessed against
+      <strong>SEB Asset Management's Principles for Shareholder Engagement 2025</strong>.
+      Each agenda item is checked for alignment with the policy on board composition,
+      remuneration, incentive programmes, share issues, and governance practices.
+    </div>
+  </div>
+
+  <div class="agm-legend">
+    <div class="agm-legend-item"><span class="agm-status agm-ok">ALIGNED</span> Aligns with policy</div>
+    <div class="agm-legend-item"><span class="agm-status agm-warning">REVIEW</span> Needs review</div>
+    <div class="agm-legend-item"><span class="agm-status agm-info">INFO</span> Verify details</div>
+    <div class="agm-legend-item"><span class="agm-status agm-neutral">STANDARD</span> Standard item</div>
+  </div>
+
+  <div id="agm-items">
+    
+      <div class="agm-company" onclick="toggleAgm(this)">
+        <div class="agm-company-header">
+          <div class="feed-item-meta">
+            <span class="feed-badge feed-badge-mfn">MFN</span>
+            <span class="feed-date">2026-03-27 18:40</span>
+            <a href="https://mfn.se/cis/a/transtema-group/kallelse-till-extra-bolagstamma-i-transtema-group-ab-publ-b351c4f9" class="feed-source-link" target="_blank">Full notice</a>
+          </div>
+          <h3 class="agm-company-title">Transtema Group</h3>
+          <div class="agm-company-subtitle">Kallelse till extra bolagstämma i Transtema Group AB (publ)</div>
+          <div class="agm-summary"><span class="agm-summary-ok">0 aligned</span> <span class="agm-summary-warning">0 review</span> <span class="agm-summary-info">0 info</span></div>
+        </div>
+        <div class="agm-body" style="display:none;">
+          <div class="agm-agenda-list">
+            
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Extra bolagsstämmans öppnande.</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Val av ordförande vid extra bolagsstämman.</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Upprättande och godkännande av röstlängd.</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Godkännande av dagordning.</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Val av en eller två justeringspersoner.</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Prövning av om stämman blivit behörigen sammankallad.</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Beslut om antagande av ny bolagsordning.</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Beslut om att godkänna styrelsens beslut om företrädesemission.</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Stämmans avslutande.</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="agm-company" onclick="toggleAgm(this)">
+        <div class="agm-company-header">
+          <div class="feed-item-meta">
+            <span class="feed-badge feed-badge-cision">Cision</span>
+            <span class="feed-date">2026-03-27 17:40</span>
+            <a href="https://news.cision.com/se/transtema/r/kallelse-till-extra-bolagstamma-i-transtema-group-ab--publ-,c4328146" class="feed-source-link" target="_blank">Full notice</a>
+          </div>
+          <h3 class="agm-company-title">Transtema</h3>
+          <div class="agm-company-subtitle">Kallelse till extra bolagstämma i Transtema Group AB (publ)</div>
+          <div class="agm-summary"><span class="agm-summary-ok">0 aligned</span> <span class="agm-summary-warning">0 review</span> <span class="agm-summary-info">0 info</span></div>
+        </div>
+        <div class="agm-body" style="display:none;">
+          <div class="agm-agenda-list">
+            
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Extra bolagsstämmans öppnande.</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Val av ordförande vid extra bolagsstämman.</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Upprättande och godkännande av röstlängd.</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Godkännande av dagordning.</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Val av en eller två justeringspersoner.</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Prövning av om stämman blivit behörigen sammankallad.</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Beslut om antagande av ny bolagsordning.</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Beslut om att godkänna styrelsens beslut om företrädesemission.</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Stämmans avslutande.</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="agm-company" onclick="toggleAgm(this)">
+        <div class="agm-company-header">
+          <div class="feed-item-meta">
+            <span class="feed-badge feed-badge-mfn">MFN</span>
+            <span class="feed-date">2026-03-27 14:30</span>
+            <a href="https://mfn.se/a/hoist-finance/kallelse-till-arsstamma-i-hoist-finance-ab-publ" class="feed-source-link" target="_blank">Full notice</a>
+          </div>
+          <h3 class="agm-company-title">Hoist Finance</h3>
+          <div class="agm-company-subtitle">Kallelse till årsstämma i Hoist Finance AB (publ)</div>
+          <div class="agm-summary"><span class="agm-summary-ok">3 aligned</span> <span class="agm-summary-warning">1 review</span> <span class="agm-summary-info">7 info</span></div>
+        </div>
+        <div class="agm-body" style="display:none;">
+          <div class="agm-agenda-list">
+            
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">en, förhållanden som kan inverka på bedömningen av bolagets eller dotterbolags ekonomiska situation och bolagets förhållande till annat koncernbolag. De aktieägare som vill skicka in frågor i förväg kan göra det skriftligen via ovan nämnda kontaktvägar.
+
+**Förslag till dagordning**</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Stämmans öppnande</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Val av ordförande vid stämman</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Upprättande och godkännande av röstlängd</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Godkännande av dagordning</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Val av två justeringspersoner</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Prövning av om stämman behörigen sammankallats</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Framläggande av årsredovisning och revisionsberättelse samt koncernredovisning och koncernrevisionsberättelse avseende räkenskapsåret 1 januari</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">31 december 2025</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Verkställande direktörens redogörelse</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Styrelseordförandens redogörelse för styrelsearbetet 2025</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Fastställande av resultaträkning och balansräkning samt koncernresultaträkning och koncernbalansräkning</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Dispositioner beträffande bolagets resultat enligt den fastställda balansräkningen</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Dividend/profit distribution proposed. Verify equal treatment of share classes.</div>
+                    <div class="agm-assessment-ref">Policy: Equal treatment</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Beslut om ersättningsrapport</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-warning">REVIEW</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Executive remuneration guidelines proposed but no explicit sustainability link found. SEB policy requires meaningful sustainability targets.</div>
+                    <div class="agm-assessment-ref">Policy: Remuneration of senior executives and incentive programmes</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Beslut om ansvarsfrihet för styrelseledamöter och verkställande direktör</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">No deputy board members proposed.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">No explicit independence information found in proposal.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Discharge of liability proposed. Consider whether individual votes would be appropriate.</div>
+                    <div class="agm-assessment-ref">Policy: Equal treatment</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Bestämmande av antalet styrelseledamöter, fastställande av arvode åt styrelseledamöterna och åt revisor, val av styrelse och styrelseordförande samt av revisor</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">No deputy board members proposed.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">No explicit independence information found in proposal.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Proposal specifies board size without deputy members.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Board chair election proposed. Verify proposed chair is not current or former CEO.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Auditor election/re-election proposed. Verify open procurement and independence.</div>
+                    <div class="agm-assessment-ref">Policy: Audit and internal control</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Beslut om inrättande av Aktieinvesteringsprogram 2026 (anställda)</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Beslut om inrättande av Aktieinvesteringsprogram 2026 II (styrelse)</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Beslut om bemyndigande till styrelsen att fatta beslut om nyemission</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Beslut om bemyndigande till styrelsen att fatta beslut om förvärv av egna aktier</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Buyback authorization proposed. Verify buybacks target lowest-priced share type.</div>
+                    <div class="agm-assessment-ref">Policy: Capital structure</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Stämmans avslutande</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="agm-company" onclick="toggleAgm(this)">
+        <div class="agm-company-header">
+          <div class="feed-item-meta">
+            <span class="feed-badge feed-badge-mfn">MFN</span>
+            <span class="feed-date">2026-03-27 11:10</span>
+            <a href="https://mfn.se/a/volati/kallelse-till-arsstamma-i-volati-ab-publ-1" class="feed-source-link" target="_blank">Full notice</a>
+          </div>
+          <h3 class="agm-company-title">Volati AB</h3>
+          <div class="agm-company-subtitle">Kallelse till årsstämma i Volati AB (publ)</div>
+          <div class="agm-summary"><span class="agm-summary-ok">16 aligned</span> <span class="agm-summary-warning">4 review</span> <span class="agm-summary-info">18 info</span></div>
+        </div>
+        <div class="agm-body" style="display:none;">
+          <div class="agm-agenda-list">
+            
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 1: Val av ordförande vid stämman</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Board chair election proposed. Verify proposed chair is not current or former CEO.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 7 b): Beslut om dispositioner beträffande aktiebolagets vinst eller förlust enligt den fastställda balansräkningen och utdelning av Volatis samtliga aktier i dotterbolaget Salix Group</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Dividend/profit distribution proposed. Verify equal treatment of share classes.</div>
+                    <div class="agm-assessment-ref">Policy: Equal treatment</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 7 c): Ansvarsfrihet åt styrelseledamöter och verkställande direktör</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">No deputy board members proposed.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">No explicit independence information found in proposal.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Auditor election/re-election proposed. Verify open procurement and independence.</div>
+                    <div class="agm-assessment-ref">Policy: Audit and internal control</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Individual discharge votes for each board member. Good governance practice.</div>
+                    <div class="agm-assessment-ref">Policy: Equal treatment</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 8: Fastställande av arvoden till styrelsen</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">No deputy board members proposed.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">No explicit independence information found in proposal.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Board elected until next AGM (max one year). Aligns with policy.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Board remuneration differentiates chair from other members. Aligns with policy.</div>
+                    <div class="agm-assessment-ref">Policy: Remuneration of Board members</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Nomination committee procedure proposed. Verify chair of board is not a member.</div>
+                    <div class="agm-assessment-ref">Policy: Nomination Committee</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 9: Fastställande av arvode till revisorn</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Auditor election/re-election proposed. Verify open procurement and independence.</div>
+                    <div class="agm-assessment-ref">Policy: Audit and internal control</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Nomination committee procedure proposed. Verify chair of board is not a member.</div>
+                    <div class="agm-assessment-ref">Policy: Nomination Committee</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 10: Fastställande av antalet styrelseledamöter</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-warning">REVIEW</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Proposal includes deputy board members. SEB policy recommends against this.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">No explicit independence information found in proposal.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Board elected until next AGM (max one year). Aligns with policy.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Proposal specifies board size without deputy members.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Nomination committee procedure proposed. Verify chair of board is not a member.</div>
+                    <div class="agm-assessment-ref">Policy: Nomination Committee</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 11: Val till styrelsen samt styrelseordförande</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">No deputy board members proposed.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Independence is mentioned but specific numbers could not be extracted.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Board elected until next AGM (max one year). Aligns with policy.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Board chair election proposed. Verify proposed chair is not current or former CEO.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Nomination committee procedure proposed. Verify chair of board is not a member.</div>
+                    <div class="agm-assessment-ref">Policy: Nomination Committee</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 12: Val av revisor</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Auditor election/re-election proposed. Verify open procurement and independence.</div>
+                    <div class="agm-assessment-ref">Policy: Audit and internal control</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Nomination committee procedure proposed. Verify chair of board is not a member.</div>
+                    <div class="agm-assessment-ref">Policy: Nomination Committee</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 13: Beslut om valberedning</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Nomination committee procedure proposed. Verify chair of board is not a member.</div>
+                    <div class="agm-assessment-ref">Policy: Nomination Committee</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 14: Beslut om riktlinjer för ersättning till ledande befattningshavare</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-warning">REVIEW</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Executive remuneration guidelines proposed but no explicit sustainability link found. SEB policy requires meaningful sustainability targets.</div>
+                    <div class="agm-assessment-ref">Policy: Remuneration of senior executives and incentive programmes</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-warning">REVIEW</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Incentive programme proposed without explicit sustainability link. SEB policy requires clear connection to sustainability goals.</div>
+                    <div class="agm-assessment-ref">Policy: Remuneration of senior executives and incentive programmes</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Verify programme has either own investment at market price or clear performance criteria.</div>
+                    <div class="agm-assessment-ref">Policy: Remuneration of senior executives and incentive programmes</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 16: Beslut om bemyndigande för styrelsen att fatta beslut om förvärv av egna stamaktier och preferensaktier</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Authorization limited until next AGM. Aligns with policy.</div>
+                    <div class="agm-assessment-ref">Policy: New issues of shares</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Buyback authorization proposed. Verify buybacks target lowest-priced share type.</div>
+                    <div class="agm-assessment-ref">Policy: Capital structure</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 17: Beslut om bemyndigande för styrelsen att fatta beslut om överlåtelse av egna preferensaktier</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Directed issue proposed with stated justification. Policy requires specific motivation.</div>
+                    <div class="agm-assessment-ref">Policy: New issues of shares</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Authorization limited until next AGM. Aligns with policy.</div>
+                    <div class="agm-assessment-ref">Policy: New issues of shares</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 18: Beslut om bemyndigande för styrelsen att fatta beslut om nyemission av preferensaktier</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Directed issue proposed with stated justification. Policy requires specific motivation.</div>
+                    <div class="agm-assessment-ref">Policy: New issues of shares</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Authorization limited until next AGM. Aligns with policy.</div>
+                    <div class="agm-assessment-ref">Policy: New issues of shares</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 19: Beslut om teckningsoptionsprogram i Volati AB genom en riktad emission av teckningsoptioner med efterföljande överlåtelse till deltagarna</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-warning">REVIEW</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Incentive programme proposed without explicit sustainability link. SEB policy requires clear connection to sustainability goals.</div>
+                    <div class="agm-assessment-ref">Policy: Remuneration of senior executives and incentive programmes</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Participants acquire at market value (own investment element).</div>
+                    <div class="agm-assessment-ref">Policy: Remuneration of senior executives and incentive programmes</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Programme has long-term horizon (3+ years). Aligns with policy.</div>
+                    <div class="agm-assessment-ref">Policy: Remuneration of senior executives and incentive programmes</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="agm-company" onclick="toggleAgm(this)">
+        <div class="agm-company-header">
+          <div class="feed-item-meta">
+            <span class="feed-badge feed-badge-mfn">MFN</span>
+            <span class="feed-date">2026-03-27 11:00</span>
+            <a href="https://mfn.se/cis/a/besqab-2/besqab-ab-kallelse-till-arsstamma-i-besqab-ab-publ-409f0ea7" class="feed-source-link" target="_blank">Full notice</a>
+          </div>
+          <h3 class="agm-company-title">Besqab</h3>
+          <div class="agm-company-subtitle">Besqab AB: KALLELSE TILL ÅRSSTÄMMA I BESQAB AB (PUBL)</div>
+          <div class="agm-summary"><span class="agm-summary-ok">9 aligned</span> <span class="agm-summary-warning">3 review</span> <span class="agm-summary-info">11 info</span></div>
+        </div>
+        <div class="agm-body" style="display:none;">
+          <div class="agm-agenda-list">
+            
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 2: Val av ordförande vid stämman</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-neutral">STANDARD</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Standard procedural item. No specific policy concerns.</div>
+                    <div class="agm-assessment-ref">Policy: General Meetings</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 9: Fastställande av antal styrelseledamöter och revisorer</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">No deputy board members proposed.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">No explicit independence information found in proposal.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Proposal specifies board size without deputy members.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Auditor election/re-election proposed. Verify open procurement and independence.</div>
+                    <div class="agm-assessment-ref">Policy: Audit and internal control</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 10: Fastställande av styrelse- och revisorsarvoden</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Board chair election proposed. Verify proposed chair is not current or former CEO.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Board remuneration differentiates chair from other members. Aligns with policy.</div>
+                    <div class="agm-assessment-ref">Policy: Remuneration of Board members</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Auditor election/re-election proposed. Verify open procurement and independence.</div>
+                    <div class="agm-assessment-ref">Policy: Audit and internal control</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Nomination committee procedure proposed. Verify chair of board is not a member.</div>
+                    <div class="agm-assessment-ref">Policy: Nomination Committee</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 11: Val av styrelse och revisor</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">No deputy board members proposed.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Independence is mentioned but specific numbers could not be extracted.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">CEO/VD is referenced in board context. Verify CEO is not proposed as board member.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Board chair election proposed. Verify proposed chair is not current or former CEO.</div>
+                    <div class="agm-assessment-ref">Policy: Composition and responsibility of the Board of Directors</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Auditor election/re-election proposed. Verify open procurement and independence.</div>
+                    <div class="agm-assessment-ref">Policy: Audit and internal control</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 12: Beslut om godkännande av ersättningsrapport</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-warning">REVIEW</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Executive remuneration guidelines proposed but no explicit sustainability link found. SEB policy requires meaningful sustainability targets.</div>
+                    <div class="agm-assessment-ref">Policy: Remuneration of senior executives and incentive programmes</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 13: Beslut om bemyndigande för styrelsen att emittera aktier, teckningsoptioner och/eller konvertibler</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-warning">REVIEW</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Incentive programme proposed without explicit sustainability link. SEB policy requires clear connection to sustainability goals.</div>
+                    <div class="agm-assessment-ref">Policy: Remuneration of senior executives and incentive programmes</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Participants acquire at market value (own investment element).</div>
+                    <div class="agm-assessment-ref">Policy: Remuneration of senior executives and incentive programmes</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Directed issue proposed with stated justification. Policy requires specific motivation.</div>
+                    <div class="agm-assessment-ref">Policy: New issues of shares</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Authorization limited until next AGM. Aligns with policy.</div>
+                    <div class="agm-assessment-ref">Policy: New issues of shares</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 14: Beslut om bemyndigande för styrelsen att besluta om återköp och överlåtelse av egna aktier</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Directed issue proposed with stated justification. Policy requires specific motivation.</div>
+                    <div class="agm-assessment-ref">Policy: New issues of shares</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Buyback authorization proposed. Verify buybacks target lowest-priced share type.</div>
+                    <div class="agm-assessment-ref">Policy: Capital structure</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="agm-agenda-item">
+              <div class="agm-agenda-title">Punkt 15: Beslut avseende införande av incitamentsprogram 2026/2029 för ledande befattningshavare och anställda inom koncernen genom nyemission av teckningsoptioner</div>
+              <div class="agm-assessments">
+                
+                <div class="agm-assessment">
+                  <span class="agm-status agm-warning">REVIEW</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Incentive programme proposed without explicit sustainability link. SEB policy requires clear connection to sustainability goals.</div>
+                    <div class="agm-assessment-ref">Policy: Remuneration of senior executives and incentive programmes</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-info">INFO</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Verify programme has either own investment at market price or clear performance criteria.</div>
+                    <div class="agm-assessment-ref">Policy: Remuneration of senior executives and incentive programmes</div>
+                  </div>
+                </div>
+                <div class="agm-assessment">
+                  <span class="agm-status agm-ok">ALIGNED</span>
+                  <div class="agm-assessment-text">
+                    <div class="agm-assessment-msg">Programme has long-term horizon (3+ years). Aligns with policy.</div>
+                    <div class="agm-assessment-ref">Policy: Remuneration of senior executives and incentive programmes</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+
+</main>
+</div>
+
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Copyright 2026, Jakob Johannesson - <a href="https://www.aktiecase.com">Main page</a></p>
+</div>
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/jakobjohannesson">
+      <i class="bi bi-github" role="img">
+</i>
+    </a>
+  </li>
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://x.com/aktiecase">
+      <i class="bi bi-twitter" role="img">
+</i>
+    </a>
+  </li>
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://bsky.app/profile/aktiecase.bsky.social">
+      <i class="bi bi-heart" role="img">
+</i>
+    </a>
+  </li>
+</ul>
+    </div>
+  </div>
+</footer>
+
+<script>
+function toggleAgm(el) {
+  var body = el.querySelector('.agm-body');
+  if (body.style.display === 'none') {
+    body.style.display = 'block';
+    el.classList.add('expanded');
+  } else {
+    body.style.display = 'none';
+    el.classList.remove('expanded');
+  }
+}
+</script>
+
+</body></html>
