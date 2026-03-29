@@ -1,4 +1,4 @@
-name: Fetch Cision RSS Feed
+name: Fetch Press Releases
 
 on:
   schedule:
@@ -12,7 +12,7 @@ env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
-  fetch-rss:
+  fetch-feeds:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -23,8 +23,11 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Fetch RSS feed
-        run: python scripts/fetch_rss.py
+      - name: Fetch Cision RSS feed
+        run: python scripts/cision_rss_reader.py
+
+      - name: Fetch MFN feed
+        run: python scripts/mfn_rss_reader.py
 
       - name: Commit and push if changed
         run: |
@@ -34,6 +37,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No new items found."
           else
-            git commit -m "Add new press releases from Cision RSS feed"
+            git commit -m "Add new press releases from feeds"
             git push
           fi

@@ -42,7 +42,7 @@ def slugify(text):
 
 
 def fetch_url(url):
-    req = Request(url, headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"})
+    req = Request(url, headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"})
     with urlopen(req, timeout=30, context=SSL_CTX) as resp:
         return resp.read()
 
@@ -184,7 +184,7 @@ def save_item(item, article):
     cision_id = extract_cision_id(item["link"])
     slug = slugify(item["title"])
     guid_hash = hashlib.md5(item["guid"].encode()).hexdigest()[:8]
-    filename = f"{slug}_{guid_hash}.md"
+    filename = f"cision_{slug}_{guid_hash}.md"
     filepath = os.path.join(FEED_DIR, filename)
 
     keywords_str = ", ".join(article["keywords"]) if article and article.get("keywords") else ""
