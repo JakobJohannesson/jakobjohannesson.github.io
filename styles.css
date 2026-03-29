@@ -1,0 +1,135 @@
+/* css styles */
+
+
+title {
+  font-family: 'Century Gothic bold';
+  color: #E6E6E6;
+  background-color: #808080;
+  font-size:64px;
+}
+
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Century Gothic bold';
+  
+}
+
+h1 {
+  font-family: 'Century Gothic bold';
+  font-size: 60px;
+}
+
+h2 {
+  font-family: 'Century Gothic bold';
+  font-size: 46px;
+}
+
+h3 {
+  font-family: 'Century Gothic bold';
+  font-size: 36px;
+}
+
+p,ul {
+  font-family: 'Arial';
+  font-size:20px;
+}
+
+ol,ul {
+  font-family: 'Arial';
+  font-size:18px;
+}
+
+.description {
+  font-family: 'Arial';
+  font-size:30px;
+}
+
+.irimage3 {
+  border-radius: 50%;
+  display: block;
+  width: 231px;
+  height: 231px;
+  object-fit: cover;
+  object-position: top center;
+  margin: 0 auto;
+  margin-bottom: 2px;
+}
+
+
+.irimage {
+  border-radius: 100%;
+  display: block;
+  max-width: 231px;
+  margin: 0 auto;
+  margin-bottom: 25px;
+}
+
+b,strong {
+  font-family: 'Arial bold';
+}
+
+div {
+  font-family: 'Arial';
+  font-size:16px;
+  color:#282828;
+}
+
+.math-display mjx-container {
+  font-size: 1.5em;
+  font-family: 'Arial';
+}
+
+
+span {
+  font-family: 'Century Gothic bold';
+  color: #E6E6E6;
+}
+
+
+
+
+
+a {
+  font-family: 'Arial';
+  color:#000000;
+}
+
+
+
+
+span#a {
+  font-family: 'Century Gothic bold';
+  color: #000000;
+}
+
+
+span.math-display {
+  font-family: 'Century Gothic', sans-serif;
+  font-weight: bold;
+}
+
+.irimage2 {
+  border-radius: 100%;
+  max-width: 100%;
+  margin: -0px 0px 0px -0px;
+}
+
+.about-link-text{
+  color: #000000;
+}
+
+.menu-text {
+  font-size: 28px;
+}
+
+.navbar-title {
+  font-size: 32px;
+}
+
+.citation {
+  color:#000000;
+}
+
+div.listing-description a.no-external {
+  font-size: 22px;
+}
