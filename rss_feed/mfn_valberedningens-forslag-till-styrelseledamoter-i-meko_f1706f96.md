@@ -5,6 +5,9 @@
 **MFN ID:** meko
 **Company:** MEKO AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/63ef6b3d-4f0d-45bf-987c-956506c9487e/valberedningens-forslag-till-styrelseledamoter-i-meko.pdf) → `pdfs/f1706f96_valberedningens-forslag-till-styrelseledamoter-i-meko.pdf`
+
 ---
 
 **MEKO:s valberedning föreslår omval av styrelseledamöterna Dominick Zarcone, Jörn Werner, Magnus Håkansson, Marie Björklund, Robert Reppa och Walter Hanley till årsstämman. Vidare föreslås att Camilla Monefeldt Kirstein och Louise Mortimer Undén väljs till nya styrelseledamöter. Förslaget, som innebär att styrelsen minskar från nio till åtta ledamöter, kommer att läggas fram på årsstämman den 7 maj 2026.**

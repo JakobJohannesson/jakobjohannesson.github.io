@@ -5,6 +5,9 @@
 **MFN ID:** wastbygg
 **Company:** Wästbygg Gruppen
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/74cc53cf-8f72-4c61-a4af-4377885771b9/wbgr-ar2025-final.pdf) → `pdfs/83e82a9d_wbgr-ar2025-final.pdf`
+
 ---
 
 **Wästbygg Gruppen AB (publ) offentliggör idag sin årsredovisning och hållbarhetsrapport för 2025 på wbgr.se.**

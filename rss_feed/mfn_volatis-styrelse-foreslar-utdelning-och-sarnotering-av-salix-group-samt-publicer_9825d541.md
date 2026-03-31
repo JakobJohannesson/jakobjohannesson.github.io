@@ -5,6 +5,10 @@
 **MFN ID:** volati
 **Company:** Volati AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/9c485838-f8f7-4976-9cb7-e46dbd354b52/volatis-styrelse-foreslar-utdelning-och-sarnotering-av-salix-group-samt-publicerar-informationsbroschyr-infor-arsstamman.pdf) → `pdfs/9825d541_volatis-styrelse-foreslar-utdelning-och-sarnotering-av-salix-group-samt-publicerar-informationsbroschyr-infor-arsstamman.pdf`
+- [PDF](https://storage.mfn.se/f2a8c667-4e74-4e94-aae4-9461ebf508ec/informationsbroschyr-sve.pdf) → `pdfs/9825d541_informationsbroschyr-sve.pdf`
+
 ---
 
 **Volatis styrelse har idag beslutat att föreslå att årsstämman den 29 april 2026 beslutar om utdelning av Volatis samtliga aktier i Salix Group till Volatis stamaktieägare. Utdelningen förväntas uppfylla kraven enligt Lex Asea, och om årsstämman beslutar i enlighet med styrelsens förslag är avsikten att notera Salix Groups aktier på Nasdaq Stockholm med planerad första handelsdag den 15 juni 2026.**

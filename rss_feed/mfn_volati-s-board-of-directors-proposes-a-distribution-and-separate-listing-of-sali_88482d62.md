@@ -5,6 +5,10 @@
 **MFN ID:** volati
 **Company:** Volati AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/e6f6ef96-3b42-4717-8cdc-458ffbfb726f/volatis-board-of-directors-proposes-a-distribution-and-separate-listing-of-salix-group-and-publishes-an-information-brochure-ahead-of-the-annual-general-meeting.pdf) → `pdfs/88482d62_volatis-board-of-directors-proposes-a-distribution-and-separate-listing-of-salix-group-and-publishes-an-information-brochure-ahead-of-the-annual-general-meeting.pdf`
+- [PDF](https://storage.mfn.se/8871a1e9-10b6-4af8-a4e1-1b7b36522367/informationsbroschyr-eng.pdf) → `pdfs/88482d62_informationsbroschyr-eng.pdf`
+
 ---
 
 **The Board of Directors of Volati has today resolved to propose that the Annual General Meeting to be held on 29 April 2026 distribute all Volati’s shares in Salix Group to the ordinary shareholders of Volati. The distribution is expected to meet the requirements under Lex Asea, and if the Annual General Meeting resolves in accordance with the Board’s proposal, the intention is to list Salix Group’s shares on Nasdaq Stockholm, with the planned first trading day on June 15, 2026.**

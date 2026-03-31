@@ -5,6 +5,9 @@
 **MFN ID:** wastbygg
 **Company:** Wästbygg Gruppen
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/e74faab6-8561-4362-8542-c9f7cb93a2dd/valberedningens-forslag-till-styrelse-i-wastbygg-gruppen-ab-publ.pdf) → `pdfs/aa36f51e_valberedningens-forslag-till-styrelse-i-wastbygg-gruppen-ab-publ.pdf`
+
 ---
 
 **Valberedningen i Wästbygg Gruppen AB (publ) föreslår att årsstämman 2026 beslutar att styrelsen ska bestå av fyra ordinarie ledamöter utan suppleanter, med omval av Jörgen Andersson, Lennart Ekelund och Jakob Mörndal. Andreas von Hedenberg och Amanda Tevell har avböjt omval. Valberedningen föreslår vidare nyval av Malin Löveborg. Jakob Mörndal föreslås som styrelsens ordförande.**

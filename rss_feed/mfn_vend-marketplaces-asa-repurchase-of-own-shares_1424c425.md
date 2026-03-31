@@ -5,6 +5,10 @@
 **MFN ID:** vend-marketplaces
 **Company:** Vend Marketplaces
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk3NDMmYXR0YWNobWVudElkPTMyMjU5MQ/download-announcement-as-pdf.pdf) → `pdfs/1424c425_download-announcement-as-pdf.pdf`
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk3NDMmYXR0YWNobWVudElkPTMyMjU5Mg/20260330-vend-trade-details.pdf) → `pdfs/1424c425_20260330-vend-trade-details.pdf`
+
 ---
 
 30.3.2026 10:32:55 CEST | Vend Marketplaces ASA | Acquisition or disposal of the

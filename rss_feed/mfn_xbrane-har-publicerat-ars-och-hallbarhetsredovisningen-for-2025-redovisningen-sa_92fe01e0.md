@@ -5,6 +5,9 @@
 **MFN ID:** xbrane-biopharma
 **Company:** Xbrane Biopharma
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/52a5f2b5-d75d-4136-ab74-810f1ffba32a/xbrane-ar-2025.pdf) → `pdfs/92fe01e0_xbrane-ar-2025.pdf`
+
 ---
 
 **” Utvecklingen av Xdivane™ fortsätter enligt plan och vi planerar för att Xdivane™ skall vara en av de första biosimilar produkterna som lanseras globalt på en gigantisk PD1 hämmarmarknad med ett projicerat värde på 400 miljarder kronor”, säger Anders Tullgren, styrelseordförande.**

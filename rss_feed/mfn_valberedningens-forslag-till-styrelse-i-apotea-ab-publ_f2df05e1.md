@@ -5,6 +5,9 @@
 **MFN ID:** apotea
 **Company:** Apotea
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/3fd1bbb1-19af-467f-b902-ef6709d5b7c7/valberedningens-forslag-till-styrelse-i-apotea-ab-publ.pdf) → `pdfs/f2df05e1_valberedningens-forslag-till-styrelse-i-apotea-ab-publ.pdf`
+
 ---
 
 **Inför årsstämman i Apotea AB (publ) (”Apotea”) den 26 maj 2026 offentliggör valberedningen härmed sitt förslag avseende styrelseordförande och övriga styrelseledamöter.**

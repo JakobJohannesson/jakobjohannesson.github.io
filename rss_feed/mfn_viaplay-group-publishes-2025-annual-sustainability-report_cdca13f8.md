@@ -5,6 +5,9 @@
 **MFN ID:** viaplay-group
 **Company:** Viaplay Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/b4761c7e-4a31-447c-8c95-f1f80418c194/viaplay-group-annual-and-sustainability-report-2025.pdf) → `pdfs/cdca13f8_viaplay-group-annual-and-sustainability-report-2025.pdf`
+
 ---
 
 **Viaplay Group has today published its 2025 Annual & Sustainability Report. The report summarises the Group's financial performance in 2025, along with its sustainability work.**

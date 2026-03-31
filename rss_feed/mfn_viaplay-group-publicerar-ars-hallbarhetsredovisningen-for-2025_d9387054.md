@@ -5,6 +5,9 @@
 **MFN ID:** viaplay-group
 **Company:** Viaplay Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c3a7be8d-ebea-4ba0-ac68-ca1aa010beb9/viaplay-group-ars-and-hallbarhetsredovisning-2025.pdf) → `pdfs/d9387054_viaplay-group-ars-and-hallbarhetsredovisning-2025.pdf`
+
 ---
 
 **Viaplay Group har idag publicerat sin Års- & hållbarhetsredovisning för 2025. Rapporten sammanfattar Koncernens finansiella resultat för 2025, samt dess hållbarhetsarbete.**

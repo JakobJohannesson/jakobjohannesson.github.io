@@ -5,6 +5,9 @@
 **MFN ID:** vitec-software-group
 **Company:** Vitec Software Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/300e9466-d72d-4a1d-98ae-871eb096f17f/vitec-software-group-arsredovisning-2025.pdf) → `pdfs/eaef93fe_vitec-software-group-arsredovisning-2025.pdf`
+
 ---
 
 **Vitec Software Group AB (publ) today publishes its Annual Report for 2025.**

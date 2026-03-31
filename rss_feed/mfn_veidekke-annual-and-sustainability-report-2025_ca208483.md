@@ -5,6 +5,9 @@
 **MFN ID:** veidekke
 **Company:** Veidekke
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk3OTQmYXR0YWNobWVudElkPTMyMjYzMA/annual_and_sustainability_report_2025.pdf) → `pdfs/ca208483_annual_and_sustainability_report_2025.pdf`
+
 ---
 
 Veidekke has published its annual and sustainability report for 2025 on the

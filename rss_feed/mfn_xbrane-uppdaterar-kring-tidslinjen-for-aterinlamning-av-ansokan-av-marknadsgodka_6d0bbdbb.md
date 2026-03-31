@@ -5,6 +5,9 @@
 **MFN ID:** xbrane-biopharma
 **Company:** Xbrane Biopharma
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/dacc6421-1539-480d-aaae-dd19b1d5b830/xbrane-uppdaterar-kring-tidslinjen-for-aterinlamning-av-ansokan-av-marknadsgodkannande-i-usa.pdf) → `pdfs/6d0bbdbb_xbrane-uppdaterar-kring-tidslinjen-for-aterinlamning-av-ansokan-av-marknadsgodkannande-i-usa.pdf`
+
 ---
 
 **Xbrane Biopharma AB (publ) meddelar idag att bolaget avser att återinsända sin Biologics License Application (BLA) för ranibizumab‑biosimilaren till den amerikanska läkemedelsmyndigheten FDA under april/ maj 2026.**

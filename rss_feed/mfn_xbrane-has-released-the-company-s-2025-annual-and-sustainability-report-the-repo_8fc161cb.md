@@ -5,6 +5,9 @@
 **MFN ID:** xbrane-biopharma
 **Company:** Xbrane Biopharma
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/85615475-b24f-408e-bbab-ab1f3adcffd3/xbrane-ar-2025-eng.pdf) → `pdfs/8fc161cb_xbrane-ar-2025-eng.pdf`
+
 ---
 
 **” 2025 was a transformative year for Xbrane as we implemented a new strategic direction. Our strategy now focuses on two biosimilar candidates, Ximluci® and Xdivane™, enabling us to reduce our cost base while maximizing shareholder value. The divestment of our Cimzia™ biosimilar project, together with parts of our organization, to Alvotech strengthened our balance sheet and significantly lowered our operating costs”, says Anders Tullgren, Chairman of the Board.**
