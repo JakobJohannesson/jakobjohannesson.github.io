@@ -6,6 +6,10 @@
 **Cision ID:** stonebeach-group-ab--publ-
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/20433/4328710/4015296.pdf) → `pdfs/7c2b1257_4015296.pdf`
+- [PDF](https://mb.cision.com/Public/20433/4328710/a9e60314cb695322.pdf) → `pdfs/7c2b1257_a9e60314cb695322.pdf`
+
 ---
 
 **StoneBeach Group har idag publicerat sin årsredovisning för 2025. Under året genomförde bolaget ett strategiskt skifte och gick in i 2026 med en tydligare position, en mer mogen teknisk plattform och en stabil finansiell grund.**

@@ -6,6 +6,9 @@
 **Cision ID:** ahlsell-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/13374/4328458/4013729.pdf) → `pdfs/80e0328a_4013729.pdf`
+
 ---
 
 **Ahlsell Sverige AB har tecknat avtal om att förvärva samtliga aktier i NUAB Fallskydd AB samt Cadero AB, och stärker därmed sitt erbjudande inom fallskydd och tillhörande säkerhetslösningar. Bolagen omsätter cirka 35 MSEK och har i dag 11 anställda.**

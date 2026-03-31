@@ -5,6 +5,9 @@
 **MFN ID:** hemnet-group
 **Company:** Hemnet Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/b1a6589e-08a9-4ce8-afd0-4ef4856d3d29/buybacks-weekly-summary-sv-23-march-27-march.pdf) → `pdfs/f6deed42_buybacks-weekly-summary-sv-23-march-27-march.pdf`
+
 ---
 
 **Hemnet Group AB (publ) (LEI-kod: 5493008VIU67J3HUAR07) ("Hemnet") har under den 23 till den 27 mars 2026 återköpt sammanlagt 143 050 egna stamaktier (ISIN-kod: SE0015671995) inom ramen för det återköpsprogram som initierats av Hemnets styrelse i syfte att justera Hemnets kapitalstruktur.**

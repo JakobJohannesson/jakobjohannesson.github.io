@@ -5,6 +5,9 @@
 **MFN ID:** lifco
 **Company:** Lifco AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/85790d2c-28d2-4a1d-b796-4b4487c468e2/ars-och-hallbarhetsredovisning-2025.pdf) → `pdfs/adc73d9c_ars-och-hallbarhetsredovisning-2025.pdf`
+
 ---
 
 **[Lifcos](https://www.lifco.se/)**** års- och hållbarhetsredovisning 2025 finns från och med idag tillgänglig på ****[lifco.se](https://lifco.se/investerare/finansiella-rapporter/)****.**

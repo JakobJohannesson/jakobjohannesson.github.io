@@ -6,6 +6,9 @@
 **Cision ID:** igrene
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Public/11631/4328955/b16b947b55cc7c3d.pdf) → `pdfs/44b1067b_b16b947b55cc7c3d.pdf`
+
 ---
 
 **Halvårsrapporten har enligt årsplanen för ekonomisk rapportering tänkts publiceras den 23 april 2026. Mot bakgrund av den nyemission, som bolaget nu beslutat om med teckningsperiod 13 – 27 april, kommer Halvårsrapporten att publiceras redan den 8 april 2026.**

@@ -5,6 +5,9 @@
 **MFN ID:** castellum
 **Company:** Castellum
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/bdbedb1a-d035-44f3-82ae-e7eb162bf884/castellum-arsredovisning-2025.pdf) → `pdfs/680375f1_castellum-arsredovisning-2025.pdf`
+
 ---
 
 **Castellums årsredovisning för 2025, som också omfattar hållbarhetsredovisning, har publicerats och finns tillgänglig i PDF-format på bolagets webbplats.**

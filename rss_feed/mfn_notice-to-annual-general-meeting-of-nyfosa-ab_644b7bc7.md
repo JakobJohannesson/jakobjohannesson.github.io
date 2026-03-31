@@ -5,6 +5,9 @@
 **MFN ID:** nyfosa
 **Company:** Nyfosa
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/b62e4612-6f33-44e0-9d7e-2c474a992d5f/press-release.pdf) → `pdfs/644b7bc7_press-release.pdf`
+
 ---
 
 The Annual General Meeting of Nyfosa AB will be held on Tuesday May 5, 2026 at 3.00 p.m. CEST at Fotografiska, Stadsgårdshamnen 22, in Stockholm, Sweden. Registration begins at 2.15 p.m. CEST.

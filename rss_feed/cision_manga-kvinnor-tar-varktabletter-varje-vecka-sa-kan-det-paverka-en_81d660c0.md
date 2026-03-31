@@ -6,6 +6,9 @@
 **Cision ID:** apotek-hjartat
 **Keywords:** apotek, apotek hjärtat, värktabletter, smärtstillande
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/4607/4328550/4014096.pdf) → `pdfs/81d660c0_4014096.pdf`
+
 ---
 
 *Var femte kvinna tar receptfria värktabletter mot smärta varje vecka. För hälften av dessa uppgår konsumtionen till flera gånger i veckan. Detta enligt en ny undersökning av Verian, gjord på uppdrag av Apotek Hjärtat. I den framkommer det också att vissa kvinnor har använt receptfria värktabletter i syfte att förebygga huvudvärk, må allmänt bättre fysiskt och få en sömngivande effekt. *

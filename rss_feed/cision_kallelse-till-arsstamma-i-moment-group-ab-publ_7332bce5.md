@@ -6,6 +6,9 @@
 **Cision ID:** moment-group-ab
 **Keywords:** årsstämma, Moment Group
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/243/4328499/4017750.pdf) → `pdfs/7332bce5_4017750.pdf`
+
 ---
 
 **Aktieägarna i MOMENT GROUP AB (publ), org.nr 556301-2730, (”Moment Group” eller ”Bolaget”) kallas härmed till årsstämma onsdagen den 6 maj 2026, klockan 12.00 på Moment Groups kontor i Kungsportshuset, Trädgårdsgatan 2, 411 08 Göteborg. VD/Koncernchef Martin du Hane kommer att i korthet presentera utfallet för 2025 och lättare förfriskningar kommer att serveras.**

@@ -5,6 +5,10 @@
 **MFN ID:** cloudberry-clean-energy
 **Company:** Cloudberry Clean Energy
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk2OTImYXR0YWNobWVudElkPTMyMjU0Nw/cloudberry_clean_energy_asa_notice_of_agm.pdf) → `pdfs/2b1ab4be_cloudberry_clean_energy_asa_notice_of_agm.pdf`
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk2OTImYXR0YWNobWVudElkPTMyMjU0OA/260327_cloudberry_clean_energy_asa_notice_of_agm_press_release.pdf) → `pdfs/2b1ab4be_260327_cloudberry_clean_energy_asa_notice_of_agm_press_release.pdf`
+
 ---
 
 The Annual General Meeting ("AGM") of Cloudberry Clean Energy ASA ("Company")

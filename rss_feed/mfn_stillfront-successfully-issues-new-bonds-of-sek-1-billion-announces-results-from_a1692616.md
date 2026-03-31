@@ -5,6 +5,9 @@
 **MFN ID:** stillfront-group
 **Company:** Stillfront Group AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/225bde92-4bd0-414a-b785-17db9e73a31a/stillfront-successfully-issues-new-bonds-of-sek-1-billion-announces-results-from-the-tender-offer-and-gives-conditional-notice-of-early-redemption.pdf) → `pdfs/a1692616_stillfront-successfully-issues-new-bonds-of-sek-1-billion-announces-results-from-the-tender-offer-and-gives-conditional-notice-of-early-redemption.pdf`
+
 ---
 
 NOT FOR DISTRIBUTION IN OR INTO OR TO ANY PERSON LOCATED OR RESIDENT IN THE UNITED STATES, ITS TERRITORIES AND POSSESSIONS (INCLUDING PUERTO RICO, THE U.S. VIRGIN ISLANDS, GUAM, AMERICAN SAMOA, WAKE ISLAND AND THE NORTHERN MARIANA ISLANDS, ANY STATE OF THE UNITED STATES AND THE DISTRICT OF COLUMBIA) OR TO ANY U.S. PERSON (AS DEFINED IN REGULATION S OF THE UNITED STATES SECURITIES ACT OF 1933, AS AMENDED) OR IN ANY JURISDICTION WHERE IT IS UNLAWFUL TO RELEASE, PUBLISH OR DISTRIBUTE THIS DOCUMENT. THE DISTRIBUTION OF THIS DOCUMENT IN CERTAIN JURISDICTIONS (IN PARTICULAR, THE UNITED STATES AND THE UNITED KINGDOM) MAY BE RESTRICTED BY LAW

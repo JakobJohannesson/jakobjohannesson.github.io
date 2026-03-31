@@ -6,6 +6,9 @@
 **Cision ID:** dynavox-group
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/11919/4328515/4014047.pdf) → `pdfs/8c4d6144_4014047.pdf`
+
 ---
 
 **För ytterligare information, vänligen kontakta:**

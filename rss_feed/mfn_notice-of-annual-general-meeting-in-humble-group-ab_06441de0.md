@@ -5,6 +5,9 @@
 **MFN ID:** humble-group
 **Company:** Humble Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/42d7fcdc-ba5c-406f-9ebf-c7c2c322873e/notice-of-annual-general-meeting-in-humble-group-ab.pdf) → `pdfs/06441de0_notice-of-annual-general-meeting-in-humble-group-ab.pdf`
+
 ---
 
 **Humble Group AB, Reg. No. 556794-4797, holds its annual general meeting on Wednesday 6 May 2026 at 09:00 (CEST) at TM & Partners’ premises, Jakobs Torg 3, SE-111 52 Stockholm, Sweden. Entry and registration begin at 08:45 (CEST).**

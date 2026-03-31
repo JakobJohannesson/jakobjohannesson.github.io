@@ -6,6 +6,10 @@
 **Cision ID:** loomis-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/51/4328897/4016379.pdf) → `pdfs/fbcc8756_4016379.pdf`
+- [PDF](https://mb.cision.com/Public/51/4328897/96cc2c4037d44629.pdf) → `pdfs/fbcc8756_96cc2c4037d44629.pdf`
+
 ---
 
 Loomis publicerar Års- och hållsbarhetsredovisning för 2025

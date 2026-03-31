@@ -5,6 +5,9 @@
 **MFN ID:** eolus
 **Company:** Eolus
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c2a79cc6-30ec-4dda-9283-ee846a95bf59/eolus-ab-ars-och-hallbarhetsredovisning-2025.pdf) → `pdfs/aa983a8f_eolus-ab-ars-och-hallbarhetsredovisning-2025.pdf`
+
 ---
 
 Rapporten finns tillgänglig på bolagets webbplats [www.eolus.com/investerare/finansiella-rapporter](https://www.eolus.com/investerare/finansiella-rapporter/).

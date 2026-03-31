@@ -6,6 +6,9 @@
 **Cision ID:** enzymatica-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/18091/4329219/4016890.pdf) → `pdfs/0c8231f9_4016890.pdf`
+
 ---
 
 **Enzymatica AB (publ), org.nr 556719-9244, håller årsstämma den 7 maj 2026 kl. 14.30 på Elite Hotel Ideon, Scheelevägen 27, i Lund.**

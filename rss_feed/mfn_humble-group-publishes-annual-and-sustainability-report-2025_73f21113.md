@@ -5,6 +5,9 @@
 **MFN ID:** humble-group
 **Company:** Humble Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/32100a2e-eb60-4f6f-8dee-d9fd6762b238/annual-and-sustainability-report-2025-humble-group.pdf) → `pdfs/73f21113_annual-and-sustainability-report-2025-humble-group.pdf`
+
 ---
 
 Humble Groups Annual and Sustainability Report for 2025 have today been published in European Single Electronic Format (ESEF) and is available on the Groups website [www.humblegroup.com](http://www.humblegroup.com).

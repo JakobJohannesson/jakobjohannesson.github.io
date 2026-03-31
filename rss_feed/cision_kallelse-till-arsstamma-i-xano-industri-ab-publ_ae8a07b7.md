@@ -6,6 +6,9 @@
 **Cision ID:** xano
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/48/4329386/4017717.pdf) → `pdfs/ae8a07b7_4017717.pdf`
+
 ---
 
 ***LTIP 2026 i sammandrag ***

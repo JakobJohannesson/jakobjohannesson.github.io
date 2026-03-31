@@ -6,6 +6,9 @@
 **Cision ID:** holmen
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/308/4328622/4014394.pdf) → `pdfs/77072d2d_4014394.pdf`
+
 ---
 
 Vid årsstämman i Holmen fastställdes utdelningen till 9,50 kronor per aktie. 

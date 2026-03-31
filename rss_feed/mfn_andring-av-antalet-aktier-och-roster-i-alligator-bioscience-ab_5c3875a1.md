@@ -5,6 +5,9 @@
 **MFN ID:** alligator-bioscience
 **Company:** Alligator Bioscience
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/b0a3453f-226c-4af1-a71a-cba92b8cfd90/andring-av-antalet-aktier-och-roster-i-alligator-bioscience-ab.pdf) → `pdfs/5c3875a1_andring-av-antalet-aktier-och-roster-i-alligator-bioscience-ab.pdf`
+
 ---
 
 **Under mars 2026 har antalet aktier och röster i Alligator Bioscience AB (”Alligator Bioscience”) ökat till följd av utnyttjandet av teckningsoptioner serie TO 14 som gavs ut i samband med den företrädesemission av units som genomfördes under oktober – december 2025.**

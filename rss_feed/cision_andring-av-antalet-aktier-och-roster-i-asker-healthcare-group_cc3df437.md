@@ -6,6 +6,9 @@
 **Cision ID:** asker-healthcare-group-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/23418/4329081/4016033.pdf) → `pdfs/cc3df437_4016033.pdf`
+
 ---
 
 Per 31 mars 2026 uppgår antalet aktier i Asker Healthcare Group AB (publ) (“**Asker**”) till 383 706 497 aktier. Samtliga aktier är stamaktier. Det totala antalet röster i Asker uppgår till 383 706 497 röster. 

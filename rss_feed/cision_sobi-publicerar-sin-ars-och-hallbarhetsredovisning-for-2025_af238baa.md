@@ -6,6 +6,9 @@
 **Cision ID:** swedish-orphan-biovitrum-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/14266/4327175/4008714.pdf) → `pdfs/af238baa_4008714.pdf`
+
 ---
 
 **Swedish Orphan Biovitrum AB (publ) (Sobi®) publicerade idag sin års- och hållbarhetsredovisning för 2025, som beskriver bolagets framsteg med att förverkliga potentialen i banbrytande innovationer och behandlingar för personer som lever med sällsynta sjukdomar.**

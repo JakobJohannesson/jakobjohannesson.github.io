@@ -6,6 +6,9 @@
 **Cision ID:** swedish-orphan-biovitrum-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/14266/4328016/4012218.pdf) → `pdfs/465a89b6_4012218.pdf`
+
 ---
 
 **Swedish Orphan Biovitrum AB (publ)**

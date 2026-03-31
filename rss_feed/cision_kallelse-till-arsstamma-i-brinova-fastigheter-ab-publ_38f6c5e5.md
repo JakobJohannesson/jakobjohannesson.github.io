@@ -6,6 +6,9 @@
 **Cision ID:** brinova-fastigheter
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/14508/4327940/4011939.pdf) → `pdfs/38f6c5e5_4011939.pdf`
+
 ---
 
 Aktieägarna i Brinova Fastigheter AB (publ), org.nr 556840–3918, (”Bolaget”) kallas härmed till årsstämma den 7 maj 2026 kl. 15.00 på Hotell Mollberg, Stortorget 18 i Helsingborg. 

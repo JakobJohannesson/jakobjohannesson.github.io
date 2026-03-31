@@ -5,6 +5,9 @@
 **MFN ID:** eolus
 **Company:** Eolus
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/31566284-e4a7-4e26-bf29-2410424e0c73/uppdatering-gallande-eolus-kapitalallokering-2026.pdf) → `pdfs/84943941_uppdatering-gallande-eolus-kapitalallokering-2026.pdf`
+
 ---
 
 Eolus styrelse föreslår att ingen utdelning lämnas för verksamhetsåret 2025. Bakgrunden är att enligt villkoren för Eolus seniora säkerställda gröna obligationer 2025/2029 om högst 1,5 miljarder kronor med ISIN SE0024320774 (”Obligationsvillkoren”) förhindrar Eolus negativa resultat för verksamhetsåret 2025 att utdelning lämnas under 2026, oaktat bolagets goda finansiella ställning. Detsamma gäller möjligheten att genomföra återköp av egna aktier.

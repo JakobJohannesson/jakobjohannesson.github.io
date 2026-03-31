@@ -5,6 +5,9 @@
 **MFN ID:** kongsberg-gruppen
 **Company:** Kongsberg Gruppen
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk2MzUmYXR0YWNobWVudElkPTMyMjUwMA/2026-03-27-pdmr-transactions-kog.pdf) → `pdfs/a875c07a_2026-03-27-pdmr-transactions-kog.pdf`
+
 ---
 
 Kongsberg Gruppen ASA (KONGSBERG) has today transferred a total of 45 686 own

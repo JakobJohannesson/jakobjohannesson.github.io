@@ -6,6 +6,9 @@
 **Cision ID:** comviq
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/1358/4328340/4013411.pdf) → `pdfs/014a6fb3_4013411.pdf`
+
 ---
 
 Comviq lanserar ett nytt kommunikationskoncept med “jättebra” som ny övergripande tagline. Konceptet är framtaget tillsammans med Forsman & Bodenfors och syftar till att tydliggöra Comviqs position som ett enkelt och prisvärt alternativ på en allt mer komplex telekommarknad. Lanseringen inleds med en fiktiv presskonferens.

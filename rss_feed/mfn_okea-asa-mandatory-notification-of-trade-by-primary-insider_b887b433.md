@@ -5,6 +5,10 @@
 **MFN ID:** okea
 **Company:** OKEA
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk3MTMmYXR0YWNobWVudElkPTMyMjU3Mg/release.pdf) → `pdfs/b887b433_release.pdf`
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk3MTMmYXR0YWNobWVudElkPTMyMjU3Mw/krt_1500_skjema_for_melding_om_transaksjoner_26_mars_2026_no2.pdf) → `pdfs/b887b433_krt_1500_skjema_for_melding_om_transaksjoner_26_mars_2026_no2.pdf`
+
 ---
 
 Trondheim, 28 March 2026. OKEA ASA (ticker: "OKEA").

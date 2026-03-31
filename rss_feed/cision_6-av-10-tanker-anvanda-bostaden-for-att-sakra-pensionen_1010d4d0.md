@@ -6,6 +6,9 @@
 **Cision ID:** lansforsakringar
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Public/152/4328760/8d32953814151ab0.pdf) → `pdfs/1010d4d0_8d32953814151ab0.pdf`
+
 ---
 
 **Hela 57 procent av de som äger sin bostad betraktar den som en form av pensionssparande, det visar en undersökning från Verian som Länsförsäkringar låtit genomföra. – Att förlita sig på bostaden som pension är att lägga väldigt många ägg i samma korg. Samtidigt är bostaden en stor del av ens ekonomi och behöver vägas in i den privata balansräkningen, säger Stefan Westerberg, privatekonom på Länsförsäkringar. **

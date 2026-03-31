@@ -6,6 +6,9 @@
 **Cision ID:** electrolux-group
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/1853/4329570/4018137.pdf) → `pdfs/d6123317_4018137.pdf`
+
 ---
 
 **Electrolux Group har beslutat att stänga fabriken i Santiago, Chile i slutet av april 2026. En omstruktureringskostnad på cirka 0,5 miljarder kronor, varav cirka 0,2 miljarder kronor är kassaflödespåverkande, kommer att redovisas som en negativ engångspost som påverkar rörelseresultatet för Region Latinamerika under det första kvartalet 2026. **

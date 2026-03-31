@@ -5,6 +5,9 @@
 **MFN ID:** nekkar
 **Company:** Nekkar
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk3MzMmYXR0YWNobWVudElkPTMyMjU4Mw/nkr-buy-back-300326.pdf) → `pdfs/fca502fd_nkr-buy-back-300326.pdf`
+
 ---
 
 30.3.2026 09:15:01 CEST | Nekkar ASA | Acquisition or disposal of the issuer's

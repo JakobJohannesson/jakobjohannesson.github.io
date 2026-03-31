@@ -5,6 +5,9 @@
 **MFN ID:** norion-bank
 **Company:** Norion Bank
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/6351ea4f-e8f7-41c4-b0b4-117dd8bf5b8a/invitation-to-attend-the-annual-general-meeting-of-norion-bank-ab-publ.pdf) → `pdfs/2d5e6405_invitation-to-attend-the-annual-general-meeting-of-norion-bank-ab-publ.pdf`
+
 ---
 
 **Shareholders in Norion Bank AB (publ), Corp. ID no. 556597-0513, (”the Company” or ”Norion”) are hereby invited to attend the Annual General Meeting on Tuesday, 5 May 2026 at 3.00 p.m. at Norion’s premises at Lilla Bommens Torg 11 in Gothenburg, Sweden. Admittance to the Meeting will commence at 2.30 p.m. CET.**

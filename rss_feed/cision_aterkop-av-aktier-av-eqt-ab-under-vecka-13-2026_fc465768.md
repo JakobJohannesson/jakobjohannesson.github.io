@@ -6,6 +6,9 @@
 **Cision ID:** eqt
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/87/4328813/4015128.pdf) → `pdfs/fc465768_4015128.pdf`
+
 ---
 
 **EQT AB (LEI-kod 213800U7P9GOIRKCTB34) (“EQT”) har mellan den 23 mars 2026 och 27 mars 2026 återköpt 383 448 egna stamaktier (ISIN: SE0012853455). **

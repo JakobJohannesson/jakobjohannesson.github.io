@@ -5,6 +5,9 @@
 **MFN ID:** ctt-systems
 **Company:** CTT Systems AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c172800f-41d0-4039-9cd2-d7ce18ebe243/kallelse-till-arsstamma-2026-ctt-systems-ab-publ.pdf) → `pdfs/b3443b5a_kallelse-till-arsstamma-2026-ctt-systems-ab-publ.pdf`
+
 ---
 
 **Aktieägarna i CTT Systems AB (publ) (”CTT”), org. nr. 556430-7741, kallas härmed till årsstämma torsdagen den 7 maj 2026, kl. 17.00 i bolagets lokaler, Brukslagarvägen 5, Nyköping. Inregistrering till årsstämman börjar kl. 16.30.**

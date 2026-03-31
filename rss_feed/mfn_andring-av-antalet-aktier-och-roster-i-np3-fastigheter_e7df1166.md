@@ -5,6 +5,9 @@
 **MFN ID:** np3-fastigheter
 **Company:** NP3 Fastigheter
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/a/np3-fastigheter/84690355-763a-4542-abd7-b9226d2568c6/andring-av-antalet-aktier-och-roster-i-np3-fastigheter.pdf) → `pdfs/e7df1166_andring-av-antalet-aktier-och-roster-i-np3-fastigheter.pdf`
+
 ---
 
 **Enligt tidigare offentliggjord information har antalet aktier och röster i NP3 Fastigheter AB (publ) ökat.**

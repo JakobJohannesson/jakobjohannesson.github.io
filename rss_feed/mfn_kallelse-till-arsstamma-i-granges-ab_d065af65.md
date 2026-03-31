@@ -5,6 +5,9 @@
 **MFN ID:** granges
 **Company:** Gränges AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/afb7e34b-b1c3-432e-a81d-7a2321137354/kallelse-till-arsstamma-i-granges-ab.pdf) → `pdfs/d065af65_kallelse-till-arsstamma-i-granges-ab.pdf`
+
 ---
 
 **Gränges AB håller årsstämma tisdagen den 12 maj 2026 kl. 15.30 på GT30, Grev Turegatan 30, Stockholm. Registreringen börjar kl. 15.00.**

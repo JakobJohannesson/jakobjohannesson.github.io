@@ -5,6 +5,9 @@
 **MFN ID:** nel
 **Company:** NEL
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk3ODAmYXR0YWNobWVudElkPTMyMjYyMA/skjema_for_melding_om_transaksjoner_utfort_av_personer_med_ledelsesansvar_primarinnsidere_og_deres_narstaende_krt_1500.pdf) → `pdfs/e48d20b1_skjema_for_melding_om_transaksjoner_utfort_av_personer_med_ledelsesansvar_primarinnsidere_og_deres_narstaende_krt_1500.pdf`
+
 ---
 
 (March 30, 2026 - Oslo, Norway) This notification relates to the identification

@@ -6,6 +6,9 @@
 **Cision ID:** truecaller-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/20429/4328574/4014255.pdf) → `pdfs/429711a3_4014255.pdf`
+
 ---
 
 **Truecaller, den ledande globala plattformen för säker och pålitlig kommunikation, meddelade idag en viktig förändring i sitt ekosystem för företagsmeddelanden – från en exklusiv partnerskapsmodell till en modell med flera partners i Indien och globalt. Denna övergång markerar ett viktigt steg i att skala upp Truecallers erbjudande inom företagsmeddelanden och att öppna upp för bredare tillväxtmöjligheter över tid. Nya partners har tecknats och är redan live på plattformen, men uppskalningen av volymer och intäkter förväntas ske gradvis. Dessutom avslutades det tidigare partnerskapet, som var av exklusiv karaktär, tidigare i år, vilket kortsiktigt påverkar intäkterna negativt tills de nya partnerskapen skalats upp.**

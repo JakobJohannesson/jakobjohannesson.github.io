@@ -5,6 +5,9 @@
 **MFN ID:** navamedic
 **Company:** Navamedic
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk4MTQmYXR0YWNobWVudElkPTMyMjY1OA/navamedic-asa-notice-of-agm-23-april-2026.pdf) → `pdfs/db08232b_navamedic-asa-notice-of-agm-23-april-2026.pdf`
+
 ---
 
 The annual general meeting of Navamedic ASA will be held on Thursday, 23 April

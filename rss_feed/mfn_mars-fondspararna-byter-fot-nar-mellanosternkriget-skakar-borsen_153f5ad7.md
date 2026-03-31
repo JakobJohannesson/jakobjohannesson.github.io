@@ -5,6 +5,9 @@
 **MFN ID:** avanza-bank-holding
 **Company:** Avanza Bank Holding AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/4af7d723-6d5f-4562-a6b7-79beb142d573/mars-fondspararna-byter-fot-nar-mellanosternkriget-skakar-borsen.pdf) → `pdfs/153f5ad7_mars-fondspararna-byter-fot-nar-mellanosternkriget-skakar-borsen.pdf`
+
 ---
 
 **”Börsrallyt i början av året vände tvärt i mars. Oron i Mellanöstern och det rusande oljepriset har kastat om det ekonomiska läget och fått fondspararna att tänka om. Nu ratas räntefonder och ädelmetaller när allt fler söker sig till lägre volatilitet och exponering mot olja”, säger Felicia Schön, sparekonom på Avanza.**

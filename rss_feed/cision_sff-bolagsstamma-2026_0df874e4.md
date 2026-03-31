@@ -6,6 +6,9 @@
 **Cision ID:** sff
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Public/11909/4329310/a40bc86d4411b041.pdf) → `pdfs/0df874e4_a40bc86d4411b041.pdf`
+
 ---
 
 **För ytterligare information, vänligen kontakta:      **

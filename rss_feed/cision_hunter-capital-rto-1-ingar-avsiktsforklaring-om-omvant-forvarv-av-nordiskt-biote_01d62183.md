@@ -6,6 +6,9 @@
 **Cision ID:** hunter-capital-rto-1-ab--publ-
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/24090/4328510/4013935.pdf) → `pdfs/01d62183_4013935.pdf`
+
 ---
 
 Hunter Capital RTO 1 AB (publ) (“**HC RTO 1**” eller “**Bolaget**”) har ingått en icke-bindande avsiktsförklaring avseende ett planerat omvänt förvärv av ResoTher Pharma A/S (”**ResoTher Pharma**”), ett nordiskt bioteknikbolag i klinisk fas med en ny läkemedelskandidat i fas 2 riktad mot en kardiovaskulär indikation med stort medicinskt behov.

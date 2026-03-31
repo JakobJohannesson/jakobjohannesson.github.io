@@ -5,6 +5,9 @@
 **MFN ID:** orexo
 **Company:** Orexo AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/a2dbb443-d456-4ebe-b4b9-506f05147785/antal-aktier-och-roster-i-orexo.pdf) → `pdfs/6db336ec_antal-aktier-och-roster-i-orexo.pdf`
+
 ---
 
 **Uppsala, den 31 mars 2026** - Orexo AB (publ), (STO:ORX) (OTCQX:ORXOY), meddelar idag, den sista handelsdagen i månaden, att antal aktier i Orexo uppgår till 37 156 639 - varav 35 127 056 är stamaktier med en röst per aktie och 2 029 583 är C-aktier med en tiondels röst per aktie. Det totala antalet röster i bolaget är 35 330 014,3.

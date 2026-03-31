@@ -5,6 +5,9 @@
 **MFN ID:** isofol-medical
 **Company:** Isofol Medical AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/421cad4a-dc68-4341-afe1-47f557016ab6/20260331_pm_isofol_utfall-to1-2026.pdf) → `pdfs/35ec640e_20260331_pm_isofol_utfall-to1-2026.pdf`
+
 ---
 
 **GÖTEBORG, Sverige, 31 mars 2026 – Isofol Medical AB (publ) (Nasdaq Stockholm: ISOFOL) meddelar idag att nyttjandeperioden för teckningsoptioner av serie TO1 (”TO1”) i Isofol (”Isofol” eller ”Bolaget”) avslutades den 30 mars 2026. Utfallet visar att totalt 37 301 067 TO1 utnyttjades för teckning av 37 301 067 nya aktier, motsvarande en nyttjandegrad om cirka 93,57 procent. Då teckningsoptionerna inte nyttjades till 100 procent har toppgarantiåtagandet tagits i anspråk, motsvarande 2 083 332 aktier eller cirka 5,23 procent av de utestående teckningsoptionerna. Styrelsen avser att, med stöd av bemyndigande från årsstämman den 21 maj 2025, besluta om en riktad nyemission av dessa aktier till den befintliga aktieägaren Solasia Pharma K.K. till en teckningskurs motsvarande lösenkursen för TO1. Genom utnyttjandet av teckningsoptionerna av serie TO1 inklusive garantiåtagande tillförs Isofol cirka 18,9 MSEK före emissionskostnader.**

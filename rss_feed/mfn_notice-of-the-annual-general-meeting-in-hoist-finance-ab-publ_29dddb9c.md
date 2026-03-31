@@ -5,6 +5,9 @@
 **MFN ID:** hoist-finance
 **Company:** Hoist Finance
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/5f8470dc-67fa-4fec-8798-dbf8b8a4391f/notice-of-the-annual-general-meeting-in-hoist-finance-ab-publ.pdf) → `pdfs/29dddb9c_notice-of-the-annual-general-meeting-in-hoist-finance-ab-publ.pdf`
+
 ---
 
 **Shareholders of Hoist Finance AB (publ), reg. no. 556012-8489 (“Hoist Finance” or the “company”), are hereby invited to attend the Annual General Meeting, on Thursday 7 May 2026, at 11:00 a.m. CEST at Tändstickspalatset, Västra Trädgårdsgatan 15 in Stockholm. Registration will open at 10:30 a.m. CEST.**

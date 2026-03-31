@@ -6,6 +6,9 @@
 **Cision ID:** sca
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/600/4328594/4014257.pdf) → `pdfs/7d1cd6d5_4014257.pdf`
+
 ---
 
 **Under mars månad har på aktieägares begäran 1**** ****600 aktier av serie A omvandlats till serie B. Det totala antalet röster i bolaget uppgår därefter till 1**** ****250**** ****125**** ****959.**

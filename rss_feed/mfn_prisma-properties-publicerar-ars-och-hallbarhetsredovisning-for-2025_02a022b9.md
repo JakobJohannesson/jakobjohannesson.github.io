@@ -5,6 +5,9 @@
 **MFN ID:** prisma-properties-2
 **Company:** Prisma Properties
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/b17ab77a-5dc6-4db6-816f-bd85c0bb3811/prisma-ars-och-hallbarhetsredovisning-2025.pdf) → `pdfs/02a022b9_prisma-ars-och-hallbarhetsredovisning-2025.pdf`
+
 ---
 
 **Prisma Properties AB:s (publ) års- och hållbarhetsredovisning för 2025 har offentliggjorts och finns från och med idag tillgänglig i svensk version på bolagets webbplats: **[**https://prismaproperties.se/investerare/finansiella-rapporter/.**](https://prismaproperties.se/investerare/finansiella-rapporter/)

@@ -5,6 +5,9 @@
 **MFN ID:** logistea-ab
 **Company:** Logistea
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/bdd9a7a4-5933-4e2c-a44d-acbe6213027d/logistea-has-closed-the-acquisition-of-six-fully-leased-logistics-assets-from-dsv-in-a-sek-587-million-sale-leaseback-transaction.pdf) → `pdfs/9d000596_logistea-has-closed-the-acquisition-of-six-fully-leased-logistics-assets-from-dsv-in-a-sek-587-million-sale-leaseback-transaction.pdf`
+
 ---
 
 **Logistea AB (publ) has today closed the acquisition of five properties and one site leasehold in a sale-leaseback transaction with DSV. The properties have an underlying agreed property value of SEK 587 million, before deduction of deferred tax of SEK 27 million. The properties are fully leased to DSV Road AB with a remaining lease term for each asset of 10 years. The leasable area amounts to approximately 41,500 sqm.**

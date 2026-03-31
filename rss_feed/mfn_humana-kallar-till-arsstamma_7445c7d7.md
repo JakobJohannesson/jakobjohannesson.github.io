@@ -5,6 +5,10 @@
 **MFN ID:** humana
 **Company:** Humana
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/e5004f09-0194-4302-9ab4-fc9814a69cf1/humana-kallar-till-arsstamma.pdf) → `pdfs/7445c7d7_humana-kallar-till-arsstamma.pdf`
+- [PDF](https://storage.mfn.se/68da2260-9e48-4584-a2df-d76aef6a252c/1-humana-kallelse-2026.pdf) → `pdfs/7445c7d7_1-humana-kallelse-2026.pdf`
+
 ---
 
 **Styrelsen för Humana AB har beslutat kalla till årsstämma torsdagen den 7 maj 2026. För mer information om innehållet i förslagen hänvisas till den fullständiga kallelsen till årsstämman nedan. Kallelsen kommer att publiceras i Post- och Inrikes Tidningar och på bolagets webbplats inom de närmaste dagarna. För ytterligare information, vänligen kontakta Ewelina Pettersson, IR-ansvarig, 073 074 79 12, ewelina.pettersson@humana.se.**

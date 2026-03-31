@@ -5,6 +5,9 @@
 **MFN ID:** alligator-bioscience
 **Company:** Alligator Bioscience
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/b132ace3-b186-487f-a52b-a886c95e2932/change-in-number-of-shares-and-votes-in-alligator-bioscience-ab.pdf) → `pdfs/56caef6e_change-in-number-of-shares-and-votes-in-alligator-bioscience-ab.pdf`
+
 ---
 
 **During March 2026, the number of shares and votes in Alligator Bioscience AB (“Alligator Bioscience”) has increased as a result of the exercise of warrants series TO 14, issued in connection with the rights issue of units carried out during October – December 2025.**

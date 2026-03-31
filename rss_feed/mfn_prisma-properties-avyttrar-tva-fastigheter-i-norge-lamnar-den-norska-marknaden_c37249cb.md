@@ -5,6 +5,9 @@
 **MFN ID:** prisma-properties-2
 **Company:** Prisma Properties
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/48fcd089-b14c-4907-a496-fcc350bfa157/prisma-properties-avyttrar-tva-fastigheter-i-norge-lamnar-den-norska-marknaden.pdf) → `pdfs/c37249cb_prisma-properties-avyttrar-tva-fastigheter-i-norge-lamnar-den-norska-marknaden.pdf`
+
 ---
 
 **Prisma Properties har tecknat avtal om försäljning av bolagets två fastigheter i Norge, belägna i Frøya och Hommelvik. Försäljningen sker i linje med bokfört värde och enligt bolagets strategiska inriktning.**

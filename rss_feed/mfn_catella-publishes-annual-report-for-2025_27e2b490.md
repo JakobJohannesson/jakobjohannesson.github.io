@@ -5,6 +5,9 @@
 **MFN ID:** catella
 **Company:** Catella AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/db491ed5-2f73-4d3b-bcfb-e75f3c390150/catella-annual-report-2025.pdf) → `pdfs/27e2b490_catella-annual-report-2025.pdf`
+
 ---
 
 **The Catella AB (publ) Annual Report including the Sustainability Report for 2025 has been published today and is available to download at www.catella.com.**

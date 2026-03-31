@@ -5,6 +5,9 @@
 **MFN ID:** starbreeze
 **Company:** Starbreeze
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/ebbef8c8-68b4-4963-8fac-3c4967bae371/change-in-the-number-of-shares-and-votes-in-starbreeze-ab.pdf) → `pdfs/6464f41e_change-in-the-number-of-shares-and-votes-in-starbreeze-ab.pdf`
+
 ---
 
 **In accordance with Starbreeze’ articles of association, holders of series A-shares have the right to request that the shares be converted into series B-shares. The purpose of the conversion program is eventually to only have series B-shares issued. Such a conversion reduces the total number of votes in the company but does not affect owner’s share in terms of capital. When such conversion has taken place, the company has an obligation according to law to publish information about any changes on a monthly basis.**

@@ -5,6 +5,9 @@
 **MFN ID:** be-group
 **Company:** BE Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/ebff2b7c-1573-40aa-91e8-9e628122c9a3/begroup-ar-2025-sve.pdf) → `pdfs/b807993e_begroup-ar-2025-sve.pdf`
+
 ---
 
 BE Group AB (publ)s årsredovisning för 2025 är nu offentliggjord och finns tillgänglig på koncernens webbplats, [www.begroup.com](http://www.begroup.com/). Den svenska årsredovisningen finns även tillgänglig i European Single Electronic Format (ESEF).

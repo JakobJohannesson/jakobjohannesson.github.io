@@ -5,6 +5,9 @@
 **MFN ID:** sdiptech
 **Company:** Sdiptech
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c2884445-ea85-4acf-9de1-6d836ab4df85/sdiptech-ab-publ-announces-results-of-tender-offer-for-its-outstanding-senior-secured-sustainability-linked-bonds.pdf) → `pdfs/d75a104e_sdiptech-ab-publ-announces-results-of-tender-offer-for-its-outstanding-senior-secured-sustainability-linked-bonds.pdf`
+
 ---
 
 **Sdiptech AB (publ) (the “Company”) today announces the results of the invitation to the holders of its outstanding unsecured SEK denominated senior secured sustainability-linked bonds 2023/2027 with ISIN SE0017132053 maturing in August 2027 (the "Bonds") to tender their Bonds for cash, as announced on 23 March 2026 (the “Tender Offer”).**

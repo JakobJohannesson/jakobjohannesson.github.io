@@ -5,6 +5,10 @@
 **MFN ID:** elliptic-laboratories
 **Company:** Elliptic Laboratories
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/e7c1cb43-57a2-451e-8762-580964832971/elliptic-labs-minutes-from-extraordinary-general-meeting.pdf) → `pdfs/e4636187_elliptic-labs-minutes-from-extraordinary-general-meeting.pdf`
+- [PDF](https://storage.mfn.se/7288a2fc-0601-4cdf-9a2e-ca3290fb9a20/elabs-minutes-of-eogm-march-27-2026.pdf) → `pdfs/e4636187_elabs-minutes-of-eogm-march-27-2026.pdf`
+
 ---
 
 Oslo, Norway — An extraordinary general meeting of Elliptic Laboratories ASA ("Elliptic Labs" or the "Company") was held today on 27 March 2026 at 10:00 (CET). All items on the agenda were approved in accordance with the proposals of the Board of Directors.

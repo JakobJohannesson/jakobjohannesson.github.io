@@ -5,6 +5,9 @@
 **MFN ID:** invisio
 **Company:** INVISIO AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/3788585c-2d6c-4bba-87c6-20b7f243b182/notice-to-attend-the-annual-general-meeting-of-invisio.pdf) → `pdfs/3247dd4a_notice-to-attend-the-annual-general-meeting-of-invisio.pdf`
+
 ---
 
 **The shareholders of INVISIO AB are hereby summoned to the Annual General Meeting held on Wednesday 6 May 2026 at 4.00 p.m (CEST) at IVA Konferenscenter, Grev Turegatan 16, Stockholm, Sweden. Registration will commence at 3.30 p.m (CEST).**

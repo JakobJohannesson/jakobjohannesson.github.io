@@ -5,6 +5,9 @@
 **MFN ID:** avanza-bank-holding
 **Company:** Avanza Bank Holding AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/0c6a3955-fbc7-4ef9-9575-a661c8f56990/mars-fran-kursraketer-till-kassafloden-sa-navigerar-aktiespararna-borsfrossan.pdf) → `pdfs/669e8978_mars-fran-kursraketer-till-kassafloden-sa-navigerar-aktiespararna-borsfrossan.pdf`
+
 ---
 
 **“Stockholmsbörsen (OMXSGI) är ner 9 procent under mars på grund av kriget i Mellanöstern och dess följdverkningar. Men istället för att fly marknaden väljer Avanzas aktiesparare att navigera i osäkerheten genom en kombination av vinsthemtagningar, utdelningsjakt och dippköp”, säger Elin Wiker, börsstrateg på Avanza.**

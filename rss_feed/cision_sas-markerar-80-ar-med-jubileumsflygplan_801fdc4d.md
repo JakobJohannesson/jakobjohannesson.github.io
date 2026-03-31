@@ -6,6 +6,9 @@
 **Cision ID:** sas
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Public/290/4329381/8debef556382bde7.pdf) → `pdfs/801fdc4d_8debef556382bde7.pdf`
+
 ---
 
 **SAS markerar starten på sitt 80-årsjubileum med ett specialmålat Airbus A330-300 för att uppmärksamma åtta decennier av att knyta samman Skandinavien med världen. Under 2026 kommer SAS att uppmärksamma jubileet genom olika initiativ som tar fasta på bolagets arv och roll i att knyta samman människor, företag och samhällen.**

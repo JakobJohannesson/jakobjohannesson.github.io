@@ -5,6 +5,9 @@
 **MFN ID:** stockwik-forvaltning
 **Company:** Stockwik Förvaltning
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/69a9d98b-5f8e-4824-891c-fa54a9a8ab96/notice-to-attend-the-annual-general-meeting-in-stockwik-forvaltning-ab-publ.pdf) → `pdfs/b38eebf3_notice-to-attend-the-annual-general-meeting-in-stockwik-forvaltning-ab-publ.pdf`
+
 ---
 
 **The shareholders of Stockwik Förvaltning AB (publ), reg. no. 556294-7845, (the “Company”) are hereby given notice to attend the Annual General Meeting on Monday, 4 May 2026 at 13:00 (CEST), at the Company’s head office at Frösundaviks allé 1, 169 70 Solna. Registration for the Meeting commences at 12:30 (CEST).**

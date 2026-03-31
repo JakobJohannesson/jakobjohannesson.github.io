@@ -5,6 +5,9 @@
 **MFN ID:** ctt-systems
 **Company:** CTT Systems AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/59d837f3-9a99-4bb3-b3cb-17499c6efaa2/eng-ctt-ar-2025-final.pdf) → `pdfs/a153657a_eng-ctt-ar-2025-final.pdf`
+
 ---
 
 The Annual Report 2025 for CTT Systems AB (publ.) is now available on the Company's website, [www.ctt.se](http://www.ctt.se/), at “Investors - Annual Reports” and also as an appendix to this press release.

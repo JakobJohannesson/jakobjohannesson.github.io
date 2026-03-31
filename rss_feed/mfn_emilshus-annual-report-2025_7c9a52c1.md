@@ -5,6 +5,9 @@
 **MFN ID:** emilshus
 **Company:** Emilshus
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/02737061-5a7a-492c-b9e7-b570839fdbbf/press-release.pdf) → `pdfs/7c9a52c1_press-release.pdf`
+
 ---
 
 Fastighetsbolaget Emilshus AB (publ) Annual Report 2025, Swedish version, is now available at company’s website, www.emilshus.com. An English version will be published shortly.

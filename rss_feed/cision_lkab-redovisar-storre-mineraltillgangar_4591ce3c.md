@@ -6,6 +6,9 @@
 **Cision ID:** lkab
 **Keywords:** LKAB, Järnmalm, Fosfor, Per Geijer, Sällsynta jordartsmetaller, Jan Moström, mineraltillgångar, mineralreserver, Ian Cope, PERC
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/11419/4328591/4014509.pdf) → `pdfs/4591ce3c_4014509.pdf`
+
 ---
 
 **Efter prospekteringen under 2025 har LKAB fortsatt att öka mängden och tillförlitligheten i bolagets mineraltillgångar, samtidigt som kvaliteten på mineralreserverna har förbättrats, vilket resulterat i en sammanlagd total på 7,2 miljarder ton. Jämfört med 2024 har mineraltillgångarna ökat med cirka 900 miljoner ton (exklusive reserver), varav cirka 770 miljoner ton av ökningen rapporteras vid Malmbergsgruvan.**

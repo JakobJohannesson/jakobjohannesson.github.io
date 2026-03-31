@@ -5,6 +5,9 @@
 **MFN ID:** sdiptech
 **Company:** Sdiptech
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/6737f4b1-9525-42a0-ad53-de602969fd1e/sdiptech-ab-publ-offentliggor-resultat-av-aterkopserbjudande-avseende-utestaende-seniora-sakerstallda-hallbarhetslankade-obligationer.pdf) → `pdfs/9cbcceaf_sdiptech-ab-publ-offentliggor-resultat-av-aterkopserbjudande-avseende-utestaende-seniora-sakerstallda-hallbarhetslankade-obligationer.pdf`
+
 ---
 
 **Sdiptech AB (publ) (”Bolaget”) meddelar idag resultatet av det återköpserbjudande som offentliggjordes den 23 mars 2026 till innehavare av Bolagets utestående seniora säkerställda och hållbarhetslänkade obligationer 2023/2027 med ISIN SE0017132053 som förfaller i augusti 2027 (”Obligationerna”) mot kontant vederlag (”Återköpserbjudandet”).**

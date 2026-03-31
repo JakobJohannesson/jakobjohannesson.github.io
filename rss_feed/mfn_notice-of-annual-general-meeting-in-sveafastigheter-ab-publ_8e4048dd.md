@@ -5,6 +5,9 @@
 **MFN ID:** sveafastigheter
 **Company:** Sveafastigheter AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/83f1b5bd-af9b-4785-ab3d-8138d127f205/notice-of-annual-general-meeting-in-sveafastigheter-ab-publ.pdf) → `pdfs/8e4048dd_notice-of-annual-general-meeting-in-sveafastigheter-ab-publ.pdf`
+
 ---
 
 **Sveafastigheter AB (publ), Reg. No. 559449-4329, with its registered office in Stockholm, gives notice of the Annual General Meeting to be held on 5 May 2026 at 01.00 p.m. (CEST) at Smålandsgatan 20, SE-111 46 Stockholm, Sweden. Registration starts at 12.30 p.m. (CEST).**

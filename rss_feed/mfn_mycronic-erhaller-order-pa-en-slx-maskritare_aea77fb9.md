@@ -5,6 +5,9 @@
 **MFN ID:** mycronic
 **Company:** Mycronic
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/172fe642-d28c-487e-bd11-33a9756d92db/mycronic-erhaller-order-pa-en-slx-maskritare.pdf) → `pdfs/aea77fb9_mycronic-erhaller-order-pa-en-slx-maskritare.pdf`
+
 ---
 
 **Mycronic AB (publ) har erhållit en order på en SLX-maskritare från en befintlig kund i Asien. Ordervärdet ligger i intervallet 5-7 MUSD. Systemet är planerat att levereras under det andra kvartalet 2027.**

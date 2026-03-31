@@ -5,6 +5,9 @@
 **MFN ID:** prisma-properties-2
 **Company:** Prisma Properties
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/4249e48c-0264-44d4-ad78-8e4c1c432278/prisma-properties-divests-two-properties-in-norway-exits-the-norwegian-market.pdf) → `pdfs/b3019959_prisma-properties-divests-two-properties-in-norway-exits-the-norwegian-market.pdf`
+
 ---
 
 **Prisma Properties has signed an agreement to sell the company’s two properties in Norway, located in Frøya and Hommelvik. The sale is conducted in line with book value and in accordance with the company’s strategic direction.**

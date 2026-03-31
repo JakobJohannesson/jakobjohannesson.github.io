@@ -6,6 +6,10 @@
 **Cision ID:** fastighets-ab-balder
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/528/4328544/4016951.pdf) → `pdfs/bad841d6_4016951.pdf`
+- [PDF](https://mb.cision.com/Public/528/4328544/a70b660c96040a47.pdf) → `pdfs/bad841d6_a70b660c96040a47.pdf`
+
 ---
 
 **Fastighets AB Balder har sammanfattat verksamhetsåret 2025. Års- och hållbarhetsredovisningen, som ger en överblick av koncernens utveckling mot de finansiella och hållbarhetsrelaterade målen, finns nu tillgänglig på bolagets hemsida.**

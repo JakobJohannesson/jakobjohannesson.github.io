@@ -5,6 +5,9 @@
 **MFN ID:** be-group
 **Company:** BE Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/96078b3a-b212-4072-bba4-8c69dc3b218f/begroup-ar-2025-eng.pdf) → `pdfs/4f389d90_begroup-ar-2025-eng.pdf`
+
 ---
 
 BE Group AB (publ)’s Annual Report for 2025 has now been published and is available on the Group’s website, [www.begroup.com](http://www.begroup.com/). The Swedish Annual Report is also available in European Single Electronic Format (ESEF).

@@ -5,6 +5,9 @@
 **MFN ID:** profilgruppen
 **Company:** ProfilGruppen AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/851ea07f-5b87-4094-bf89-f8056e86a13a/profilgruppen-ab-annual-report-2025.pdf) → `pdfs/95b1a7eb_profilgruppen-ab-annual-report-2025.pdf`
+
 ---
 
 *This is a translation of the Swedish version of the Annual Report. In case of any discrepancies, the Swedish version shall prevail.**

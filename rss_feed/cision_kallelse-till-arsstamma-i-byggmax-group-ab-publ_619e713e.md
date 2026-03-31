@@ -6,6 +6,9 @@
 **Cision ID:** byggmax
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/109/4328844/4017299.pdf) → `pdfs/619e713e_4017299.pdf`
+
 ---
 
 **Aktieägarna i Byggmax Group AB (publ), org.nr 556656-3531, (”Bolaget”) kallas härmed till årsstämma torsdagen den 7 maj 2026 klockan 10.00 på Lindhagensgatan 112, 112 51 Stockholm.**

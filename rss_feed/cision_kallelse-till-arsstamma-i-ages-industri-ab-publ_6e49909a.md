@@ -6,6 +6,9 @@
 **Cision ID:** ages
 **Keywords:** Ages, Ages Industri
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Public/9847/4327945/ad9db5f2f367b7e8.pdf) → `pdfs/6e49909a_ad9db5f2f367b7e8.pdf`
+
 ---
 
 AGES Industri AB (publ) kallar till årsstämma tisdagen den 5 maj 2026 klockan 15.00 på restaurang Mangold, Högskolan i Halmstad, Kristian IV:s väg 3, 302 50 Halmstad.

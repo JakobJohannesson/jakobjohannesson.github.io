@@ -5,6 +5,10 @@
 **MFN ID:** elopak
 **Company:** Elopak
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/daf46a9f-9277-409d-94fa-8650378d12d7/elopak-asa-mandatory-notification-of-trade-by-primary-insider-award-of-psus.pdf) → `pdfs/e46e103b_elopak-asa-mandatory-notification-of-trade-by-primary-insider-award-of-psus.pdf`
+- [PDF](https://storage.mfn.se/c503ac05-f698-46dd-94cd-080a38408d79/pdmr-allocation-26-march-2026-mf.pdf) → `pdfs/e46e103b_pdmr-allocation-26-march-2026-mf.pdf`
+
 ---
 
 **Yesterday March 26, 2026 a members of Elopak ASA's management which are also a primary insider was awarded PSUs under Elopak's long term incentive program. **

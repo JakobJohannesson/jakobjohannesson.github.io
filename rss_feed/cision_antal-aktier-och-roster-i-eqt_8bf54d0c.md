@@ -6,6 +6,9 @@
 **Cision ID:** eqt
 **Keywords:** theme_EQT AB Group
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/87/4329637/4018464.pdf) → `pdfs/8bf54d0c_4018464.pdf`
+
 ---
 
 **Antalet aktier och röster i EQT per 31 mars 2026 framgår av tabellen nedan.**

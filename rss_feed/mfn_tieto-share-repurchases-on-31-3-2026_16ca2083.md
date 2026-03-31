@@ -5,6 +5,9 @@
 **MFN ID:** tieto-corporation
 **Company:** Tieto Corporation
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk4OTUmYXR0YWNobWVudElkPTMyMjczOQ/release.pdf) → `pdfs/16ca2083_release.pdf`
+
 ---
 
 Tieto Corporation    Stock

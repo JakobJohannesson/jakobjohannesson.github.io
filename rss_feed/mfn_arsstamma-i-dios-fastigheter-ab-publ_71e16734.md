@@ -5,6 +5,9 @@
 **MFN ID:** dios
 **Company:** Diös
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/ddc36458-d793-4dab-82cc-a4d71111c2c2/arsstamma-i-dios-fastigheter-ab-publ.pdf) → `pdfs/71e16734_arsstamma-i-dios-fastigheter-ab-publ.pdf`
+
 ---
 
 **Diös Fastigheter AB (publ) (”Diös”) har idag den 30 mars 2026 hållit årsstämma på Diös huvudkontor, Zätagränd 11 i Östersund. Årsstämman fattade följande beslut:**

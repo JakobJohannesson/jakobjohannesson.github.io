@@ -5,6 +5,9 @@
 **MFN ID:** hoist-finance
 **Company:** Hoist Finance
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/99f979a4-6196-45f5-abf9-bd6c57d3035a/kallelse-till-arsstamma-i-hoist-finance-ab-publ.pdf) → `pdfs/e36fa4e9_kallelse-till-arsstamma-i-hoist-finance-ab-publ.pdf`
+
 ---
 
 **Aktieägarna i Hoist Finance AB (publ), org.nr 556012-8489 (”Hoist Finance” eller ”bolaget”), kallas härmed till årsstämma torsdagen den 7 maj 2026 kl. 11:00 på Tändstickspalatset, Västra Trädgårdsgatan 15 i Stockholm. Registreringen öppnar kl. 10:30.**

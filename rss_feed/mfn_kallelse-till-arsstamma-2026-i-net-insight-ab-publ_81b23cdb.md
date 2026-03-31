@@ -5,6 +5,9 @@
 **MFN ID:** net-insight
 **Company:** Net Insight
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/89bc09ac-f73d-4700-a41f-09ec3f88c6b6/kallelse-till-arsstamma-2026-i-net-insight-ab-publ.pdf) → `pdfs/81b23cdb_kallelse-till-arsstamma-2026-i-net-insight-ab-publ.pdf`
+
 ---
 
 Aktieägarna i Net Insight AB (publ), org. nr 556533-4397, kallas härmed till årsstämma som äger rum tisdagen den 12 maj 2026 klockan 10:00 i bolagets lokaler på Smidesvägen 7, Solna.

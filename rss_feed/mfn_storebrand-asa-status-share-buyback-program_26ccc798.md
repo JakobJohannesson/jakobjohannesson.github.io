@@ -5,6 +5,9 @@
 **MFN ID:** storebrand
 **Company:** Storebrand
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk3MjQmYXR0YWNobWVudElkPTMyMjU3OA/trade_file_stb_buybacks_270326.pdf) → `pdfs/26ccc798_trade_file_stb_buybacks_270326.pdf`
+
 ---
 
 Transactions made under Storebrand ASA's share buyback program

@@ -6,6 +6,9 @@
 **Cision ID:** zenicor
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/11647/4329220/4016635.pdf) → `pdfs/29defa72_4016635.pdf`
+
 ---
 
 **Zenicor Medical Systems AB meddelar att SAFER-studien i Australien (SAFER-AUS) nu har slutfört screeningfasen. Studien är en del  av världens största randomiserade studie inom screening för förmaksflimmer (FF). Tillsammans med SAFER-studien i UK stärks den globala evidensen för systematisk, populationsbaserad screening av förmaksflimmer i hälso- och sjukvården.

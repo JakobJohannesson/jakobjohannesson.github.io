@@ -5,6 +5,9 @@
 **MFN ID:** eolus
 **Company:** Eolus
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/a0b735fa-1fa7-4b66-b495-37aaaa8c946d/update-regarding-eoluss-capital-allocation-2026.pdf) → `pdfs/0f86118f_update-regarding-eoluss-capital-allocation-2026.pdf`
+
 ---
 
 The Board of Directors of Eolus proposes that no dividend be paid for the financial year 2025. The background is that, under the terms and conditions of Eolus’ Senior Secured Green Bonds 2025/2029 of up to SEK 1.5 billion with ISIN SE0024320774 (the “Bond Terms”), Eolus’ negative result for the financial year 2025 prevents the payment of a dividend during 2026, irrespective of the company’s strong financial position. The same applies to the possibility of carrying out share buybacks.

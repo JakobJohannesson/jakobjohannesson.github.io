@@ -5,6 +5,9 @@
 **MFN ID:** trelleborg
 **Company:** Trelleborg
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/b50e5535-b79d-45c4-8303-56b6399b27e5/aterkop-av-aktier-av-serie-b-i-trelleborg-under-vecka-13-2026.pdf) → `pdfs/e8618c4b_aterkop-av-aktier-av-serie-b-i-trelleborg-under-vecka-13-2026.pdf`
+
 ---
 
 Trelleborg AB (LEI-kod 213800XY16PAWG2PAD14) har under perioden 23 mars 2026 – 27 mars 2026 återköpt sammanlagt 120 000 egna aktier av serie B (ISIN-kod: SE0000114837) inom ramen för det återköpsprogram som styrelsen infört. Detta i syfte för att anpassa bolagets kapitalstruktur och därigenom bidra till ökat aktieägarvärde. Återköp sker även för att säkerställa leverans av aktier och därmed förknippade kostnader, såsom sociala avgifter, för incitamentsprogrammet Performance Share Program (PSP) 2025/2027.

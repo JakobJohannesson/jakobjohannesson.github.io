@@ -5,6 +5,9 @@
 **MFN ID:** instalco
 **Company:** Instalco
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/9923c4d7-3dfa-4764-abcc-2428fa3c0148/instalco-ab-kallelse-till-arsstamman-2026.pdf) → `pdfs/24a302f2_instalco-ab-kallelse-till-arsstamman-2026.pdf`
+
 ---
 
 **Instalco AB (publ), 559015-8944, ("Instalco" eller "bolaget") håller årsstämma tisdagen den 5 maj 2026 kl. 14.00 på Venue 81, Drottninggatan 81 i Stockholm. Inregistrering till årsstämman börjar kl. 13.30. Styrelsen har beslutat att aktieägare även ska kunna utöva sin rösträtt på årsstämman genom poströstning på förhand i enlighet med bestämmelserna i Instalcos bolagsordning.**

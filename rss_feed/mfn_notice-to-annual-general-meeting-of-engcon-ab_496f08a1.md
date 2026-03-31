@@ -5,6 +5,9 @@
 **MFN ID:** engcon
 **Company:** engcon AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/5a36f9ad-84df-4fd7-9428-6710c0a6b95c/notice-to-annual-general-meeting-of-engcon-ab.pdf) → `pdfs/496f08a1_notice-to-annual-general-meeting-of-engcon-ab.pdf`
+
 ---
 
 **The annual general meeting of engcon AB (”engcon” or the ”Company”) will be held on Tuesday 5 May 2026 at 14.00 CEST at engcon Nordic’s production facility, Industricentragatan 4, SE-833 36 Strömsund, Sweden. Registration begins at 13.30 CEST.**

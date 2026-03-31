@@ -6,6 +6,9 @@
 **Cision ID:** nattaro-labs-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Public/21101/4328585/98712c539aea622f.pdf) → `pdfs/cdbe847b_98712c539aea622f.pdf`
+
 ---
 
 **Aktieägarna i Nattaro Labs AB, 556846-8465, kallas härmed till årsstämma onsdagen den 6 maj 2026 kl. 16:00 på Medicon Village, Scheeletorget 1 i Lund.**

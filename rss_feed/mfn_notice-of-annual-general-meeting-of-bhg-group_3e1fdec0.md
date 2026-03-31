@@ -5,6 +5,9 @@
 **MFN ID:** bhg-group
 **Company:** BHG Group AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/3a7af00f-d69c-4ef9-bd9d-67cde7e746c9/notice-of-annual-general-meeting-of-bhg-group.pdf) → `pdfs/3e1fdec0_notice-of-annual-general-meeting-of-bhg-group.pdf`
+
 ---
 
 **The shareholders of BHG Group AB (publ) are summoned to the annual general meeting, to be held on Tuesday, 5 May 2026 at 1 pm at Studio, conference room View, Nordenskiöldsgatan 24, Malmö, Sweden.**

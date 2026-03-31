@@ -6,6 +6,9 @@
 **Cision ID:** tcecur-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/15884/4328836/4015203.pdf) → `pdfs/5d5e5bd8_4015203.pdf`
+
 ---
 
 **Säkerhetskoncernen TCECURs dotterbolag Mysec Sweden AB har tecknat ramavtal med Södertörns brandförsvarsförbund (SBFF) avseende leverans av larmsändare och tillhörande licenser och tjänster. Avtalet innebär att förbundet, tillsammans med sina medlemskommuner, får tillgång till en modern och skalbar lösning för larmkommunikation inom brand, inbrott och tekniska larm.**

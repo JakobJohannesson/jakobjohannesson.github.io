@@ -5,6 +5,9 @@
 **MFN ID:** sleep-cycle
 **Company:** Sleep Cycle
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/25c728d8-d81e-4fda-bcfe-8ac3bd0d5380/stort-tidigt-intresse-for-bedomning-av-risk-for-somnapne-over-150-000-registreringar.pdf) → `pdfs/f979eaf7_stort-tidigt-intresse-for-bedomning-av-risk-for-somnapne-over-150-000-registreringar.pdf`
+
 ---
 
 **Sleep Cycle, ett ledande bolag inom AI-baserad sömnteknologi, meddelar idag att fler än 150 000 personer har registrerat sitt intresse för bolagets kommande lösning för bedömning av risk för sömnapné inför kommersiell lansering.**

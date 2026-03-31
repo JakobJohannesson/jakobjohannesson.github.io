@@ -5,6 +5,9 @@
 **MFN ID:** softwareone-holding
 **Company:** SoftwareONE Holding
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk3ODcmYXR0YWNobWVudElkPTMyMjYyMQ/annual-report-2025.pdf) → `pdfs/cc8c3b54_annual-report-2025.pdf`
+
 ---
 
 Stans, Switzerland I 31 March 2026 - SoftwareOne Holding AG (SIX: SWON), a

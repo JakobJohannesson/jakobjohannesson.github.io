@@ -6,6 +6,9 @@
 **Cision ID:** bravida-holding-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/8835/4327880/4014245.pdf) → `pdfs/bb4011a7_4014245.pdf`
+
 ---
 
 **Bravida Holding AB (publ), org. nr. 556891-5390, med säte i Stockholm, kallar till årsstämma tisdag den 28 april 2026 kl. 15.00 på Mikrofonvägen 28, 126 81 Stockholm. Inregistrering till årsstämman börjar kl. 14.00.**

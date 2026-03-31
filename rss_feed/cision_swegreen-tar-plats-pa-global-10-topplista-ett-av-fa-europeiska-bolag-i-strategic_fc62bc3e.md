@@ -6,6 +6,9 @@
 **Cision ID:** swegreen-ab
 **Keywords:** ica, Coop, GreenTech, agtech, foodtech, swegreen, verticalfarming
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/21491/4329540/4018095.pdf) → `pdfs/fc62bc3e_4018095.pdf`
+
 ---
 
 **31 mars, 2026** – ***Swegreen rankas bland världens tio mest relevanta bolag inom vertikal odling.***

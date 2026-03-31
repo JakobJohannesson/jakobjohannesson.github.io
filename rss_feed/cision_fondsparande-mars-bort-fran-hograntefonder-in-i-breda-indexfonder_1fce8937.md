@@ -6,6 +6,9 @@
 **Cision ID:** nordnet
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/116/4328293/4013040.pdf) → `pdfs/1fce8937_4013040.pdf`
+
 ---
 
 **Osäkerhet kring inflation och energipriser får spararna att dumpa högräntefonder och volatila nischfonder till förmån för bred geografisk riskspridning. Det visar färska siffror från Nordnet över hur fondspararna agerade i mars.**

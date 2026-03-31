@@ -6,6 +6,9 @@
 **Cision ID:** hemso-fastighets-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/2534/4328072/4012468.pdf) → `pdfs/a99ff9ae_4012468.pdf`
+
 ---
 
 **Hemsö har ingått 15-årigt hyresavtal med Folktandvården för lokaler i hälsohuset vid Södervärnstorget i centrala Malmö. Den uthyrningsbara ytan är 950 kvadratmeter. **

@@ -6,6 +6,9 @@
 **Cision ID:** nobia-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/5927/4328891/4015469.pdf) → `pdfs/2680a5bf_4015469.pdf`
+
 ---
 
 **Antalet aktier och röster i Nobia AB (publ) (”Nobia”) har förändrats till följd av den företrädesemission som beslutades av styrelsen den 14 januari 2026 och som godkändes av den extra bolagsstämman den 18 februari 2026.**

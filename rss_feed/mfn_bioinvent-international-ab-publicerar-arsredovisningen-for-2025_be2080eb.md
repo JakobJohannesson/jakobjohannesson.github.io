@@ -5,6 +5,9 @@
 **MFN ID:** bioinvent-international
 **Company:** BioInvent International
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/71325de8-5f6e-4fa9-a6be-db0476c3792e/bioinvent-ar-2025-se.pdf) → `pdfs/be2080eb_bioinvent-ar-2025-se.pdf`
+
 ---
 
 **Lund den 31 mars 2026 – BioInvent International AB (“BioInvent”) (Nasdaq Stockholm: BINV), ett bioteknikföretag inriktat på forskning och utveckling av nya och first-in-class immunmodulerande antikroppar för cancerimmunterapi, meddelar idag att årsredovisningen för 2025 har publicerats. Årsredovisningen bifogas i pdf-format och i ESEF-format (European Single Electronic Format) samt finns tillgänglig på bolagets hemsida ****[www.bioinvent.com](https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.bioinvent.com%2F&data=05|02|Cecilia.Hofvander%40bioinvent.com|18c003bb9e5e4f48611108de89b47f43|b3f317d19348400788451aeee4f0c763|0|0|639099605513862357|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D|0|||&sdata=TS32EYGvU%2FWcLkUnzjNG1c48xlXdGWFXWiTvjF7qxn4%3D&reserved=0)****.**

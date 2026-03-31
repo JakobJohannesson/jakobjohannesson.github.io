@@ -5,6 +5,9 @@
 **MFN ID:** flerie
 **Company:** Flerie AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/8a9d4d92-f1a0-4dcc-a995-7824dc3a3ff4/forandring-av-det-totala-antalet-aktier-och-roster-i-flerie-ab-publ.pdf) → `pdfs/6424e8d0_forandring-av-det-totala-antalet-aktier-och-roster-i-flerie-ab-publ.pdf`
+
 ---
 
 **Det totala antalet aktier i Flerie AB (publ) (”Bolaget”) uppgår per den 31 mars 2026 till 87 601 573 aktier, varav samtliga är stamaktier. Det finns inga aktier utgivna av serie C. Det totala antalet röster i Bolaget uppgår per den 31 mars 2026 till 87 601 573.**

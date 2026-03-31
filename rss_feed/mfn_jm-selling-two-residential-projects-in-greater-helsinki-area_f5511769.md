@@ -5,6 +5,9 @@
 **MFN ID:** jm
 **Company:** JM
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/7f5809ed-77a1-4022-b8ce-c6d0e2f08fd4/260331-jm-selling-two-residential-projects-in-greater-helsinki-area.pdf) → `pdfs/f5511769_260331-jm-selling-two-residential-projects-in-greater-helsinki-area.pdf`
+
 ---
 
 **JM has signed an agreement with ICECAPITAL for the sale of two rental projects to ICECAPITAL’s latest residential fund. The sales price amounts to approximately SEK 560 million. As part of the transaction, JM Finland will invest approximately SEK 200 million in the residential fund in question over a period of three years.**

@@ -6,6 +6,10 @@
 **Cision ID:** genova-property-group-ab--publ-
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/13559/4329021/4017225.pdf) → `pdfs/e5d37f4f_4017225.pdf`
+- [PDF](https://mb.cision.com/Public/13559/4329021/ad93f26d4bab3490.pdf) → `pdfs/e5d37f4f_ad93f26d4bab3490.pdf`
+
 ---
 
 **För ytterligare information, vänligen kontakta:**

@@ -5,6 +5,9 @@
 **MFN ID:** indutrade
 **Company:** Indutrade
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/354fbd5f-3383-44f6-bb69-9f23ccb0594a/indutrades-cfo-will-leave-in-july-2026.pdf) → `pdfs/23213353_indutrades-cfo-will-leave-in-july-2026.pdf`
+
 ---
 
 **Patrik Johnson will step down as CFO and member of the Group management of Indutrade AB. He will continue in his position until the Q2 2026 interim report has been published on 16 July. A recruitment process will be initiated to appoint a successor.**

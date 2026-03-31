@@ -5,6 +5,9 @@
 **MFN ID:** egetis-therapeutics
 **Company:** Egetis Therapeutics
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/fb68e55b-e14c-461a-9d0e-3cb0b1e6637f/egetis-announces-fda-acceptance-and-priority-review-of-nda-for-emcitate-r-tiratricol-for-mct8-deficiency.pdf) → `pdfs/3bbd0e4b_egetis-announces-fda-acceptance-and-priority-review-of-nda-for-emcitate-r-tiratricol-for-mct8-deficiency.pdf`
+
 ---
 
 - NDA submission for Emcitate® successfully validated by the FDA- Priority Review granted and PDUFA target action date set to September 28, 2026- Emcitate® (tiratricol) is eligible to receive a Priority Review Voucher (PRV) upon approval- If approved, Emcitate® (tiratricol) would become the first approved treatment in the United States for MCT8 deficiency

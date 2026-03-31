@@ -6,6 +6,9 @@
 **Cision ID:** fastpartner
 **Keywords:** årsredovisning, FastPartner
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/878/4328684/4014686.pdf) → `pdfs/f7f781df_4014686.pdf`
+
 ---
 
 **Taggar:**

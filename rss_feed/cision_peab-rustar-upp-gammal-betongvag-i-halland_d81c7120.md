@@ -6,6 +6,9 @@
 **Cision ID:** peab-asfalt
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Public/21464/4329414/bc55c9349264690c.pdf) → `pdfs/d81c7120_bc55c9349264690c.pdf`
+
 ---
 
 **Lagom till sommaren ska trafiken rulla säkert på E6 mellan Getinge och Falkenberg.**** ****Peab har fått Trafikverkets uppdrag att riva tre och en halv kilometer av den slitna betongvägen, bygga upp nya lager och asfaltera med hög kvalitet.**

@@ -5,6 +5,9 @@
 **MFN ID:** midsona
 **Company:** Midsona
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/bf1ad07d-2a61-41f7-849d-f8de85f0edd1/notice-of-annual-general-meeting-in-midsona-ab-publ.pdf) → `pdfs/d3403ef1_notice-of-annual-general-meeting-in-midsona-ab-publ.pdf`
+
 ---
 
 **The shareholders in Midsona AB (publ), reg.no. 556241-5322, (“Midsona”) are hereby given notice that the Annual General Meeting will be held on Wednesday 6 May 2026, at 3:00 p.m. at High Court in Malmö, Malmöhusvägen 1, 211 18 Malmö. Registration starts at 2:00 p.m. and will stop when the Meeting starts.**

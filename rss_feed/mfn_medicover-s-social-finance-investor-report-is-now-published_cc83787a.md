@@ -5,6 +5,10 @@
 **MFN ID:** medicover
 **Company:** Medicover AB (Publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/9a927534-feca-4d65-ae4c-f7a291824ee0/medicovers-social-finance-investor-report-is-now-published.pdf) → `pdfs/cc83787a_medicovers-social-finance-investor-report-is-now-published.pdf`
+- [PDF](https://storage.mfn.se/db76ab22-47ac-4cc3-94d6-95265d004d47/medicover-social-finance-investor-report-2025.pdf) → `pdfs/cc83787a_medicover-social-finance-investor-report-2025.pdf`
+
 ---
 
 **Medicover has published its 2025 Social finance investor report. The social finance framework, originally created for Medicover’s second Schuldschein issue in 2021, has since been updated, most recently in 2025. The framework follows a use‑of‑proceeds approach that supports the World Bank’s goals for Universal Health Coverage and aims to expand access to essential healthcare services.**

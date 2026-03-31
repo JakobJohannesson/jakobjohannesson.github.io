@@ -5,6 +5,9 @@
 **MFN ID:** netel-holding
 **Company:** Netel Holding AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/2143fc07-dc7c-49ac-8a60-f24d429ecb51/netel-utokar-samarbetet-med-norska-elbolaget-glitre-nett-med-nytt-ramavtal-vart-upp-till-300-mnok.pdf) → `pdfs/7a70b43a_netel-utokar-samarbetet-med-norska-elbolaget-glitre-nett-med-nytt-ramavtal-vart-upp-till-300-mnok.pdf`
+
 ---
 
 **Netels dotterbolag Nett-Tjenester har tecknat ett ramavtal med Glitre Nett värt upp till 300 MNOK. Avtalet omfattar ett nytt geografiskt område för Netel och gäller tjänster inom regionalnät – drift och projekt.**

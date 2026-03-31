@@ -5,6 +5,9 @@
 **MFN ID:** bakkafrost
 **Company:** Bakkafrost
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk2MTYmYXR0YWNobWVudElkPTMyMjQ3Nw/notice_of_the_annual_general_meeting_2026.pdf) → `pdfs/50ece306_notice_of_the_annual_general_meeting_2026.pdf`
+
 ---
 
 Hereby Bakkafrost announces the notice of the Annual General Meeting 2026.

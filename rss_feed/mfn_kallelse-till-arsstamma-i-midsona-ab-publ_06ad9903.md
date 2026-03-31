@@ -5,6 +5,9 @@
 **MFN ID:** midsona
 **Company:** Midsona
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/0bcd507b-521e-4710-8b57-0098f6605421/kallelse-till-arsstamma-i-midsona-ab-publ.pdf) → `pdfs/06ad9903_kallelse-till-arsstamma-i-midsona-ab-publ.pdf`
+
 ---
 
 **Aktieägarna i Midsona AB (publ), org. nr 556241–5322, (”Midsona”) kallas till årsstämma onsdagen den 6 maj 2026 kl. 15.00 på High Court i Malmö, Malmöhusvägen 1, 211 18 Malmö. Rösträttsregistrering börjar kl. 14.00 och avbryts när stämman öppnas.**

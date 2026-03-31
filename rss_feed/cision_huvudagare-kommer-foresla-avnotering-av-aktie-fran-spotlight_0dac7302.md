@@ -6,6 +6,9 @@
 **Cision ID:** pharmalundensis
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/11607/4328530/4014043.pdf) → `pdfs/0dac7302_4014043.pdf`
+
 ---
 
 ****

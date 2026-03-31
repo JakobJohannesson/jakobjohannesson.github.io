@@ -6,6 +6,9 @@
 **Cision ID:** truecaller-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/20429/4328353/4013426.pdf) → `pdfs/40ada6e1_4013426.pdf`
+
 ---
 
 **Under vecka 13, 23–27 mars 2026, återköpte Truecaller AB (publ) (LEI-kod 549300TEYF1FA5G5GK26) 500 000 egna B-aktier (ISIN: SE0016787071), vilket motsvarar 0,14% av utestående kapital. Totalt har 15 629 594 aktier återköpts sedan det nuvarande programmet inleddes vilket motsvarar 4,42% av utestående kapital.**

@@ -5,6 +5,9 @@
 **MFN ID:** sagax
 **Company:** AB Sagax (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/071d89fa-fa15-4240-b74b-1d58f172fd9d/nytt-antal-roster.pdf) → `pdfs/28e8b222_nytt-antal-roster.pdf`
+
 ---
 
 Aktieägare har begärt omvandling av 316 470 stamaktier av serie A till stamaktier av serie B i enlighet med Sagax bolagsordning. Omvandlingen har genomförts vilket har minskat antalet röster i bolaget med 284 823 röster. Antalet röster uppgår till totalt 70 198 804,2 efter omvandlingen. Aktiekapitalet om 816 740 620,5 kronor är oförändrat.

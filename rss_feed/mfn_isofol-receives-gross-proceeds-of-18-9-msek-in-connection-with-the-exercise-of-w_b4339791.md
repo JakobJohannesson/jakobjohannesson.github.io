@@ -5,6 +5,9 @@
 **MFN ID:** isofol-medical
 **Company:** Isofol Medical AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/27a68919-8e98-4467-bfa0-0ad383102a5c/20260331_pm_isofol_outcome-to1-2026.pdf) → `pdfs/b4339791_20260331_pm_isofol_outcome-to1-2026.pdf`
+
 ---
 
 **GOTHENBURG, Sweden, 31 March 2026 – Isofol Medical AB (publ) (Nasdaq Stockholm: ISOFOL) today announces that the exercise period for warrants of series TO1 (“TO1”) in Isofol (“Isofol” or the “Company”) ended on 30 March 2026. The outcome shows that a total of 37,301,067 TO1 were exercised for subscription of 37,301,067 new shares, corresponding to a subscription rate of approximately 93.57 per cent. As the warrants were not exercised in full, the top guarantee commitment has been utilised, corresponding to 2,083,332 shares or approximately 5.23 per cent of the outstanding warrants. The Board of Directors intends, pursuant to the authorisation granted by the Annual General Meeting on 21 May 2025, to resolve on a directed share issue of these shares to the existing shareholder Solasia Pharma K.K. at a subscription price corresponding to the exercise price for TO1. Through the exercise of the warrants of series TO1 and guarantee commitments, Isofol will receive approximately 18.9 MSEK before issue costs.**

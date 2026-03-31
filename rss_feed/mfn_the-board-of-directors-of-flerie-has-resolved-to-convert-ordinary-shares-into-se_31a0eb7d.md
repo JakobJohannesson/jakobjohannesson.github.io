@@ -5,6 +5,9 @@
 **MFN ID:** flerie
 **Company:** Flerie AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/47d4d268-94b6-4aa7-825c-c1edaf0b1d02/the-board-of-directors-of-flerie-has-resolved-to-convert-ordinary-shares-into-series-c-shares-under-fleries-share-redemption-scheme.pdf) → `pdfs/31a0eb7d_the-board-of-directors-of-flerie-has-resolved-to-convert-ordinary-shares-into-series-c-shares-under-fleries-share-redemption-scheme.pdf`
+
 ---
 
 **At the Extraordinary General Meeting of Flerie AB (publ) (“Flerie” or the “Company”) on 10 June 2024, it was resolved to implement a share redemption scheme. Redemption under the scheme is regulated in the Articles of Association and is carried out in two steps, conversion of ordinary shares to shares of series C followed by redemption of the shares of series C.**

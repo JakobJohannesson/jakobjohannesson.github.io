@@ -5,6 +5,9 @@
 **MFN ID:** emilshus
 **Company:** Emilshus
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/d8273b09-b3fd-494c-9cbf-0b9f233ec180/rapport.pdf) → `pdfs/d89c7804_rapport.pdf`
+
 ---
 
 Fastighetsbolaget Emilshus AB (publ) årsredovisning för 2025 har idag offentliggjorts och finns tillgänglig på Emilshus webbplats, www.emilshus.com. 

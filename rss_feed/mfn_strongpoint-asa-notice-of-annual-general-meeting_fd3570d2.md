@@ -5,6 +5,10 @@
 **MFN ID:** strongpoint
 **Company:** StrongPoint
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk3MzImYXR0YWNobWVudElkPTMyMjU4MQ/download-announcement-as-pdf.pdf) → `pdfs/fd3570d2_download-announcement-as-pdf.pdf`
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk3MzImYXR0YWNobWVudElkPTMyMjU4Mg/notice-of-annual-general-meeting-29-april-2026.pdf) → `pdfs/fd3570d2_notice-of-annual-general-meeting-29-april-2026.pdf`
+
 ---
 
 30.3.2026 09:00:01 CEST | StrongPoint | Additional regulated information

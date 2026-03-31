@@ -5,6 +5,10 @@
 **MFN ID:** matas-group
 **Company:** Matas Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/cf0a272f-caff-43a4-8615-c0e0506f6346/60-matas-share-buy-back-reporting-of-transactions-week-13-30032026.pdf) → `pdfs/de273e8d_60-matas-share-buy-back-reporting-of-transactions-week-13-30032026.pdf`
+- [PDF](https://storage.mfn.se/68f2a7d2-a77e-48a1-9710-bd33af78256f/60b-appendix-transactions-week-13-2026.pdf) → `pdfs/de273e8d_60b-appendix-transactions-week-13-2026.pdf`
+
 ---
 
 Company announcement no. 60 2025/26

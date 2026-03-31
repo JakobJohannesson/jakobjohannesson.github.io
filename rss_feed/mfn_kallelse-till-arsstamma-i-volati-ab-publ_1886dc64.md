@@ -5,6 +5,9 @@
 **MFN ID:** volati
 **Company:** Volati AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/13377992-2e3e-4429-925e-d08e27666635/kallelse-till-arsstamma-i-volati-ab-publ.pdf) → `pdfs/1886dc64_kallelse-till-arsstamma-i-volati-ab-publ.pdf`
+
 ---
 
 **Volati AB (publ), 556555-4317, håller årsstämma onsdagen den 29 april 2026 klockan 17.00 på GT30 på Grev Turegatan 30, 114 38 i Stockholm. Entrén till stämmolokalen öppnar klockan 16.30.**

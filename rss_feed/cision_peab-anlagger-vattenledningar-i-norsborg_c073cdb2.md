@@ -6,6 +6,9 @@
 **Cision ID:** peab
 **Keywords:** peab, Vattenledning, Norsborg, nytt uppdrag, anlägger, Närproducerat samhällsbygge
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/424/4328315/4013127.pdf) → `pdfs/c073cdb2_4013127.pdf`
+
 ---
 
 **Peab har fått uppdraget att anlägga nya vattenledningar i Norsborg i Botkyrka kommun. Beställare är Stockholm Vatten och Avfall AB och kontraktssumman uppgår till 330 miljoner svenska kronor.**

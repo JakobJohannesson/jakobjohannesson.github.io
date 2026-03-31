@@ -5,6 +5,9 @@
 **MFN ID:** addlife
 **Company:** AddLife
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/e5ba5296-c609-4611-a955-610b3b07ce64/notice-to-attend-the-annual-general-meeting-of-addlife-ab-publ.pdf) → `pdfs/e1cb0a70_notice-to-attend-the-annual-general-meeting-of-addlife-ab-publ.pdf`
+
 ---
 
 **The shareholders of AddLife AB (publ) (the “Company”), reg. no 556995-8126, are hereby given notice to attend the Annual General Meeting to be held at 4:00 p.m. CEST, Wednesday, 6 May 2026, at World Trade Center, room New York, Klarabergsviadukten 70, Stockholm, Sweden. Registration for the meeting commences at 3:30 p.m. CEST.**

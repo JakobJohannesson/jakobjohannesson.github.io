@@ -5,6 +5,10 @@
 **MFN ID:** bw-lpg
 **Company:** BW LPG
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/fe11accb-7a38-4202-be44-457da9cc09f5/2025-integrated-annual-report.pdf) → `pdfs/98b381e0_2025-integrated-annual-report.pdf`
+- [PDF](https://storage.mfn.se/87f6138e-d3bf-4461-92e6-0facff2bf8da/2025-annual-report-on-form-20-f.pdf) → `pdfs/98b381e0_2025-annual-report-on-form-20-f.pdf`
+
 ---
 
 **Singapore, 31 March 2026**

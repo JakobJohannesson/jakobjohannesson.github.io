@@ -6,6 +6,9 @@
 **Cision ID:** enity-holding-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/23762/4328005/4012456.pdf) → `pdfs/e9a81829_4012456.pdf`
+
 ---
 
 Aktieägarna i Enity Holding AB (publ) org.nr. 556668-9575, kallas härmed till årsstämma torsdagen den 7 maj 2026 kl. 10.00 i Helio GT30, Grev Turegatan 30, Stockholm.

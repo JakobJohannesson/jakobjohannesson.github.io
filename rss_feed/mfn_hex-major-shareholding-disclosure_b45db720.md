@@ -5,6 +5,9 @@
 **MFN ID:** hexagon-composites
 **Company:** Hexagon Composites
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk2OTUmYXR0YWNobWVudElkPTMyMjU1Ng/hexagon-composites-asa-2026-03-27-form.pdf) → `pdfs/b45db720_hexagon-composites-asa-2026-03-27-form.pdf`
+
 ---
 
 JPMorgan Chase & Co. ("JPMC ") has a notifiable interest in the share capital of

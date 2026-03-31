@@ -6,6 +6,9 @@
 **Cision ID:** sbc-sveriges-bostadsrattscentrum
 **Keywords:** bostadsrättsförening, SBC
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/15291/4328041/4012445.pdf) → `pdfs/8b5edcb5_4012445.pdf`
+
 ---
 
 **Från den 1 januari 2027 blir fastighetsnära insamling av förpackningar (FNI) obligatorisk i alla flerbostadshus. För landets bostadsrättsföreningar innebär det nya krav på sortering direkt vid fastigheten och i många fall behov av ombyggnationer, investeringar och nya beslut för styrelsen.**

@@ -6,6 +6,9 @@
 **Cision ID:** hemso-fastighets-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/2534/4328580/4014184.pdf) → `pdfs/7dbfb593_4014184.pdf`
+
 ---
 
 **Hemsö förvärvar Valkeboskolan, en kommunal för- och grundskola belägen i Vikingstad utanför Linköping, från Botrygg. Linköpings kommun är hyresgäst med ett hyresavtal med en återstående hyrestid om 11 år. Den uthyrningsbara ytan uppgår till 6 600 kvadratmeter. **

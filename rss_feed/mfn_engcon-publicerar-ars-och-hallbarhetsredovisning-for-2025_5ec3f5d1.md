@@ -5,6 +5,9 @@
 **MFN ID:** engcon
 **Company:** engcon AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/224318d6-cc23-47a5-a594-3a962e176dd3/engcon-ab-ars-och-hallbarhetsredovisning-2025.pdf) → `pdfs/5ec3f5d1_engcon-ab-ars-och-hallbarhetsredovisning-2025.pdf`
+
 ---
 
 **engcons års- och hållbarhetsredovisning för 2025 är från och med idag tillgänglig.**

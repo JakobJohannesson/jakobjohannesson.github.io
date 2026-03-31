@@ -5,6 +5,9 @@
 **MFN ID:** jm
 **Company:** JM
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/f580c271-53f7-4b69-b164-3bc6726a2ec1/260331-jm-selling-residential-project-in-sollentuna-stockholm.pdf) → `pdfs/1f2ccf66_260331-jm-selling-residential-project-in-sollentuna-stockholm.pdf`
+
 ---
 
 **JM has signed an agreement with Folksam for the sale of a rental project in Väsjön, Sollentuna. The sales price amounts to SEK 580m.**

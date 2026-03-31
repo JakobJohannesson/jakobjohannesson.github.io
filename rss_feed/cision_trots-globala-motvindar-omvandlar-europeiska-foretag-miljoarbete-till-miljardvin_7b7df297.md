@@ -6,6 +6,9 @@
 **Cision ID:** cdp
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/7438/4328853/4015441.pdf) → `pdfs/7b7df297_4015441.pdf`
+
 ---
 
 **Europeiska företag ligger i framkant i klimatomställningen och visar hur hållbarhetsinvesteringar kan generera ekonomiskt värde och bli en konkurrensfördel. Enligt rapporten CDP Corporate Health Check 2026 Europe minskar de sina utsläpp ungefär 60 procent snabbare än motsvarande företag globalt och har under det senaste året realiserat ekonomiska möjligheter värda 67 miljarder euro. Det motsvarar över en tredjedel av de 190 miljarder euro som realiserats globalt under året.  I Norden har klimatledande företag realiserat 1,6 miljarder euro i ekonomiska möjligheter. **

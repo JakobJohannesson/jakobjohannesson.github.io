@@ -5,6 +5,9 @@
 **MFN ID:** bhg-group
 **Company:** BHG Group AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/f1bbf9c0-12e0-43ce-bf37-3a61d2811f16/kallelse-till-arsstamma-i-bhg-group.pdf) → `pdfs/92672c1d_kallelse-till-arsstamma-i-bhg-group.pdf`
+
 ---
 
 **Aktieägarna i BHG Group AB (publ) kallas till årsstämma tisdagen den 5 maj 2026 klockan 13:00 på Studio, konferensrum View, Nordenskiöldsgatan 24, Malmö.**

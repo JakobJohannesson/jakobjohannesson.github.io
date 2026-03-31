@@ -5,6 +5,9 @@
 **MFN ID:** cint-group
 **Company:** Cint Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/11e757ef-dcea-432c-9c8b-f404369abcf5/cint-group-annual-and-sustainability-report-2025.pdf) → `pdfs/bf5bfa03_cint-group-annual-and-sustainability-report-2025.pdf`
+
 ---
 
 Cint Group’s Annual and Sustainability Report 2025 has today been published on [Cint™ Investors](https://investors.cint.com/)

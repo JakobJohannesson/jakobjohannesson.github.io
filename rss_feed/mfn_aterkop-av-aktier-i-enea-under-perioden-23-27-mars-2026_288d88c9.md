@@ -5,6 +5,9 @@
 **MFN ID:** enea
 **Company:** Enea
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/b9d480ee-089a-46d7-9ed6-6e62dab59b77/aterkop-av-aktier-i-enea-under-perioden-23-27-mars-2026.pdf) → `pdfs/288d88c9_aterkop-av-aktier-i-enea-under-perioden-23-27-mars-2026.pdf`
+
 ---
 
 Under perioden 23-27 mars 2026 har Enea AB (publ) återköpt sammanlagt 17 500 egna aktier (ISIN: SE0009697220) inom ramen för bemyndigandet från årsstämman 2025 om återköp av egna aktier. Syftet med återköpsprogrammet är att möjliggöra för bolaget att över tid anpassa sin kapitalstruktur till sitt kapitalbehov, och därmed bidra till ett ökat värde för aktieägarna. Avsikten är att de aktier som återköps ska dras in genom beslut vid kommande bolagsstämmor.

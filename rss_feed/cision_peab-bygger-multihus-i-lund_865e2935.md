@@ -6,6 +6,9 @@
 **Cision ID:** peab
 **Keywords:** lund, peab, bygger, nytt uppdrag, Ny stadsdel, Multihus, Närproducerat samhällsbygge
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/424/4328438/4013662.pdf) → `pdfs/865e2935_4013662.pdf`
+
 ---
 
 **Peab har fått uppdraget att bygga ett multihus i Lund. Beställare är Dommura Properties AB och kontraktssumman uppgår till 411 miljoner svenska kronor.**

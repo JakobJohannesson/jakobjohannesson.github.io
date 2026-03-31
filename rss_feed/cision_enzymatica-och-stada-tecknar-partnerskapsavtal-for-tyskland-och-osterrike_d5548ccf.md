@@ -6,6 +6,9 @@
 **Cision ID:** enzymatica-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/18091/4329342/4017638.pdf) → `pdfs/d5548ccf_4017638.pdf`
+
 ---
 
 Regulatorisk pressrelease

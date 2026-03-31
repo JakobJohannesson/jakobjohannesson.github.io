@@ -6,6 +6,9 @@
 **Cision ID:** epiroc
 **Keywords:** epiroc, Kallelse till årsstämma 2026
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/16899/4328578/4015562.pdf) → `pdfs/e0dd8a49_4015562.pdf`
+
 ---
 
 **Epiroc AB kallar härmed till årsstämma tisdagen 5 maj 2026 kl. 16:00 i Filmstaden Sickla, Sickla Köpkvarter, Marcusplatsen 19, Nacka. Inregistrering sker från kl. 15:30. Kaffe serveras från kl. 14:00.**

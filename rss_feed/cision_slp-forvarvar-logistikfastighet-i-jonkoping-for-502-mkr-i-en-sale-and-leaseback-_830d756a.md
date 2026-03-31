@@ -6,6 +6,9 @@
 **Cision ID:** swedish-logistic-property
 **Keywords:** jönköping, SLP, Filip Persson
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/20026/4329337/4017424.pdf) → `pdfs/830d756a_4017424.pdf`
+
 ---
 
 **SLP har idag förvärvat och tillträtt en logistikfastighet i Jönköping, Barnarps-Kråkebo 1:37, genom en ”sale and leaseback-affär” med IKEA (INGKA). Fastigheten, med ett attraktivt läge vid E4:an, har en uthyrningsbar yta om cirka 94 000 kvm och en markareal om totalt cirka 176 000 kvm.**

@@ -5,6 +5,9 @@
 **MFN ID:** volati
 **Company:** Volati AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/81cd0874-8a0f-4c51-ac7d-7397e94ee4a9/notice-to-annual-general-meeting-in-volati-ab-publ.pdf) → `pdfs/3f240c4e_notice-to-annual-general-meeting-in-volati-ab-publ.pdf`
+
 ---
 
 **The English text is an unofficial translation of the Swedish original. In case of any discrepancies between the Swedish text and the English translation, the Swedish text shall prevail.**

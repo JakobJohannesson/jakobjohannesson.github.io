@@ -5,6 +5,9 @@
 **MFN ID:** oncopeptides
 **Company:** Oncopeptides
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/efb3d800-7bfa-44ec-9034-a06f364f2ec8/antal-aktier-och-roster-i-oncopeptides.pdf) → `pdfs/8811f649_antal-aktier-och-roster-i-oncopeptides.pdf`
+
 ---
 
 **Stockholm – 31 mars 2026 – Oncopeptides AB (publ) (Nasdaq Stockholm: ONCO), ett biotechbolag inriktat på att utveckla läkemedel mot svårbehandlade hematologiska sjukdomar, meddelar idag att antalet aktier och röster i Oncopeptides har ändrats till följd av företrädesemissionen som slutfördes den 16 mars 2026.**

@@ -5,6 +5,9 @@
 **MFN ID:** netel-holding
 **Company:** Netel Holding AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/77d4051b-2c74-4062-aae7-6a55fb26d16c/netel-tecknar-avtal-med-stockholm-stad-vart-30-msek.pdf) → `pdfs/8cb05def_netel-tecknar-avtal-med-stockholm-stad-vart-30-msek.pdf`
+
 ---
 
 **Netel har tecknat avtal med Stockholm stad för entreprenadarbeten i området Gasklocka 3 och 4 i Hjorthagen. Stockholm stad är en ny kund till Netel.**

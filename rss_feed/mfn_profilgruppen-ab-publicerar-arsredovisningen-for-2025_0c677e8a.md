@@ -5,6 +5,9 @@
 **MFN ID:** profilgruppen
 **Company:** ProfilGruppen AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/87c7e40e-a8b1-48bf-b42a-1a353bc8626d/profilgruppen-ab-arsredovisning-2025.pdf) → `pdfs/0c677e8a_profilgruppen-ab-arsredovisning-2025.pdf`
+
 ---
 
 ProfilGruppens årsredovisning för 2025, inklusive hållbarhetsrapport, har nu offentliggjorts genom att göras tillgänglig på bolagets hemsida, www.profilgruppen.se.

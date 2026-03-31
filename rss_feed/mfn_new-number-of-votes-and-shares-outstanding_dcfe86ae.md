@@ -5,6 +5,9 @@
 **MFN ID:** industrivarden
 **Company:** Industrivärden
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/6e4b530f-a292-4e34-b42f-156c4c973eac/ny-aktiebas-260331-eng.pdf) → `pdfs/dcfe86ae_ny-aktiebas-260331-eng.pdf`
+
 ---
 
 Where the company increases or reduces the total number of shares or votes in the company, the company shall by law publish information regarding the change.

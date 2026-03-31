@@ -5,6 +5,9 @@
 **MFN ID:** stillfront-group
 **Company:** Stillfront Group AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/cd71e27f-7bd8-4aad-83c6-b90d17fcb587/announcement-from-the-extraordinary-general-meeting-in-stillfront-group-ab-publ-on-27-march-2026.pdf) → `pdfs/bb39b059_announcement-from-the-extraordinary-general-meeting-in-stillfront-group-ab-publ-on-27-march-2026.pdf`
+
 ---
 
 **Stillfront Group AB (publ) today on 27 March 2026 held an extraordinary general meeting , where the following main resolutions were adopted. The extraordinary general meeting was convened upon request from the company’s two largest shareholders, Laureus Capital GmbH and Knuth Capital LLC FZ (the “Major Shareholders”).**

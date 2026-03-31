@@ -6,6 +6,9 @@
 **Cision ID:** stockholm-corporate-finance
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/2677/4328583/4014185.pdf) → `pdfs/90f67c09_4014185.pdf`
+
 ---
 
 Stockholm Corporate Finance kommer att arrangera de tolfte årliga Kapitalmarknadsdagarna – Fastigheter den 1 och 2 september 2026. Moderator under dagarna är Arvid Lindqvist, aktiefondförvaltare på Catella.

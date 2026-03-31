@@ -6,6 +6,9 @@
 **Cision ID:** saltx-technology-holding-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/11067/4328741/4015366.pdf) → `pdfs/76190086_4015366.pdf`
+
 ---
 
 Idag publicerar SaltX Technology Holding AB (publ) sin årsredovisning med tillhörande bolagsstyrningsrapport som beskriver 2025 års verksamhet.

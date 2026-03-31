@@ -5,6 +5,9 @@
 **MFN ID:** logistea-ab
 **Company:** Logistea
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/ab3ad100-fa39-44f5-a26f-c3d415834d4f/logisteas-property-in-nassjo-certified-with-the-highest-rating-breeam-in-use-outstanding.pdf) → `pdfs/10a6c18a_logisteas-property-in-nassjo-certified-with-the-highest-rating-breeam-in-use-outstanding.pdf`
+
 ---
 
 **Logistea's property Utveckling 1 in Nässjö, which was completed at the end of 2025 and is fully leased to Intersport Sweden, has been certified according to BREEAM In-Use with the rating Outstanding – the highest level in BREEAM's rating scale. At present, there are only nine properties in Sweden that have achieved this classification.**

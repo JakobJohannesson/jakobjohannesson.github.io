@@ -6,6 +6,9 @@
 **Cision ID:** genova-property-group-ab--publ-
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/13559/4328329/4013193.pdf) → `pdfs/b372af6a_4013193.pdf`
+
 ---
 
 Sammantaget innebär de finansiella effekterna av transaktionen att Genovas likviditet stärks med cirka 100 Mkr och att räntebärande skulder minskar med cirka 175 Mkr. I den första etappen ingår tio fastigheter och utveckling av cirka 40 000 kvm ljus BTA. Tillträde planeras ske 31 mars 2026. Urban Partners, som Genova sedan tidigare har ett joint venture med för hyresbostäder och äldreboende i Norrtälje, har en option om att förvärva 50 procent av resterande två etapper i projektet.

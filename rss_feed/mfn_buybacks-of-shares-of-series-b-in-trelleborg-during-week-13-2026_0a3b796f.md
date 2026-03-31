@@ -5,6 +5,9 @@
 **MFN ID:** trelleborg
 **Company:** Trelleborg
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/73609c60-b3d5-4232-bbe4-82c904813940/buybacks-of-shares-of-series-b-in-trelleborg-during-week-13-2026.pdf) → `pdfs/0a3b796f_buybacks-of-shares-of-series-b-in-trelleborg-during-week-13-2026.pdf`
+
 ---
 
 During the period March 23, 2026, to March 27, 2026, Trelleborg AB (LEI code 213800XY16PAWG2PAD14) has repurchased in total 120,000 own shares of series B (ISIN: SE0000114837) as part of the buyback program initiated by the Board of Directors. The purpose is to adjust the company's capital structure, contributing to increased shareholder value. Repurchases are also made to ensure the delivery of shares and related costs, such as social security contributions, for the Performance Share Program (PSP) 2025/2027.

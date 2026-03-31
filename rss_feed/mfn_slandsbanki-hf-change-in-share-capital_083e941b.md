@@ -5,6 +5,9 @@
 **MFN ID:** islandsbanki
 **Company:** Íslandsbanki
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/fa5fecb7-a0bd-4dbe-9be8-b2ae261d7ac6/islandsbanki-hf-change-in-share-capital.pdf) → `pdfs/083e941b_islandsbanki-hf-change-in-share-capital.pdf`
+
 ---
 
 At the Annual General Meeting of Íslandsbanki hf. (hereinafter the Bank) on 19 March 2026, the proposal og the Board of Directors of the Bank to reduce the Banks’s share capital was approved. The meeting resolved to reduce the Bank’s share capital by ISK 636,476,885 nominal value, equivalent to 127,295,377 shares, from ISK 9,402,353,850 to ISK 8,765,876,965 nominal value with one vote accompanying each ISK of nominal share capital.

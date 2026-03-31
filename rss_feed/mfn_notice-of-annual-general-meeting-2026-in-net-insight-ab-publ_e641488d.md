@@ -5,6 +5,9 @@
 **MFN ID:** net-insight
 **Company:** Net Insight
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/128cfcde-aff1-4aec-8ddb-7abdfed2e7f8/notice-of-annual-general-meeting-2026-in-net-insight-ab-publ.pdf) → `pdfs/e641488d_notice-of-annual-general-meeting-2026-in-net-insight-ab-publ.pdf`
+
 ---
 
 The shareholders in Net Insight AB (publ), reg. no. 556533-4397, with registered office in Solna, Sweden, are hereby summoned to the annual general meeting to be held on Tuesday, 12 May 2026 at 10.00 CEST, at the company's office at Smidesvägen 7, Solna, Sweden.

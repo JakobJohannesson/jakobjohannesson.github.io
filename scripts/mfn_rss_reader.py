@@ -26,6 +26,7 @@ FEED_URL = (
 )
 BASE_URL = "https://mfn.se"
 FEED_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "rss_feed")
+PDF_DIR = os.path.join(FEED_DIR, "pdfs")
 SEEN_FILE = os.path.join(FEED_DIR, "mfn_seen_ids.json")
 
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -59,6 +60,31 @@ def fetch_url(url):
     req = Request(url, headers={"User-Agent": USER_AGENT})
     with urlopen(req, timeout=30, context=SSL_CTX) as resp:
         return resp.read().decode("utf-8", errors="replace")
+
+
+def fetch_url_binary(url):
+    req = Request(url, headers={"User-Agent": USER_AGENT})
+    with urlopen(req, timeout=60, context=SSL_CTX) as resp:
+        return resp.read()
+
+
+def download_pdf(pdf_url, id_hash):
+    """Download a PDF and save it to PDF_DIR. Returns the local filename or None."""
+    os.makedirs(PDF_DIR, exist_ok=True)
+    url_filename = pdf_url.rstrip("/").split("/")[-1]
+    local_name = f"{id_hash}_{url_filename}"
+    local_path = os.path.join(PDF_DIR, local_name)
+    if os.path.exists(local_path):
+        return local_name
+    try:
+        data = fetch_url_binary(pdf_url)
+        with open(local_path, "wb") as f:
+            f.write(data)
+        print(f"  Downloaded PDF: {local_name}")
+        return local_name
+    except Exception as e:
+        print(f"  Warning: could not download PDF {pdf_url}: {e}")
+        return None
 
 
 def strip_html(text):
@@ -147,6 +173,15 @@ def fetch_article(url):
 
     result = {}
 
+    # Extract all PDF attachments from the full page (deduplicated, preserving order)
+    seen_pdfs = set()
+    pdf_urls = []
+    for pdf_url in re.findall(r'https://storage\.mfn\.se/[^\s"\'<>]+\.pdf', page_html):
+        if pdf_url not in seen_pdfs:
+            seen_pdfs.add(pdf_url)
+            pdf_urls.append(pdf_url)
+    result["pdf_urls"] = pdf_urls
+
     # Try MFN-native format first (content s-mfn)
     mfn_match = re.search(r'class="content s-mfn">(.*?)</div>\s*<div class="footer">', page_html, re.DOTALL)
     if mfn_match:
@@ -169,16 +204,30 @@ def fetch_article(url):
         result["body_md"] = html_to_markdown(body_html)
         return result
 
-    return None
+    return result if result.get("pdf_urls") else None
 
 
-def save_item(item, article):
+def save_item(item, article, id_hash=None):
     slug = slugify(item["title"])
-    id_hash = hashlib.md5(item["id"].encode()).hexdigest()[:8]
+    if id_hash is None:
+        id_hash = hashlib.md5(item["id"].encode()).hexdigest()[:8]
     filename = f"mfn_{slug}_{id_hash}.md"
     filepath = os.path.join(FEED_DIR, filename)
 
     body = article["body_md"] if article and article.get("body_md") else "(Article content could not be fetched)"
+
+    # Download PDFs and build reference section
+    pdf_section = ""
+    if article and article.get("pdf_urls"):
+        pdf_lines = []
+        for pdf_url in article["pdf_urls"]:
+            local_name = download_pdf(pdf_url, id_hash)
+            if local_name:
+                pdf_lines.append(f"- [PDF]({pdf_url}) → `pdfs/{local_name}`")
+            else:
+                pdf_lines.append(f"- [PDF]({pdf_url})")
+        if pdf_lines:
+            pdf_section = "\n**Attachments:**\n" + "\n".join(pdf_lines) + "\n"
 
     content = f"""# {item['title']}
 
@@ -186,7 +235,7 @@ def save_item(item, article):
 **Source:** [{item['url']}]({item['url']})
 **MFN ID:** {item['mfn_id']}
 **Company:** {item['company']}
-
+{pdf_section}
 ---
 
 {body}
@@ -202,6 +251,7 @@ def main():
     args = parser.parse_args()
 
     os.makedirs(FEED_DIR, exist_ok=True)
+    os.makedirs(PDF_DIR, exist_ok=True)
     seen = load_seen_ids()
 
     page_html = fetch_url(FEED_URL)

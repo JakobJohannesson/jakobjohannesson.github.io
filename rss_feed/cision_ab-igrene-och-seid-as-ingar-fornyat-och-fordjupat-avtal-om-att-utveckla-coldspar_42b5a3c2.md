@@ -6,6 +6,9 @@
 **Cision ID:** igrene
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Public/11631/4328303/adb8c57634855cab.pdf) → `pdfs/42b5a3c2_adb8c57634855cab.pdf`
+
 ---
 
 **Igrene och SEID fördjupar sitt samarbete om ColdSpark. Teknologin medger omvandling av metan till vätgas och karbonpulver i en koldioxidfri, energisnål process. SEID förbereder ett omfattande industriutvecklingsprogram i Norge som fått stöd av Innovasjon Norge och initiativet Gr****ønn Platform. Stora, internationella energiföretag deltar i programmet. Även Igrene ser fram emot att investera i denna viktiga och banbrytande teknologi, som kommer att underlätta klimatarbetet och samtidigt skapa värdefulla råvaror för Nordens industri.**

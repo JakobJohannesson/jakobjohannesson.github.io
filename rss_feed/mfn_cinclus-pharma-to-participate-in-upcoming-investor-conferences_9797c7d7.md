@@ -5,6 +5,9 @@
 **MFN ID:** cincluspharma
 **Company:** Cinclus Pharma Holding AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/6f06a4a8-f169-4703-99a5-c3866b20440b/cinclus-pharma-to-participate-in-upcoming-investor-conferences.pdf) → `pdfs/9797c7d7_cinclus-pharma-to-participate-in-upcoming-investor-conferences.pdf`
+
 ---
 
 **Cinclus Pharma Holding AB (publ) announces today that the company’s management will participate in the following investor conferences during the spring of 2026:**

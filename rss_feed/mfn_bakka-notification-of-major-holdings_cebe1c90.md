@@ -5,6 +5,9 @@
 **MFN ID:** bakkafrost
 **Company:** Bakkafrost
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk2ODkmYXR0YWNobWVudElkPTMyMjU0Mw/majorno-voting_esma_standardform1_nordea-funds-ltd_voting_bakkafrost-pf_2026-03-27-1.pdf) → `pdfs/cebe1c90_majorno-voting_esma_standardform1_nordea-funds-ltd_voting_bakkafrost-pf_2026-03-27-1.pdf`
+
 ---
 
 Please see attachement on www.newsweb.no

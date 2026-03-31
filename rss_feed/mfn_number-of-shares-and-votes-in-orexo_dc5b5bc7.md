@@ -5,6 +5,9 @@
 **MFN ID:** orexo
 **Company:** Orexo AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/6447a1b4-b2f2-4a19-9419-474e76b290af/number-of-shares-and-votes-in-orexo.pdf) → `pdfs/dc5b5bc7_number-of-shares-and-votes-in-orexo.pdf`
+
 ---
 
 **Uppsala, Sweden – March 31, 2026 - **Orexo AB (publ.), (STO:ORX) (OTCQX:ORXOY), announced today, the last trading day of the month, there are in total 37,156,639 shares in Orexo - whereof 35,127,056 are ordinary shares with one vote per share and 2,029,583 are class C shares with one tenth of a vote per share. The total number of votes in the company is 35,330,014.3.

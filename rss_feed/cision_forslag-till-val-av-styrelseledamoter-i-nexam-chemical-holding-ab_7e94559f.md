@@ -6,6 +6,9 @@
 **Cision ID:** nexam-chemical
 **Keywords:** Nyheter, Nexam Chemical, Nexam
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/6364/4327333/4008790.pdf) → `pdfs/7e94559f_4008790.pdf`
+
 ---
 
 **Valberedningen föreslår omval av styrelseledamöterna Cecilia Jinert Johansson och Martin Roos som ordinarie styrelseledamöter samt nyval av Johan Lundgren, Niclas Ekström och Roland Kasper som ordinarie styrelseledamöter. Lennart Holm och Magnus Wikström har avböjt omval. Till styrelseordförande föreslås Cecilia Jinert Johansson. **

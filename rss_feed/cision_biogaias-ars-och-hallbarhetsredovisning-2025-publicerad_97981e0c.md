@@ -6,6 +6,9 @@
 **Cision ID:** biogaia
 **Keywords:** årsredovisning, BioGaia, års- och hållbarhetsredovisning
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/3271/4328502/4013936.pdf) → `pdfs/97981e0c_4013936.pdf`
+
 ---
 
 Den svenska Års- och hållbarhetsredovisningen 2025 finns även tillgänglig på BioGaias webbplats i European Single Electronic Format (ESEF).

@@ -5,6 +5,9 @@
 **MFN ID:** oncopeptides
 **Company:** Oncopeptides
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/91cbea0c-114a-4c00-99d6-ac19dfc91726/number-of-shares-and-votes-in-oncopeptides.pdf) → `pdfs/a5b047fd_number-of-shares-and-votes-in-oncopeptides.pdf`
+
 ---
 
 **Stockholm – March 31, 2026 – Oncopeptides AB (publ) (Nasdaq Stockholm: ONCO), a biotech company focused on research and development of therapies for difficult-to-treat hematological diseases, today announces that the number of shares and votes in Oncopeptides has changed as a result of the rights issue which ended on March 16, 2026.**

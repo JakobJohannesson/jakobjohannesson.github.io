@@ -5,6 +5,9 @@
 **MFN ID:** rec-silicon
 **Company:** REC Silicon
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/70d805df-a05e-4c78-9169-0433244959a6/rec-silicon-announces-the-refinancing-of-a-usd-110-0-million-guaranteed-term-loan-with-keb-hana-bank.pdf) → `pdfs/f021dd9a_rec-silicon-announces-the-refinancing-of-a-usd-110-0-million-guaranteed-term-loan-with-keb-hana-bank.pdf`
+
 ---
 
 Moses Lake, Washington, USA - March 30, 2026 - REC Silicon ASA (“REC Silicon”), announced today that it has extended its existing USD 110.0 million guaranteed term loan agreement with KEB Hana Bank by way of a refinancing loan with affiliates of KEB Hana Bank on identical terms as the existing loan. The loan has been fully guaranteed by Hanwha Solutions, a shareholder of Anchor AS, which is the largest shareholder of REC Silicon.

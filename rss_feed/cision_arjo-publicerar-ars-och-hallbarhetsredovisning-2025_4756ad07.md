@@ -6,6 +6,9 @@
 **Cision ID:** arjo
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/12208/4329404/4017647.pdf) → `pdfs/4756ad07_4017647.pdf`
+
 ---
 
 Erik Roslund, Investor Relations & Corporate Communications

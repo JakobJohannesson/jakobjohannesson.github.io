@@ -6,6 +6,9 @@
 **Cision ID:** ncc
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/197/4328744/4017373.pdf) → `pdfs/45c38360_4017373.pdf`
+
 ---
 
 **Årsstämman i NCC AB äger rum på SPACE, Sergelgatan 2, Stockholm, tisdagen den 5 maj 2026, kl. 15.30. **

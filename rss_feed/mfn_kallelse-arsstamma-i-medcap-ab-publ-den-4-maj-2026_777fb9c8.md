@@ -5,6 +5,9 @@
 **MFN ID:** medcap
 **Company:** MedCap
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/261ebe55-c109-4a30-ad78-c648cb02e09c/kallelse-arsstamma-i-medcap-ab-publ-den-4-maj-2026.pdf) → `pdfs/777fb9c8_kallelse-arsstamma-i-medcap-ab-publ-den-4-maj-2026.pdf`
+
 ---
 
 **Aktieägarna i MedCap AB (publ), ”Bolaget”, kallas härmed till årsstämma måndagen den 4 maj 2026, kl. 16.00 på IVA, Grev Turegatan 16 i Stockholm. Inregistrering till stämman påbörjas kl. 15.30.**

@@ -6,6 +6,9 @@
 **Cision ID:** abb
 **Keywords:** abb
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/417/4329266/4016971.pdf) → `pdfs/87ac1062_4016971.pdf`
+
 ---
 
 **ABB Sverige**

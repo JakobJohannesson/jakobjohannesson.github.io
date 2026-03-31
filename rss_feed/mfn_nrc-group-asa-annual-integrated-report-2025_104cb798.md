@@ -5,6 +5,9 @@
 **MFN ID:** nrc-group
 **Company:** NRC Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/f6ba8a66-5db7-49fc-a40b-f49e0b8773d8/integrated-annual-report-2025.pdf) → `pdfs/104cb798_integrated-annual-report-2025.pdf`
+
 ---
 
 The Board of Directors of NRC Group ASA has approved the 2025 annual accounts, and the Annual Integrated Report has been published today.

@@ -6,6 +6,9 @@
 **Cision ID:** besqab-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/16425/4329667/4018525.pdf) → `pdfs/e4883991_4018525.pdf`
+
 ---
 
 **Detaljplanen för fastigheten Stjärnan 24 med flera i Norrtälje stad har vunnit laga kraft. Besqab AB (publ) ("Besqab") planerar för ett särskilt boende för äldre (“SÄBO”) på platsen, omfattande cirka 70 lägenheter. Fastigheten ligger i ett bebyggt område, längs Carl Bondes väg.**

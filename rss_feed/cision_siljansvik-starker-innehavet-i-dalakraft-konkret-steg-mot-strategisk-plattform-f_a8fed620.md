@@ -6,6 +6,9 @@
 **Cision ID:** siljansvik-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Public/4197/4329171/8b6ae51ce739f655.pdf) → `pdfs/a8fed620_8b6ae51ce739f655.pdf`
+
 ---
 
 * *

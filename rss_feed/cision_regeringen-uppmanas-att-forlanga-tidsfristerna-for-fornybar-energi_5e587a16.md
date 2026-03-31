@@ -6,6 +6,9 @@
 **Cision ID:** green-power-sweden
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Public/155/4327985/ba105a461b939b60.pdf) → `pdfs/5e587a16_ba105a461b939b60.pdf`
+
 ---
 
 **Igångsättningstiderna i tillstånd som ges för förnybar elproduktion behöver förlängas till minst tio år, för att Sverige inte ska tappa fart i elektrifieringen. Det skriver branschorganisationen Green Power Sweden i en hemställan till regeringen.**

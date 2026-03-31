@@ -6,6 +6,9 @@
 **Cision ID:** nordic-credit-partners-fund-iii-ab--publ-
 **Keywords:** Nordic Credit Partners Fund III Ab publ
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/16639/4329457/4017791.pdf) → `pdfs/c56a0501_4017791.pdf`
+
 ---
 
 **Taggar:**

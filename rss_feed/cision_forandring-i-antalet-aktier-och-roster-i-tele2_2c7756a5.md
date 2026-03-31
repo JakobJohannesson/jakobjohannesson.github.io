@@ -6,6 +6,9 @@
 **Cision ID:** tele2-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/3372/4327544/4011710.pdf) → `pdfs/2c7756a5_4011710.pdf`
+
 ---
 
 **Stockholm – Tele2 AB (”Tele2”) (Nasdaq Stockholm: TEL2 A och TEL2 B) meddelade idag att det sammanlagda antalet aktier och röster i Tele2 har ökat med 1 500 000 aktier respektive röster.**

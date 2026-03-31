@@ -5,6 +5,10 @@
 **MFN ID:** np3-fastigheter
 **Company:** NP3 Fastigheter
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/d4ba55fb-d7ca-4625-867f-269587b6a7e4/np3-fastigheter-acquires-properties-for-sek-108-million.pdf) → `pdfs/9afb9d47_np3-fastigheter-acquires-properties-for-sek-108-million.pdf`
+- [PDF](https://storage.mfn.se/2611f50d-797f-4aaf-bc21-5bb10101d945/appendix-acquired-and-divested-properties.pdf) → `pdfs/9afb9d47_appendix-acquired-and-divested-properties.pdf`
+
 ---
 
 **NP3 Fastigheter AB ("NP3") has, through six transactions, acquired seven properties primarily intended for industrial purposes at a property value of SEK 108 million, before market-based deduction for deferred tax of SEK 3 million. In addition, a retail property has been divested at a property value of SEK 72 million, without deduction for deferred tax.**

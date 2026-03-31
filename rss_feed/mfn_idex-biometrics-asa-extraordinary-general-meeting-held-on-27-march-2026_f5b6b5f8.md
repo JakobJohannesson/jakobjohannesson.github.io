@@ -5,6 +5,9 @@
 **MFN ID:** idex-biometrics
 **Company:** IDEX Biometrics
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/7d45aa72-ab24-4fb0-8292-e1b8a3d87a03/idex-biometrics-asa-extraordinary-general-meeting-held-on-27-march-2026.pdf) → `pdfs/f5b6b5f8_idex-biometrics-asa-extraordinary-general-meeting-held-on-27-march-2026.pdf`
+
 ---
 
 IDEX Biometrics ASA held an extraordinary general meeting on 27 March 2026. All resolutions were passed as proposed in the notice and agenda update for the meeting. 

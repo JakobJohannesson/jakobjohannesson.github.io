@@ -5,6 +5,9 @@
 **MFN ID:** panoro-energy
 **Company:** Panoro Energy
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk2NDQmYXR0YWNobWVudElkPTMyMjUwNw/panoro_energy_asa_new_share_capital_registered.pdf) → `pdfs/93c696d9_panoro_energy_asa_new_share_capital_registered.pdf`
+
 ---
 
 Oslo, 27 March 2026 - Reference is made to the stock exchange announcement by

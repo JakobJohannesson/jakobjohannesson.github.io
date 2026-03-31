@@ -5,6 +5,10 @@
 **MFN ID:** medicover
 **Company:** Medicover AB (Publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/84807281-ecc6-4542-9e23-ba047fb47e18/medicovers-social-finance-investor-report-ar-publicerad.pdf) → `pdfs/f8d838f8_medicovers-social-finance-investor-report-ar-publicerad.pdf`
+- [PDF](https://storage.mfn.se/ef89dcac-1d9f-489f-badb-7768bb269c5e/medicover-social-finance-investor-report-2025.pdf) → `pdfs/f8d838f8_medicover-social-finance-investor-report-2025.pdf`
+
 ---
 
 **Medicover har publicerat sin Social finance investor report för 2025. Det sociala finansieringsramverket, som ursprungligen etablerades i samband med Medicovers andra Schuldschein‑emission 2021, uppdaterades under året. Ramverket har en *****use‑of‑proceeds‑*****struktur och syftar till att bidra till Världsbankens mål för Universal Health Coverage samt säkerställa att människor får tillgång till grundläggande hälso‑ och sjukvårdstjänster.**

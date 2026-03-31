@@ -5,6 +5,10 @@
 **MFN ID:** atea
 **Company:** Atea
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk3MDEmYXR0YWNobWVudElkPTMyMjU2MQ/2026_03_27_buyback_of_own_shares.pdf) → `pdfs/94397626_2026_03_27_buyback_of_own_shares.pdf`
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk3MDEmYXR0YWNobWVudElkPTMyMjU2Mg/2025_08_18_2026_03_27.pdf) → `pdfs/94397626_2025_08_18_2026_03_27.pdf`
+
 ---
 
 Oslo, 27 March 2026

@@ -5,6 +5,9 @@
 **MFN ID:** bioinvent-international
 **Company:** BioInvent International
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/08376990-50ca-481c-b161-f7997e9488c3/bioinvent-ar-2025-en.pdf) → `pdfs/504678dd_bioinvent-ar-2025-en.pdf`
+
 ---
 
 **Lund, Sweden – March 31, 2026 – BioInvent International AB (“BioInvent”) (Nasdaq Stockholm: BINV), a biotech company focused on the discovery and development of novel and first-in-class immunomodulatory antibodies for cancer immunotherapy, today announced that the Annual Report for 2025 has been published. The Annual Report is attached to this press release in pdf format and is available on the company’s website ****[www.bioinvent.com](http://www.bioinvent.com/)****.**

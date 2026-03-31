@@ -5,6 +5,9 @@
 **MFN ID:** stockwik-forvaltning
 **Company:** Stockwik Förvaltning
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/daefd80d-a5ad-4827-9991-47fd9c66d4e6/kallelse-till-arsstamma-i-stockwik-forvaltning-ab-publ.pdf) → `pdfs/3908bd9d_kallelse-till-arsstamma-i-stockwik-forvaltning-ab-publ.pdf`
+
 ---
 
 **Aktieägarna i Stockwik Förvaltning AB (publ), org. nr 556294-7845, (”Bolaget”) kallas härmed till årsstämma måndagen den 4 maj 2026 kl. 13:00 i Bolagets lokaler på Frösundaviks allé 1, 169 70 Solna. Inpassering och registrering börjar kl. 12:30.**

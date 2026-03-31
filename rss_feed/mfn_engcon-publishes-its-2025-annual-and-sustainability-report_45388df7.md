@@ -5,6 +5,9 @@
 **MFN ID:** engcon
 **Company:** engcon AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/9e976aac-ab1a-42f9-bbf9-46a2facf11b6/engcon-ab-annual-and-sustainability-report-2025.pdf) → `pdfs/45388df7_engcon-ab-annual-and-sustainability-report-2025.pdf`
+
 ---
 
 **engcon's Annual and Sustainability report for 2025 is as of today available.**

@@ -6,6 +6,9 @@
 **Cision ID:** tradedoubler
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/2680/4328686/4015021.pdf) → `pdfs/c2ed287f_4015021.pdf`
+
 ---
 
 Tradedoubler Aktiebolag (publ) (”Tradedoubler” eller ”Bolaget”) har under perioden 24-27 mars 2026 återköpt sammanlagt 16 581 stamaktier inom ramen för det återköpsprogram som styrelsen har lanserat med det bemyndigande som erhölls på årsstämman den 20 maj 2025.  

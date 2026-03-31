@@ -5,6 +5,9 @@
 **MFN ID:** alimak-group
 **Company:** Alimak Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/922b16d7-958b-41e9-9b3b-6444065f9384/alimak-group-notice-agm-2026.pdf) → `pdfs/b51080f0_alimak-group-notice-agm-2026.pdf`
+
 ---
 
 **The Board of Alimak Group AB has resolved to convene an Annual General Meeting to be held on Wednesday, May 6, 2026. More detailed information about the contents of the proposals may be obtained from the complete notice to the Annual General Meeting below.**

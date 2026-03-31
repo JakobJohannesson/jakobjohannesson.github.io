@@ -6,6 +6,9 @@
 **Cision ID:** sparc-group-ab--publ-
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Public/23633/4328374/bdd06c0e6ed1b6df.pdf) → `pdfs/900ebf7b_bdd06c0e6ed1b6df.pdf`
+
 ---
 
 **INSIDERINFORMATION: **Bitdeer Technologies Group (NASDAQ: BTDR) (“Bitdeer” eller “Företaget”), ett världsledande teknikföretag inom AI och Bitcoin-brytning, tillkännagav idag att dess dotterbolag, Tydal Data Center AS (TDC) har ingått avtal med Data Center Installations AS (DCI), ett dotterbolag till Sparc Group AB (publ) ("Sparc Group" eller "Koncernen"). DCI:s leveranser och hänförliga intäkter i projektet förväntas uppgå till omkring 1 miljard NOK. Sparc Group bedömer att DCI:s medverkan i Projektet kommer att ha en positiv inverkan på Koncernens totala omsättning och EBITDA under räkenskapsåret 2026 samt utsikter för att uppfylla finansiella kovenanter kopplade till Koncernens utestående seniora säkerställda obligationer om 1 100 miljoner.

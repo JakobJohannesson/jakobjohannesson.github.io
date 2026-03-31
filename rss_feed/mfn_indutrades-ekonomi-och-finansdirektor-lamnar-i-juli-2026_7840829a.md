@@ -5,6 +5,9 @@
 **MFN ID:** indutrade
 **Company:** Indutrade
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/e7afc5a3-a817-4b57-adde-767d5b037d8d/indutrades-ekonomi-och-finansdirektor-lamnar-i-juli-2026.pdf) → `pdfs/7840829a_indutrades-ekonomi-och-finansdirektor-lamnar-i-juli-2026.pdf`
+
 ---
 
 **Patrik Johnson kommer att lämna sin tjänst som Ekonomi- och finansdirektör och medlem i koncernledningen för Indutrade AB. Han kvarstår i sin roll fram till och med att delårsrapporten för det andra kvartalet 2026 har publicerats 16 juli. En rekryteringsprocess kommer att inledas för att utse en efterträdare.**

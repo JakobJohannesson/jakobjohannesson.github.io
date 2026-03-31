@@ -6,6 +6,9 @@
 **Cision ID:** vattenfall
 **Keywords:** Varumärke, brand, Vattenfall, pressavdelning, tagline, Monica Holmvik Persdotter
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/865/4328194/4012885.pdf) → `pdfs/b13a956e_4012885.pdf`
+
 ---
 
 **Vattenfall lanserar en ny tagline, "There’s a way", som en del av nästa fas i vår långsiktiga varumärkesutveckling. "There’s a way" speglar en attityd och en inställning som vi delar med många och är en förutsättning för att nå fossilfrihet. Utrullningen av den nya taglinen sker på alla Vattenfalls marknader och förstärker vår position som ett europeiskt energibolag med en tydlig och konsekvent röst.**

@@ -5,6 +5,9 @@
 **MFN ID:** fagerhultgroup
 **Company:** Fagerhult Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/96e58e36-cd0f-4c87-b8e0-ac48290a4d00/notice-of-annual-general-meeting-2026-fagerhult-group-ab-publ.pdf) → `pdfs/a335a542_notice-of-annual-general-meeting-2026-fagerhult-group-ab-publ.pdf`
+
 ---
 
 Shareholders of Fagerhult Group AB (publ), Corporate Identity Number 556110-6203 (“Fagerhult Group” or the “Company”), are hereby given notice of the Annual General Meeting of the Company to be held on Monday 4 May 2026 at 5:00 p.m. in Fagerhult, Fagerhults Belysning AB’s offices, Åvägen 1, SE-566 92, Habo, Sweden (the “AGM”).

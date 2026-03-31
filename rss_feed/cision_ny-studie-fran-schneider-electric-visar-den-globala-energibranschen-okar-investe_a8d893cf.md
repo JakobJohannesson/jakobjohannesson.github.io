@@ -6,6 +6,9 @@
 **Cision ID:** schneider-electric-sverige-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/20894/4328873/4015530.pdf) → `pdfs/a8d893cf_4015530.pdf`
+
 ---
 
 **Automatisering och AI tar allt större plats inom energisektorn. En ny global studie från Schneider Electric visar att hälften av branschen kan vara helt autonom inom fyra år. Samtidigt som Asien och Nordamerika leder utvecklingen som följd av det stora energibehovet från AI, ligger Sverige efter – en fjärdedel av de svarande har ännu inte börjat anamma autonoma lösningar.**

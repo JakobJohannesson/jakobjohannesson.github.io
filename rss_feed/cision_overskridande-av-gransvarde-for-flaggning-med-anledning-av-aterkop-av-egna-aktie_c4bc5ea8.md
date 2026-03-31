@@ -6,6 +6,9 @@
 **Cision ID:** corem-property-group
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/9683/4328794/4015031.pdf) → `pdfs/c4bc5ea8_4015031.pdf`
+
 ---
 
 ****

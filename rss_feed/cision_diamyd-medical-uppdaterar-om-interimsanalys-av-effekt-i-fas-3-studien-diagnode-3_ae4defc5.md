@@ -6,6 +6,9 @@
 **Cision ID:** diamyd-medical-ab
 **Keywords:** Diamyd Medical, Uppdatering om interimsanalys av effekt i fas 3-studien DIAGNODE-3
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/6746/4328350/4013423.pdf) → `pdfs/ae4defc5_4013423.pdf`
+
 ---
 
 *Diamyd Medical meddelade fredagen den 27 mars att den fördefinierade interimsanalysen av effektdata, baserad på 174 av 321 deltagare i den pågående fas 3-studien DIAGNODE-3, visade resultat som var oväntade och inte i linje med tidigare retrospektiva eller prospektiva data. Denna avvikelse understryker behovet av en noggrann utvärdering av interimsresultaten. Baserat på interimsdatan observerades ingen behandlingseffekt på C-peptid, vare sig i den totala populationen eller i fördefinierade subgrupper, inklusive den tidigare identifierade potentiella superrespondergruppen.*

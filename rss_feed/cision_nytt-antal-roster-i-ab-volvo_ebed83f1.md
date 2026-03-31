@@ -6,6 +6,9 @@
 **Cision ID:** ab-volvo
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/39/4329003/4015704.pdf) → `pdfs/ebed83f1_4015704.pdf`
+
 ---
 
 **Antalet röster i AB Volvo har förändrats till följd av omvandlingar av sammanlagt 745 007 ****A-aktier till sammanlagt 745 007 B-aktier. Omvandlingarna har skett med stöd av den möjlighet för A-aktieägare att begära omvandling av A-aktier till B-aktier som infördes i bolagsordningen vid årsstämman 2011.**

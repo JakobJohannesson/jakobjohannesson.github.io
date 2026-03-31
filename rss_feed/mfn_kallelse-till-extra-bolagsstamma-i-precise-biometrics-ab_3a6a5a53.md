@@ -5,6 +5,9 @@
 **MFN ID:** precise-biometrics
 **Company:** Precise Biometrics
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/53413595-855f-4fa9-a76a-ad1c3fdbf5aa/kallelse-till-extra-bolagsstamma-i-precise-biometrics-ab.pdf) → `pdfs/3a6a5a53_kallelse-till-extra-bolagsstamma-i-precise-biometrics-ab.pdf`
+
 ---
 
 **Precise Biometrics AB, org.nr 556545-6596, med säte i Lund, kallar till extra bolagsstämma den 30 april 2026 kl. 09.30 på Ideon Gateway, Scheelevägen 27 i Lund.**

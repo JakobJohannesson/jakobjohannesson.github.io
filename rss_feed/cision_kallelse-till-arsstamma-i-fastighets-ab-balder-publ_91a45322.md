@@ -6,6 +6,9 @@
 **Cision ID:** fastighets-ab-balder
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/528/4328003/4012365.pdf) → `pdfs/91a45322_4012365.pdf`
+
 ---
 
 **Aktieägarna i Fastighets AB Balder (publ), (”Balder” eller ”Bolaget”), org.nr. 556525–6905, kallas härmed till årsstämma fredagen den 8 maj 2026, kl. 16:00 på Västsvenska Handelskammaren, Parkgatan 49 i Göteborg. Inregistrering till årsstämman börjar kl. 15:00.**

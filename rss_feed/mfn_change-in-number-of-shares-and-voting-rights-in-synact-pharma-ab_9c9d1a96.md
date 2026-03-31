@@ -5,6 +5,9 @@
 **MFN ID:** synact-pharma
 **Company:** SynAct Pharma
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/0fd229f2-e8aa-4580-93f4-4308318adbe8/change-in-number-of-shares-and-voting-rights-in-synact-pharma-ab.pdf) → `pdfs/9c9d1a96_change-in-number-of-shares-and-voting-rights-in-synact-pharma-ab.pdf`
+
 ---
 
 **SynAct Pharma AB (publ) (”SynAct”) (Nasdaq Stockholm: SYNACT), a clinical-stage biotechnological company focused on treating inflammation through resolution, today announced that the number of shares and voting rights has increased by 2,883,725 following the completion of the directed issue of new shares resolved by the Board of Directors on March 2, 2026.**

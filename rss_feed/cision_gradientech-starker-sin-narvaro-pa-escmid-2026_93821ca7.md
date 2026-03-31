@@ -6,6 +6,9 @@
 **Cision ID:** gradientech-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/20108/4328968/4015594.pdf) → `pdfs/93821ca7_4015594.pdf`
+
 ---
 
 **Diagnostikföretaget Gradientech stärker sin närvaro vid ESCMID Global 2026, genom flera accepterade abstract och egen framträdande utställningsmonter. Minst sex abstract med bolagets system för snabb antibiotikaresistensbestämning QuickMIC® har accepterats till kongressen, vilket understryker det växande kliniska intresset, användningen och valideringen av teknologin.**

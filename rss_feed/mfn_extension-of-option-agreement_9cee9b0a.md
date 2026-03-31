@@ -5,6 +5,9 @@
 **MFN ID:** envipco-holding
 **Company:** Envipco Holding
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/1a3a3c37-c58d-4087-8069-122e700b39f4/extension-of-option-agreement.pdf) → `pdfs/9cee9b0a_extension-of-option-agreement.pdf`
+
 ---
 
 Reference is made to Envipco Holding N.V.'s (the "Company") stock exchange notice published on 28 March 2023 regarding the purchase of 1,850,000 of the Company's shares by Gregory Garvey from Alex Bouri, including a three year option agreement for Alex Bouri to repurchase the shares.

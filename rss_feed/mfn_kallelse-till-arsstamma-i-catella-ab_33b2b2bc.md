@@ -5,6 +5,9 @@
 **MFN ID:** catella
 **Company:** Catella AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/01414e19-2e0a-4122-9229-0c5442d5ddfd/kallelse-till-arsstamma-i-catella-ab.pdf) → `pdfs/33b2b2bc_kallelse-till-arsstamma-i-catella-ab.pdf`
+
 ---
 
 **Årsstämma i Catella AB, org. nr. 556079-1419, ("Bolaget" eller "Catella") äger rum tisdagen den 12 maj 2026 kl. 10.00 på GT30, Grev Turegatan 30, Stockholm. Inregistrering till årsstämman börjar kl. 09.30. Styrelsen har beslutat att aktieägare ska ha möjlighet att utöva sin rösträtt på årsstämman även genom poströstning på förhand i enlighet med § 11 i bolagsordningen.**

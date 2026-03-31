@@ -6,6 +6,9 @@
 **Cision ID:** formpipe-software
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/6271/4328548/4014111.pdf) → `pdfs/0823e98c_4014111.pdf`
+
 ---
 
 Mellan den 23 mars 2026 och den 25 mars 2026 har Formpipe Software AB (publ) (LEI-kod 549300G3TNLGOU8HV665) återköpt totalt 31 900 egna aktier (ISIN: SE0001338039) inom ramen för det aktieåterköpsprogram som initierats av styrelsen.

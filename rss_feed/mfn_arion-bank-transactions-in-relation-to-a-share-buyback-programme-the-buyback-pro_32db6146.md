@@ -5,6 +5,9 @@
 **MFN ID:** arion-bank
 **Company:** Arion Bank
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/bde108c1-3543-42e9-8fa3-574be00dda9d/arion-bank-transactions-in-relation-to-a-share-buyback-programme-the-buyback-programme-is-now-concluded.pdf) → `pdfs/32db6146_arion-bank-transactions-in-relation-to-a-share-buyback-programme-the-buyback-programme-is-now-concluded.pdf`
+
 ---
 
 **Reference is made to a press release from Arion Bank, published 14 January 2026 regarding the launch of a share buyback program. In week 14 2026 Arion Bank purchased own shares on Nasdaq Iceland and Swedish Depository Receipts (SDR) on Nasdaq Stockholm. The purchase of shares and SDR under the programme is now concluded. See further details below.**

@@ -6,6 +6,9 @@
 **Cision ID:** balco-group-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/16052/4329212/4016631.pdf) → `pdfs/83ac63e2_4016631.pdf`
+
 ---
 
 ****

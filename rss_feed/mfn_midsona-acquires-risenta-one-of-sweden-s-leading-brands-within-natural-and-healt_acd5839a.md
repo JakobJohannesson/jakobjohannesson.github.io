@@ -5,6 +5,9 @@
 **MFN ID:** midsona
 **Company:** Midsona
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/cb9c87ca-df97-45f6-bfc7-71f3d71b2bc5/midsona-acquires-risenta-one-of-swedens-leading-brands-within-natural-and-healthy-foods.pdf) → `pdfs/acd5839a_midsona-acquires-risenta-one-of-swedens-leading-brands-within-natural-and-healthy-foods.pdf`
+
 ---
 
 **Midsona AB (publ) is strengthening its position within healthy foods on the Swedish market by acquiring the brand Risenta from the food company Paulig’s subsidiary Santa Maria AB. The transaction is subject to approval from the Swedish Inspectorate of Strategic Products (“ISP”). The acquisition is expected to have a positive effect on both Midsona’s EBIT margin and earnings per share and contribute with a yearly increased turnover of approximately 130 million SEK. The transaction is planned to be completed on 1 June 2026.**

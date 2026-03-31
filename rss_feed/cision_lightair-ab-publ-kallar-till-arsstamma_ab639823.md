@@ -6,6 +6,9 @@
 **Cision ID:** lightair
 **Keywords:** LightAir
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/14919/4328152/4012781.pdf) → `pdfs/ab639823_4012781.pdf`
+
 ---
 
 **Aktieägarna i LightAir kallas härmed till årsstämma onsdagen den 29 april 2026 kl. 10:00 på Österåkers Golfklubb, Långhundravägen 36, 184 92 Åkersberga. **

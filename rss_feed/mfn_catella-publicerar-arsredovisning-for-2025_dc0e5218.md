@@ -5,6 +5,9 @@
 **MFN ID:** catella
 **Company:** Catella AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/f65d1926-bc1c-4b8b-83e5-133626cbc532/catella-arsredovisning-2025.pdf) → `pdfs/dc0e5218_catella-arsredovisning-2025.pdf`
+
 ---
 
 **Catella AB (publ) har idag publicerat årsredovisning inklusive hållbarhetsredovisning för verksamhetsåret 2025 och finns att ladda ner på www.catella.com.**

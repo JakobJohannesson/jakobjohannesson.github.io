@@ -6,6 +6,9 @@
 **Cision ID:** karnov-group
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/4658/4328325/4013155.pdf) → `pdfs/00c83a06_4013155.pdf`
+
 ---
 
 Karnov Group AB (publ) (”Karnov”) har under perioden 23 mars – 27 mars 2026 förvärvat sammanlagt 2 319 952 egna stamaktier av serie A inom ramen för de återköpsprogram som styrelsen har infört i syfte att optimera och förbättra Karnovs kapitalstruktur genom att minska kapitalet och därigenom skapa ytterligare aktieägarvärde.

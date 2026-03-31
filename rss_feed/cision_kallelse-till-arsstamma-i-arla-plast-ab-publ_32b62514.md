@@ -6,6 +6,9 @@
 **Cision ID:** arla-plast-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/20565/4327794/4011004.pdf) → `pdfs/32b62514_4011004.pdf`
+
 ---
 
 **Aktieägarna i Arla Plast AB (publ), org.nr 556131-2611, (”Arla Plast” eller ”bolaget”) kallas härmed till årsstämma torsdagen den 7 maj 2026 kl. 15:00 i bolagets lokaler, Västanåvägen 2, Borensberg. **

@@ -6,6 +6,9 @@
 **Cision ID:** mtg
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/56/4328469/4014044.pdf) → `pdfs/2be2c4aa_4014044.pdf`
+
 ---
 
 **Under perioden 23 mars 2026 till 27 mars 2026 har Modern Times Group MTG AB (publ) (LEI-kod 549300E8NDODRSX29339) (“MTG”) återköpt sammanlagt 160 000 egna aktier av serie B (ISIN-kod: SE0018012494) inom ramen för det återköpsprogram som styrelsen infört. **

@@ -5,6 +5,10 @@
 **MFN ID:** strongpoint
 **Company:** StrongPoint
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk2OTEmYXR0YWNobWVudElkPTMyMjU0NA/download-announcement-as-pdf.pdf) → `pdfs/dc1fc5ff_download-announcement-as-pdf.pdf`
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk2OTEmYXR0YWNobWVudElkPTMyMjU0NQ/strongpoint-asa-annual-report-2025.pdf) → `pdfs/dc1fc5ff_strongpoint-asa-annual-report-2025.pdf`
+
 ---
 
 27.3.2026 16:18:20 CET | StrongPoint | Annual financial and audit reports

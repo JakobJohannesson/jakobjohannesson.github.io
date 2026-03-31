@@ -5,6 +5,9 @@
 **MFN ID:** wastbygg
 **Company:** Wästbygg Gruppen
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/bfa8231a-c2d4-4d30-887a-e3f845118f84/andring-av-antalet-aktier-och-roster-i-wastbygg-gruppen.pdf) → `pdfs/e9f1dabb_andring-av-antalet-aktier-och-roster-i-wastbygg-gruppen.pdf`
+
 ---
 
 **Under mars 2026 har antalet aktier och röster i Wästbygg Gruppen AB (publ) (”Wästbygg Gruppen”) ökat till följd av den företrädesemission av A-aktier och units som beslutades av styrelsen den 13 januari 2026 och godkändes av den extra bolagsstämman den 25 februari 2026, samt den riktade emissionen av units till garant i företrädesemissionen som beslutades av styrelsen den 24 mars 2026, med stöd av bemyndigandet från den extra bolagsstämman den 25 februari 2026.**

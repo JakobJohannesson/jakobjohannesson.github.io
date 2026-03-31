@@ -6,6 +6,9 @@
 **Cision ID:** naxs-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/21307/4328225/4012918.pdf) → `pdfs/3a98a050_4012918.pdf`
+
 ---
 
 Under perioden 23–27 mars 2026 har aktier i NAXS återköpts enligt nedan.

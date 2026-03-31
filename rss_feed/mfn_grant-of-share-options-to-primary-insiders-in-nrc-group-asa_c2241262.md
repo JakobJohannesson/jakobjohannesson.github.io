@@ -5,6 +5,9 @@
 **MFN ID:** nrc-group
 **Company:** NRC Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/cf7b3c3b-4aae-486c-9acb-ffc8b983fb1b/krt-1500-skjemaer.pdf) → `pdfs/c2241262_krt-1500-skjemaer.pdf`
+
 ---
 
 Based on the authorization granted by the Annual General Meeting on 8 May 2025, authorizing the Board of Directors of NRC Group ASA (the "Company") to issue up to 6.4 million share options under the Company's long-term incentive program, the Board has resolved to grant a total of 1.6 million share options to selected senior executives.

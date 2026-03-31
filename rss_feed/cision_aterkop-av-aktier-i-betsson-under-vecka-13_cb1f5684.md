@@ -6,6 +6,9 @@
 **Cision ID:** betsson-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/1067/4328454/4013755.pdf) → `pdfs/cb1f5684_4013755.pdf`
+
 ---
 
 **Mellan den 23 mars och den 27 mars 2026 har Betsson AB (publ) ("Betsson") återköpt sammanlagt 176 400 egna aktier av serie B (ISIN: SE0022726485) inom ramen för det återköpsprogram som styrelsen initierade den 24 oktober 2025.**

@@ -5,6 +5,9 @@
 **MFN ID:** elliptic-laboratories
 **Company:** Elliptic Laboratories
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/78094b05-91c1-4d62-9812-78d3b36a7f88/elliptic-labs-new-share-capital-registered.pdf) → `pdfs/ff9068ff_elliptic-labs-new-share-capital-registered.pdf`
+
 ---
 
 Oslo, Norway — Reference is made to the stock exchange announcement by Elliptic Laboratories ASA (the "Company") on 5 March 2026 regarding the successful placement of new shares in the Company at a price per new share of NOK 2.85, raising gross proceeds of approximately NOK 60 million (the "Private Placement") and the minutes from the extraordinary general meeting held 27 March 2026 (the "EGM").

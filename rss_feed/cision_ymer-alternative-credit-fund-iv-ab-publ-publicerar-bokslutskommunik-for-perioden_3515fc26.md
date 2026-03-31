@@ -6,6 +6,9 @@
 **Cision ID:** ymer-alternative-credit-fund-iv-ab--publ-
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/23991/4329275/4016956.pdf) → `pdfs/3515fc26_4016956.pdf`
+
 ---
 
 Stefan Engstrand, stefan.engstrand@ymersc.com, +46 73-358 28 99

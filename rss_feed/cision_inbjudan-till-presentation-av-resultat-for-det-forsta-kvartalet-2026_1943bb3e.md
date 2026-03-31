@@ -6,6 +6,9 @@
 **Cision ID:** tele2-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/3372/4327553/4011873.pdf) → `pdfs/1943bb3e_4011873.pdf`
+
 ---
 
 **Stockholm – Tele2 AB (“Tele2”) (Nasdaq Stockholm: TEL2 A och TEL2 B) kommer att publicera sina resultat för det första kvartalet 2026 onsdagen den 22 april 2026. Presentationen kommer att hållas av Jean Marc Harion, vd och koncernchef, samt Peter Landgren, finanschef.**

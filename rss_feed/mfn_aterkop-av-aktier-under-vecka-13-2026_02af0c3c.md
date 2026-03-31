@@ -5,6 +5,10 @@
 **MFN ID:** attendo
 **Company:** Attendo
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c0683ab3-4b30-4d80-931f-2a238d008a75/aterkop-av-aktier-under-vecka-13-2026.pdf) → `pdfs/02af0c3c_aterkop-av-aktier-under-vecka-13-2026.pdf`
+- [PDF](https://storage.mfn.se/aa6f0733-3f56-471f-b6f2-f2cac0d239bc/transactions-in-attendo-260323-to-260327.pdf) → `pdfs/02af0c3c_transactions-in-attendo-260323-to-260327.pdf`
+
 ---
 
 **Attendo AB (LEI-kod 549300KEJDL2FNITUW65) (“Attendo”) har mellan den 23 mars och 27 mars 2026 återköpt sammanlagt 200 000 egna aktier (ISIN: SE0007666110) inom ramen för det återköpsprogram som styrelsen beslutat om.**

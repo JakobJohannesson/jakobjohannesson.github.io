@@ -5,6 +5,9 @@
 **MFN ID:** cadeler
 **Company:** Cadeler
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk4ODMmYXR0YWNobWVudElkPTMyMjczMA/31-03.pdf) → `pdfs/ac91efb2_31-03.pdf`
+
 ---
 
 Copenhagen, 31 March 2026: Cadeler A/S ("Cadeler") has received notification

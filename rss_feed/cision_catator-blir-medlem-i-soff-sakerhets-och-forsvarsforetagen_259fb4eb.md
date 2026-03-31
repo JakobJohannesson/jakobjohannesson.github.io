@@ -6,6 +6,9 @@
 **Cision ID:** catator-ab
 **Keywords:** Sweden, energy, cleantech, hydrogen, defense
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/23520/4329358/4017426.pdf) → `pdfs/259fb4eb_4017426.pdf`
+
 ---
 
 Catator har blivit antaget som medlem i SOFF, en branschorganisation för företag verksamma inom säkerhets- och försvarssektorn i Sverige. Medlemskapet speglar Catators fortsatta expansion inom försvarstillämpningar, där efterfrågan på effektiva och decentraliserade energilösningar ökar.

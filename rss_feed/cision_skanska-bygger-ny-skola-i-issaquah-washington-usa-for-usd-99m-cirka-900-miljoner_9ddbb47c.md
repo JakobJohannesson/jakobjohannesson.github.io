@@ -6,6 +6,9 @@
 **Cision ID:** skanska
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/95/4328052/4012334.pdf) → `pdfs/9ddbb47c_4012334.pdf`
+
 ---
 
 **Skanska har tecknat avtal med Issaquah School District för projektet Issaquah New High School i Issaquah, Washington, USA. ****Kontraktet är värt USD 99M, cirka 900 miljoner kronor, vilket kommer att inkluderas i orderingången för USA för det första kvartalet 2026.**

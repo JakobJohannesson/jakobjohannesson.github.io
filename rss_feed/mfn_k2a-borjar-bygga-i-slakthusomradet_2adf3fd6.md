@@ -5,6 +5,9 @@
 **MFN ID:** k2a-knaust-and-andersson-fastigheter
 **Company:** K2A Knaust & Andersson Fastigheter
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/598b16c2-6142-4ec8-843a-2b9ce21170c9/k2a-borjar-bygga-i-slakthusomradet.pdf) → `pdfs/2adf3fd6_k2a-borjar-bygga-i-slakthusomradet.pdf`
+
 ---
 
 **K2A Knaust & Andersson Fastigheter byggstartar sitt projekt i Slakthusområdet i Stockholm, efter att ha erhållit samtliga erforderliga startbesked. Projektet omfattar 247 student- och forskarbostäder, en förskola samt en idrottshall och utvecklas i två kvarter med färdigställande under tredje kvartalet 2027 respektive tredje kvartalet 2028.**

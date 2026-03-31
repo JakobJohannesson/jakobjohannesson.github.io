@@ -5,6 +5,9 @@
 **MFN ID:** profoto
 **Company:** Profoto Holding
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/444edaf2-8da7-41b2-8efb-519a644ab6fe/notice-of-annual-general-meeting-of-profoto-holding-ab-publ.pdf) → `pdfs/424b6060_notice-of-annual-general-meeting-of-profoto-holding-ab-publ.pdf`
+
 ---
 
 **The shareholders of Profoto Holding AB (publ), reg no 556810-9879, are given notice of the Annual General Meeting to be held on May 6, 2026 at 1 p.m. at Profoto’s headquarters, Landsvägen 57, Sundbyberg, Sweden. Registration for the meeting starts at 12:30 p.m.**

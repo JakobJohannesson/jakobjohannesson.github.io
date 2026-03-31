@@ -5,6 +5,11 @@
 **MFN ID:** xbrane-biopharma
 **Company:** Xbrane Biopharma
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/e7aef14b-a2a8-4269-88a3-c8a77224502b/kallelse-till-arsstamma-i-xbrane-biopharma-ab.pdf) → `pdfs/077815d0_kallelse-till-arsstamma-i-xbrane-biopharma-ab.pdf`
+- [PDF](https://storage.mfn.se/6639e228-dc36-4864-be8e-ad009ec974dd/formular-for-forhandsrostning-for-arsstamma-2026-xbrane-biopharma-ab.pdf) → `pdfs/077815d0_formular-for-forhandsrostning-for-arsstamma-2026-xbrane-biopharma-ab.pdf`
+- [PDF](https://storage.mfn.se/f0348b87-46fe-4f73-849a-45d5ad1f1081/fullmaktsformular-for-arsstamma-2026-xbrane-biopharma-ab.pdf) → `pdfs/077815d0_fullmaktsformular-for-arsstamma-2026-xbrane-biopharma-ab.pdf`
+
 ---
 
 **Aktieägarna i Xbrane Biopharma AB, org.nr 556749-2375 ("Bolaget"), kallas härmed till årsstämma tisdagen den 5 maj 2026 kl. 16:00 i Baker McKenzie Advokatbyrås lokaler på Mäster Samuelsgatan 17, 111 44, Stockholm.**

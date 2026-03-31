@@ -5,6 +5,9 @@
 **MFN ID:** ependion
 **Company:** Ependion
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/7c5ddb5a-9cb4-4c23-9b68-2051c04ce5a7/ependion-ars-och-hallbarhetsredovisning-2025.pdf) → `pdfs/ce53f322_ependion-ars-och-hallbarhetsredovisning-2025.pdf`
+
 ---
 
 **Ependion har idag publicerat sin års- och hållbarhetsredovisning för 2025 på koncernens hemsida. Årsredovisningen summerar ett år som präglades av investeringar som formar framtiden för koncernen.**

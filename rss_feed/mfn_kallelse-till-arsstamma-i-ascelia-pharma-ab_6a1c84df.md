@@ -5,6 +5,9 @@
 **MFN ID:** ascelia-pharma
 **Company:** Ascelia Pharma
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/e6e6d1f2-3c44-4480-bc9f-4ecff26a0881/kallelse-till-arsstamma-i-ascelia-pharma-ab.pdf) → `pdfs/6a1c84df_kallelse-till-arsstamma-i-ascelia-pharma-ab.pdf`
+
 ---
 
 **Aktieägarna i Ascelia Pharma AB, org.nr 556571-8797, kallas härmed till årsstämma i Setterwalls Advokatbyrå AB:s lokaler på Stortorget 23 i Malmö, måndagen den 4 maj 2026 kl. 14.00.**

@@ -5,6 +5,9 @@
 **MFN ID:** humana
 **Company:** Humana
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/05080400-e1a0-46ba-a5c3-274d59381d38/humana-asr-2025-eng.pdf) → `pdfs/71b5549c_humana-asr-2025-eng.pdf`
+
 ---
 
 **Today Humana publishes the Annual and Sustainability Report 2025.**

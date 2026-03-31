@@ -5,6 +5,9 @@
 **MFN ID:** seafire
 **Company:** Seafire
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/9b295597-00dc-4ec4-8208-839dd92f54eb/report-from-the-extraordinary-general-meeting-of-seafire-ab-publ.pdf) → `pdfs/b12db115_report-from-the-extraordinary-general-meeting-of-seafire-ab-publ.pdf`
+
 ---
 
 Seafire AB (publ) (the “**Company**”) has today, on 30 March 2026, held an Extraordinary General Meeting (“**EGM**”) where the following resolution was adopted.

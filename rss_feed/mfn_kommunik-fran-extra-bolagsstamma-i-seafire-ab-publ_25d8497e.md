@@ -5,6 +5,9 @@
 **MFN ID:** seafire
 **Company:** Seafire
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/73080871-732a-44e5-9064-0bc321c0c1a4/kommunike-fran-extra-bolagsstamma-i-seafire-ab-publ.pdf) → `pdfs/25d8497e_kommunike-fran-extra-bolagsstamma-i-seafire-ab-publ.pdf`
+
 ---
 
 Seafire AB (publ) (”**Bolaget**”) har idag, den 30 mars 2026, hållit extra bolagsstämma där följande beslut fattades.

@@ -5,6 +5,9 @@
 **MFN ID:** sveafastigheter
 **Company:** Sveafastigheter AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/74cbbbaf-6830-4ecb-a481-3480f60a0cd3/kallelse-till-arsstamma-i-sveafastigheter-ab-publ.pdf) → `pdfs/643cddf6_kallelse-till-arsstamma-i-sveafastigheter-ab-publ.pdf`
+
 ---
 
 **Sveafastigheter AB (publ), org.nr 559449-4329, med säte i Stockholm, kallar till årsstämma den 5 maj 2026 kl. 13.00 på Smålandsgatan 20, 111 46 Stockholm. Inregistrering till årsstämman börjar kl. 12.30.**

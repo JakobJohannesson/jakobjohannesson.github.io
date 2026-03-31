@@ -5,6 +5,9 @@
 **MFN ID:** islandsbanki
 **Company:** Íslandsbanki
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c6cae7b8-2e13-4e80-bdfe-8afa4a89f3f7/islandsbanki-floggun-eiginbref-30032026.pdf) → `pdfs/56e0bc57_islandsbanki-floggun-eiginbref-30032026.pdf`
+
 ---
 
 Enclosed is a major shareholder announcement from Íslandsbanki regarding own shares. 

@@ -6,6 +6,9 @@
 **Cision ID:** eatgood-sweden-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/15408/4328753/4015040.pdf) → `pdfs/189faddc_4015040.pdf`
+
 ---
 
 **Bakgrund och positionering**

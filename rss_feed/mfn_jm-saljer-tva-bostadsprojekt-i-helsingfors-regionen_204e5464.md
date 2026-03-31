@@ -5,6 +5,9 @@
 **MFN ID:** jm
 **Company:** JM
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/dfd8c809-51b0-462a-8ff2-839ccada22a9/260331-jm-saljer-tva-bostadsprojekt-i-helsingforsregionen.pdf) → `pdfs/204e5464_260331-jm-saljer-tva-bostadsprojekt-i-helsingforsregionen.pdf`
+
 ---
 
 **JM har avtalat om försäljning av två hyresrättsprojekt till ICECAPITAL:s senaste bostadsfond. Försäljningspriset uppgår till cirka 560 mkr. Som en del av affären investerar JM Finland cirka 200 mkr i den aktuella bostadsfonden över en period om tre år.**

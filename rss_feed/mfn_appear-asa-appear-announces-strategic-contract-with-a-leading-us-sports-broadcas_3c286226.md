@@ -5,6 +5,9 @@
 **MFN ID:** appear
 **Company:** Appear
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/8e47891f-2231-4925-8364-67a5889a0708/appear-asa-appear-announces-strategic-contract-with-a-leading-us-sports-broadcaster.pdf) → `pdfs/3c286226_appear-asa-appear-announces-strategic-contract-with-a-leading-us-sports-broadcaster.pdf`
+
 ---
 
 **Oslo, March 30th, Appear today announces an order from a leading US sport broadcaster. The total value of the order is approximately NOK 14 million.**

@@ -6,6 +6,9 @@
 **Cision ID:** asker-healthcare-group-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/23418/4328620/4014455.pdf) → `pdfs/8e013f75_4014455.pdf`
+
 ---
 
 Asker Healthcare Group AB (publ), org.nr 559184–9848 (”Asker” eller ”Bolaget”), med säte i Danderyd, kallar till årsstämma den 7 maj 2026 kl. 13.30 i Industrisalen, Näringslivets hus, Storgatan 19, 114 51 Stockholm. Inregistrering börjar kl. 13.00.

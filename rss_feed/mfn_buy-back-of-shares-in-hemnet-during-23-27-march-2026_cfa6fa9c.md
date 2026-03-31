@@ -5,6 +5,9 @@
 **MFN ID:** hemnet-group
 **Company:** Hemnet Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/5fb127a8-342a-4421-af14-116d1cbe67c0/buybacks-weekly-summary-en-23-march-27-march.pdf) → `pdfs/cfa6fa9c_buybacks-weekly-summary-en-23-march-27-march.pdf`
+
 ---
 
 **Hemnet Group AB (publ) (LEI code: 5493008VIU67J3HUAR07) ("Hemnet") has during 23 to 27 March 2026 repurchased in total 143,050 own ordinary shares (ISIN code: SE0015671995) as part of the share buy-back program initiated by the board of directors of Hemnet in order to adjust Hemnet's capital structure.**

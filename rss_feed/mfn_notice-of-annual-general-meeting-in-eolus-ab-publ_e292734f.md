@@ -5,6 +5,9 @@
 **MFN ID:** eolus
 **Company:** Eolus
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/67d31006-e264-4b26-9479-e1c6809740b2/notice-of-annual-general-meeting-in-eolus-ab-publ.pdf) → `pdfs/e292734f_notice-of-annual-general-meeting-in-eolus-ab-publ.pdf`
+
 ---
 
 **The shareholders of Eolus AB (publ) Reg. No. 556389-3956 are hereby invited to attend the Annual General Meeting (“AGM”) to be held on May 6, 2026 at 2:00 p.m. CEST in Kulturhuset in Hässleholm, Vattugatan 18. Registration for the AGM begins at 1:30 p.m. CEST.**

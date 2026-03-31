@@ -6,6 +6,9 @@
 **Cision ID:** peab
 **Keywords:** vägunderhåll, peab, nytt uppdrag, Närproducerat samhällsbygge
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/424/4328459/4013753.pdf) → `pdfs/fa51ffc4_4013753.pdf`
+
 ---
 
 **Peab har erhållit fyra nya driftkontrakt gällande vägunderhåll i driftområdena Vilhelmina, Svenstavik, Arboga och Helsingborg. Beställare är Trafikverket och den totala kontraktssumman uppgår till 666 miljoner svenska kronor.**

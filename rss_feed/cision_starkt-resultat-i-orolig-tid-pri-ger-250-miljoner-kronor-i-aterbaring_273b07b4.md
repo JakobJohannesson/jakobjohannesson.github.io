@@ -6,6 +6,10 @@
 **Cision ID:** pri-pensionsgaranti
 **Keywords:** Pension, PRI, Jonas Jonsson, pension i egen regi
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/23751/4328507/4013922.pdf) → `pdfs/273b07b4_4013922.pdf`
+- [PDF](https://mb.cision.com/Public/23751/4328507/af0571949de6b1f8.pdf) → `pdfs/273b07b4_af0571949de6b1f8.pdf`
+
 ---
 
 **PRI-koncernen levererar ett resultat efter skatt på 1 788 miljoner kronor för 2025. Utfallet drivs av låga kreditförluster i kombination med en god kapitalavkastning på 6 procent**. **Konsolideringskapitalet översteg 40 miljarder kronor vid årets slut och solvenskvoten (SCR) uppgick till 219 procent.** 

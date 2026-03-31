@@ -5,6 +5,9 @@
 **MFN ID:** alligator-bioscience
 **Company:** Alligator Bioscience
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/fdffd157-e204-482a-a107-ad30e12a1e8b/kallelse-till-arsstamma-i-alligator-bioscience-ab.pdf) → `pdfs/2ebf6fc9_kallelse-till-arsstamma-i-alligator-bioscience-ab.pdf`
+
 ---
 
 **Aktieägarna i Alligator Bioscience AB, org.nr 556597-8201, kallas till årsstämma onsdagen den 6 maj 2026, kl. 10.00 på Medicon Village, konferensrum Bengt, Scheelevägen 4 i Lund.**

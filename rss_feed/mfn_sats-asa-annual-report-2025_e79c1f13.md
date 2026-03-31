@@ -5,6 +5,9 @@
 **MFN ID:** sats
 **Company:** SATS ASA
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/4e751422-4d41-4812-a6e9-0be3d5b37c25/sats-asa-annual-report-2025.pdf) → `pdfs/e79c1f13_sats-asa-annual-report-2025.pdf`
+
 ---
 
 **The Board of Directors of SATS ASA (the "Company”) has today approved the annual accounts for 2025.**

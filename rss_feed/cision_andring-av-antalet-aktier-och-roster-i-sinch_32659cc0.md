@@ -6,6 +6,9 @@
 **Cision ID:** sinch-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/22250/4329157/4016283.pdf) → `pdfs/32659cc0_4016283.pdf`
+
 ---
 
 **Stockholm – 31 mars 2026 – Sinch AB (publ) meddelar idag att antalet aktier och röster i Sinch uppgår till 771 740 885.**

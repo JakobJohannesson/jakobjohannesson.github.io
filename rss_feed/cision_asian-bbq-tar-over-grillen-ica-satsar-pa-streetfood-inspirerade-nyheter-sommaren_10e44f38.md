@@ -6,6 +6,9 @@
 **Cision ID:** ica
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/1977/4328461/4015174.pdf) → `pdfs/10e44f38_4015174.pdf`
+
 ---
 
 *Inför grillsäsongen 2026 växlar ICA upp med ett brett sortiment där globala streetfood-trender möter svenska grillfavoriter. Med Asian BBQ som säsongens tydliga smakriktning lanseras allt från färdigmarinerad kyckling och karré till korv – tillsammans med nya alternativ baserade på ICAs innovationsprodukt hushållsfärs.*

@@ -6,6 +6,9 @@
 **Cision ID:** karnov-group
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/4658/4329022/4015823.pdf) → `pdfs/28377cc1_4015823.pdf`
+
 ---
 
 Aktieägarna i Karnov Group AB (publ), org.nr 559016-9016 (”**Bolaget**”), kallas härmed till årsstämma torsdagen den 7 maj 2026 klockan 09.00, hos Cirio Advokatbyrå, Biblioteksgatan 9, i Stockholm. Inpassering till, och registrering för, årsstämman börjar klockan 08.30.

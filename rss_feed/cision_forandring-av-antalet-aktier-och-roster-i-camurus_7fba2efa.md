@@ -6,6 +6,9 @@
 **Cision ID:** camurus-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/13456/4328517/4013956.pdf) → `pdfs/7fba2efa_4013956.pdf`
+
 ---
 
 **För vidare information**

@@ -6,6 +6,9 @@
 **Cision ID:** wihlborgs-fastigheter-ab
 **Keywords:** årsredovisning, Wihlborgs, Wihlborgs Fastigheter, Ulrika Hallengren, Arvid Liepe
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/890/4328693/4015528.pdf) → `pdfs/5ffaba3f_4015528.pdf`
+
 ---
 
 **Wihlborgs Fastigheter AB:s års- och hållbarhetsredovisning för 2025 är publicerad och finns tillgänglig på svenska och engelska på bolagets webbplats.    **

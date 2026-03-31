@@ -5,6 +5,9 @@
 **MFN ID:** eolus
 **Company:** Eolus
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/d9ad212a-77ea-4410-8110-694a1a96cd99/kallelse-till-arsstamma-i-eolus-ab-publ.pdf) → `pdfs/076ec143_kallelse-till-arsstamma-i-eolus-ab-publ.pdf`
+
 ---
 
 **Aktieägarna i Eolus AB (publ) org.nr 556389-3956 kallas härmed till årsstämma den 6 maj 2026 kl. 14.00 i Kulturhuset i Hässleholm, Vattugatan 18. Inregistrering till årsstämman börjar kl. 13.30.**

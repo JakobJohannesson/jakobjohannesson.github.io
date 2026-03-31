@@ -5,6 +5,9 @@
 **MFN ID:** wastbygg
 **Company:** Wästbygg Gruppen
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/34421292-56a4-434c-82ed-0cb81bce7f0f/change-in-number-of-shares-and-votes-in-wastbygg-gruppen.pdf) → `pdfs/60d274b2_change-in-number-of-shares-and-votes-in-wastbygg-gruppen.pdf`
+
 ---
 
 **During March 2026, the number of shares and votes in Wästbygg Gruppen AB (publ) (“Wästbygg Group”) has increased as a result of the rights issue of shares of Class A and units which was resolved by the Board of Directors on 13 January 2026 and approved by the extraordinary general meeting on 25 February 2026, as well as the directed issue of units to guarantor in the rights issue resolved by the Board of Directors on 24 March 2026, pursuant to the authorization granted by the extraordinary general meeting on 25 February 2026.**

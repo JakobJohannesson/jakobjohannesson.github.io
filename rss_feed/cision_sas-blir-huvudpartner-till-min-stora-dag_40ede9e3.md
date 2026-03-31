@@ -6,6 +6,9 @@
 **Cision ID:** sas
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Public/290/4324389/a2ca7d134992e685.pdf) → `pdfs/40ede9e3_a2ca7d134992e685.pdf`
+
 ---
 
 **SAS blir huvudpartner till välgörenhetsorganisationen Min Stora Dag genom ett nytt långsiktigt samarbete. Som huvudpartner kommer SAS och Min Stora Dag att utveckla initiativ där flygresor och upplevelser står i centrum, vilket gör att fler barn med allvarliga sjukdomar och diagnoser får en glädjefylld paus i vardagen.**

@@ -6,6 +6,9 @@
 **Cision ID:** ey
 **Keywords:** fotboll, rapport, allsvenskan, Ernst Young, EY, Carlos Esterling
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Public/1179/4329161/a991af67916129f2.pdf) → `pdfs/09a9a37b_a991af67916129f2.pdf`
+
 ---
 
 **Spelarförsäljningarna passerade för första gången en miljard kronor under 2025 och står nu för nästan en tredjedel av klubbarnas intäkter. Samtidigt ökar kostnaderna snabbare än intäkterna och de ekonomiska klyftorna mellan klubbarna fördjupas. Det visar året rapport från EY. **

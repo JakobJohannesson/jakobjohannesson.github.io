@@ -6,6 +6,9 @@
 **Cision ID:** ymer-sc-ac
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/19580/4329264/4016932.pdf) → `pdfs/cd1c638a_4016932.pdf`
+
 ---
 
 Stefan Engstrand, VD Ymer SC AC AB. Tel: 073 – 358 28 99, stefan.engstrand@ymersc.com

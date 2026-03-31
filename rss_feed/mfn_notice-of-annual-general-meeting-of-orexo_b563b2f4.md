@@ -5,6 +5,9 @@
 **MFN ID:** orexo
 **Company:** Orexo AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/abe913b7-02b8-4418-9056-65118b5e82cb/orexo-agm-2026-notice-publ-march-30.pdf) → `pdfs/b563b2f4_orexo-agm-2026-notice-publ-march-30.pdf`
+
 ---
 
 **The shareholders in Orexo AB (publ), reg. no. 556500-0600, with its registered office in Uppsala municipality, are summoned to the annual general meeting, to be held on Thursday 7 May 2026, at 16.00 pm at Virdings Allé 28 in Uppsala, Sweden.**

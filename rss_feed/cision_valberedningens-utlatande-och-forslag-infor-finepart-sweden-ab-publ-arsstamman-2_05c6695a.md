@@ -6,6 +6,9 @@
 **Cision ID:** finepart
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/14989/4329563/4018128.pdf) → `pdfs/05c6695a_4018128.pdf`
+
 ---
 
 *”Valberedningen bedömer att det föreslagna styrelseförslaget utgör en väl avvägd kombination av kontinuitet och ny kompetens, med förstärkning inom kommersiell utveckling, försäljning och affärsjuridik. Sammantaget anser vi att styrelsen har goda förutsättningar att stödja Fineparts fortsatta tillväxt och strategiska utveckling.*

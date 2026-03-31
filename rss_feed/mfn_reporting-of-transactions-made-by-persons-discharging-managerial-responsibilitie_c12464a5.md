@@ -5,6 +5,10 @@
 **MFN ID:** better-collective
 **Company:** Better Collective
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/9cae4de9-e409-47c8-86d4-93f74c3dc6f8/reporting-of-transactions-made-by-persons-discharging-managerial-responsibilities-and-persons-closely-associated-with-them-in-better-collective-a-s-shares.pdf) → `pdfs/c12464a5_reporting-of-transactions-made-by-persons-discharging-managerial-responsibilities-and-persons-closely-associated-with-them-in-better-collective-a-s-shares.pdf`
+- [PDF](https://storage.mfn.se/14e35217-c426-4be8-afa3-113d8d4bb81c/appendix-for-release-no-23-docx.pdf) → `pdfs/c12464a5_appendix-for-release-no-23-docx.pdf`
+
 ---
 
 **Pursuant to the Market Abuse Regulation article 19, Better Collective A/S (the “Company”), CVR no. 27652913, hereby notifies receipt of information of the following transactions made by persons discharging managerial responsibilities in the Company and persons closely associated with them in Better Collective's shares.**

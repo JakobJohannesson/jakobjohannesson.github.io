@@ -6,6 +6,9 @@
 **Cision ID:** aik-fotboll
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/14964/4329247/4016838.pdf) → `pdfs/3a232397_4016838.pdf`
+
 ---
 
 **AIK Fotboll och Morten Kalvenes har kommit överens om att gå skilda vägar. Den 54-årige norrmannen anslöt till klubben inför säsongen 2025 där han under det senaste året verkat i sin roll som assisterande tränare för herrlaget.**

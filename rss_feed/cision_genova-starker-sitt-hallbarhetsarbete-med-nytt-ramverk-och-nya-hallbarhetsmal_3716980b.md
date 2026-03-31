@@ -6,6 +6,9 @@
 **Cision ID:** genova-property-group-ab--publ-
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/13559/4329018/4017081.pdf) → `pdfs/3716980b_4017081.pdf`
+
 ---
 
 ”Genova har successivt stärkt sitt hållbarhetsarbete under de senaste åren. Nu sätter vi ytterligare ambitiösa hållbarhetsmål i syfte att öka transparensen i verksamheten, minska kostnader och göra portföljen mer motståndskraftig”, kommenterar Michael Moschewitz, VD för Genova. 

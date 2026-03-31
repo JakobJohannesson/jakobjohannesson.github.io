@@ -5,6 +5,9 @@
 **MFN ID:** ascelia-pharma
 **Company:** Ascelia Pharma
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/850e1dcb-d369-4425-9af6-f5816506ec17/notice-of-annual-general-meeting-in-ascelia-pharma-ab.pdf) → `pdfs/80b6ea34_notice-of-annual-general-meeting-in-ascelia-pharma-ab.pdf`
+
 ---
 
 The English text is an unofficial translation. In case of any discrepancies between the Swedish text and the English translation, the Swedish text shall prevail.

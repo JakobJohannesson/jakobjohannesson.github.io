@@ -5,6 +5,9 @@
 **MFN ID:** ctt-systems
 **Company:** CTT Systems AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/78ac306c-56ed-436e-8392-ee894a1fc533/notice-of-the-annual-general-meeting-2026-ctt-systems-ab-publ.pdf) → `pdfs/788335c4_notice-of-the-annual-general-meeting-2026-ctt-systems-ab-publ.pdf`
+
 ---
 
 **Shareholders of CTT Systems AB (publ) (”CTT”), reg. no. 556430-7741, are hereby given notice to attend the Annual General Meeting on Thursday 7 May 2026 at 5.00 p.m. CEST at the company’s office, Brukslagarvägen 5, Nyköping, Sweden. Registration to the Annual General Meeting will commence at 4.30 p.m. CEST.**

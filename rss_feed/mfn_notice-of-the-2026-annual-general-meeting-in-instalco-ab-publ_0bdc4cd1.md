@@ -5,6 +5,9 @@
 **MFN ID:** instalco
 **Company:** Instalco
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/4a6ef2aa-778e-45f1-ba81-b0476629e939/instalco-ab-notice-of-the-2026-annual-general-meeting.pdf) → `pdfs/0bdc4cd1_instalco-ab-notice-of-the-2026-annual-general-meeting.pdf`
+
 ---
 
 **The annual general meeting of Instalco AB (publ), 559015-8944, ("Instalco" or the "company") will be held on Tuesday 5 May 2026 at 14:00 CEST at Venue 81, Drottninggatan 81 in Stockholm. Registration for the annual general meeting will commence at 13:30 CEST. The board has decided that shareholders may exercise their voting rights at the annual general meeting also by postal voting in advance, in accordance with the provisions of Instalco's articles of association.**

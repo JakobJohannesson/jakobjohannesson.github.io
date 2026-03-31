@@ -5,6 +5,9 @@
 **MFN ID:** np3-fastigheter
 **Company:** NP3 Fastigheter
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/a/np3-fastigheter/6c17dfb4-187c-4fa2-aac7-22b39bfd3d43/change-in-the-number-of-shares-and-votes-in-np3-fastigheter.pdf) → `pdfs/f8edde16_change-in-the-number-of-shares-and-votes-in-np3-fastigheter.pdf`
+
 ---
 
 **As previously disclosed, the number of shares and votes in NP3 Fastigheter AB (publ) has increased.**

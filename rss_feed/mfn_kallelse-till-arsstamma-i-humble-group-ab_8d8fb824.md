@@ -5,6 +5,9 @@
 **MFN ID:** humble-group
 **Company:** Humble Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/95ab71fc-4f03-4b98-83bc-6ceea5a91f66/kallelse-till-arsstamma-i-humble-group-ab.pdf) → `pdfs/8d8fb824_kallelse-till-arsstamma-i-humble-group-ab.pdf`
+
 ---
 
 **Humble Group AB, org.nr 556794-4797, håller årsstämma onsdagen den 6 maj 2026 kl. 09.00 i TM & Partners lokaler, Jakobs Torg 3, 111 52 Stockholm. Inpassering och registrering börjar kl. 08.45.**

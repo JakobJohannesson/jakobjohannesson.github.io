@@ -5,6 +5,9 @@
 **MFN ID:** fingerprint-cards
 **Company:** Fingerprint Cards AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/ca7a9a79-ad26-4f81-aef8-94d153aaf0c5/kallelse-till-extra-bolagsstamma-i-fingerprint-cards-ab-publ.pdf) → `pdfs/eb9da44e_kallelse-till-extra-bolagsstamma-i-fingerprint-cards-ab-publ.pdf`
+
 ---
 
 **Aktieägarna i Fingerprint Cards AB (publ), org.nr 556154-2381 (nedan kallat ”Bolaget” eller ”FPC”), kallas härmed till en extra bolagsstämma klockan 10.00, torsdagen den 30 april 2026, i KANTER Advokatbyrås lokaler på Engelbrektsgatan 3, 114 32 Stockholm. Inregistrering inleds klockan 9.30.**

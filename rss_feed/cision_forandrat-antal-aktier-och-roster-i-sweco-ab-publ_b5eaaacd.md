@@ -6,6 +6,9 @@
 **Cision ID:** sweco
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/1356/4328735/4016008.pdf) → `pdfs/b5eaaacd_4016008.pdf`
+
 ---
 
 Informationen är sådan som SWECO är skyldigt att offentliggöra enligt lagen om handel med finansiella instrument (1991:980). Informationen lämnades, genom angiven kontaktpersons försorg, för offentliggörande 2026-03-31 07:20 CET.

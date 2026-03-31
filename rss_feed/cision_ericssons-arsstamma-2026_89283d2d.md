@@ -6,6 +6,9 @@
 **Cision ID:** ericsson
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/15448/4329268/4018210.pdf) → `pdfs/89283d2d_4018210.pdf`
+
 ---
 
 Telefonaktiebolaget LM Ericsson (NASDAQ: ERIC) (”Bolaget”) höll sin årsstämma idag den 31 mars 2026 i Kista, Stockholm. Aktieägare hade även möjlighet att utöva sin rösträtt per post före stämman. 

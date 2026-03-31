@@ -5,6 +5,11 @@
 **MFN ID:** tomra-systems
 **Company:** Tomra Systems
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk2MzkmYXR0YWNobWVudElkPTMyMjUwMQ/tomra_systems_asa_agm_2026_information_pack_english.pdf) → `pdfs/99483ba1_tomra_systems_asa_agm_2026_information_pack_english.pdf`
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk2MzkmYXR0YWNobWVudElkPTMyMjUwMg/tomra_systems_asa_agm_2026_information_pack_norwegian.pdf) → `pdfs/99483ba1_tomra_systems_asa_agm_2026_information_pack_norwegian.pdf`
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk2MzkmYXR0YWNobWVudElkPTMyMjUwMw/tomra_remuneration_report_2025.pdf) → `pdfs/99483ba1_tomra_remuneration_report_2025.pdf`
+
 ---
 
 TOMRA Systems ASA will hold its Annual General Meeting on Thursday 23 April 2026

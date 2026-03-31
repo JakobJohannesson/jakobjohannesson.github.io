@@ -5,6 +5,10 @@
 **MFN ID:** np3-fastigheter
 **Company:** NP3 Fastigheter
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/7bb85167-02b1-49d9-8c28-ccfd9168c95d/np3-fastigheter-forvarvar-fastigheter-for-108-miljoner-kronor.pdf) → `pdfs/f50673e6_np3-fastigheter-forvarvar-fastigheter-for-108-miljoner-kronor.pdf`
+- [PDF](https://storage.mfn.se/0ec50849-16d0-4725-a668-2f42c8781cdd/bilaga-forvarvade-och-avyttrade-fastigheter.pdf) → `pdfs/f50673e6_bilaga-forvarvade-och-avyttrade-fastigheter.pdf`
+
 ---
 
 **NP3 Fastigheter AB ("NP3") har i sex transaktioner förvärvat sju fastigheter primärt för industriändamål till ett fastighetsvärde om 108 miljoner kronor före marknadsmässigt avdrag för latent skatt om 3 miljoner kronor. Därutöver har en handelsfastighet avyttrats till ett fastighetsvärde om 72 miljoner kronor utan avdrag för latent skatt.**

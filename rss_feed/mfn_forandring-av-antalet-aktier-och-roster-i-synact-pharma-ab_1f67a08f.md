@@ -5,6 +5,9 @@
 **MFN ID:** synact-pharma
 **Company:** SynAct Pharma
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/ea21e913-4334-4b4e-8903-d7d467820098/forandring-av-antalet-aktier-och-roster-i-synact-pharma-ab.pdf) → `pdfs/1f67a08f_forandring-av-antalet-aktier-och-roster-i-synact-pharma-ab.pdf`
+
 ---
 
 **SynAct Pharma AB (”SynAct”) (Nasdaq Stockholm: SYNACT), ett bioteknikföretag i klinisk fas som fokuserar på behandling av inflammation genom upplösning (resolution), meddelar idag att antalet aktier och rösträtter har ökat med 2 883 725 till följd av genomförandet av den riktade nyemissionen som styrelsen beslutade om den 2 mars 2026.**

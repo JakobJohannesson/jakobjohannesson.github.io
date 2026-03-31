@@ -5,6 +5,12 @@
 **MFN ID:** framery
 **Company:** Framery Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/24feac7a-931e-4933-b3d2-ce932b44df4e/framery-group-plc-annual-report-2025.pdf) → `pdfs/0c5d1450_framery-group-plc-annual-report-2025.pdf`
+- [PDF](https://storage.mfn.se/4b63611e-1e37-47d7-b244-42499c820575/framery-group-plc-corporate-governance-2025.pdf) → `pdfs/0c5d1450_framery-group-plc-corporate-governance-2025.pdf`
+- [PDF](https://storage.mfn.se/cc24c271-0923-401f-8814-5bbc2503372f/framery-group-plc-remuneration-report-2025.pdf) → `pdfs/0c5d1450_framery-group-plc-remuneration-report-2025.pdf`
+- [PDF](https://storage.mfn.se/42f61ff1-7cd5-4a01-b5a0-2d9d26c415c2/framery-group-plc-report-by-the-board-of-directors-and-consolidated-financial-statements-2025.pdf) → `pdfs/0c5d1450_framery-group-plc-report-by-the-board-of-directors-and-consolidated-financial-statements-2025.pdf`
+
 ---
 
 Framery Group Plc | Stock Exchange Release | March 31, 2026 at 09:00:00 EEST

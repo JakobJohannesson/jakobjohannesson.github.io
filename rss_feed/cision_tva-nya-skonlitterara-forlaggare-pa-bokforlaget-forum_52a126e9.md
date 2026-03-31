@@ -6,6 +6,9 @@
 **Cision ID:** bokforlaget-forum
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/2521/4325856/4002356.pdf) → `pdfs/52a126e9_4002356.pdf`
+
 ---
 
 Emina Sabic kommer närmast från Tukan förlagsgrupp där hon varit verksam som förläggande redaktör för flera framgångsrika titlar. Med lång erfarenhet från både den svenska och brittiska förlagsbranschen och med sitt stora engagemang för skönlitterära röster bidrar hon med nytänkande perspektiv i Forums utgivning.

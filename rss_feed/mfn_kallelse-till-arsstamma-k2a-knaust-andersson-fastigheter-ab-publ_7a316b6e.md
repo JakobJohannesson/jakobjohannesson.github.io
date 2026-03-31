@@ -5,6 +5,9 @@
 **MFN ID:** k2a-knaust-and-andersson-fastigheter
 **Company:** K2A Knaust & Andersson Fastigheter
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/b6bf2e02-8087-433f-ad62-85e4a3c7f80c/kallelse-till-arsstamma-k2a-knaust-and-andersson-fastigheter-ab-publ.pdf) → `pdfs/7a316b6e_kallelse-till-arsstamma-k2a-knaust-and-andersson-fastigheter-ab-publ.pdf`
+
 ---
 
 **Aktieägarna i K2A Knaust & Andersson Fastigheter AB (publ), org.nr 556943-7600 (”Bolaget”), kallas härmed till årsstämma den 7 maj 2026 kl. 14.00. Stämman hålls i Bolagets lokaler på Karlavägen 108, 115 26 Stockholm. Insläpp och registrering sker från kl. 13.45.**

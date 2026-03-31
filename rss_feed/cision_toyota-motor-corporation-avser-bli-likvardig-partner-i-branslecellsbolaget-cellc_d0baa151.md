@@ -6,6 +6,9 @@
 **Cision ID:** ab-volvo
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/39/4329084/4016104.pdf) → `pdfs/d0baa151_4016104.pdf`
+
 ---
 
 **Volvokoncernen (Volvo), Daimler Truck AG (Daimler Truck), cellcentric och Toyota Motor Corporation (Toyota) har undertecknat ett icke-bindande avtal om samarbete i bränslecellsbolaget cellcentric. De tre företagen avser att samarbeta på lika villkor, där Toyota blir den tredje partnern i cellcentric. Kombinationen av parternas kompletterande erfarenhet och kunskap ska stödja och påskynda deras gemensamma mål att utveckla, producera och kommersialisera bränslecellsystem för tunga fordon och andra applikationer med liknande krav. Dessutom planerar Toyota och cellcentric att gemensamt hantera utveckling och produktion av bränslecellsenheter – den centrala komponenten i bränslecellsystem – samt direkt kopplad arkitektur och styrsystem, med målet att skapa konkurrenskraftiga produkter baserade på båda företagens teknologi. **

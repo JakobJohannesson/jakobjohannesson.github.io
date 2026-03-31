@@ -6,6 +6,9 @@
 **Cision ID:** ryds-bilglas
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/19261/4329037/4016607.pdf) → `pdfs/3b7f4da5_4016607.pdf`
+
 ---
 
 Ryds Bilglas fortsätter sin resa mot en mer hållbar verksamhet. Nu byts samtliga servicebilar ut mot eldrivna Kia PV5 Cargo – ett viktigt steg i arbetet för att minska klimatpåverkan och bidra till både företagets och koncernen Cary Groups ambitiösa miljömål. 

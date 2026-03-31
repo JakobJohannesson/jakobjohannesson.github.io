@@ -5,6 +5,9 @@
 **MFN ID:** aak
 **Company:** AAK
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/a4b1d3e1-90f8-4266-a2f0-83a95b2c2f09/andrat-antal-aktier-och-roster-i-aak-ab-publ.pdf) → `pdfs/3fa48f2f_andrat-antal-aktier-och-roster-i-aak-ab-publ.pdf`
+
 ---
 
 Det incitamentsprogram för anställda (”Teckningsoptionsprogram serie 2022/2027”) som beslutades vid årsstämman den 18 maj 2022 har under mars 2026 medfört en ökning av antalet aktier och röster i bolaget med 108.000, till följd av att teckningsoptioner har utnyttjats för teckning av nya aktier i bolaget.

@@ -5,6 +5,9 @@
 **MFN ID:** granges
 **Company:** Gränges AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c4f3b40e-d209-4ebc-a0ea-b3b5bf3646f1/notice-of-the-annual-general-meeting-for-granges-ab.pdf) → `pdfs/b01a8278_notice-of-the-annual-general-meeting-for-granges-ab.pdf`
+
 ---
 
 **The Annual General Meeting of Gränges AB will be held on Tuesday, May 12, 2026, at 15.30 CEST at GT30, Grev Turegatan 30, Stockholm. Registration begins at 15.00 CEST.**

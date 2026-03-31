@@ -5,6 +5,9 @@
 **MFN ID:** logistea-ab
 **Company:** Logistea
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/ad58ff52-3861-4d90-b8a3-9c37a7a0b2d0/forandrat-antal-roster-i-logistea.pdf) → `pdfs/3d67c032_forandrat-antal-roster-i-logistea.pdf`
+
 ---
 
 Under februari 2026 mottog Logistea AB (publ) (”Logistea”) begäran om omvandling av Stam A aktier till Stam B aktier från aktieägare i enlighet med bestämmelserna i Logisteas bolagsordning. Som ett resultat av detta har 2 894 711 Stam A aktier omvandlats till Stam B aktier i mars 2026. Det totala antalet Stam B aktier ökade därmed med 2 894 711 och det totala antalet Stam A aktier minskade med 2 894 711 under mars 2026.

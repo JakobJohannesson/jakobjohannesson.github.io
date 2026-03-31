@@ -6,6 +6,9 @@
 **Cision ID:** platzer-fastigheter-holding-ab--publ-
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/8443/4329178/4016407.pdf) → `pdfs/5b47f0b7_4016407.pdf`
+
 ---
 
 **Platzer har idag tecknat avtal om en större kombinationsaffär med Göteborgs Hamn, innehållande såväl avyttring som förvärv av fastigheter i Arendal i Göteborg. Platzers fastighetsförsäljning omfattar mark, vatten och kontorsbyggnader. Förvärvet avser en logistikfastighet om 24 000 kvm. Platzer är nettosäljare till ett belopp om 684 mkr.** 

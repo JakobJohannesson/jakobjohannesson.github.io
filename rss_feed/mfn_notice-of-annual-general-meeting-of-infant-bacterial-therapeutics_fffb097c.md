@@ -5,6 +5,9 @@
 **MFN ID:** infant-bacterial-therapeutics
 **Company:** Infant Bacterial Therapeutics
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/b0770f0f-2c2f-453d-8010-b8e7581dbff4/notice-of-annual-general-meeting-of-infant-bacterial-therapeutics.pdf) → `pdfs/fffb097c_notice-of-annual-general-meeting-of-infant-bacterial-therapeutics.pdf`
+
 ---
 
 **Infant Bacterial Therapeutics AB (publ), Reg. No. 556873-8586, with its registered office in Stockholm, gives notice of the Annual General Meeting to be held on May 7, 2026 at 16.00 CEST at Convendum, Fleminggatan 18, Stockholm.**

@@ -5,6 +5,9 @@
 **MFN ID:** humble-group
 **Company:** Humble Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/e4d2a42e-eaa8-413a-a2c3-9d08d559b1ae/ars-och-hallbarhetsredovisning-2025-humble-group.pdf) → `pdfs/8535f5ab_ars-och-hallbarhetsredovisning-2025-humble-group.pdf`
+
 ---
 
 Humble Groups års- och hållbarhetsredovisning för 2025 har idag offentliggjorts i European Single Electronic Format (ESEF) och finns tillgänglig på koncernens hemsida [www.humblegroup.com](http://www.humblegroup.com).

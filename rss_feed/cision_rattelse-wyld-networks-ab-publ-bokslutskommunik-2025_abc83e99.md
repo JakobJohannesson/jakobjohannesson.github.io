@@ -6,6 +6,9 @@
 **Cision ID:** wyld-networks
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/20640/4328658/4014627.pdf) → `pdfs/abc83e99_4014627.pdf`
+
 ---
 
 I det föregående pressmeddelandet saknades MAR-hänvisning och rapporten bifogades inte som fil. Det är nu bifogat till detta pressmeddelande.

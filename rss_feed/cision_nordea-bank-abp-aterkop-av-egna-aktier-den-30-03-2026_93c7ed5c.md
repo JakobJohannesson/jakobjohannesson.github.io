@@ -6,6 +6,9 @@
 **Cision ID:** nordea
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Public/434/4329012/8dc006cdd1959648.pdf) → `pdfs/93c7ed5c_8dc006cdd1959648.pdf`
+
 ---
 
 Nordea Bank Abp

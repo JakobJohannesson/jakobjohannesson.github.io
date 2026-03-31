@@ -5,6 +5,9 @@
 **MFN ID:** nordic-semiconductor
 **Company:** Nordic Semiconductor
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk3NDUmYXR0YWNobWVudElkPTMyMjU5Mw/nod-notice-of-agm-2026.pdf) → `pdfs/9ca44fc2_nod-notice-of-agm-2026.pdf`
+
 ---
 
 The Annual General Meeting of Nordic Semiconductor ASA will be held on Tuesday,

@@ -6,6 +6,9 @@
 **Cision ID:** ncc
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/197/4327747/4013751.pdf) → `pdfs/69d2b3cc_4013751.pdf`
+
 ---
 
 **NCC ska på uppdrag av Fredrikstad kommun bygga en ishall och multiarena i staden. Efter en planeringsfas i samverkan har nu entreprenadkontrakt tecknats. Ordervärdet uppgår till cirka 580 MSEK.**

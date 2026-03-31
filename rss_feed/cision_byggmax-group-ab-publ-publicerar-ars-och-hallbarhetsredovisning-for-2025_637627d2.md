@@ -6,6 +6,9 @@
 **Cision ID:** byggmax
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/109/4328713/4017356.pdf) → `pdfs/637627d2_4017356.pdf`
+
 ---
 
 Års- och hållbarhetsredovisningen är i första hand tillgänglig i digitalt format. Ett begränsat antal tryckta exemplar finns att tillgå och kan beställas via e-post till: info@byggmax.se. 

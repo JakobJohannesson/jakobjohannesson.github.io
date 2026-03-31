@@ -5,6 +5,10 @@
 **MFN ID:** humana
 **Company:** Humana
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c2a6365a-0418-4943-aa6e-c0b1db0aed0a/annual-general-meeting-in-humana.pdf) → `pdfs/e926d6be_annual-general-meeting-in-humana.pdf`
+- [PDF](https://storage.mfn.se/7f815151-d4c4-4ca4-8cd2-0e6706a659e7/1-notice-agm-2026-1.pdf) → `pdfs/e926d6be_1-notice-agm-2026-1.pdf`
+
 ---
 
 **The board of Humana AB has resolved to convene an annual general meeting of shareholders to be held on Thursday, May 7, 2026. More information about the contents of the proposals may be obtained from the complete notice to the annual general meeting below. The notice is expected to be published in the Swedish Official Gazette (Post- och Inrikes Tidningar) and on the company’s website within the next few days. For further information, please contact Ewelina Pettersson, Head of Investor Relations, +46 73 074 79 12, ewelina.pettersson@humana.se English translation for information purposes only. If there are differences between the English translation and the Swedish original, the Swedish text will take precedence.**

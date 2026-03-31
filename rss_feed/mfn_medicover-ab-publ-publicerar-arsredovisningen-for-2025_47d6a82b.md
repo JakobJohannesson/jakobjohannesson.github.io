@@ -5,6 +5,9 @@
 **MFN ID:** medicover
 **Company:** Medicover AB (Publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/610d2cf9-abdc-4622-bbaa-80d76bd524d9/medicover-arsredovisning-2025.pdf) → `pdfs/47d6a82b_medicover-arsredovisning-2025.pdf`
+
 ---
 
 **Medicovers årsredovisning, inklusive hållbarhetsrapporten för 2025 har idag publicerats och finns nu tillgänglig på bolagets webbplats **[**medicover.com**](https://www.medicover.com/sv/finansiell-information/rapporter-och-presentationer)**.**

@@ -5,6 +5,9 @@
 **MFN ID:** link-mobility-group-holding
 **Company:** Link Mobility Group Holding
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk4MTEmYXR0YWNobWVudElkPTMyMjY2MQ/link-mobility-share-buyback-23-27-march-2026.pdf) → `pdfs/0ae6e51e_link-mobility-share-buyback-23-27-march-2026.pdf`
+
 ---
 
 Oslo, Norway, 31 March 2026: Reference is made to the stock exchange

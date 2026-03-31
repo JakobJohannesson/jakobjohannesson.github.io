@@ -5,6 +5,9 @@
 **MFN ID:** alligator-bioscience
 **Company:** Alligator Bioscience
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/f39e6727-b174-4fa4-887b-bac7df0c8fea/the-nomination-committees-proposals-regarding-the-board-of-directors-for-the-annual-general-meeting-in-alligator-bioscience-ab-publ.pdf) → `pdfs/91e9bf5c_the-nomination-committees-proposals-regarding-the-board-of-directors-for-the-annual-general-meeting-in-alligator-bioscience-ab-publ.pdf`
+
 ---
 
 **The Nomination Committee of Alligator Bioscience AB (publ) (“Alligator Bioscience”) proposes re-election of Hans-Peter Ostler and Denise Goode as ordinary Board members and election of Anna Törner and Jörg Möller as new ordinary Board members. The Nomination Committee also proposes re-election of Hans-Peter Ostler as Chairman of the Board.**

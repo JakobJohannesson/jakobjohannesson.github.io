@@ -5,6 +5,9 @@
 **MFN ID:** sleep-cycle
 **Company:** Sleep Cycle
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/1e972bb9-2247-4570-aac7-4f0b901b4e08/strong-early-demand-for-sleep-apnea-risk-detection-over-150-000-registrations.pdf) → `pdfs/a4aebe07_strong-early-demand-for-sleep-apnea-risk-detection-over-150-000-registrations.pdf`
+
 ---
 
 **Sleep Cycle, the leading AI-powered sleep technology company, today announced that more than 150,000 people have registered interest in its upcoming sleep apnea risk detection solution ahead of its commercial launch.**

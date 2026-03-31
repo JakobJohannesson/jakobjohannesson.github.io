@@ -5,6 +5,9 @@
 **MFN ID:** vef
 **Company:** VEF AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/a2fc8c51-8efa-48cf-aba1-2e5871ad9551/vef-agm-2026-notice.pdf) → `pdfs/507a643e_vef-agm-2026-notice.pdf`
+
 ---
 
 **Notice is hereby given to the shareholders in VEF AB (publ), reg. no. 559288-0362, with registered office in Stockholm, Sweden (“VEF” or the “Company”) that an Annual General Meeting (the “Meeting”) of shareholders shall be held on Wednesday, 6 May 2026 at 12:30 CEST at Advokatfirman Vinge’s offices, Smålandsgatan 20, SE-111 46 Stockholm, Sweden. Registration starts at 12:15 CEST.**

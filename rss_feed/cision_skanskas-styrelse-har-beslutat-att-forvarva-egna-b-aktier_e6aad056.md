@@ -6,6 +6,9 @@
 **Cision ID:** skanska
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/95/4329189/4017329.pdf) → `pdfs/e6aad056_4017329.pdf`
+
 ---
 
 **Styrelsen har beslutat att utnyttja årsstämmans bemyndigande att förvärva egna B-aktier på Nasdaq Stockholm för att säkerställa leverans av aktier till deltagare i Skanskas aktiesparprogram Seop 7.**

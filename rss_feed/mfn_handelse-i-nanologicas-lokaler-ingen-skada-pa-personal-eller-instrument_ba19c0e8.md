@@ -5,6 +5,9 @@
 **MFN ID:** nanologica
 **Company:** Nanologica AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/4bb5afff-7e47-4327-b329-1804ac955f57/handelse-i-nanologicas-lokaler-ingen-skada-pa-personal-eller-instrument.pdf) → `pdfs/ba19c0e8_handelse-i-nanologicas-lokaler-ingen-skada-pa-personal-eller-instrument.pdf`
+
 ---
 
 **Under helgen inträffade en mindre explosion i en ugn hos ett bolag som delar kontors- och laboratoriekorridor med Nanologica. Sprinklersystemet aktiverades automatiskt och vatten spreds i lokalerna. Ingen person har kommit till skada och Nanologicas utrustning är oskadd.**

@@ -6,6 +6,9 @@
 **Cision ID:** hunter-capital-ab--publ-
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/19524/4328553/4014097.pdf) → `pdfs/e8d3c643_4014097.pdf`
+
 ---
 
 Den kommunicerade transaktionsstrukturen implicerar ett pro forma-värde om 365–405 MSEK för det sammanslagna bolaget. I samma struktur värderas Hunter Capital RTO 1 till cirka 60 MSEK, motsvarande cirka 1,33 SEK per aktie.

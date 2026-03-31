@@ -6,6 +6,9 @@
 **Cision ID:** spotlight-stock-market
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/9351/4329467/4017884.pdf) → `pdfs/5f302dd0_4017884.pdf`
+
 ---
 
 One (1) share entitles the owner to five (5) subscription rights. Twelve (12) subscription rights entitle the owner to subscribe for one (1) new share, at the price of SEK 0,55 (5:12 á SEK 0,55). 

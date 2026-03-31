@@ -5,6 +5,9 @@
 **MFN ID:** logistea-ab
 **Company:** Logistea
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/f40c5115-9aba-4ee8-a7d2-f33d307e8fc2/logistea-tilltrader-forvarv-av-sex-fullt-uthyrda-terminaler-for-587-msek-fran-dsv-i-sale-leaseback-affar.pdf) → `pdfs/7717c417_logistea-tilltrader-forvarv-av-sex-fullt-uthyrda-terminaler-for-587-msek-fran-dsv-i-sale-leaseback-affar.pdf`
+
 ---
 
 **Logistea AB (publ) har idag tillträtt tidigare annonserat förvärv av fem fastigheter och en tomträtt i en sale-leaseback-affär med DSV. Fastigheterna har ett underliggande överenskommet fastighetsvärde på 587 miljoner kronor, före avdrag för latent skatt om 27 MSEK. Fastigheterna är fullt uthyrda till DSV Road AB med en återstående hyresperiod för varje tillgång om 10 år. Den uthyrbara arean uppgår till cirka 41 500 kvm.**

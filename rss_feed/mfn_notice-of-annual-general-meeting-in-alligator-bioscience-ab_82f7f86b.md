@@ -5,6 +5,9 @@
 **MFN ID:** alligator-bioscience
 **Company:** Alligator Bioscience
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/a4b4b086-f3c1-4171-b627-8a736fbd3c5c/notice-of-annual-general-meeting-in-alligator-bioscience-ab.pdf) → `pdfs/82f7f86b_notice-of-annual-general-meeting-in-alligator-bioscience-ab.pdf`
+
 ---
 
 *The English text is an unofficial translation. In case of any discrepancies between the Swedish text and the English translation, the Swedish text shall prevail.*

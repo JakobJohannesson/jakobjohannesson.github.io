@@ -6,6 +6,9 @@
 **Cision ID:** krona-public-real-estate-ab--publ-
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/20443/4329270/4016940.pdf) → `pdfs/ff9318a4_4016940.pdf`
+
 ---
 
 ***För ytterligare information, vänligen kontakta:***

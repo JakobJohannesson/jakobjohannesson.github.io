@@ -5,6 +5,9 @@
 **MFN ID:** otello
 **Company:** Otello
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk3MDMmYXR0YWNobWVudElkPTMyMjU2Mw/otec-transaksjonsoversikt64.pdf) → `pdfs/e7145cd0_otec-transaksjonsoversikt64.pdf`
+
 ---
 
 Reference is made to the stock exchange notice from 9 February 2026 announcing

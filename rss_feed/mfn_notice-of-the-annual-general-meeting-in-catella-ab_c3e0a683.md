@@ -5,6 +5,9 @@
 **MFN ID:** catella
 **Company:** Catella AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/f55e67b4-0b4c-40da-bed0-52110bb47f18/notice-of-the-annual-general-meeting-in-catella-ab.pdf) → `pdfs/c3e0a683_notice-of-the-annual-general-meeting-in-catella-ab.pdf`
+
 ---
 
 **The annual general meeting of Catella AB, reg. no. 556079-1419, (the "Company" or "Catella") will be held on Tuesday 12 May 2026 at 10.00 at GT30, Grev Turegatan 30 in Stockholm, Sweden. Registration for the annual general meeting will commence at 09.30. The board of directors has resolved that shareholders shall also be able to exercise their voting rights at the annual general meeting by postal voting in advance in accordance with § 11 of the articles of association.**

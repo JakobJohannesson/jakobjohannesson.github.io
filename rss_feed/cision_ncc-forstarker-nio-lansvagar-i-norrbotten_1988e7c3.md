@@ -6,6 +6,9 @@
 **Cision ID:** ncc
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/197/4327929/4011716.pdf) → `pdfs/1988e7c3_4011716.pdf`
+
 ---
 
 **NCC ska på uppdrag av Trafikverket genomföra förstärknings- och beläggningsarbeten i Norrbottens län. Arbetena ska öka vägarnas bärighet samt förbättra vägstandard och framkomlighet. Ordervärdet uppgår till cirka 260 MSEK. **

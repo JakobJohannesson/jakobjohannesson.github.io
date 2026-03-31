@@ -5,6 +5,12 @@
 **MFN ID:** scatec
 **Company:** Scatec
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/5c2cacb5-380e-46ee-9843-548d47405b33/notice-of-annual-general-meeting-of-scatec-asa.pdf) → `pdfs/2918f482_notice-of-annual-general-meeting-of-scatec-asa.pdf`
+- [PDF](https://storage.mfn.se/e29cda1c-7de3-4dac-a5f9-f84243de67c6/scatec-asa-notice-of-annual-general-meeting-2026.pdf) → `pdfs/2918f482_scatec-asa-notice-of-annual-general-meeting-2026.pdf`
+- [PDF](https://storage.mfn.se/35560fa3-9264-4f39-9447-2526144421ef/scatec-asa-proposed-resolutions-2026.pdf) → `pdfs/2918f482_scatec-asa-proposed-resolutions-2026.pdf`
+- [PDF](https://storage.mfn.se/06bd22df-a865-4328-b636-55f49c983bd8/scatec-asa-recommendation-by-the-nomination-committee-2026.pdf) → `pdfs/2918f482_scatec-asa-recommendation-by-the-nomination-committee-2026.pdf`
+
 ---
 
 **Oslo, 27 March 2026: The Annual General Meeting of Scatec ASA will be held on 24 April 2026 at 10:00 CEST.**

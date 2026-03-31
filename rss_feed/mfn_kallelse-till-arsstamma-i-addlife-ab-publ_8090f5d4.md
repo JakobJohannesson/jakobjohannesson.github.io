@@ -5,6 +5,9 @@
 **MFN ID:** addlife
 **Company:** AddLife
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/4f7418d8-397c-480c-985b-e6ce83d4071d/kallelse-till-arsstamma-i-addlife-ab-publ.pdf) → `pdfs/8090f5d4_kallelse-till-arsstamma-i-addlife-ab-publ.pdf`
+
 ---
 
 **Aktieägarna i AddLife AB (publ) (”Bolaget”), org.nr 556995-8126, kallas härmed till årsstämma onsdagen den 6 maj 2026 klockan 16:00 i World Trade Center, lokal New York, Klarabergsviadukten 70, Stockholm. Inregistrering till stämman påbörjas klockan 15:30.**

@@ -5,6 +5,9 @@
 **MFN ID:** vef
 **Company:** VEF AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/3091bade-703d-4707-9dd7-d20c6165b188/vef-arsstamma-2026-kallelse.pdf) → `pdfs/12c76433_vef-arsstamma-2026-kallelse.pdf`
+
 ---
 
 **Aktieägare i VEF AB (publ), org.nr 559288-0362, med registrerad adress i Stockholm (”VEF” eller ”Bolaget”) kallas härmed till årsstämma (”Stämman”) onsdag den 6 maj 2026 kl. 12.30 CEST hos Advokatfirman Vinge, Smålandsgatan 20, 111 46 Stockholm. Inregistrering till Stämman börjar kl. 12:15 CEST.**

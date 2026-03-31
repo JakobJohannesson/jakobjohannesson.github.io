@@ -5,6 +5,9 @@
 **MFN ID:** castellum
 **Company:** Castellum
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/963638c8-0fda-4368-85b6-1559341d193e/castellum-annual-report-2025.pdf) → `pdfs/38ae339d_castellum-annual-report-2025.pdf`
+
 ---
 
 **Castellum’s Annual Report for 2025, which also includes the Sustainability Report, has been published and is available in PDF format on the company’s website.**

@@ -6,6 +6,9 @@
 **Cision ID:** peab
 **Keywords:** göteborg, Järnväg, peab, bygger, nytt uppdrag, Närproducerat samhällsbygge, uppställningsspår
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/424/4328312/4013096.pdf) → `pdfs/c7899b36_4013096.pdf`
+
 ---
 
 **Peab har fått uppdraget att bygga nya uppställningsspår i området Pilekrogen i Mölndal, strax söder om Göteborg. Beställare är Trafikverket och kontraktssumman uppgår till 580 miljoner svenska kronor.**

@@ -6,6 +6,9 @@
 **Cision ID:** betsson-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/1067/4329440/4017820.pdf) → `pdfs/cc5f99df_4017820.pdf`
+
 ---
 
 ________________________

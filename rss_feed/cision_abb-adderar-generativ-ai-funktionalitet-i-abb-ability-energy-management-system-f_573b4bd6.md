@@ -6,6 +6,9 @@
 **Cision ID:** abb
 **Keywords:** abb
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/417/4328427/4013948.pdf) → `pdfs/573b4bd6_4013948.pdf`
+
 ---
 
 **Fredrik Karlsson**

@@ -5,6 +5,9 @@
 **MFN ID:** logistea-ab
 **Company:** Logistea
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/f0baab93-e904-40f9-88b1-0f58020948b6/changed-number-of-votes-in-logistea.pdf) → `pdfs/3af34277_changed-number-of-votes-in-logistea.pdf`
+
 ---
 
 During February 2026 Logistea AB (publ) (“Logistea”) received requests for conversion of ordinary A shares into ordinary B shares from shareholders in accordance with the provisions of Logistea’s articles of association. As a result, 2,894,711 ordinary A shares have been converted into ordinary B shares in March 2026. Consequently, the total number of ordinary B shares increased by 2,894,711 and the total number of ordinary A shares decreased by 2,894,711 during March 2026.

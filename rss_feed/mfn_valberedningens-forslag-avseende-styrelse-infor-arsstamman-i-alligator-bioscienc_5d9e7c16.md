@@ -5,6 +5,9 @@
 **MFN ID:** alligator-bioscience
 **Company:** Alligator Bioscience
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/06320a68-c8a1-48a2-ba39-5973af9ff587/valberedningens-forslag-avseende-styrelse-infor-arsstamman-i-alligator-bioscience-ab-publ.pdf) → `pdfs/5d9e7c16_valberedningens-forslag-avseende-styrelse-infor-arsstamman-i-alligator-bioscience-ab-publ.pdf`
+
 ---
 
 **Valberedningen i Alligator Bioscience AB (publ) (”Alligator Bioscience”) föreslår omval av Hans-Peter Ostler och Denise Goode som ordinarie ledamöter samt nyval av Anna Törner och Jörg Möller som ordinarie ledamöter. Valberedningen föreslår även omval av Hans-Peter Ostler som styrelseordförande.**

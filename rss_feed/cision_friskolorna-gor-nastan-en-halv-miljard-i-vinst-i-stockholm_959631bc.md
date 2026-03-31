@@ -6,6 +6,9 @@
 **Cision ID:** socialdemokraterna-i-stockholms-stadshus
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/275/4328685/4015061.pdf) → `pdfs/959631bc_4015061.pdf`
+
 ---
 
 **En ny granskning från Socialdemokraterna i Stockholm visar att de största friskolekoncernerna gör vinster på mellan 200-450 miljoner kronor, pengar som var avsedda att gå till Stockholmselevernas undervisning. Det motsvarar kostnaden för ca 250-500 lärare.**

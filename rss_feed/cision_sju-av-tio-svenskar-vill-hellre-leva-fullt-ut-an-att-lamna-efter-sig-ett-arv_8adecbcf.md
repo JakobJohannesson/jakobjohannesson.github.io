@@ -6,6 +6,9 @@
 **Cision ID:** insight-intelligence
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/8151/4321822/3984635.pdf) → `pdfs/8adecbcf_3984635.pdf`
+
 ---
 
 **50 procent av svenskarna vill leva fullt ut och lämna efter sig ett arv om det blir något över, medan 18 procent vill använda upp så mycket pengar de kan innan de går bort. Endast 14 procent vill lämna efter sig ett arv i samma storlek som de fått. Det visar en ny, riksomfattande undersökning om svenskarnas syn på åldrande.**

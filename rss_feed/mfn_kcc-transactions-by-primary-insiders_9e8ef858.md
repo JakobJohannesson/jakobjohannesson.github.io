@@ -5,6 +5,11 @@
 **MFN ID:** klaveness-combination-carriers
 **Company:** Klaveness Combination Carriers
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/56e0e56c-bc73-4807-9db9-edf6b016df26/eda-notification-of-pledge-of-shares-krt-1500.pdf) → `pdfs/9e8ef858_eda-notification-of-pledge-of-shares-krt-1500.pdf`
+- [PDF](https://storage.mfn.se/40a260fb-46a1-4f7c-99a5-6938b63be252/eda-notification-of-share-purchase-krt-1500.pdf) → `pdfs/9e8ef858_eda-notification-of-share-purchase-krt-1500.pdf`
+- [PDF](https://storage.mfn.se/e34d2eba-5ba5-484c-ad6a-073045b57ee2/lhd-notification-of-share-purchase-krt-1500.pdf) → `pdfs/9e8ef858_lhd-notification-of-share-purchase-krt-1500.pdf`
+
 ---
 
 **Oslo, 28 March 2026: Klaveness Combination Carriers ASA (“KCC” or “the Company”) advises that E Dahm Invest AS, a company closely associated with Engebret Dahm, CEO of KCC, has entered into an agreement to acquire 10,000 shares in KCC, while CFO and Deputy CEO, Liv H. Dyrnes, has entered into an agreement to acquire 3,000 shares in KCC. The shares are sold by KCC as part of the Company's long term incentive program. The shares are acquired at a price of NOK 71.48 per share, subject to lock-up provisions set out in the incentive program.**

@@ -5,6 +5,9 @@
 **MFN ID:** actic-group
 **Company:** Actic Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/955f9b06-0c3c-48a4-8be1-4691c01edbb7/actic-group-ab-sakrar-langsiktig-finansiering-med-dnb-for-fortsatt-tillvaxt.pdf) → `pdfs/1be8cc76_actic-group-ab-sakrar-langsiktig-finansiering-med-dnb-for-fortsatt-tillvaxt.pdf`
+
 ---
 
 **Actic Group AB har idag tecknat ett nytt långsiktigt finansieringsavtal med DNB, vilket stärker bolagets finansiella plattform för fortsatt expansion och lönsam tillväxt. Avtalet omfattar en total långfristig kreditfacilitet om 325 MSEK.**

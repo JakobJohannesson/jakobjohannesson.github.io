@@ -5,6 +5,9 @@
 **MFN ID:** ascelia-pharma
 **Company:** Ascelia Pharma
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/69cf9b78-a193-4915-b01f-cede766a676d/ascelia-pharma-announces-acceptance-of-orviglance-data-for-oral-presentation-at-the-annual-radiology-congress-esgar-2026.pdf) → `pdfs/e557a1c9_ascelia-pharma-announces-acceptance-of-orviglance-data-for-oral-presentation-at-the-annual-radiology-congress-esgar-2026.pdf`
+
 ---
 
 **Ascelia Pharma AB (publ) (ticker: ACE), a biotech focused on improving the life of people living with rare cancer conditions, today announced that an abstract with an evaluation of the detection of focal liver lesions with Orviglance contrast agent from two phase 2 studies has been accepted for oral presentation at the European Society of Gastrointestinal and Abdominal Radiology (ESGAR) Annual Meeting, taking place 9-12 June in Montpellier, France.**

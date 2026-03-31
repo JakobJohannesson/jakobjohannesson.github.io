@@ -6,6 +6,9 @@
 **Cision ID:** abb
 **Keywords:** abb
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/417/4329231/4016733.pdf) → `pdfs/fe96447a_4016733.pdf`
+
 ---
 
 **För mer information kontakta:**

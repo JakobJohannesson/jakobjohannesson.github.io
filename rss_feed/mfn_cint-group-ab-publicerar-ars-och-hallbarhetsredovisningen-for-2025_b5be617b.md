@@ -5,6 +5,9 @@
 **MFN ID:** cint-group
 **Company:** Cint Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/50aa6fbf-de41-4b24-84f2-dcea524a3bed/cint-group-ars-och-hallbarhetsredovisning-2025.pdf) → `pdfs/b5be617b_cint-group-ars-och-hallbarhetsredovisning-2025.pdf`
+
 ---
 
 Cint Groups års- och hållbarhetsredovisning för 2025 har idag blivit publicerad på [Cint™ Investors](https://investors.cint.com/)

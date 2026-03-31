@@ -5,6 +5,9 @@
 **MFN ID:** invisio
 **Company:** INVISIO AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/64aa39dd-635f-45be-8363-b32f3ab508f4/invisio-kallar-till-arsstamma.pdf) → `pdfs/02f05825_invisio-kallar-till-arsstamma.pdf`
+
 ---
 
 **Aktieägarna i INVISIO AB kallas härmed till årsstämma onsdagen den 6 maj 2026 kl. 16.00 på IVA Konferenscenter, Grev Turegatan 16 i Stockholm. Inregistrering sker från kl. 15.30.**

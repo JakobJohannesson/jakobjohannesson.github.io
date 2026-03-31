@@ -5,6 +5,9 @@
 **MFN ID:** nanologica
 **Company:** Nanologica AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/d6f3050a-0cab-471c-a8ff-3792668ba866/number-of-shares-and-votes-in-nanologica-ab-publ.pdf) → `pdfs/8a6809d3_number-of-shares-and-votes-in-nanologica-ab-publ.pdf`
+
 ---
 
 **The number of registered shares and votes in Nanologica AB has changed during the month of March as a result of the directed share issues resolved by the board of directors on 30 January 2026 and approved at the subsequent extraordinary general meeting on 4 March 2026 (the "Directed Issues").**

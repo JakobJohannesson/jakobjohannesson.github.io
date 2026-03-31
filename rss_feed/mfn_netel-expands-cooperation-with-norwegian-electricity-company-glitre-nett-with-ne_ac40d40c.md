@@ -5,6 +5,9 @@
 **MFN ID:** netel-holding
 **Company:** Netel Holding AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/68b8488f-8005-4fd5-9481-045289a935a8/netel-expands-cooperation-with-norwegian-electricity-company-glitre-nett-with-new-framework-agreement-worth-up-to-300-mnok.pdf) → `pdfs/ac40d40c_netel-expands-cooperation-with-norwegian-electricity-company-glitre-nett-with-new-framework-agreement-worth-up-to-300-mnok.pdf`
+
 ---
 
 **Netel's subsidiary Nett-Tjenester has signed a new framework agreement with Glitre Nett worth up to 300 MNOK. The agreement covers a new geographical area for Netel and applies to services within regional networks – operation and design.**

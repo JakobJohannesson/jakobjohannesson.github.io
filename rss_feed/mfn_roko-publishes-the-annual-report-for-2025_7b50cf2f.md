@@ -5,6 +5,10 @@
 **MFN ID:** roko-ab
 **Company:** Röko
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9zdG9yYWdlLm1mbi5zZS82MTk2NGQ4Ni1mOGRlLTQ5OTQtOGVhNy0xYWUxNTAyYTBiNTMvcm9rby1hbm51YWwtcmVwb3J0LTIwMjUucGRm/roko-annual-report-2025.pdf) → `pdfs/7b50cf2f_roko-annual-report-2025.pdf`
+- [PDF](https://storage.mfn.se/61964d86-f8de-4994-8ea7-1ae1502a0b53/roko-annual-report-2025.pdf) → `pdfs/7b50cf2f_roko-annual-report-2025.pdf`
+
 ---
 
 **Röko has today published the Annual report for 2025. The Annual report is available in Swedish and in an English translation in pdf on ****[www.roko.se/investors/reports-and-presentations](https://www.roko.se/investors/reports-and-presentations)****. The Swedish version is also available in European Single Electronic Format (ESEF).**

@@ -5,6 +5,9 @@
 **MFN ID:** lifco
 **Company:** Lifco AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/14bd9523-71cc-4c40-9476-705e245804f6/annual-and-sustainability-report-2025.pdf) → `pdfs/14ad5976_annual-and-sustainability-report-2025.pdf`
+
 ---
 
 **[Lifco’s](https://www.lifco.se/)**** annual report and sustainability report 2025 is available as of today on ****[lifco.se](https://lifco.se/investors/financial-reports/)****.**

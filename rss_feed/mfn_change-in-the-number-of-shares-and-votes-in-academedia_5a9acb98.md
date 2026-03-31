@@ -5,6 +5,9 @@
 **MFN ID:** academedia
 **Company:** AcadeMedia
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/a1093019-d1be-4ad7-8e5b-73ff9fbb3fa1/change-in-the-number-of-shares-and-votes-in-academedia.pdf) → `pdfs/5a9acb98_change-in-the-number-of-shares-and-votes-in-academedia.pdf`
+
 ---
 
 The number of shares and votes in AcadeMedia AB decreased during March 2026 as a result of redemption of ordinary shares under the voluntary redemption program, adopted at the Annual General Meeting on 26 November 2025. In total, the number of shares and votes decreased by 3,243,710 ordinary shares and as many votes.

@@ -5,6 +5,11 @@
 **MFN ID:** xbrane-biopharma
 **Company:** Xbrane Biopharma
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/8faee918-6951-401f-b183-8354d7f6ea85/notice-of-annual-general-meeting-in-xbrane-biopharma-ab.pdf) → `pdfs/41e404fc_notice-of-annual-general-meeting-in-xbrane-biopharma-ab.pdf`
+- [PDF](https://storage.mfn.se/de21681f-b6a8-41ac-93c8-10f0461faf96/form-for-advance-voting-for-annual-general-meeting-2026-xbrane-biopharma-ab.pdf) → `pdfs/41e404fc_form-for-advance-voting-for-annual-general-meeting-2026-xbrane-biopharma-ab.pdf`
+- [PDF](https://storage.mfn.se/f3f00083-ddde-4e9b-84f2-1361dde2ea7e/proxy-form-for-annual-general-meeting-2026-xbrane-biopharma-ab.pdf) → `pdfs/41e404fc_proxy-form-for-annual-general-meeting-2026-xbrane-biopharma-ab.pdf`
+
 ---
 
 **The shareholders of Xbrane Biopharma AB, reg. no. 556749-2375 (the "Company"), are hereby invited to the annual general meeting on Tuesday 5 May 2026 at 16:00 CET at Baker McKenzie Advokatbyrås premises at Mäster Samuelsgatan 17, 111 44, Stockholm.**

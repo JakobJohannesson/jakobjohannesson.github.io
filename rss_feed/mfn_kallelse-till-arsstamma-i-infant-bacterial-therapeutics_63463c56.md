@@ -5,6 +5,9 @@
 **MFN ID:** infant-bacterial-therapeutics
 **Company:** Infant Bacterial Therapeutics
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/7dcf640c-e97c-479c-8717-8e7fbbbb51e4/kallelse-till-arsstamma-i-infant-bacterial-therapeutics.pdf) → `pdfs/63463c56_kallelse-till-arsstamma-i-infant-bacterial-therapeutics.pdf`
+
 ---
 
 **Infant Bacterial Therapeutics AB (publ), org.nr 556873-8586, med säte i Stockholm, kallar till årsstämma den 7 maj 2026 kl. 16.00 på Convendum, Fleminggatan 18, Stockholm.**

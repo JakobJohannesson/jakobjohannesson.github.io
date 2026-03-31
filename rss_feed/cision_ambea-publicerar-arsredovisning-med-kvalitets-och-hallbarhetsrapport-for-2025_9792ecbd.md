@@ -6,6 +6,9 @@
 **Cision ID:** ambea
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/5048/4328624/4015459.pdf) → `pdfs/9792ecbd_4015459.pdf`
+
 ---
 
 Ambeas årsredovisning med kvalitets- och hållbarhetsrapport för 2025 publiceras idag på ambea.se och bifogat via detta pressmeddelande. Den svenska versionen finns även tillgänglig i European Single Electronic Format (ESEF).

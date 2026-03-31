@@ -5,6 +5,9 @@
 **MFN ID:** dios
 **Company:** Diös
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/0fef1795-7945-43e4-853d-a748d8ceefa6/dios-fastigheter-ab-publ-annual-general-meeting-2026.pdf) → `pdfs/2196a897_dios-fastigheter-ab-publ-annual-general-meeting-2026.pdf`
+
 ---
 
 **Diös Fastigheter (publ) (“Diös”) has today, 30 March 2026, held its Annual General Meeting (“AGM”) at Diös Headquarters, Zätagränd 11, Östersund, Sweden. Following decision were taken by the AGM:**

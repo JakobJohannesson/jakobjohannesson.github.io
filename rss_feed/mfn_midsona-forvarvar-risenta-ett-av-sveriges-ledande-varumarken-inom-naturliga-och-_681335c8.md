@@ -5,6 +5,9 @@
 **MFN ID:** midsona
 **Company:** Midsona
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/3a665b4a-2e58-4f53-be41-d4e5d55041ff/midsona-forvarvar-risenta-ett-av-sveriges-ledande-varumarken-inom-naturliga-och-halsosamma-livsmedel.pdf) → `pdfs/681335c8_midsona-forvarvar-risenta-ett-av-sveriges-ledande-varumarken-inom-naturliga-och-halsosamma-livsmedel.pdf`
+
 ---
 
 **Midsona AB (publ) stärker sin position inom hälsosamma livsmedel på den svenska marknaden genom att förvärva varumärket Risenta från livsmedelsbolagets Pauligs dotterbolag Santa Maria AB. Transaktionen är villkorad av beslut från Inspektionen för strategiska produkter (”ISP”). Förvärvet förväntas ha en positiv effekt på såväl Midsonas EBIT-marginal som resultatet per aktie och bidra med en ökad årlig omsättning på cirka 130 miljoner kronor. Tillträde beräknas ske den 1 juni 2026.**

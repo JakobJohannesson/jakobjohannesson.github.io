@@ -6,6 +6,9 @@
 **Cision ID:** biogaia
 **Keywords:** årsstämma, BioGaia
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/3271/4328688/4014858.pdf) → `pdfs/2c8d2dbb_4014858.pdf`
+
 ---
 
 Theresa Agnew, Koncernchef och vd

@@ -5,6 +5,9 @@
 **MFN ID:** nanologica
 **Company:** Nanologica AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c7832e65-d3c2-4de7-9979-6f199dd0d0f0/event-at-nanologicas-premises-no-damage-to-personnel-or-instruments.pdf) → `pdfs/f04c0a23_event-at-nanologicas-premises-no-damage-to-personnel-or-instruments.pdf`
+
 ---
 
 **Over the weekend, a minor explosion occurred in an oven at a company that shares an office and laboratory corridor with Nanologica. The sprinkler system was activated automatically, and water was spread throughout the premises. No one has been injured and Nanologica's equipment is unharmed.**

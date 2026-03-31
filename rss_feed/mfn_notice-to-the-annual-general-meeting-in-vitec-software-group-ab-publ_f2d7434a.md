@@ -5,6 +5,9 @@
 **MFN ID:** vitec-software-group
 **Company:** Vitec Software Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/7317e068-e80c-4d7e-ace8-88455989a382/notice-to-the-annual-general-meeting-in-vitec-software-group-ab-publ.pdf) → `pdfs/f2d7434a_notice-to-the-annual-general-meeting-in-vitec-software-group-ab-publ.pdf`
+
 ---
 
 **The shareholders of Vitec Software Group AB (publ), reg. no. 556258-4804, are hereby summoned to the Annual General Meeting on April 28, 2026, at 17:30 (CEST) at Clarion Hotel Umeå, Storgatan 36, Umeå. Registration to the Annual General Meeting takes place at 16:30-17:15. The Annual General Meeting will be held in Swedish. Food and beverages will be served afterwards.**

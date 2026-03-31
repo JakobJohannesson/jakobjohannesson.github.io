@@ -5,6 +5,9 @@
 **MFN ID:** flerie
 **Company:** Flerie AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c9f4e394-e061-4efd-adc7-691cb58789b9/styrelsen-i-flerie-beslutar-om-omvandling-av-stamaktier-till-aktier-av-serie-c-inom-ramen-for-fleries-aktieinlosenprogram.pdf) → `pdfs/f7f03bb8_styrelsen-i-flerie-beslutar-om-omvandling-av-stamaktier-till-aktier-av-serie-c-inom-ramen-for-fleries-aktieinlosenprogram.pdf`
+
 ---
 
 **Vid extra bolagsstämma i Flerie AB (publ) (”Flerie” eller ”Bolaget”) den 10 juni 2024 beslutades att införa ett aktieinlösenprogram. Inlösen under programmet regleras i bolagsordningen och sker i två steg, omvandling av stamaktier till aktier av serie C följt av inlösen av aktierna av serie C.**

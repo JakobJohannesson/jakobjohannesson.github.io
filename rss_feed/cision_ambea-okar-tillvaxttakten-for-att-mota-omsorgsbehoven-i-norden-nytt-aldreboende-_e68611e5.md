@@ -6,6 +6,9 @@
 **Cision ID:** ambea
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/5048/4329589/4018295.pdf) → `pdfs/e68611e5_4018295.pdf`
+
 ---
 
 Ambea fortsätter att expandera i Norden. Inom affärsområdet Altiden i Danmark har avtal tecknats om att driva ett nytt äldreboende i Munkebo, Kerteminde kommun.

@@ -5,6 +5,9 @@
 **MFN ID:** logistea-ab
 **Company:** Logistea
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/ef3f5cec-3a29-4583-846f-8d52b6b536ef/logisteas-fastighet-i-nassjo-certifierad-med-hogsta-betyget-breeam-in-use-outstanding.pdf) → `pdfs/5943ddc7_logisteas-fastighet-i-nassjo-certifierad-med-hogsta-betyget-breeam-in-use-outstanding.pdf`
+
 ---
 
 **Logisteas fastighet Utvecklingen 1 i Nässjö, som färdigställdes i slutet av 2025 och är fullt uthyrd till Intersport Sverige, har certifierats enligt BREEAM In-Use med betyget Outstanding – den högsta nivån i BREEAMs betygsskala. I dagsläget finns det endast nio fastigheter i Sverige som uppnått denna klassificering.**

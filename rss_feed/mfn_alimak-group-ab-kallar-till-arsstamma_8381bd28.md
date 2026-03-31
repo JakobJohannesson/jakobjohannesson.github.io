@@ -5,6 +5,9 @@
 **MFN ID:** alimak-group
 **Company:** Alimak Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/3a3dc1a9-a523-46db-9f59-05e1de666733/alimak-group-kallelse-agm-2026.pdf) → `pdfs/8381bd28_alimak-group-kallelse-agm-2026.pdf`
+
 ---
 
 **Styrelsen för Alimak Group AB har beslutat att kalla till årsstämma onsdagen den 6 maj 2026. För mer detaljerad information om innehållet i förslagen hänvisas till den fullständiga kallelsen till årsstämman nedan.**

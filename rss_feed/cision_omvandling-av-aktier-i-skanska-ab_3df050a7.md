@@ -6,6 +6,9 @@
 **Cision ID:** skanska
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/95/4322542/3987584.pdf) → `pdfs/3df050a7_3987584.pdf`
+
 ---
 
 Det totala antalet registrerade aktier i bolaget uppgår till 419 903 072, varav 19 518 133 A-aktier och 400 384 939 B-aktier.

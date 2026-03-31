@@ -6,6 +6,9 @@
 **Cision ID:** nexam-chemical
 **Keywords:** plast, Nyheter, plaståtervinning, Nexam Chemical, Nexam, affärsuppdatering
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/6364/4328562/4014101.pdf) → `pdfs/40abbcbd_4014101.pdf`
+
 ---
 
 **Valberedningen i Nexam Chemical Holding AB (publ) föreslår inför årsstämman att Roland Kasper, Niclas Ekström och Johan Lundgren väljs in som nya ledamöter i bolagets styrelse.  Nomineringarna sker i ett skede där Nexam Chemical går in i nästa fas av sin utveckling - från teknologibyggande till uppskalning och kommersialisering i global skala av bolagets additivteknologi för uppgradering av återvunna plaster, Reactive Recycling™, i takt med att bolaget etableras som en global kommersiell plattform i industriell skala.**

@@ -5,6 +5,9 @@
 **MFN ID:** fingerprint-cards
 **Company:** Fingerprint Cards AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/84ceea19-6d49-4506-9054-fedb7e9f1a89/notice-of-extraordinary-general-meeting-in-fingerprint-cards-ab-publ.pdf) → `pdfs/0f92c976_notice-of-extraordinary-general-meeting-in-fingerprint-cards-ab-publ.pdf`
+
 ---
 
 **The shareholders of Fingerprint Cards AB (publ), Corp. Reg. No. 556154-2381 (hereinafter referred to as the “Company” or “FPC”), are hereby invited to attend an Extraordinary General Meeting (the “EGM” or the “Meeting”) to be held at 10.00 a.m. on Thursday, April 30, 2026, at the premises of KANTER Advokatbyrå at Engelbrektsgatan 3, 114 32 Stockholm. Registration for the Meeting will open at 9:30 a.m.**

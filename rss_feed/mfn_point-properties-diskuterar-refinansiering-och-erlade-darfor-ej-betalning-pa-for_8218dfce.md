@@ -5,6 +5,9 @@
 **MFN ID:** fastator
 **Company:** Fastator
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/4c1782e4-0ea3-4ac9-94ea-83734ec672f7/point-properties-diskuterar-refinansiering-och-erlade-darfor-ej-betalning-pa-forfallodag-for-sin-obligation-utgor-uppsagningsgrund-under-fastators-obligation-varfor-fastator-sakrat-stod-for-waiver.pdf) → `pdfs/8218dfce_point-properties-diskuterar-refinansiering-och-erlade-darfor-ej-betalning-pa-forfallodag-for-sin-obligation-utgor-uppsagningsgrund-under-fastators-obligation-varfor-fastator-sakrat-stod-for-waiver.pdf`
+
 ---
 
 Aktiebolaget Fastator (publ), org.nr 556678-6645, (”**Fastator**” eller ”**Bolaget**”) meddelar att det uppstått en uppsägningsgrund under utestående obligationslån 2025/2027 med ISIN SE0027099870 (”**Obligationerna**”) på grund av att den slutliga förfallodagen har inträffat under Point Properties Portfolio 1 AB:s (publ) (”**Point Properties**”) obligationslån 2021/2026 med ISIN SE0015556535 utan att betalning erlagts. 

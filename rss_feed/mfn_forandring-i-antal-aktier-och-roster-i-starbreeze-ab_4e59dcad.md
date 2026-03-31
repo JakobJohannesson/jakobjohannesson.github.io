@@ -5,6 +5,9 @@
 **MFN ID:** starbreeze
 **Company:** Starbreeze
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/d414bdac-0ec5-457d-8ee3-b1e066114d4a/forandring-i-antal-aktier-och-roster-i-starbreeze-ab.pdf) → `pdfs/4e59dcad_forandring-i-antal-aktier-och-roster-i-starbreeze-ab.pdf`
+
 ---
 
 **I enlighet med Starbreeze bolagsordning har ägare till aktie av serie A rätt att begära att aktien omvandlas till aktier av serie B. Syftet med omvandlingsprogrammet är att på sikt endast ha ett utgivet aktieslag i serie B. En sådan omvandling minskar det totala antalet röster i bolaget, men påverkar inte ägares andel i kapital. När en sådan omvandling har skett har bolaget en skyldighet enligt lag att månadsvis offentliggöra uppgifter om eventuella ändringar.**

@@ -5,6 +5,9 @@
 **MFN ID:** wall-to-wall-group
 **Company:** Wall To Wall Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/cfc60407-9194-402e-8900-545af8b135ec/aterkop-av-aktier-av-wall-to-wall-group-ab-under-vecka-13-2026.pdf) → `pdfs/8f5bd305_aterkop-av-aktier-av-wall-to-wall-group-ab-under-vecka-13-2026.pdf`
+
 ---
 
 **Wall To Wall Group AB (LEI-kod 549300WMZQS7HLNYQB09) (“Wall To Wall”) har mellan den 23 mars och 27 mars 2026 återköpt sammanlagt 2 000 egna aktier av serie A (ISIN: SE0016075246) inom ramen för det återköpsprogram som styrelsen beslutat om.**

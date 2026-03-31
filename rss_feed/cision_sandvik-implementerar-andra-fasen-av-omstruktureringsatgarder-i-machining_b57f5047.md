@@ -6,6 +6,9 @@
 **Cision ID:** sandvik
 **Keywords:** Pressmeddelande, Sandvik AB, machining
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/208/4328336/4013377.pdf) → `pdfs/b57f5047_4013377.pdf`
+
 ---
 
 Stockholm, 30 mars 2026

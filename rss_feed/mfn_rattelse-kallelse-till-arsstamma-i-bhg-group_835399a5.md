@@ -5,6 +5,9 @@
 **MFN ID:** bhg-group
 **Company:** BHG Group AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/f71beffa-9cd2-486c-bdb0-3e1f3d6955f7/rattelse-kallelse-till-arsstamma-i-bhg-group.pdf) → `pdfs/835399a5_rattelse-kallelse-till-arsstamma-i-bhg-group.pdf`
+
 ---
 
 **BHG Group AB (publ) offentliggjorde tidigare idag, den 31 mars 2026, en kallelse till årsstämma den 5 maj 2026. Följande är en rättelse av tidigare kallelse som av tekniska skäl innehöll en felaktigt numrerad föreslagen dagordning. Därutöver har inga rättelser gjorts. Den korrigerade kallelsen återges i sin helhet nedan. **

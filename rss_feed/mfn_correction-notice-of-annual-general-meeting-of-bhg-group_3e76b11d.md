@@ -5,6 +5,9 @@
 **MFN ID:** bhg-group
 **Company:** BHG Group AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/575eacb1-f14c-4d39-901c-c6c250819a06/correction-notice-of-annual-general-meeting-of-bhg-group.pdf) → `pdfs/3e76b11d_correction-notice-of-annual-general-meeting-of-bhg-group.pdf`
+
 ---
 
 ***Earlier today, on 31 March 2026, BHG Group AB (publ) published a notice of the annual general meeting to be held on 5 May 2026. The following is a correction to the previous notice, which, due to technical reasons, contained an incorrectly numbered proposed agenda. Other than that, no corrections have been made. The corrected notice is presented in full below. ***

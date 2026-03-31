@@ -6,6 +6,9 @@
 **Cision ID:** chemotech
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/14967/4329083/4016031.pdf) → `pdfs/ec7759c1_4016031.pdf`
+
 ---
 
 *För mer information vänligen kontakta:*

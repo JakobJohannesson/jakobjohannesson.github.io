@@ -6,6 +6,9 @@
 **Cision ID:** nodica-group
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Public/11304/4329645/8aeae89e5b4671e6.pdf) → `pdfs/247a8894_8aeae89e5b4671e6.pdf`
+
 ---
 
 Niklas Edling, Koncernchef Nodica Group

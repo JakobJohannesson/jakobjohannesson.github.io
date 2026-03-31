@@ -5,6 +5,9 @@
 **MFN ID:** netel-holding
 **Company:** Netel Holding AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/8cc4609f-1c20-404e-8082-52ca80613b51/netel-signs-contract-with-the-city-of-stockholm-worth-30-million-sek.pdf) → `pdfs/8c87af52_netel-signs-contract-with-the-city-of-stockholm-worth-30-million-sek.pdf`
+
 ---
 
 **Netel has signed a contract with the City of Stockholm for civil engineering work in the Gasklocka 3 and 4 neighbourhood in Hjorthagen. The City of Stockholm is a new customer for Netel.**

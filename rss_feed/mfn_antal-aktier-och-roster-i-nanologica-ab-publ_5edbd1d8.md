@@ -5,6 +5,9 @@
 **MFN ID:** nanologica
 **Company:** Nanologica AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/5e32cbca-825b-43e7-ada4-0bea138bc46f/antal-aktier-och-roster-i-nanologica-ab-publ.pdf) → `pdfs/5edbd1d8_antal-aktier-och-roster-i-nanologica-ab-publ.pdf`
+
 ---
 
 **Antalet registrerade aktier och röster i Nanologica AB har under mars månad ändrats till följd av de riktade emissioner som styrelsen beslutade om den 30 januari 2026 och som godkändes på efterföljande extra bolagsstämma den 4 mars 2026 (de ”Riktade Emissionerna”).**

@@ -5,6 +5,9 @@
 **MFN ID:** eolus
 **Company:** Eolus
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/6ccceba3-cdf1-419a-a00f-b97195257bd5/eolus-ab-annual-report-and-sustainability-report-2025.pdf) → `pdfs/941bb5ea_eolus-ab-annual-report-and-sustainability-report-2025.pdf`
+
 ---
 
 The report is available on the company’s website [www.eolus.com/en/investors/financial-reports/](https://www.eolus.com/en/investors/financial-reports/).

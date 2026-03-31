@@ -6,6 +6,9 @@
 **Cision ID:** sparbanken-skane
 **Keywords:** årsstämma, Sparbanken Skåne
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/17488/4328608/4014893.pdf) → `pdfs/65cbb4ce_4014893.pdf`
+
 ---
 
 **Årsstämman i Sparbanken Skåne har valt in Rolf Marquardt som ny ledamot i styrelsen. Han har 30 års erfarenhet från finansbranschen varav de senaste 20 åren från olika ledande positioner. Rolf Marquardt är idag senior rådgivare i Swedbank.**

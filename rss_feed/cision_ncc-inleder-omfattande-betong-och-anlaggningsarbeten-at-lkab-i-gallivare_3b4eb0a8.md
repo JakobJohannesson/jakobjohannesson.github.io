@@ -6,6 +6,9 @@
 **Cision ID:** ncc
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/197/4322557/4016752.pdf) → `pdfs/3b4eb0a8_4016752.pdf`
+
 ---
 
 **NCC har tecknat avtal med LKAB för det inledande arbetet av det nya sovringsverket i Vitåfors, Gällivare. Ordervärdet uppgår till cirka 650 MSEK och omfattar betong- och anläggningsarbeten.**

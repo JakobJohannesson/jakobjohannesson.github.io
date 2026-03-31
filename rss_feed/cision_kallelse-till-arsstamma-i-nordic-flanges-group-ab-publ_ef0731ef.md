@@ -6,6 +6,9 @@
 **Cision ID:** nordic-flanges-group-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/604/4328865/4015455.pdf) → `pdfs/ef0731ef_4015455.pdf`
+
 ---
 
 ****

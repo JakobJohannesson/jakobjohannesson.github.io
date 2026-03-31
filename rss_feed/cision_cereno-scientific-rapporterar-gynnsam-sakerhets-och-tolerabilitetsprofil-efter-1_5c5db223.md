@@ -6,6 +6,9 @@
 **Cision ID:** cereno-scientific
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/14131/4329072/4016004.pdf) → `pdfs/5c5db223_4016004.pdf`
+
 ---
 
 **Cereno Scientific (Nasdaq First North: CRNO B), ett innovativt bioteknikbolag som utvecklar banbrytande behandlingar som förbättrar och förlänger livet för människor med sällsynta kardiovaskulära sjukdomar och lungsjukdomar, meddelade idag initiala insikter från det 12 månader långa Expanded Access Program (EAP) med bolagets ledande läkemedelskandidat CS1 vid pulmonell arteriell hypertension (PAH). Data bekräftar en gynnsam säkerhets- och tolerabilitetsprofil vid långtidsbehandling, i linje med tidigare resultat från Fas IIa-studien, vilket ytterligare stärker värdeerbjudandet av CS1 som en oral, en gång dagligen administrerad potentiellt sjukdomsmodifierande behandling.**

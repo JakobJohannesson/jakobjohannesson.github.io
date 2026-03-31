@@ -6,6 +6,9 @@
 **Cision ID:** historiska-museet
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/1875/4327836/4016408.pdf) → `pdfs/dbd3cf2c_4016408.pdf`
+
 ---
 
 **Vacker utstyrsel till hästar med dekorerade beslag, sporrar och bett – den arkeologiska undersökningen från Sylta i Västmanland bjöd på spektakulära fynd. Nu visas delar av de unika vikingatida hästutrustningarna i miniutställningen *Aktuell arkeologi – Älskade hästar* på Historiska museet.  **

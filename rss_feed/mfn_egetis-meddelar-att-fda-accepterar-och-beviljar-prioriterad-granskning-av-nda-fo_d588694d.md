@@ -5,6 +5,9 @@
 **MFN ID:** egetis-therapeutics
 **Company:** Egetis Therapeutics
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/f95bd42c-2b52-4069-b81a-4fe01e6301e4/egetis-meddelar-att-fda-accepterar-och-beviljar-prioriterad-granskning-av-nda-for-emcitate-r-tiratricol-vid-mct8-brist.pdf) → `pdfs/d588694d_egetis-meddelar-att-fda-accepterar-och-beviljar-prioriterad-granskning-av-nda-for-emcitate-r-tiratricol-vid-mct8-brist.pdf`
+
 ---
 
 - Ansökan om marknadsgodkännande (NDA) för Emcitate® har framgångsrikt validerats av FDA- Prioriterad granskning har beviljats och PDUFA‑datum för beslut har fastställts till den 28 september 2026- Emcitate® (tiratricol) är berättigad till en Priority Review Voucher (PRV) vid ett godkännande- Vid ett godkännande skulle Emcitate® (tiratricol) bli den första godkända behandlingen i USA för MCT8‑brist

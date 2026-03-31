@@ -6,6 +6,9 @@
 **Cision ID:** implema
 **Keywords:** affärssystem, erp, it, VD-byte, Implema, digitalisering, succession, Jörgen Aronsson, Lars Wollung, Tobias Simolin, VD-skifte
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/21795/4329464/4017789.pdf) → `pdfs/8ea34b57_4017789.pdf`
+
 ---
 
 **För mer information, vänligen kontakta:**

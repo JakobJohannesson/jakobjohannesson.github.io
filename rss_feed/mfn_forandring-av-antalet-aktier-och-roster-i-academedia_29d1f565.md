@@ -5,6 +5,9 @@
 **MFN ID:** academedia
 **Company:** AcadeMedia
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/5d6bb9fc-732f-44ef-b3b1-8549bc2f2039/forandring-av-antalet-aktier-och-roster-i-academedia.pdf) → `pdfs/29d1f565_forandring-av-antalet-aktier-och-roster-i-academedia.pdf`
+
 ---
 
 Antalet aktier och röster i AcadeMedia AB har under mars 2026 minskat som en följd av inlösen av stamaktier inom ramen för det frivilliga aktieinlösenprogram som antogs av AcadeMedias årsstämma den 26 november 2025. Totalt har antalet aktier och röster minskat med 3 243 710 stamaktier och lika många röster.

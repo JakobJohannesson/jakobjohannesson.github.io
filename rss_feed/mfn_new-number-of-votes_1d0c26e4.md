@@ -5,6 +5,9 @@
 **MFN ID:** sagax
 **Company:** AB Sagax (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/510f0e36-841d-4797-9260-79e2b214ab95/new-number-of-votes.pdf) → `pdfs/1d0c26e4_new-number-of-votes.pdf`
+
 ---
 
 A shareholder has requested conversion of 316,470 Class A common shares into Class B common shares in accordance with Sagax’s Articles of Association. Conversion has taken place, which has reduced the number of votes in the company by 284,823 votes. The number of votes thus amounts to 70,198,804.2 after the conversion. The share capital of SEK 816,740,620.5 is unchanged.

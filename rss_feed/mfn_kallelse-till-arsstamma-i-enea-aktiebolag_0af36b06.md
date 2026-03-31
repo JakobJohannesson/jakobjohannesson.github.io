@@ -5,6 +5,9 @@
 **MFN ID:** enea
 **Company:** Enea
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/dbba4c5f-dda6-4477-93be-d1075325f999/kallelse-till-arsstamma-i-enea-aktiebolag.pdf) → `pdfs/0af36b06_kallelse-till-arsstamma-i-enea-aktiebolag.pdf`
+
 ---
 
 **Aktieägarna i Enea Aktiebolag, org. nr 556209-7146, kallas härmed till årsstämma torsdagen den 7 maj 2026, klockan 16.30 i Kista Science Tower, Färögatan 33 i Kista, Stockholm.**

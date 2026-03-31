@@ -5,6 +5,10 @@
 **MFN ID:** attendo
 **Company:** Attendo
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/d29aa54c-650e-433b-a62d-ed33bcf4f3ee/repurchases-of-shares-during-week-13-2026.pdf) → `pdfs/ec511bb3_repurchases-of-shares-during-week-13-2026.pdf`
+- [PDF](https://storage.mfn.se/6a6e1fa5-6206-4897-b61c-98aca328ad51/transactions-in-attendo-260323-to-260327.pdf) → `pdfs/ec511bb3_transactions-in-attendo-260323-to-260327.pdf`
+
 ---
 
 **Between 23 march and 27 March 2026 Attendo AB (LEI code 549300KEJDL2FNITUW65) (“Attendo”) has repurchased in total 200,000 own shares (ISIN: SE0007666110) as part of the repurchase program initiated by the Board.**

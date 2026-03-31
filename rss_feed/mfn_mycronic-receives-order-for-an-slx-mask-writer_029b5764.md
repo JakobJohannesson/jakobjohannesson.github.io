@@ -5,6 +5,9 @@
 **MFN ID:** mycronic
 **Company:** Mycronic
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c30ea316-d3a6-44e2-891c-dd69cb379e1d/mycronic-receives-order-for-an-slx-mask-writer.pdf) → `pdfs/029b5764_mycronic-receives-order-for-an-slx-mask-writer.pdf`
+
 ---
 
 **Mycronic AB (publ) has received an order for an SLX mask writer from an existing customer in Asia. The order value is in the range of USD 5-7 million. Delivery of the system is planned for the second quarter of 2027.**

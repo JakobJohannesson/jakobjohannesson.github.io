@@ -5,6 +5,9 @@
 **MFN ID:** sdiptech
 **Company:** Sdiptech
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/5b895a50-5465-4ff5-9d1a-9e5f50b7496b/change-of-number-of-shares-and-votes-in-sdiptech-ab-publ.pdf) → `pdfs/21df5bfa_change-of-number-of-shares-and-votes-in-sdiptech-ab-publ.pdf`
+
 ---
 
 **As of 31 March 2026, the total number of shares in Sdiptech AB (publ) amounts to 37,991,938.**

@@ -5,6 +5,9 @@
 **MFN ID:** attendo
 **Company:** Attendo
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/569cb121-bd91-4fff-8b36-11bfddc91d27/attendo-ar25-eng.pdf) → `pdfs/f2b86f3e_attendo-ar25-eng.pdf`
+
 ---
 
 **Attendo’s Annual and Sustainability Report for 2025 is now published at ****[www.attendo.com](http://www.attendo.com/)****.**

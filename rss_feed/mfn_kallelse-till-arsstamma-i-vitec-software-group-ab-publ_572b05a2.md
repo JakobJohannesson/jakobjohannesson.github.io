@@ -5,6 +5,9 @@
 **MFN ID:** vitec-software-group
 **Company:** Vitec Software Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/d17232a0-ea62-4088-8291-a3bc0d957b83/kallelse-till-arsstamma-i-vitec-software-group-ab-publ.pdf) → `pdfs/572b05a2_kallelse-till-arsstamma-i-vitec-software-group-ab-publ.pdf`
+
 ---
 
 **Aktieägarna i Vitec Software Group AB (publ), org.nr 556258-4804, kallas härmed till årsstämma den 28 april 2026 kl. 17.30 på Clarion Hotel Umeå, Storgatan 36, Umeå. Inpassering till årsstämman sker kl. 16.30-17.15. Årsstämman hålls på svenska. Efteråt serveras mat och dryck. **

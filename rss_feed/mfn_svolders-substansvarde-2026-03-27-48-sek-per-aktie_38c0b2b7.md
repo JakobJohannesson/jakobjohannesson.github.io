@@ -5,6 +5,9 @@
 **MFN ID:** svolder
 **Company:** Svolder AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/e56504dc-bcf9-4e91-b07e-b5229b9f85ec/svolders-substansvarde-2026-03-27-48-sek-per-aktie.pdf) → `pdfs/38c0b2b7_svolders-substansvarde-2026-03-27-48-sek-per-aktie.pdf`
+
 ---
 
 **Svolders substansvärde var oförändrat 48 SEK per aktie föregående vecka.**

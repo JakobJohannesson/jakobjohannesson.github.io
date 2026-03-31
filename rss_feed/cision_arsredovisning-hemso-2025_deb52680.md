@@ -6,6 +6,10 @@
 **Cision ID:** hemso-fastighets-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/2534/4328415/4013934.pdf) → `pdfs/deb52680_4013934.pdf`
+- [PDF](https://mb.cision.com/Public/2534/4328415/8242728c05827b97.pdf) → `pdfs/deb52680_8242728c05827b97.pdf`
+
 ---
 
 **Hemsös årsredovisning för 2025 finns nu tillgänglig på bolagets webbplats, hemso.se. **

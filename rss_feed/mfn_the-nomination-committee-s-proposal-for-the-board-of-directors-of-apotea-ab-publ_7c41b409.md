@@ -5,6 +5,9 @@
 **MFN ID:** apotea
 **Company:** Apotea
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/41a6eed4-9292-41c4-a0eb-74bd6b65ccc2/the-nomination-committees-proposal-for-the-board-of-directors-of-apotea-ab-publ.pdf) → `pdfs/7c41b409_the-nomination-committees-proposal-for-the-board-of-directors-of-apotea-ab-publ.pdf`
+
 ---
 
 **Ahead of the annual general meeting of Apotea AB (publ) (“Apotea”) on May 26, 2026, the Nomination Committee hereby announces its proposal regarding the Chairman of the Board and other members of the Board.**

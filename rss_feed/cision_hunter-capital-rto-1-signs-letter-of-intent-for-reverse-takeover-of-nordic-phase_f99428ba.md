@@ -6,6 +6,9 @@
 **Cision ID:** hunter-capital-rto-1-ab--publ-
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/24090/4328521/4013965.pdf) → `pdfs/f99428ba_4013965.pdf`
+
 ---
 
 Hunter Capital RTO 1 AB (publ) (“**HC RTO 1**” or the “**Company**”) has entered into a non-binding Letter of Intent (“**LoI**”) regarding an intended reverse takeover of ResoTher Pharma A/S (“**ResoTher Pharma**”), a Nordic clinical-stage biotech company advancing a novel Phase 2 drug candidate targeting a cardiovascular indication with a high unmet medical need.

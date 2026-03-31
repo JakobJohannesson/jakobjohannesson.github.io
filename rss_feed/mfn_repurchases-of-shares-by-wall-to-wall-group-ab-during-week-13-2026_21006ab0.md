@@ -5,6 +5,9 @@
 **MFN ID:** wall-to-wall-group
 **Company:** Wall To Wall Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/6d1cb934-a16b-4fe3-bf45-4173185e4324/repurchases-of-shares-by-wall-to-wall-group-ab-during-week-13-2026.pdf) → `pdfs/21006ab0_repurchases-of-shares-by-wall-to-wall-group-ab-during-week-13-2026.pdf`
+
 ---
 
 **Between March 23 and March 27, 2026, Wall To Wall Group AB (LEI code 549300WMZQS7HLNYQB09) (“Wall To Wall”) has repurchased in total 2,000 own shares of series A (ISIN: SE0016075246) as part of the repurchase program resolved by the Board.**

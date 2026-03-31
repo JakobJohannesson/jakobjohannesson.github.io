@@ -5,6 +5,14 @@
 **MFN ID:** itera
 **Company:** Itera
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk2MjMmYXR0YWNobWVudElkPTMyMjQ4Ng/krt-1500-andreas-vestre-aksjekjop-270326.pdf) → `pdfs/76a7d1d8_krt-1500-andreas-vestre-aksjekjop-270326.pdf`
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk2MjMmYXR0YWNobWVudElkPTMyMjQ4Nw/krt-1500-helene-dahl-jorum-aksjer-270326.pdf) → `pdfs/76a7d1d8_krt-1500-helene-dahl-jorum-aksjer-270326.pdf`
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk2MjMmYXR0YWNobWVudElkPTMyMjQ4OA/krt-1500-joachim-trobraten-opsjoner-270326.pdf) → `pdfs/76a7d1d8_krt-1500-joachim-trobraten-opsjoner-270326.pdf`
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk2MjMmYXR0YWNobWVudElkPTMyMjQ4OQ/krt-1500-jon-erik-hogberg-opsjoner-270326.pdf) → `pdfs/76a7d1d8_krt-1500-jon-erik-hogberg-opsjoner-270326.pdf`
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk2MjMmYXR0YWNobWVudElkPTMyMjQ5MA/krt-1500-mette-mowinckel-aksjer-270326.pdf) → `pdfs/76a7d1d8_krt-1500-mette-mowinckel-aksjer-270326.pdf`
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk2MjMmYXR0YWNobWVudElkPTMyMjQ5MQ/krt-1500-mette-mowinckel-opsjoner-270326.pdf) → `pdfs/76a7d1d8_krt-1500-mette-mowinckel-opsjoner-270326.pdf`
+
 ---
 
 On 12 February 2026, the Board of Directors of Itera ASA approved, in accordance

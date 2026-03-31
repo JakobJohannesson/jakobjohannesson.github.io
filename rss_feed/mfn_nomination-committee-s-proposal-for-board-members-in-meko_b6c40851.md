@@ -5,6 +5,9 @@
 **MFN ID:** meko
 **Company:** MEKO AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/762cfe09-9290-4329-b363-24fcf4a7bbcd/nomination-committees-proposal-for-board-members-in-meko.pdf) → `pdfs/b6c40851_nomination-committees-proposal-for-board-members-in-meko.pdf`
+
 ---
 
 **MEKO's Nomination Committee proposes the re-election of board members Dominick Zarcone, Jörn Werner, Magnus Håkansson, Marie Björklund, Robert Reppa, and Walter Hanley at MEKO's Annual General Meeting. Furthermore, it is proposed that Camilla Monefeldt Kirstein and Louise Mortimer Undén be elected to the Board as new members. The proposal, which involves reducing the board from nine to eight members, will be presented at the Annual General Meeting on May 7, 2026.**

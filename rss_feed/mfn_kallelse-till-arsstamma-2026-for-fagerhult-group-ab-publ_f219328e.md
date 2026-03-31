@@ -5,6 +5,9 @@
 **MFN ID:** fagerhultgroup
 **Company:** Fagerhult Group
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/b456c8a4-026e-4f31-b3f2-29a9d9303a23/kallelse-till-arsstamma-2026-for-fagerhult-group-ab-publ.pdf) → `pdfs/f219328e_kallelse-till-arsstamma-2026-for-fagerhult-group-ab-publ.pdf`
+
 ---
 
 Aktieägare i Fagerhult Group AB (publ), organisationsnummer 556110-6203 (”Fagerhult Group” eller ”Bolaget”), meddelas härmed att Bolagets årsstämma kommer att hållas måndagen den 4 maj 2026, kl. 17.00 i Fagerhult, Fagerhults Belysning AB:s lokaler, Åvägen 1, 566 92 Habo, Sverige (”Årsstämman”).

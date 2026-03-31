@@ -6,6 +6,9 @@
 **Cision ID:** skanska
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/95/4329165/4017211.pdf) → `pdfs/e0a266bf_4017211.pdf`
+
 ---
 
 **Årsstämma i Skanska AB (publ) (”Bolaget”) hölls den 31 mars 2026. Anföranden på stämman av styrelsens ordförande Hans Biörck samt VD och koncernchef Anders Danielsson kommer att finnas tillgängliga på Skanskas webbplats, **[**www.group.skanska.com/sv/**](http://www.group.skanska.com/sv/)**.**

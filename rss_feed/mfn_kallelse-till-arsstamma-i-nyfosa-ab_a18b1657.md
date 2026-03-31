@@ -5,6 +5,9 @@
 **MFN ID:** nyfosa
 **Company:** Nyfosa
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/a92a3d03-91ed-46f8-b081-86db01edb7ef/pressmeddelande.pdf) → `pdfs/a18b1657_pressmeddelande.pdf`
+
 ---
 
 Nyfosa AB håller årsstämma tisdagen den 5 maj 2026 klockan 15.00 på Fotografiska, Stadsgårdshamnen 22, i Stockholm. Inregistrering börjar klockan 14.15.

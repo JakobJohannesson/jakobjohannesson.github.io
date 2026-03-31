@@ -5,6 +5,9 @@
 **MFN ID:** norion-bank
 **Company:** Norion Bank
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/aff504a1-02ea-42e7-bf9d-91204e8e924b/kallelse-till-arsstamma-i-norion-bank-ab-publ.pdf) → `pdfs/81f65b8b_kallelse-till-arsstamma-i-norion-bank-ab-publ.pdf`
+
 ---
 
 **Aktieägarna i Norion Bank AB (publ), org.nr 556597-0513, (”bolaget” eller ”Norion”) kallas härmed till årsstämma tisdagen den 5 maj 2026 kl. 15.00 i Norions lokaler på Lilla Bommens Torg 11 i Göteborg. Inpassering till årsstämman sker från kl. 14.30. **

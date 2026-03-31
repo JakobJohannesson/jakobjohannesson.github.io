@@ -5,6 +5,9 @@
 **MFN ID:** precise-biometrics
 **Company:** Precise Biometrics
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/e7c5211f-dcb9-446d-8e1c-f779c8af8b40/notice-of-extraordinary-general-meeting-in-precise-biometrics-ab.pdf) → `pdfs/7c41ac6c_notice-of-extraordinary-general-meeting-in-precise-biometrics-ab.pdf`
+
 ---
 
 **Precise Biometrics AB, Reg. No. 556545-6596, with its registered office in Lund, Sweden, gives notice of the Extraordinary General Meeting to be held on 30 April 2026 at 09.30 a.m. CEST at Ideon Gateway, Scheelevägen 27, in Lund, Sweden.**

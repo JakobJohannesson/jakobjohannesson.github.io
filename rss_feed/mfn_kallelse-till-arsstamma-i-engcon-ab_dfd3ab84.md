@@ -5,6 +5,9 @@
 **MFN ID:** engcon
 **Company:** engcon AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/276a9b96-06f8-4576-b774-6b64e8907a60/kallelse-till-arsstamma-i-engcon-ab.pdf) → `pdfs/dfd3ab84_kallelse-till-arsstamma-i-engcon-ab.pdf`
+
 ---
 
 **engcon AB (”engcon” eller ”Bolaget”) håller årsstämma tisdagen den 5 maj 2026 klockan 14.00 i engcon Nordics produktionsanläggning, Industricentragatan 4, 833 36 Strömsund. Inregistrering börjar klockan 13.30.**

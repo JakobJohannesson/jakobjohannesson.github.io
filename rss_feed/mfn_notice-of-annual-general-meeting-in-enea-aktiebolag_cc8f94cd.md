@@ -5,6 +5,9 @@
 **MFN ID:** enea
 **Company:** Enea
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/33e77a7e-f930-4a63-9879-f9e9e9a96e0a/notice-of-annual-general-meeting-in-enea-aktiebolag.pdf) → `pdfs/cc8f94cd_notice-of-annual-general-meeting-in-enea-aktiebolag.pdf`
+
 ---
 
 **The shareholders in Enea Aktiebolag, Reg. No. 556209-7146, are hereby invited to attend the Annual General Meeting to be held on Thursday May 7, 2026, at 4.30 p.m. at Kista Science Tower, Färögatan 33, Kista, Stockholm.**

@@ -5,6 +5,9 @@
 **MFN ID:** aak
 **Company:** AAK
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/5e6e3440-9125-4bf6-b47d-ef6d9e74453f/change-in-number-of-shares-and-votes-in-aak-ab-publ.pdf) → `pdfs/346cdbf2_change-in-number-of-shares-and-votes-in-aak-ab-publ.pdf`
+
 ---
 
 The incentive program for employees (“Warrants Program series 2022/2027”), approved at the annual general meeting on May 18, 2022, has during March 2026 resulted in the increase in the number of shares and votes in the company by 108,000, through conversion of subscription warrants into new shares in the company.

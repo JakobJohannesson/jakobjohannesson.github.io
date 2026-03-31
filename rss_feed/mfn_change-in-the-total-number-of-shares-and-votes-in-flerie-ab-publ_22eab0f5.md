@@ -5,6 +5,9 @@
 **MFN ID:** flerie
 **Company:** Flerie AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c6e24815-3858-47bf-829d-38a67f1c5d38/change-in-the-total-number-of-shares-and-votes-in-flerie-ab-publ.pdf) → `pdfs/22eab0f5_change-in-the-total-number-of-shares-and-votes-in-flerie-ab-publ.pdf`
+
 ---
 
 **The total number of shares in Flerie AB (publ) (the “Company”) as of 31 March 2026 amounts to 87,601,573, all of which are ordinary shares. There are no shares issued of series C. The total number of votes in the Company as of 31 March 2026 amounts to 87,601,573.**

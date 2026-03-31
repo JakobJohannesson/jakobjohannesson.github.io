@@ -6,6 +6,9 @@
 **Cision ID:** ncc
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/197/4328830/4015178.pdf) → `pdfs/9e09fd6b_4015178.pdf`
+
 ---
 
 **NCC har fått i uppdrag av Svenska kraftnät att installera potentiallinor längs en cirka 14 mil lång sträcka mellan Värnamo och Hässleholm. Projektet stärker driftsäkerheten i en av landets viktigaste elförbindelser. Ordervärdet uppgår till cirka 70 MSEK.**

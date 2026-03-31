@@ -5,6 +5,9 @@
 **MFN ID:** stillfront-group
 **Company:** Stillfront Group AB (publ)
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/2b5d6f71-502b-45f0-a053-9c1f59695bfe/stillfront-emitterar-framgangsrikt-nya-obligationer-om-1-miljard-kronor-och-offentliggor-resultatet-av-aterkopserbjudandet-samt-lamnar-villkorat-meddelande-om-fortida-inlosen.pdf) → `pdfs/c989ffbf_stillfront-emitterar-framgangsrikt-nya-obligationer-om-1-miljard-kronor-och-offentliggor-resultatet-av-aterkopserbjudandet-samt-lamnar-villkorat-meddelande-om-fortida-inlosen.pdf`
+
 ---
 
 EJ FÖR DISTRIBUTION I ELLER TILL, ELLER TILL NÅGON PERSON SOM BEFINNER SIG I ELLER ÄR BOSATT I USA, DESS TERRITORIUM OCH BESITTNINGAR (INKLUSIVE PUERTO RICO, DE AMERIKANSKA JUNGFRUÖARNA, GUAM, AMERIKANSKA SAMOA, WAKEÖARNA, NORDMARIANERNA, VARJE DELSTAT I USA OCH DISTRICT OF COLUMBIA) ELLER TILL NÅGON AMERIKANSK PERSON (U.S. PERSON, SÅSOM DEFINIERATS I REGULATION S I UNITED STATES SECURITIES ACT OF 1933, I DESS NUVARANDE LYDELSE) ELLER NÅGON JURISDIKTION DÄR UTGIVANDE, PUBLICERING ELLER DISTRIBUTION AV DETTA DOKUMENT ÄR FÖRBJUDET ENLIGT LAG. DISTRIBUTION AV DETTA DOKUMENT KAN STRIDA MOT LAG I VISSA JURISDIKTIONER (I SYNNERHET USA OCH STORBRITANNIEN)

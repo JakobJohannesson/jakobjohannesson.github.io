@@ -6,6 +6,9 @@
 **Cision ID:** stendorren-fastigheter-ab
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/13243/4329214/4017809.pdf) → `pdfs/69180dd6_4017809.pdf`
+
 ---
 
 31 mars 2026

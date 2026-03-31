@@ -6,6 +6,9 @@
 **Cision ID:** genova-property-group-ab--publ-
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/13559/4329265/4017288.pdf) → `pdfs/989a1fa2_4017288.pdf`
+
 ---
 
 Valberedningen föreslår att styrelsearvoden, inklusive utskottsarvoden, utgår med ett belopp om totalt 2 755 000 kronor (2 970 000 kronor) fördelat enligt följande:

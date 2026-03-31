@@ -14,6 +14,7 @@ from urllib.request import urlopen, Request
 
 RSS_URL = "https://news.cision.com/se/ListItems?format=rss"
 FEED_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "rss_feed")
+PDF_DIR = os.path.join(FEED_DIR, "pdfs")
 SEEN_FILE = os.path.join(FEED_DIR, "seen_guids.json")
 
 SSL_CTX = ssl.create_default_context()
@@ -45,6 +46,26 @@ def fetch_url(url):
     req = Request(url, headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"})
     with urlopen(req, timeout=30, context=SSL_CTX) as resp:
         return resp.read()
+
+
+def download_pdf(pdf_url, guid_hash):
+    """Download a PDF and save it to PDF_DIR. Returns the local filename or None."""
+    os.makedirs(PDF_DIR, exist_ok=True)
+    # Derive filename from the URL's last path component + guid hash for uniqueness
+    url_filename = pdf_url.rstrip("/").split("/")[-1]
+    local_name = f"{guid_hash}_{url_filename}"
+    local_path = os.path.join(PDF_DIR, local_name)
+    if os.path.exists(local_path):
+        return local_name
+    try:
+        data = fetch_url(pdf_url)
+        with open(local_path, "wb") as f:
+            f.write(data)
+        print(f"  Downloaded PDF: {local_name}")
+        return local_name
+    except Exception as e:
+        print(f"  Warning: could not download PDF {pdf_url}: {e}")
+        return None
 
 
 def strip_html(text):
@@ -151,6 +172,9 @@ def fetch_article(link):
     # Extract image URLs before converting
     result["images"] = re.findall(r'<img[^>]+src=["\']([^"\']+)["\']', body_html)
 
+    # Extract PDF links from the full page
+    result["pdf_urls"] = re.findall(r'https://mb\.cision\.com/[^\s"\'<>]+\.pdf', page_html)
+
     # Convert to markdown
     result["body_md"] = html_to_markdown(body_html)
 
@@ -190,6 +214,19 @@ def save_item(item, article):
     keywords_str = ", ".join(article["keywords"]) if article and article.get("keywords") else ""
     body = article["body_md"] if article and article.get("body_md") else item["description"]
 
+    # Download PDFs and build reference section
+    pdf_section = ""
+    if article and article.get("pdf_urls"):
+        pdf_lines = []
+        for pdf_url in article["pdf_urls"]:
+            local_name = download_pdf(pdf_url, guid_hash)
+            if local_name:
+                pdf_lines.append(f"- [PDF]({pdf_url}) → `pdfs/{local_name}`")
+            else:
+                pdf_lines.append(f"- [PDF]({pdf_url})")
+        if pdf_lines:
+            pdf_section = "\n**Attachments:**\n" + "\n".join(pdf_lines) + "\n"
+
     content = f"""# {item['title']}
 
 **Published:** {item['pub_date']}
@@ -197,7 +234,7 @@ def save_item(item, article):
 **GUID:** {item['guid']}
 **Cision ID:** {cision_id}
 **Keywords:** {keywords_str}
-
+{pdf_section}
 ---
 
 {body}
@@ -213,6 +250,7 @@ def main():
     args = parser.parse_args()
 
     os.makedirs(FEED_DIR, exist_ok=True)
+    os.makedirs(PDF_DIR, exist_ok=True)
     seen = load_seen_guids()
 
     xml_bytes = fetch_feed()

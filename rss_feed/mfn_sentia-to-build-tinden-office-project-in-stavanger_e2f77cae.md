@@ -5,6 +5,9 @@
 **MFN ID:** sentia
 **Company:** Sentia
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/5efef79b-81ce-4037-a356-ed5a0dd5fd0f/sentia-to-build-tinden-office-project-in-stavanger.pdf) → `pdfs/e2f77cae_sentia-to-build-tinden-office-project-in-stavanger.pdf`
+
 ---
 
 HENT AS, a subsidiary of Sentia, has received notice to proceed for the Tinden office development in Stavanger.

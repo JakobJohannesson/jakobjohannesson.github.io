@@ -5,6 +5,9 @@
 **MFN ID:** aker-bp
 **Company:** Aker BP
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk2ODQmYXR0YWNobWVudElkPTMyMjU0Mg/pdmr-notification-berg.pdf) → `pdfs/16422a6a_pdmr-notification-berg.pdf`
+
 ---
 
 Sarah Alexandra Berg, employee-elected deputy member of the board of Aker BP

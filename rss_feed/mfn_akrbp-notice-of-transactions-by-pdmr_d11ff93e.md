@@ -5,6 +5,9 @@
 **MFN ID:** aker-bp
 **Company:** Aker BP
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk3NDImYXR0YWNobWVudElkPTMyMjU5MA/pdmr-notification-vik.pdf) → `pdfs/d11ff93e_pdmr-notification-vik.pdf`
+
 ---
 
 Tore Vik, employee-elected member of the board of Aker BP ASA, has carried out

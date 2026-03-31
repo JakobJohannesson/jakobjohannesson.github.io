@@ -5,6 +5,9 @@
 **MFN ID:** telenor
 **Company:** Telenor
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk2MzImYXR0YWNobWVudElkPTMyMjQ5OA/mats-granryd-krt-1500.pdf) → `pdfs/51d46bdf_mats-granryd-krt-1500.pdf`
+
 ---
 
 On 27 March 2026, Mats Granryd, member of the Board of Directors of Telenor ASA,

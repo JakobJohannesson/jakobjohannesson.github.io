@@ -5,6 +5,9 @@
 **MFN ID:** profoto
 **Company:** Profoto Holding
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/3895f185-9946-4d4c-9931-eaf86c6f14ed/kallelse-till-arsstamma-i-profoto-holding-ab-publ.pdf) → `pdfs/77aca845_kallelse-till-arsstamma-i-profoto-holding-ab-publ.pdf`
+
 ---
 
 **Aktieägarna i Profoto Holding AB (publ), org.nr 556810-9879, kallas till årsstämma den 6 maj 2026 kl. 13:00 på Profotos huvudkontor, Landsvägen 57, Sundbyberg. Inregistreringen till stämman börjar kl. 12:30.**

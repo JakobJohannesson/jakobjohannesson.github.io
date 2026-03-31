@@ -5,6 +5,9 @@
 **MFN ID:** dnb-bank
 **Company:** DNB Bank
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02Njk2NzgmYXR0YWNobWVudElkPTMyMjUzMA/notice_of_annual_general_meeting_dnb_bank_asa.pdf) → `pdfs/528c1e56_notice_of_annual_general_meeting_dnb_bank_asa.pdf`
+
 ---
 
 Shareholders in DNB Bank ASA are invited to attend the Annual General Meeting to

@@ -5,6 +5,9 @@
 **MFN ID:** industrivarden
 **Company:** Industrivärden
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/d67884a6-2fb0-4684-bb34-675aeded5597/ny-aktiebas-260331-sve.pdf) → `pdfs/84661a0e_ny-aktiebas-260331-sve.pdf`
+
 ---
 
 Bolaget har en skyldighet enligt lag att offentliggöra uppgifter om en förändring i totala antalet aktier eller röster i bolaget.

@@ -5,6 +5,9 @@
 **MFN ID:** sdiptech
 **Company:** Sdiptech
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/dffb10e8-f2a4-491b-8f5e-4327bed4a139/forandring-av-antal-aktier-och-roster-i-sdiptech-ab-publ.pdf) → `pdfs/68369a10_forandring-av-antal-aktier-och-roster-i-sdiptech-ab-publ.pdf`
+
 ---
 
 **Per den 31 mars 2026 uppgår antalet aktier i Sdiptech AB (publ) till 37 991 938.**

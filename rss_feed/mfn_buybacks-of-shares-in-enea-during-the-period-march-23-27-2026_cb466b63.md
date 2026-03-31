@@ -5,6 +5,9 @@
 **MFN ID:** enea
 **Company:** Enea
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/7a7698cf-467c-4232-b389-2963c14b233a/buybacks-of-shares-in-enea-during-the-period-march-23-27-2026.pdf) → `pdfs/cb466b63_buybacks-of-shares-in-enea-during-the-period-march-23-27-2026.pdf`
+
 ---
 
 During the period March 23-27, 2026, Enea AB (publ) has repurchased in total 17,500 own shares (ISIN: SE0009697220) within the framework of the authorization from the Annual General Meeting 2025 to repurchase own shares. The purpose of the repurchase program is to enable the company to adapt its capital structure to its capital needs over time, thereby contributing to increased shareholder value. The intention is that the repurchased shares will be withdrawn by resolution at the upcoming Annual General Meetings.

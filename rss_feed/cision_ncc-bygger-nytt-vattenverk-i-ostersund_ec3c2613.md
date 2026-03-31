@@ -6,6 +6,9 @@
 **Cision ID:** ncc
 **Keywords:** 
 
+**Attachments:**
+- [PDF](https://mb.cision.com/Main/197/4329261/4016892.pdf) → `pdfs/ec3c2613_4016892.pdf`
+
 ---
 
 **NCC ska på uppdrag av Östersunds kommun bygga ett nytt vattenverk intill det befintliga Minnesgärde vattenverk. Projektet genomförs i samverkan och ordervärdet uppgår till cirka 700 MSEK.**

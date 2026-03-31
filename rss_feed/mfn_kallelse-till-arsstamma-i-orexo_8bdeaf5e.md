@@ -5,6 +5,9 @@
 **MFN ID:** orexo
 **Company:** Orexo AB
 
+**Attachments:**
+- [PDF](https://storage.mfn.se/81b58d75-79e1-470b-b122-691ab8446fda/orexo-kallelse-arsstamma-2026-publ-30-mars.pdf) → `pdfs/8bdeaf5e_orexo-kallelse-arsstamma-2026-publ-30-mars.pdf`
+
 ---
 
 **Aktieägarna i Orexo AB (publ), org. nr 556500-0600, med säte i Uppsala kommun, kallas till årsstämma torsdagen den 7 maj 2026 kl. 16.00 på Virdings Allé 28 i Uppsala.**
