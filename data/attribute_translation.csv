@@ -1,0 +1,79 @@
+report_name	borsdata_name	report_section	unit	notes
+Nettoomsättning	Nettoomsättning	resultaträkning	MSEK
+Kostnad sålda varor		resultaträkning	MSEK	Used to derive Bruttoresultat
+Bruttoresultat	Bruttoresultat	resultaträkning	MSEK
+Bruttomarginal	Bruttomarginal	resultaträkning	%
+Lagerhanterings- och distributionskostnader		resultaträkning	MSEK	Report-specific cost breakdown
+Marknadsföringskostnader		resultaträkning	MSEK	Report-specific cost breakdown
+Administrations- och övriga rörelsekostnader		resultaträkning	MSEK	Report-specific cost breakdown
+Rörelseresultat	Rörelseresultat	resultaträkning	MSEK
+Rörelsemarginal	Rörelsemarginal	resultaträkning	%
+Finansnetto		resultaträkning	MSEK	Difference between Rörelseresultat and Resultat före skatt
+Resultat före skatt	Resultat Före Skatt	resultaträkning	MSEK
+Skatt		resultaträkning	MSEK
+Resultat efter skatt	Resultat Hänföring Aktieägare	resultaträkning	MSEK	Report: Resultat efter skatt = Börsdata: Resultat Hänföring Aktieägare
+Resultat per aktie före/efter utspädning (Kronor)	Vinst/Aktie	resultaträkning	SEK
+Utestående aktier vid periodens slut (miljoner)	Antal Aktier	resultaträkning	Milj
+Genomsnittligt antal utestående aktier (miljoner)		resultaträkning	Milj
+Genomsnittligt antal aktier efter utspädning (miljoner)		resultaträkning	Milj
+Periodens omräkningsdifferenser		totalresultat	MSEK
+Periodens totalresultat		totalresultat	MSEK
+Goodwill	Immateriella tillgångar	balansräkning	MSEK	Börsdata aggregates Goodwill + Övriga immateriella
+Övriga immateriella anläggningstillgångar	Immateriella tillgångar	balansräkning	MSEK	Börsdata aggregates Goodwill + Övriga immateriella
+Materiella anläggningstillgångar	Materiella tillgångar	balansräkning	MSEK	Börsdata includes Nyttjanderättstillgångar here
+Nyttjanderättstillgångar	Materiella tillgångar	balansräkning	MSEK	Börsdata includes in Materiella tillgångar
+Uppskjuten skattefordran	Finansiella tillgångar	balansräkning	MSEK	Börsdata groups under Finansiella tillgångar
+Depositioner	Finansiella tillgångar	balansräkning	MSEK	Börsdata groups under Finansiella tillgångar
+Summa anläggningstillgångar	Summa Anläggningstillgångar	balansräkning	MSEK
+Varulager		balansräkning	MSEK	Part of Summa Omsättningstillgångar
+Kortfristiga ej räntebärande fordringar		balansräkning	MSEK	Part of Summa Omsättningstillgångar
+Likvida medel	Kassa/Bank	balansräkning	MSEK	Report: Likvida medel = Börsdata: Kassa/Bank
+Summa omsättningstillgångar	Summa Omsättningstillgångar	balansräkning	MSEK
+Summa tillgångar	Summa Tillgångar	balansräkning	MSEK
+Eget kapital hänförligt till moderbolagets aktieägare	Summa Eget Kapital	balansräkning	MSEK
+Summa eget kapital	Summa Eget Kapital	balansräkning	MSEK
+Avsättningar		balansräkning	MSEK	Sub-item of Långfristiga skulder
+Övriga skulder (lång)		balansräkning	MSEK	Sub-item of Långfristiga skulder
+Leasingskulder (lång)		balansräkning	MSEK	Sub-item of Långfristiga skulder
+Summa långfristiga skulder	Långfristiga Skulder	balansräkning	MSEK
+Leasingskulder (kort)		balansräkning	MSEK	Sub-item of Kortfristiga skulder
+Leverantörsskulder		balansräkning	MSEK	Sub-item of Kortfristiga skulder
+Övriga skulder (kort)		balansräkning	MSEK	Sub-item of Kortfristiga skulder
+Upplupna kostnader och förutbetalda intäkter		balansräkning	MSEK	Sub-item of Kortfristiga skulder
+Summa kortfristiga skulder	Kortfristiga Skulder	balansräkning	MSEK
+Summa eget kapital och skulder	Summa Eget Kapital och Skulder	balansräkning	MSEK
+Kassaflöde löpande verksamheten före förändringar i rörelsekapitalet		kassaflöde	MSEK	Sub-component of Kassaf LöpandeVerk
+Förändringar i rörelsekapitalet		kassaflöde	MSEK	Sub-component of Kassaf LöpandeVerk
+Kassaflöde från rörelsen	Kassaf LöpandeVerk	kassaflöde	MSEK	Report: Kassaflöde från rörelsen = Börsdata: Kassaf LöpandeVerk
+Investeringar i anläggningstillgångar		kassaflöde	MSEK	Sub-component of Kassaf Investeringsverk
+Kassaflöde till/från investeringsverksamheten	Kassaf Investeringsverk	kassaflöde	MSEK
+Företrädesemission		kassaflöde	MSEK	Sub-component of Kassaf Finansieringsverk
+Utdelning	Utdelning	kassaflöde	MSEK	Note: Börsdata Utdelning is per share in SEK
+Amortering av leasingskuld		kassaflöde	MSEK	Sub-component of Kassaf Finansieringsverk
+Förändringar i finansiella tillgångar		kassaflöde	MSEK	Sub-component of Kassaf Finansieringsverk
+Kassaflöde till/från finansieringsverksamheten	Kassaf Finansieringsverk	kassaflöde	MSEK
+Periodens förändring av likvida medel	Åretskassaflöde	kassaflöde	MSEK
+Likvida medel vid periodens början		kassaflöde	MSEK
+Omräkningsdifferens likvida medel		kassaflöde	MSEK
+Likvida medel vid periodens slut	Kassa/Bank	kassaflöde	MSEK	Same as balance sheet Likvida medel
+Nettoomsättningstillväxt		nyckeltal	%	Report-specific KPI
+Returgrad		nyckeltal	%	Report-specific KPI
+Lager som andel av nettoomsättning R12		nyckeltal	%	Report-specific KPI
+Försäljningsandel egna varumärken		nyckeltal	%	Report-specific KPI
+Antal aktiva kunder i Norden R12 (000)		nyckeltal	st	Report-specific KPI
+Antal besök i Norden (000)		nyckeltal	st	Report-specific KPI
+Antal ordrar i Norden (000)		nyckeltal	st	Report-specific KPI
+Genomsnittlig kundkorg i Norden		nyckeltal	SEK	Report-specific KPI
+Konverteringsgrad i Norden		nyckeltal	%	Report-specific KPI
+Antal anställda		nyckeltal	st	Report-specific KPI
+Andel kvinnliga anställda		nyckeltal	%	Report-specific KPI
+Lagerhanterings- och distributionskostnader som andel av nettoomsättningen		nyckeltal	%	Report-specific KPI
+Marknadsföringskostnader som andel av nettoomsättningen		nyckeltal	%	Report-specific KPI
+Avskrivningar av materiella anläggningstillgångar		avskrivningar	MSEK
+Avskrivningar av immateriella anläggningstillgångar		avskrivningar	MSEK
+Avskrivningar (ej inkluderat IFRS 16)		avskrivningar	MSEK
+Avskrivningar av nyttjanderättstillgångar		avskrivningar	MSEK
+Avskrivningar (Inkluderat IFRS 16)		avskrivningar	MSEK	Sum used to derive EBITDA
+Nettoomsättning Sverige		geografi	MSEK	Geographic breakdown
+Nettoomsättning Norden inklusive Sverige		geografi	MSEK	Geographic breakdown
+Nettoomsättning Övriga världen		geografi	MSEK	Geographic breakdown
