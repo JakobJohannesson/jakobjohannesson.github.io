@@ -1,3 +1,0 @@
-Companyname	attribute	value	fiscial_year	quarter	date_inserted	source	unit
-Nelly	Nettoomsättning	236	2023	3	GETDATE()	borsdata	MSEK
-Nelly	Nettoomsättning	302	2023	4	GETDATE()	borsdata	MSEK

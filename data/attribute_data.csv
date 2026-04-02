@@ -1,0 +1,117 @@
+attribute_id	attribute_name	attribute_description	standard_unit	frequency	section	borsdata_name
+1	Administrations- och övriga rörelsekostnader	Admin, IT, personal och övriga rörelsekostnader	MSEK	quarterly	resultaträkning	
+2	Aktiekurs Högsta	Högsta aktiekurs under kvartalet	SEK	quarterly	aktiekurs	
+3	Aktiekurs Lägsta	Lägsta aktiekurs under kvartalet	SEK	quarterly	aktiekurs	
+4	Aktiekurs Snitt	Genomsnittlig aktiekurs under kvartalet	SEK	quarterly	aktiekurs	
+5	Andel kvinnliga anställda	Andel kvinnliga anställda	%	quarterly	nyckeltal	
+6	Antal Aktier	Antal utestående aktier	Milj	quarterly	aktiedata	Antal Aktier
+7	Antal aktiva kunder i Norden R12 (000)	Aktiva kunder i Norden rullande 12 mån (tusen)	st	quarterly	nyckeltal	
+8	Antal anställda	Antal anställda i koncernen	st	quarterly	nyckeltal	
+9	Antal besök i Norden (000)	Unika besök i Norden under kvartalet (tusen)	st	quarterly	nyckeltal	
+10	Antal ordrar i Norden (000)	Antal ordrar i Norden under kvartalet (tusen)	st	quarterly	nyckeltal	
+11	Avkastning På EK	Avkastning på eget kapital	%	quarterly	nyckeltal	
+12	Avkastning på T	Avkastning på totalt kapital	%	quarterly	nyckeltal	
+13	Avskrivningar (Inkluderat IFRS 16)	Totala avskrivningar inkl IFRS 16	MSEK	quarterly	avskrivningar	
+14	Avskrivningar (ej inkluderat IFRS 16)	Avskrivningar exkl nyttjanderättstillgångar	MSEK	quarterly	avskrivningar	
+15	Avskrivningar av immateriella anläggningstillgångar	Avskrivningar immateriella anläggningstillgångar	MSEK	quarterly	avskrivningar	
+16	Avskrivningar av materiella anläggningstillgångar	Avskrivningar materiella anläggningstillgångar	MSEK	quarterly	avskrivningar	
+17	Avskrivningar av nyttjanderättstillgångar	Avskrivningar nyttjanderättstillgångar (IFRS 16)	MSEK	quarterly	avskrivningar	
+18	Avsättningar	Avsättningar	MSEK	quarterly	balansräkning	
+19	Bruttomarginal	Bruttoresultat / Nettoomsättning	%	quarterly	marginal	Bruttomarginal
+20	Bruttoresultat	Nettoomsättning minus kostnad sålda varor	MSEK	quarterly	resultaträkning	Bruttoresultat
+21	Capex %	Capex / Nettoomsättning	%	quarterly	nyckeltal	
+22	Depositioner	Depositioner och spärrmedel	MSEK	quarterly	balansräkning	Finansiella tillgångar
+23	EBITDA	Rörelseresultat plus avskrivningar	MSEK	quarterly	resultaträkning	
+24	EBITDA / Aktie	EBITDA per aktie	SEK	quarterly	per aktie	
+25	EBITDA-marginal	EBITDA / Nettoomsättning	%	quarterly	marginal	
+26	Eget Kapital/Aktie	Eget kapital per aktie	SEK	quarterly	per aktie	
+27	FCF / Aktie	Fritt kassaflöde per aktie	SEK	quarterly	per aktie	
+28	FCF-marginal	Fritt kassaflöde / Nettoomsättning	%	quarterly	marginal	
+29	Finansiella intäkter	Finansiella intäkter	MSEK	quarterly	resultaträkning	
+30	Finansiella kostnader	Finansiella kostnader	MSEK	quarterly	resultaträkning	
+31	Finansiella tillgångar	Uppskjuten skattefordran och depositioner	MSEK	quarterly	balansräkning	Finansiella tillgångar
+32	Finansnetto	Nettot av finansiella intäkter och kostnader	MSEK	quarterly	resultaträkning	
+33	FrittKassaflöde	Fritt kassaflöde	MSEK	quarterly	kassaflöde	
+34	Försäljningsandel egna varumärken	Andel av försäljning från egna varumärken	%	quarterly	nyckeltal	
+35	Förändringar i rörelsekapitalet	Förändringar i rörelsekapitalet	MSEK	quarterly	kassaflöde	
+36	Genomsnittlig kundkorg i Norden	Genomsnittligt ordervärde i Norden	SEK	quarterly	nyckeltal	
+37	Goodwill	Goodwill	MSEK	quarterly	balansräkning	Immateriella tillgångar
+38	Immat.tillgång.-%	Immateriella tillgångar / Summa tillgångar	%	quarterly	nyckeltal	
+39	Immateriella tillgångar	Goodwill och övriga immateriella tillgångar	MSEK	quarterly	balansräkning	Immateriella tillgångar
+40	Investeringar i anläggningstillgångar	Investeringar i anläggningstillgångar	MSEK	quarterly	kassaflöde	
+41	Kassa-%	Kassa / Summa tillgångar	%	quarterly	nyckeltal	
+42	Kassa/Bank	Likvida medel	MSEK	quarterly	balansräkning	Kassa/Bank
+43	Kassaf Finansieringsverk	Kassaflöde från finansieringsverksamheten	MSEK	quarterly	kassaflöde	Kassaf Finansieringsverk
+44	Kassaf Investeringsverk	Kassaflöde från investeringsverksamheten	MSEK	quarterly	kassaflöde	Kassaf Investeringsverk
+45	Kassaf LöpandeVerk	Kassaflöde från löpande verksamheten	MSEK	quarterly	kassaflöde	Kassaf LöpandeVerk
+46	Kassaflöde från rörelsen	Kassaflöde från rörelsen	MSEK	quarterly	kassaflöde	Kassaf LöpandeVerk
+47	Kassaflöde löpande verksamheten före förändringar i rörelsekapitalet	Kassaflöde löpande före rörelsekapitalförändringar	MSEK	quarterly	kassaflöde	
+48	Kassaflöde till/från finansieringsverksamheten	Kassaflöde finansieringsverksamheten	MSEK	quarterly	kassaflöde	Kassaf Finansieringsverk
+49	Kassaflöde till/från investeringsverksamheten	Kassaflöde investeringsverksamheten	MSEK	quarterly	kassaflöde	Kassaf Investeringsverk
+50	Konverteringsgrad i Norden	Andel besökare som lägger en order	%	quarterly	nyckeltal	
+51	Kortfristiga Skulder	Summa kortfristiga skulder	MSEK	quarterly	balansräkning	Kortfristiga Skulder
+52	Kortfristiga ej räntebärande fordringar	Kortfristiga ej räntebärande fordringar	MSEK	quarterly	balansräkning	
+53	Kostnad sålda varor	Kostnader hänförliga till inköpta varor	MSEK	quarterly	resultaträkning	
+54	Lager som andel av nettoomsättning R12	Lager / nettoomsättning rullande 12 mån	%	quarterly	nyckeltal	
+55	Lagerhanterings- och distributionskostnader	Kostnader för lager och distribution till kund	MSEK	quarterly	resultaträkning	
+56	Lagerhanterings- och distributionskostnader som andel av nettoomsättningen	Lagerh/distr.kostn. som andel av nettoomsättningen	%	quarterly	nyckeltal	
+57	Leasingskulder (kort)	Kortfristiga leasingskulder (IFRS 16)	MSEK	quarterly	balansräkning	
+58	Leasingskulder (lång)	Långfristiga leasingskulder (IFRS 16)	MSEK	quarterly	balansräkning	
+59	Leverantörsskulder	Leverantörsskulder	MSEK	quarterly	balansräkning	
+60	Likvida medel	Likvida medel / Kassa och bank	MSEK	quarterly	balansräkning	Kassa/Bank
+61	Långfristiga Skulder	Summa långfristiga skulder	MSEK	quarterly	balansräkning	Långfristiga Skulder
+62	Marknadsföringskostnader	Kostnader för marknadsföring och annonsering	MSEK	quarterly	resultaträkning	
+63	Marknadsföringskostnader som andel av nettoomsättningen	Marknadsföringskostnader som andel av nettoomsättningen	%	quarterly	nyckeltal	
+64	Materiella anläggningstillgångar	Materiella anläggningstillgångar exkl nyttjanderätt	MSEK	quarterly	balansräkning	Materiella tillgångar
+65	Materiella tillgångar	Materiella anläggningstillgångar inkl nyttjanderätt	MSEK	quarterly	balansräkning	Materiella tillgångar
+66	Nettoomsättning	Intäkter från B2C och B2B kunder	MSEK	quarterly	resultaträkning	Nettoomsättning
+67	Nettoomsättning Norden inklusive Sverige	Nettoomsättning hänförlig till Norden inkl Sverige	MSEK	quarterly	geografi	
+68	Nettoomsättning Sverige	Nettoomsättning hänförlig till Sverige	MSEK	quarterly	geografi	
+69	Nettoomsättning Övriga världen	Nettoomsättning hänförlig till övriga världen	MSEK	quarterly	geografi	
+70	Nettoomsättning/Aktie	Nettoomsättning per aktie	SEK	quarterly	per aktie	
+71	Nettoomsättningstillväxt	Nettoomsättningstillväxt jämfört med samma period fg år	%	quarterly	nyckeltal	
+72	Nettoskuld	Nettoskuld	MSEK	quarterly	balansräkning	
+73	Nettoskuld/Aktie	Nettoskuld per aktie	SEK	quarterly	per aktie	
+74	Nyttjanderättstillgångar	Nyttjanderättstillgångar (IFRS 16)	MSEK	quarterly	balansräkning	Materiella tillgångar
+75	OP-marginal	Operativ marginal	%	quarterly	marginal	
+76	Operativ kassaflöde/Aktie	Operativt kassaflöde per aktie	SEK	quarterly	per aktie	
+77	Periodens förändring av likvida medel	Periodens förändring av likvida medel	MSEK	quarterly	kassaflöde	Åretskassaflöde
+78	Resultat Före Skatt	Rörelseresultat plus finansnetto	MSEK	quarterly	resultaträkning	Resultat Före Skatt
+79	Resultat Hänföring Aktieägare	Resultat efter skatt hänförligt till aktieägare	MSEK	quarterly	resultaträkning	Resultat Hänföring Aktieägare
+80	Resultat efter skatt	Periodens resultat	MSEK	quarterly	resultaträkning	Resultat Hänföring Aktieägare
+81	Resultat före skatt	Resultat före skatt	MSEK	quarterly	resultaträkning	Resultat Före Skatt
+82	Resultat per aktie	Resultat per aktie före/efter utspädning	SEK	quarterly	per aktie	Vinst/Aktie
+83	Returgrad	Andel av försäljningen som returneras	%	quarterly	nyckeltal	
+84	Rörelsekapital-%	Rörelsekapital / Nettoomsättning	%	quarterly	nyckeltal	
+85	Rörelsemarginal	Rörelseresultat / Nettoomsättning	%	quarterly	marginal	Rörelsemarginal
+86	Rörelseresultat	Resultat efter alla rörelsekostnader	MSEK	quarterly	resultaträkning	Rörelseresultat
+87	Skatt	Inkomstskatt	MSEK	quarterly	resultaträkning	
+88	Soliditet	Eget kapital / Summa tillgångar	%	quarterly	nyckeltal	
+89	Summa Anläggningstillgångar	Summa anläggningstillgångar	MSEK	quarterly	balansräkning	Summa Anläggningstillgångar
+90	Summa Eget Kapital	Summa eget kapital	MSEK	quarterly	balansräkning	Summa Eget Kapital
+91	Summa Eget Kapital och Skulder	Summa eget kapital och skulder	MSEK	quarterly	balansräkning	Summa Eget Kapital och Skulder
+92	Summa Omsättningstillgångar	Summa omsättningstillgångar	MSEK	quarterly	balansräkning	Summa Omsättningstillgångar
+93	Summa Tillgångar	Summa tillgångar	MSEK	quarterly	balansräkning	Summa Tillgångar
+94	Summa anläggningstillgångar	Summa anläggningstillgångar	MSEK	quarterly	balansräkning	Summa Anläggningstillgångar
+95	Summa eget kapital	Summa eget kapital	MSEK	quarterly	balansräkning	Summa Eget Kapital
+96	Summa eget kapital och skulder	Summa eget kapital och skulder	MSEK	quarterly	balansräkning	Summa Eget Kapital och Skulder
+97	Summa kortfristiga skulder	Summa kortfristiga skulder	MSEK	quarterly	balansräkning	Kortfristiga Skulder
+98	Summa långfristiga skulder	Summa långfristiga skulder	MSEK	quarterly	balansräkning	Långfristiga Skulder
+99	Summa omsättningstillgångar	Summa omsättningstillgångar	MSEK	quarterly	balansräkning	Summa Omsättningstillgångar
+100	Summa tillgångar	Summa tillgångar	MSEK	quarterly	balansräkning	Summa Tillgångar
+101	Totala Skulder	Totala skulder	MSEK	quarterly	balansräkning	
+102	Totala Skulder och Eget kapital	Totala skulder och eget kapital	MSEK	quarterly	balansräkning	
+103	Upplupna kostnader och förutbetalda intäkter	Upplupna kostnader och förutbetalda intäkter	MSEK	quarterly	balansräkning	
+104	Uppskjuten skattefordran	Uppskjuten skattefordran	MSEK	quarterly	balansräkning	Finansiella tillgångar
+105	Utdelning	Utdelning per aktie	SEK	quarterly	aktiedata	
+106	Utdelning/FCF	Utdelning / Fritt kassaflöde	%	quarterly	nyckeltal	
+107	Utestående aktier	Utestående aktier vid periodens slut	Milj	quarterly	aktiedata	Antal Aktier
+108	Varulager	Varulager	MSEK	quarterly	balansräkning	
+109	Vinst/Aktie	Resultat per aktie	SEK	quarterly	per aktie	Vinst/Aktie
+110	Vinstmarginal	Resultat efter skatt / Nettoomsättning	%	quarterly	marginal	
+111	Årets kassaflöde marginal	Årets kassaflöde / Nettoomsättning	%	quarterly	marginal	
+112	Årets kassaflöde/Aktie	Årets kassaflöde per aktie	SEK	quarterly	per aktie	
+113	Åretskassaflöde	Periodens förändring av likvida medel	MSEK	quarterly	kassaflöde	Åretskassaflöde
+114	Övriga immateriella anläggningstillgångar	Övriga immateriella anläggningstillgångar	MSEK	quarterly	balansräkning	Immateriella tillgångar
+115	Övriga skulder (kort)	Övriga kortfristiga skulder	MSEK	quarterly	balansräkning	
+116	Övriga skulder (lång)	Övriga långfristiga skulder (ej räntebärande)	MSEK	quarterly	balansräkning	
