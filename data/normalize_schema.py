@@ -160,6 +160,20 @@ ATTR_META = {
     "Nettoomsättning Sverige": ("Nettoomsättning hänförlig till Sverige", "MSEK", "quarterly", "geografi"),
     "Nettoomsättning Norden inklusive Sverige": ("Nettoomsättning hänförlig till Norden inkl Sverige", "MSEK", "quarterly", "geografi"),
     "Nettoomsättning Övriga världen": ("Nettoomsättning hänförlig till övriga världen", "MSEK", "quarterly", "geografi"),
+    # Emissions / Sustainability
+    "Scope 1 utsläpp": ("Direkta utsläpp från källor som kontrolleras av företaget", "ton CO2e", "annual", "utsläpp"),
+    "Scope 2 utsläpp (marknadsbaserad)": ("Indirekta utsläpp från förbrukning av el, fjärrvärme och fjärrkyla (marknadsbaserad metod)", "ton CO2e", "annual", "utsläpp"),
+    "Scope 2 utsläpp (platsbaserad)": ("Indirekta utsläpp från förbrukning av el, fjärrvärme och fjärrkyla (platsbaserad metod)", "ton CO2e", "annual", "utsläpp"),
+    "Scope 1+2 utsläpp": ("Kombinerade Scope 1 och 2 utsläpp", "ton CO2e", "annual", "utsläpp"),
+    "Scope 3 - Inköpta produkter och tjänster": ("Scope 3 utsläpp från inköpta produkter inkl produktion och material", "ton CO2e", "annual", "utsläpp"),
+    "Scope 3 - Inköpta produkter Tier 1 produktion": ("Scope 3 utsläpp från Tier 1 tillverkning", "ton CO2e", "annual", "utsläpp"),
+    "Scope 3 - Inköpta produkter material Tier 2-4": ("Scope 3 utsläpp från material- och textilproduktion Tier 2-4", "ton CO2e", "annual", "utsläpp"),
+    "Scope 3 - Inköpta produkter förpackningsmaterial": ("Scope 3 utsläpp från förpackningsmaterial", "ton CO2e", "annual", "utsläpp"),
+    "Scope 3 - Transport och distribution": ("Scope 3 utsläpp från transport och distribution", "ton CO2e", "annual", "utsläpp"),
+    "Scope 3 - Affärsresor": ("Scope 3 utsläpp från affärsresor", "ton CO2e", "annual", "utsläpp"),
+    "Scope 3 - Energianvändning i lokaler": ("Scope 3 utsläpp från energianvändning i lokaler", "ton CO2e", "annual", "utsläpp"),
+    "Scope 3 utsläpp totalt": ("Totala Scope 3 utsläpp i värdekedjan", "ton CO2e", "annual", "utsläpp"),
+    "Totala växthusgasutsläpp": ("Totala växthusgasutsläpp Scope 1+2+3", "ton CO2e", "annual", "utsläpp"),
 }
 
 # ── Step 1: Build attribute_id mapping ──

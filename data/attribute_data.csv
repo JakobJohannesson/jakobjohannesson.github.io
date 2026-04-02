@@ -85,33 +85,46 @@ attribute_id	attribute_name	attribute_description	standard_unit	frequency	sectio
 84	Rörelsekapital-%	Rörelsekapital / Nettoomsättning	%	quarterly	nyckeltal	
 85	Rörelsemarginal	Rörelseresultat / Nettoomsättning	%	quarterly	marginal	Rörelsemarginal
 86	Rörelseresultat	Resultat efter alla rörelsekostnader	MSEK	quarterly	resultaträkning	Rörelseresultat
-87	Skatt	Inkomstskatt	MSEK	quarterly	resultaträkning	
-88	Soliditet	Eget kapital / Summa tillgångar	%	quarterly	nyckeltal	
-89	Summa Anläggningstillgångar	Summa anläggningstillgångar	MSEK	quarterly	balansräkning	Summa Anläggningstillgångar
-90	Summa Eget Kapital	Summa eget kapital	MSEK	quarterly	balansräkning	Summa Eget Kapital
-91	Summa Eget Kapital och Skulder	Summa eget kapital och skulder	MSEK	quarterly	balansräkning	Summa Eget Kapital och Skulder
-92	Summa Omsättningstillgångar	Summa omsättningstillgångar	MSEK	quarterly	balansräkning	Summa Omsättningstillgångar
-93	Summa Tillgångar	Summa tillgångar	MSEK	quarterly	balansräkning	Summa Tillgångar
-94	Summa anläggningstillgångar	Summa anläggningstillgångar	MSEK	quarterly	balansräkning	Summa Anläggningstillgångar
-95	Summa eget kapital	Summa eget kapital	MSEK	quarterly	balansräkning	Summa Eget Kapital
-96	Summa eget kapital och skulder	Summa eget kapital och skulder	MSEK	quarterly	balansräkning	Summa Eget Kapital och Skulder
-97	Summa kortfristiga skulder	Summa kortfristiga skulder	MSEK	quarterly	balansräkning	Kortfristiga Skulder
-98	Summa långfristiga skulder	Summa långfristiga skulder	MSEK	quarterly	balansräkning	Långfristiga Skulder
-99	Summa omsättningstillgångar	Summa omsättningstillgångar	MSEK	quarterly	balansräkning	Summa Omsättningstillgångar
-100	Summa tillgångar	Summa tillgångar	MSEK	quarterly	balansräkning	Summa Tillgångar
-101	Totala Skulder	Totala skulder	MSEK	quarterly	balansräkning	
-102	Totala Skulder och Eget kapital	Totala skulder och eget kapital	MSEK	quarterly	balansräkning	
-103	Upplupna kostnader och förutbetalda intäkter	Upplupna kostnader och förutbetalda intäkter	MSEK	quarterly	balansräkning	
-104	Uppskjuten skattefordran	Uppskjuten skattefordran	MSEK	quarterly	balansräkning	Finansiella tillgångar
-105	Utdelning	Utdelning per aktie	SEK	quarterly	aktiedata	
-106	Utdelning/FCF	Utdelning / Fritt kassaflöde	%	quarterly	nyckeltal	
-107	Utestående aktier	Utestående aktier vid periodens slut	Milj	quarterly	aktiedata	Antal Aktier
-108	Varulager	Varulager	MSEK	quarterly	balansräkning	
-109	Vinst/Aktie	Resultat per aktie	SEK	quarterly	per aktie	Vinst/Aktie
-110	Vinstmarginal	Resultat efter skatt / Nettoomsättning	%	quarterly	marginal	
-111	Årets kassaflöde marginal	Årets kassaflöde / Nettoomsättning	%	quarterly	marginal	
-112	Årets kassaflöde/Aktie	Årets kassaflöde per aktie	SEK	quarterly	per aktie	
-113	Åretskassaflöde	Periodens förändring av likvida medel	MSEK	quarterly	kassaflöde	Åretskassaflöde
-114	Övriga immateriella anläggningstillgångar	Övriga immateriella anläggningstillgångar	MSEK	quarterly	balansräkning	Immateriella tillgångar
-115	Övriga skulder (kort)	Övriga kortfristiga skulder	MSEK	quarterly	balansräkning	
-116	Övriga skulder (lång)	Övriga långfristiga skulder (ej räntebärande)	MSEK	quarterly	balansräkning	
+87	Scope 1 utsläpp	Direkta utsläpp från källor som kontrolleras av företaget	ton CO2e	annual	utsläpp	
+88	Scope 1+2 utsläpp	Kombinerade Scope 1 och 2 utsläpp	ton CO2e	annual	utsläpp	
+89	Scope 2 utsläpp (marknadsbaserad)	Indirekta utsläpp från förbrukning av el, fjärrvärme och fjärrkyla (marknadsbaserad metod)	ton CO2e	annual	utsläpp	
+90	Scope 2 utsläpp (platsbaserad)	Indirekta utsläpp från förbrukning av el, fjärrvärme och fjärrkyla (platsbaserad metod)	ton CO2e	annual	utsläpp	
+91	Scope 3 - Affärsresor	Scope 3 utsläpp från affärsresor	ton CO2e	annual	utsläpp	
+92	Scope 3 - Energianvändning i lokaler	Scope 3 utsläpp från energianvändning i lokaler	ton CO2e	annual	utsläpp	
+93	Scope 3 - Inköpta produkter Tier 1 produktion	Scope 3 utsläpp från Tier 1 tillverkning	ton CO2e	annual	utsläpp	
+94	Scope 3 - Inköpta produkter förpackningsmaterial	Scope 3 utsläpp från förpackningsmaterial	ton CO2e	annual	utsläpp	
+95	Scope 3 - Inköpta produkter material Tier 2-4	Scope 3 utsläpp från material- och textilproduktion Tier 2-4	ton CO2e	annual	utsläpp	
+96	Scope 3 - Inköpta produkter och tjänster	Scope 3 utsläpp från inköpta produkter inkl produktion och material	ton CO2e	annual	utsläpp	
+97	Scope 3 - Transport och distribution	Scope 3 utsläpp från transport och distribution	ton CO2e	annual	utsläpp	
+98	Scope 3 utsläpp totalt	Totala Scope 3 utsläpp i värdekedjan	ton CO2e	annual	utsläpp	
+99	Skatt	Inkomstskatt	MSEK	quarterly	resultaträkning	
+100	Soliditet	Eget kapital / Summa tillgångar	%	quarterly	nyckeltal	
+101	Summa Anläggningstillgångar	Summa anläggningstillgångar	MSEK	quarterly	balansräkning	Summa Anläggningstillgångar
+102	Summa Eget Kapital	Summa eget kapital	MSEK	quarterly	balansräkning	Summa Eget Kapital
+103	Summa Eget Kapital och Skulder	Summa eget kapital och skulder	MSEK	quarterly	balansräkning	Summa Eget Kapital och Skulder
+104	Summa Omsättningstillgångar	Summa omsättningstillgångar	MSEK	quarterly	balansräkning	Summa Omsättningstillgångar
+105	Summa Tillgångar	Summa tillgångar	MSEK	quarterly	balansräkning	Summa Tillgångar
+106	Summa anläggningstillgångar	Summa anläggningstillgångar	MSEK	quarterly	balansräkning	Summa Anläggningstillgångar
+107	Summa eget kapital	Summa eget kapital	MSEK	quarterly	balansräkning	Summa Eget Kapital
+108	Summa eget kapital och skulder	Summa eget kapital och skulder	MSEK	quarterly	balansräkning	Summa Eget Kapital och Skulder
+109	Summa kortfristiga skulder	Summa kortfristiga skulder	MSEK	quarterly	balansräkning	Kortfristiga Skulder
+110	Summa långfristiga skulder	Summa långfristiga skulder	MSEK	quarterly	balansräkning	Långfristiga Skulder
+111	Summa omsättningstillgångar	Summa omsättningstillgångar	MSEK	quarterly	balansräkning	Summa Omsättningstillgångar
+112	Summa tillgångar	Summa tillgångar	MSEK	quarterly	balansräkning	Summa Tillgångar
+113	Totala Skulder	Totala skulder	MSEK	quarterly	balansräkning	
+114	Totala Skulder och Eget kapital	Totala skulder och eget kapital	MSEK	quarterly	balansräkning	
+115	Totala växthusgasutsläpp	Totala växthusgasutsläpp Scope 1+2+3	ton CO2e	annual	utsläpp	
+116	Upplupna kostnader och förutbetalda intäkter	Upplupna kostnader och förutbetalda intäkter	MSEK	quarterly	balansräkning	
+117	Uppskjuten skattefordran	Uppskjuten skattefordran	MSEK	quarterly	balansräkning	Finansiella tillgångar
+118	Utdelning	Utdelning per aktie	SEK	quarterly	aktiedata	
+119	Utdelning/FCF	Utdelning / Fritt kassaflöde	%	quarterly	nyckeltal	
+120	Utestående aktier	Utestående aktier vid periodens slut	Milj	quarterly	aktiedata	Antal Aktier
+121	Varulager	Varulager	MSEK	quarterly	balansräkning	
+122	Vinst/Aktie	Resultat per aktie	SEK	quarterly	per aktie	Vinst/Aktie
+123	Vinstmarginal	Resultat efter skatt / Nettoomsättning	%	quarterly	marginal	
+124	Årets kassaflöde marginal	Årets kassaflöde / Nettoomsättning	%	quarterly	marginal	
+125	Årets kassaflöde/Aktie	Årets kassaflöde per aktie	SEK	quarterly	per aktie	
+126	Åretskassaflöde	Periodens förändring av likvida medel	MSEK	quarterly	kassaflöde	Åretskassaflöde
+127	Övriga immateriella anläggningstillgångar	Övriga immateriella anläggningstillgångar	MSEK	quarterly	balansräkning	Immateriella tillgångar
+128	Övriga skulder (kort)	Övriga kortfristiga skulder	MSEK	quarterly	balansräkning	
+129	Övriga skulder (lång)	Övriga långfristiga skulder (ej räntebärande)	MSEK	quarterly	balansräkning	

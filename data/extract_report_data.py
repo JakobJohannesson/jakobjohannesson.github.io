@@ -848,6 +848,62 @@ add("Nettoomsättning Övriga världen", 25.3, y, q)
 
 
 # =============================================================================
+# Annual Emissions Data (from Annual Reports)
+# =============================================================================
+
+# --- 2023 (from Årsredovisning 2023, page 23) ---
+y = 2023
+
+# Scope 1
+add("Scope 1 utsläpp", 10.9, y, 0, "ton CO2e")
+
+# Scope 2 (market-based)
+add("Scope 2 utsläpp (marknadsbaserad)", 15.35, y, 0, "ton CO2e")
+
+# Scope 1+2 combined
+add("Scope 1+2 utsläpp", 26.25, y, 0, "ton CO2e")
+
+# Scope 3 sub-categories
+add("Scope 3 - Inköpta produkter och tjänster", 12960, y, 0, "ton CO2e")
+add("Scope 3 - Transport och distribution", 456, y, 0, "ton CO2e")
+add("Scope 3 - Affärsresor", 497, y, 0, "ton CO2e")
+add("Scope 3 - Energianvändning i lokaler", 67, y, 0, "ton CO2e")
+
+# Scope 3 total
+add("Scope 3 utsläpp totalt", 13959, y, 0, "ton CO2e")
+
+# Total all scopes
+add("Totala växthusgasutsläpp", 13985, y, 0, "ton CO2e")
+
+# --- 2024 (from Årsredovisning 2024, page 21) ---
+y = 2024
+
+# Scope 1
+add("Scope 1 utsläpp", 10.2, y, 0, "ton CO2e")
+
+# Scope 2 (market-based, new method excl. origin guarantees)
+add("Scope 2 utsläpp (marknadsbaserad)", 72.9, y, 0, "ton CO2e")
+
+# Scope 1+2 combined
+add("Scope 1+2 utsläpp", 83.1, y, 0, "ton CO2e")
+
+# Scope 3 sub-categories
+add("Scope 3 - Inköpta produkter och tjänster", 14754, y, 0, "ton CO2e")
+add("Scope 3 - Inköpta produkter Tier 1 produktion", 1224, y, 0, "ton CO2e")
+add("Scope 3 - Inköpta produkter material Tier 2-4", 13294, y, 0, "ton CO2e")
+add("Scope 3 - Inköpta produkter förpackningsmaterial", 187, y, 0, "ton CO2e")
+add("Scope 3 - Transport och distribution", 602, y, 0, "ton CO2e")
+add("Scope 3 - Affärsresor", 154, y, 0, "ton CO2e")
+add("Scope 3 - Energianvändning i lokaler", 108, y, 0, "ton CO2e")
+
+# Scope 3 total
+add("Scope 3 utsläpp totalt", 15551, y, 0, "ton CO2e")
+
+# Total all scopes
+add("Totala växthusgasutsläpp", 15634, y, 0, "ton CO2e")
+
+
+# =============================================================================
 # Write CSV
 # =============================================================================
 output_path = "nelly_report_long.csv"
