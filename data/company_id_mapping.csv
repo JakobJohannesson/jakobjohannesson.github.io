@@ -1,2 +1,1772 @@
 companyid	company_name
 1	Nelly
+2	2020 Bulkers
+3	2cureX
+4	4C Group
+5	5th Planet Games
+6	A.P. Moller Maersk A
+7	A.P. Moller Maersk B
+8	AAC Clyde Space
+9	AAK
+10	Aalborg Boldspilklub
+11	Aallon Group
+12	Aasen Sparebank
+13	ABAS Protect
+14	ABB
+15	Abelco Investment
+16	Abera Bioscience
+17	ABG Sundal Collier
+18	ABL Group
+19	Absolent Air Care
+20	Absolicon
+21	AcadeMedia
+22	Acarix
+23	Acast
+24	Acconeer
+25	Acenta Group
+26	AcouSort
+27	Acrinova A
+28	Acrinova B
+29	Acroud
+30	Actic Group
+31	Active Biotech
+32	AcuCort
+33	Acuvi
+34	AddLife
+35	Addnode
+36	Addtech
+37	ADDvise Group A
+38	ADDvise Group B
+39	Admicom
+40	Administer
+41	ADS Maritime
+42	Adtraction
+43	Advenica
+44	Adventure Box
+45	Adverty
+46	Aerospace & Defense
+47	Aerowash
+48	AF Gruppen
+49	Afarak
+50	Africa Energy
+51	Africa Oil
+52	Africa Resources
+53	AFRY
+54	Agat Ejendomme
+55	Ages Industri
+56	AGF B
+57	Agillic
+58	Agilyx
+59	Agtira
+60	Aiforia Technologies
+61	AIK Fotboll
+62	Aino Health
+63	Airthings
+64	Aixia
+65	Akastor
+66	Aker
+67	Aker BioMarine
+68	Aker BP
+69	Aker Carbon Capture
+70	Aker Horizons
+71	Aker Solutions
+72	Akobo Minerals
+73	Aktia Bank
+74	AKVA Group
+75	Ålandsbanken A
+76	Ålandsbanken B
+77	Alcadon Group
+78	Alefarm Brewing
+79	Alexandria Group
+80	Alfa Laval
+81	Alimak
+82	Alisa Pankki
+83	ALK-Abello
+84	Alleima
+85	Alligator Bioscience
+86	Alligo
+87	ALM Equity
+88	ALM Equity Pref
+89	Alm. Brand
+90	Alma Media
+91	Alpcot
+92	Alternative Energy
+93	Alternus Energy
+94	AlzeCure Pharma
+95	Alzinova
+96	Ambea
+97	Ambu
+98	Amhult 2
+99	Amido
+100	Amnode
+101	AMSC
+102	Andfjord Salmon
+103	Angler Gaming
+104	Annehem Fastigheter
+105	Annexin
+106	Anora Group
+107	Anoto
+108	ANTCO Investment
+109	Apetit
+110	Apotea
+111	AppSpotr
+112	Aptahem
+113	AQ Group
+114	Aqua Bio Technology
+115	Aquaporin
+116	Aquaticus Real Estate
+117	Aquila
+118	Arbona A
+119	Archelon Natural
+120	Archer
+121	Arcoma
+122	Arctic Bioscience
+123	Arctic Blue Beverages
+124	Arctic Fish
+125	Arctic Minerals
+126	Arctic Paper
+127	ArcticZymes
+128	Arendals Fossekompani
+129	Argeo
+130	Arion Banki
+131	Arise Windpower
+132	Arjo
+133	Arla Plast
+134	Arlandastad
+135	AroCell
+136	Arribatec
+137	Ascelia Pharma
+138	Asetek
+139	Asker Healthcare
+140	Asmodee
+141	Aspo
+142	Aspocomp
+143	Assa Abloy
+144	AstraZeneca
+145	Asuntosalkku
+146	Atea
+147	Athanase Innovation
+148	Atlantic Petroleum
+149	Atlantic Sapphire
+150	Atlas Copco A
+151	Atlas Copco B
+152	Atria
+153	Atrium Ljungberg
+154	Attana
+155	Attendo
+156	Audientes
+157	Aurora Eiendom
+158	Aurskog Sparebank
+159	Austevoll Seafood
+160	Autoliv
+161	Automobiles & Parts
+162	Autostore
+163	Avance Gas
+164	Avanza Bank
+165	Avensia
+166	Avsalt Group
+167	Avtech
+168	Awardit
+169	Awilco Drilling
+170	Awilco LNG
+171	Axactor
+172	Axfood
+173	aXichem
+174	Axolot Solutions
+175	Ayfie
+176	B2 Impact
+177	B3 Consulting
+178	Backaheden
+179	Bactiguard
+180	BactiQuant
+181	Bahnhof
+182	Bakkafrost
+183	Balco Group
+184	Baltic Sea Properties
+185	Bambuser
+186	Bang & Olufsen
+187	Banks
+188	Barramundi
+189	Basic Resources
+190	Bavarian Nordic
+191	Bawat Water
+192	BE Group
+193	BeammWave
+194	Beijer Alma
+195	Beijer Ref
+196	Benchmark Holdings
+197	Beowulf Mining
+198	Bergen Carbon
+199	BerGenBio
+200	Bergman & Beving
+201	Berner Industrier
+202	Besqab
+203	Besqab Pref B
+204	Betolar
+205	Betsson
+206	Better Collective
+207	BEWi
+208	Beyond Frames
+209	BHG Group
+210	BiBBInstruments
+211	BICO Group
+212	Bien Sparebank
+213	Bilia
+214	Billerud
+215	BIMobject
+216	Binero Group
+217	Bio-Works
+218	BioArctic
+219	Bioextrax
+220	BioFish
+221	Biofrigas
+222	BioGaia
+223	Biohit
+224	Bioinvent
+225	BioPorto
+226	Bioretec
+227	Biosergen
+228	Biotage
+229	Biovica
+230	Bittium
+231	Björn Borg
+232	Black Sea Property
+233	Blick Global
+234	Bluelake Mineral
+235	Bluenord
+236	Bodyflight
+237	Boho Group
+238	Boho Group Pref
+239	Bokusgruppen
+240	Boliden
+241	BoMill
+242	Bonäsudden
+243	Bonava A
+244	Bonava B
+245	Bonesupport
+246	Bong Ljungdahl
+247	Bonheur
+248	Boozt
+249	Boreo
+250	Borgestad
+251	Borregaard
+252	Botnia Exploration
+253	Boule Diagnostics
+254	Bouvet
+255	BPC Instruments
+256	Brain+
+257	BrainCool
+258	BrandBee
+259	Bravida
+260	Brd. Klee
+261	Brdr. A&O Johansen
+262	Bredband2
+263	BrightBid
+264	Brilliant Future
+265	Brinova Fastigheter
+266	Briox
+267	Brock Milton Capital
+268	Brondbyernes IF
+269	Bruton
+270	BTS Group
+271	Bubbleroom
+272	Bufab
+273	Bulten
+274	Bure Equity
+275	BW Energy Limited
+276	BW LPG
+277	BW Offshore Limited
+278	Byggma
+279	Byggmästare AJ Ahlström
+280	Byggmax
+281	Byggpartner
+282	C-RAD
+283	Cadeler
+284	CAG Group
+285	Cambi
+286	Camurus
+287	Canatu
+288	Candles Scandinavia
+289	Cantargia
+290	CapMan
+291	Capsol Technologies
+292	Carasent
+293	Carbiotix
+294	Cardeon
+295	Careium
+296	Carlsberg A
+297	Carlsberg B
+298	Case Group
+299	Castellum
+300	Catella A
+301	Catella B
+302	Catena
+303	Catena Media
+304	Cavendish Hydrogen
+305	Cavotec
+306	cBrain
+307	CDON
+308	Cedergrenska
+309	Cell Impact
+310	CellaVision
+311	Cemat
+312	Cereno Scientific
+313	Cessatech
+314	ChargePanel
+315	checkin.com
+316	Cheffelo
+317	ChemoMetec
+318	ChemoTech
+319	Chordate Medical
+320	Chordate Medical Pref
+321	CHOSA Oncology
+322	Cibus Nordic
+323	Cinclus Pharma
+324	Cinis Fertilizer
+325	Cint Group
+326	CirChem
+327	Circio
+328	Circle Energy
+329	Citycon
+330	Clas Ohlson
+331	Clavister
+332	Clean Motion
+333	Clean Seas Seafood
+334	Clemondo
+335	Climeon
+336	Clinical Laserthermia
+337	Cloetta
+338	Cloudberry Clean Energy
+339	CodeLab Capital
+340	CodeMill
+341	Coegin Pharma
+342	CoinShares
+343	Coloplast
+344	Columbus
+345	CombiGene
+346	CombinedX
+347	Comintelli
+348	Compodium
+349	Componenta
+350	Concejo B
+351	Condo Nordic
+352	Consensus
+353	Constellation Oil
+354	Consti
+355	Construction & Materials
+356	Consumer Products
+357	Consumer Services
+358	ContextVision
+359	Cool Company
+360	Coor Service Management
+361	Copenhagen Capital
+362	Corem Property A
+363	Corem Property B
+364	Corem Property D
+365	Corem Property Pref
+366	Corline Biomedical
+367	Crayon Group
+368	Creades
+369	Creturner
+370	Crown Energy
+371	Crunchfish
+372	CTEK
+373	CTT Systems
+374	Curasight
+375	Cyber Security 1
+376	Cyclezyme
+377	Cyviz
+378	D/S Norden
+379	Dala Energi
+380	Dancann Pharma
+381	Danish Aerospace
+382	Danske Andelskassers
+383	Danske Bank
+384	Dantax
+385	Dataproces
+386	DecideAct
+387	Dedicare
+388	Deep Value Driller
+389	Demant
+390	Desenio
+391	Desert Control
+392	Detection
+393	DevPort
+394	Devyser Diagnostics
+395	DexTech Medical
+396	DFDS
+397	Diadrom
+398	Diagonal Bio
+399	Diamyd Medical
+400	Dicot Pharma
+401	Digia
+402	Digital Workforce
+403	Digitalist Group
+404	Dignitana
+405	Diös Fastigheter
+406	DistIT
+407	District Metals
+408	Dividend Sweden
+409	Divio Technologies
+410	Djurslands Bank
+411	Dlaboratory
+412	DNB Bank
+413	DNO
+414	DOF Group
+415	Dolphin Drilling
+416	Dometic
+417	Done.ai
+418	DonkeyRepublic
+419	Doro
+420	Double Bond Pharma
+421	Dovre
+422	Doxa
+423	Drillcon
+424	DSV
+425	Duell
+426	Dug Foodtech
+427	Duni
+428	Duroc
+429	Dustin Group
+430	Dynavox Group
+431	Eagle Filters
+432	EAM Solar
+433	Eastnine
+434	EasyFill
+435	EatGood
+436	Ecoclime
+437	ECOMB
+438	EcoRub
+439	EcoUp
+440	Edda Wind
+441	Edyoutec
+442	eEducation Albert
+443	Eevia Health
+444	Eezy
+445	Effnetplattformen
+446	Egetis Therapeutics
+447	EgnsINVEST
+448	Eidesvik Offshore
+449	Elanders
+450	Elecster
+451	Electricity
+452	Electrolux A
+453	Electrolux B
+454	Electrolux Professional B
+455	Electromagnetic Geoservices
+456	Electronic Equipment
+457	Elekta
+458	Elektroimportoren
+459	Elicera Therapeutics
+460	Elisa
+461	Elkem
+462	Ellen
+463	Elliptic Laboratories
+464	ELLWEE
+465	Elmera
+466	Elon
+467	Elopak
+468	Eltel
+469	EMB Mission Bound
+470	EmbeddedArt
+471	Embellence
+472	Embla Medical
+473	Embracer
+474	Enad Global 7
+475	Endomines Finland
+476	Endur
+477	Enea
+478	Enento
+479	Energeia
+480	Energy Save
+481	Enersense
+482	Enersize
+483	Engcon
+484	Eniro
+485	Ennogie Solar
+486	Enorama Pharma
+487	Enrad
+488	Ensurge Micropower
+489	Entra
+490	Envar
+491	Envipco
+492	Envirologic
+493	Enzymatica
+494	Eolus Vind
+495	Ependion
+496	Epiroc A
+497	Epiroc B
+498	Episurf Medical
+499	eQ Oyj
+500	EQL Pharma
+501	EQT
+502	Equinor
+503	EQVA
+504	Ericsson A
+505	Ericsson B
+506	Erria
+507	Essity A
+508	Essity B
+509	Etteplan
+510	Eurobattery Minerals
+511	Europris
+512	Everysport
+513	Evli
+514	Evolear
+515	Evolution
+516	eWork
+517	EXACT Therapeutics
+518	Exalt
+519	Exel Composites
+520	ExpreS2ion Biotech
+521	Exsitec
+522	Eyeon Group
+523	F-Secure
+524	Fabege
+525	Fable Media
+526	Fagerhult
+527	Faron Pharmaceuticals
+528	Fasadgruppen
+529	Fast Balder
+530	Fast Ejendom
+531	Fastator
+532	Fastighetsbolag Emilshus Pref
+533	Fastighetsbolaget Emilshus
+534	Fastpartner A
+535	Fastpartner D
+536	FastPassCorp
+537	Fenix Outdoor
+538	Ferroamp
+539	Ferronordic
+540	Fifax
+541	Finance & Credit Services
+542	Financial Services
+543	Finepart
+544	Fingerprint Cards
+545	Finnair
+546	Firefly
+547	First Nordic Metals
+548	First North All
+549	First Venture
+550	FirstFarms
+551	Fiskars
+552	Flat Capital
+553	Flekkefjord Sparebank
+554	Fleming Properties
+555	Flerie
+556	FLEX LNG
+557	Flexion Mobile
+558	Flexqube
+559	Flowscape
+560	FLSmidth & Co.
+561	Flugger
+562	Fluicell
+563	FluoGuide
+564	FM Mattsson
+565	Fodelia
+566	Fom Technologies
+567	Fondia
+568	Food & Beverage
+569	Food Producers
+570	Formpipe Software
+571	Foroya Banki
+572	Fortinova
+573	Fortnox
+574	Fortum
+575	Fractal Gaming
+576	Fragbite
+577	Fram Skandinavien
+578	Free2Move
+579	Freemelt
+580	Freetrailer
+581	Freja eID
+582	Frilans
+583	Front Ventures
+584	Frontline
+585	Frontwalker
+586	FSport
+587	FX International
+588	Fynske Bank
+589	G5 Entertainment
+590	Gabather
+591	Gabriel Holding
+592	Game Chest
+593	Gaming Corps
+594	Gapwaves
+595	Garo
+596	Garpco
+597	Gasporox
+598	General Industrials
+599	Generic Sweden
+600	Genetic Analysis
+601	Genmab
+602	Genova Property
+603	Genovis
+604	Gentian Diagnostics
+605	Gentoo Media
+606	German High Street
+607	Getinge
+608	GiG Software
+609	Gigante Salmon
+610	Gigasun
+611	Gjensidige Forsikring
+612	Glaston
+613	Glunz & Jensen
+614	Glycorex Transplantation
+615	GN Store Nord
+616	Gofore
+617	Gold Town Games
+618	Golden Energy Offshore
+619	Golden Ocean
+620	Gomero Group
+621	GomSpace
+622	Goobit Group
+623	Goodbye Kansas
+624	Goodtech
+625	Gosol Energy
+626	Gotlandsbolaget A
+627	Gotlandsbolaget B
+628	Gränges
+629	Grangex
+630	Greater Than
+631	Green Hydrogen
+632	Green Landscaping
+633	Green Minerals
+634	Greenmerc
+635	GreenMobility
+636	Grieg Seafood
+637	GRK Infra
+638	Grong Sparebank
+639	Grönlandsbanken
+640	Gruvaktiebolaget Viscaria
+641	Guard Therapeutics
+642	Gubra
+643	Guideline Geo
+644	Gullberg & Jansson
+645	Gyldendal
+646	Gyldendal A
+647	Gyldendal B
+648	H. Lundbeck A
+649	H. Lundbeck B
+650	H&D Wireless
+651	H100 Group
+652	Hafnia Limited
+653	HAKI Safety A
+654	HAKI Safety B
+655	Hamlet BioPharma
+656	Handelsbanken A
+657	Handelsbanken B
+658	Hansa Biopharma
+659	Hanza
+660	Harboes Bryggeri
+661	Harvia
+662	Haugesund Sparebank
+663	Hav Group
+664	Havila Kystruten
+665	Havila Shipping
+666	Havsfrun Investment
+667	Haypp Group
+668	Health Care Providers
+669	Heba
+670	Hedera
+671	Heeros
+672	Heimstaden Pref
+673	Heliospectra
+674	Hemnet
+675	Hemply Balance
+676	Hennes & Mauritz
+677	Herantis Pharma
+678	Hermana Holding
+679	Hernö Gin
+680	Hexagon
+681	Hexagon Composites
+682	Hexagon Purus
+683	Hexatronic
+684	Hexicon
+685	Hexpol
+686	HH International
+687	Hiab
+688	Hifab
+689	High Coast Distillery
+690	Hilbert Group
+691	Himalaya Shipping
+692	HKFoods
+693	HMS Networks
+694	Höegh Autoliners
+695	Hofseth BioCare
+696	Hoi Publishing
+697	Hoist Finance
+698	Holand Og Setskog Sparebank
+699	Holdflight
+700	Holmen A
+701	Holmen B
+702	HomeMaid
+703	Honkarakenne
+704	Hoodin
+705	Horisont Energi
+706	Hotel Fast
+707	Household Goods
+708	Hove
+709	HRC World
+710	Hubbster
+711	Hubso Group
+712	Huddlestock Fintech
+713	Huddly
+714	Hufvudstaden A
+715	Huhtamäki
+716	Humana
+717	Humble Group
+718	Hunter Capital
+719	Hunter Group
+720	HusCompagniet
+721	Husqvarna A
+722	Husqvarna B
+723	Hvidbjerg Bank
+724	Hybricon
+725	HydrogenPro
+726	Hynion
+727	I Love Lund
+728	I-Tech
+729	I.A.R Systems
+730	Icelandic Salmon
+731	Iconovo
+732	IDEX Biometrics
+733	Idun Industrier
+734	Igrene
+735	Ilkka 1
+736	Ilkka 2
+737	Image Systems
+738	Immunovia
+739	Impact Coatings
+740	Impero
+741	Implantica
+742	Incap
+743	InCoax Networks
+744	Inderes
+745	Induct
+746	Industrial Engineering
+747	Industrial Goods & Services
+748	Industrial Materials
+749	Industrial Metals & Mining
+750	Industrial Support Services
+751	Industrial Transportation
+752	Industrivärden A
+753	Industrivärden C
+754	Indutrade
+755	Infant Bacterial
+756	Infracom
+757	Infrea
+758	Inhalation Sciences
+759	Inify Laboratories
+760	ININ Group
+761	Inission
+762	Initiator Pharma
+763	Insplorion
+764	Instabank
+765	Instalco
+766	Insurance
+767	Intea Fastigheter B
+768	Intea Fastigheter D
+769	Integrated Wind
+770	Integrum
+771	Intellego Technologies
+772	International Petroleum
+773	InterOil Exploration
+774	Intervacc
+775	Intrum
+776	Invent Medic
+777	Investment Banking
+778	Investor A
+779	Investor B
+780	Investors House
+781	Invisio
+782	Inwido
+783	Irisity
+784	IRLAB Therapeutics
+785	Isofol Medical
+786	ISS
+787	ITAB Shop Concept
+788	Itera
+789	iZafe
+790	Jaeren Sparebank
+791	Jeudan
+792	Jinhui Shipping
+793	JLT Mobile
+794	JM
+795	Job Solution Sweden
+796	John Mattson
+797	JonDeTech Sensors
+798	Jumpgate
+799	Jyske Bank
+800	K-Fast Holding
+801	K2A
+802	K2A Knaust & Andersson Pref
+803	K33
+804	Kabe
+805	Kakel Max
+806	Kaldvik
+807	Kallebäck Property
+808	Kalmar
+809	Kambi
+810	Kamux
+811	Kancera
+812	Karnell Group
+813	Karnov
+814	Karolinska Development
+815	Katalysen Ventures
+816	KB Components
+817	KebNi
+818	Kemira
+819	Kempower
+820	Kentima
+821	Keskisuomalainen
+822	Kesko A
+823	Kesko B
+824	Kesla
+825	KH Group
+826	Kid
+827	Kiliaro
+828	Kinda Brave
+829	Kinnevik A
+830	Kinnevik B
+831	Kitron
+832	Kjell Group
+833	KlaraBo
+834	Klaria Pharma
+835	Klaveness Combination
+836	Klimator
+837	KMC Properties
+838	KnowIT
+839	Kobenhavns Lufthavne
+840	Kojamo
+841	Komplett
+842	KONE
+843	Konecranes
+844	Kongsberg Automotive
+845	Kongsberg Gruppen
+846	Konsolidator
+847	Kontigo Care
+848	Kopparbergs
+849	Koskisen
+850	Kraft Bank
+851	Kreate Group
+852	Kreditbanken
+853	Krona Public Real Estate
+854	Kvix
+855	Lagercrantz
+856	Lammhults Design
+857	Lamor
+858	Lån og Spar Bank
+859	Lappland Guldprospektering
+860	LapWall
+861	Lassila & Tikanoja
+862	Latour
+863	Latvian Forest
+864	Lea Bank
+865	LeadDesk
+866	Leading Edge Materials
+867	LED iBond
+868	Lehto Group
+869	Leisure Goods
+870	Lemonsoft
+871	Leroy Seafood
+872	Level Bio
+873	LIDDS
+874	Lifco
+875	Lifecare
+876	Lifeclean
+877	LightAir
+878	Lightning Group
+879	Lime Technologies
+880	Linc
+881	Lindab
+882	Lindex Group
+883	Link Mobility
+884	Link Prop
+885	Lipidor
+886	Lipigon Pharmaceuticals
+887	Lipum
+888	Litium
+889	Logistea A
+890	Logistea B
+891	Logistri
+892	Lohilo Foods
+893	Loihde
+894	Lokotech
+895	Lollands Bank
+896	Loomis
+897	Lovisagruvan
+898	Loyal Solutions
+899	Lucara Diamond
+900	LumenRadio
+901	Lumi Gruppen
+902	Lumito
+903	Lundbergföretagen
+904	Lundin Gold
+905	Lundin Mining
+906	Luxbright
+907	Luxor
+908	Lyckegård
+909	Lyko
+910	Lytix Biopharma
+911	M Vest Water
+912	MAG Interactive
+913	Magle Chemoswed
+914	Magnasense
+915	Magnora
+916	Maha Energy
+917	Mahvie Minerals
+918	Malmbergs Elektriska
+919	Mandatum
+920	Mangold
+921	Mantex
+922	MapsPeople
+923	Marimekko
+924	Martela
+925	Mashup Ireland
+926	Måsoval
+927	Matas
+928	MatvareExpressen
+929	Maven Wireless
+930	Mavshack
+931	Maximum Entertainment
+932	Mdundo.com
+933	MedCap
+934	Medclair
+935	Medhelp Care
+936	Media
+937	Mediacle
+938	Medical Equipment
+939	Medicover
+940	Medimi
+941	Medistim
+942	Medivir
+943	MEKO
+944	Melhus Sparebank
+945	Mendus
+946	Mentice
+947	Meriaura
+948	Merus Power
+949	Metacon
+950	Metsä Board A
+951	Metsä Board B
+952	Metso
+953	Micro Systemation
+954	Micropos Medical
+955	Midsona A
+956	Midsona B
+957	Midsummer
+958	Mildef Group
+959	MindArk
+960	Minesto
+961	Mips
+962	Miris
+963	MOBA Network
+964	Moberg Pharma
+965	Modelon
+966	Modern Times Group A
+967	Modern Times Group B
+968	Modulight
+969	Modus Therapeutics
+970	Mofast
+971	Moment Group
+972	Momentum Group
+973	Monivent
+974	Mons Bank
+975	Monsenso
+976	Moreld
+977	Morrow Bank
+978	Motion Display
+979	MoveByBike
+980	Movinn
+981	Mowi
+982	MPC Container Ships
+983	MPC Energy Solutions
+984	mResell
+985	MT Hojgaard B
+986	MTI Investment
+987	Multiconsult
+988	Munters
+989	Musti Group
+990	My Beat
+991	Mycronic
+992	mySafety
+993	Nanexa
+994	NanoCap
+995	NanoEcho
+996	Nanoform
+997	Nanologica
+998	Napatech
+999	Nattaro Labs
+1000	Navamedic
+1001	Navigo Invest
+1002	Navigo Invest Pref
+1003	NAXS
+1004	NCAB Group
+1005	NCC A
+1006	NCC B
+1007	Nederman
+1008	Nekkar
+1009	NEL
+1010	Nelly Group
+1011	Neobo Fastigheter
+1012	Neola Medical
+1013	Neovici Holding B
+1014	Nepa
+1015	Neste
+1016	Net Insight
+1017	Netcompany Group
+1018	Netel Holding
+1019	NetJobs
+1020	Netum
+1021	New Nordic Healthbrands
+1022	New Wave
+1023	Newbury Pharmaceuticals
+1024	NewCap Holding
+1025	Nexam Chemical
+1026	Nexar Group
+1027	Nexcom
+1028	Nexstim
+1029	NEXT Biometrics
+1030	NextCell Pharma
+1031	NFO Drives
+1032	NGS Group
+1033	NIBE Industrier
+1034	Nicoccino
+1035	Nidaros Sparebank
+1036	Nidhogg Resources
+1037	Nightingale Health
+1038	Nilfisk
+1039	Nilörngruppen
+1040	Nilsson Special Vehicles
+1041	Nimbus
+1042	Nitro Games
+1043	Niutech Group
+1044	Nivika Fastigheter
+1045	NKT Holding
+1046	NNIT
+1047	Nobia
+1048	Nodebis Applications
+1049	NoHo Partners
+1050	Nokia
+1051	Nokian Panimo
+1052	Nokian Renkaat
+1053	Nolato
+1054	Noram Drilling
+1055	Norbit
+1056	Norcod
+1057	Norconsult
+1058	Nord Insuretech
+1059	Nordea Bank
+1060	Nordfyns Bank
+1061	Nordhealth
+1062	Nordic Aqua Partners
+1063	Nordic Asia
+1064	Nordic Financials
+1065	Nordic Flanges
+1066	Nordic Halibut
+1067	Nordic Iron Ore
+1068	Nordic LEVEL
+1069	Nordic Mining
+1070	Nordic Paper
+1071	Nordic Semiconductor
+1072	Nordic Technology
+1073	Nordisk Bergteknik
+1074	Norditek
+1075	Nordnet
+1076	Nordrest
+1077	Norion Bank
+1078	Norrhydro
+1079	Norse Atlantic
+1080	Norsk Hydro
+1081	Norsk Titanium
+1082	Norske Skog
+1083	North Energy
+1084	North Media
+1085	Northbaze
+1086	Northern CapSek
+1087	Northern CapSek Pref
+1088	Northern Ocean
+1089	Northgold
+1090	Norva24
+1091	Norwegian Air Shuttle
+1092	Norwegian Block Exchange
+1093	Nosa Plugs
+1094	Nosium
+1095	NOTE
+1096	Novo Nordisk
+1097	Novonesis
+1098	Novotek
+1099	Novus
+1100	Nowonomics
+1101	NP3 Fastigheter
+1102	NP3 Fastigheter Pref
+1103	NRC Group
+1104	NTG Nordic Transport
+1105	NTR Holding
+1106	Nurminen Logistics
+1107	NYAB
+1108	Nyfosa
+1109	Nykode Therapeutics
+1110	OB Oslo All
+1111	OB Oslo Consumer
+1112	OB Oslo Financials
+1113	OB Oslo Health
+1114	OB Oslo Industrial
+1115	OB Oslo Oil&Gas
+1116	OB Oslo Staples
+1117	OB Oslo Technology
+1118	OB Oslo Utilities
+1119	Obducat
+1120	Obducat Pref
+1121	Observe Medical
+1122	Observit
+1123	OBX Oslo
+1124	Ocean GeoLoop
+1125	Ocean Sun
+1126	Odfjell A
+1127	Odfjell B
+1128	Odfjell Drilling
+1129	Odfjell Technology
+1130	ODI Pharma
+1131	Odinwell
+1132	OEM International
+1133	Ogunsen
+1134	Oil Gas & Coal
+1135	OKEA
+1136	Okeanis Eco Tankers
+1137	Olav Thon
+1138	Olvi
+1139	Oma Säästöpankki
+1140	OMDA
+1141	OMX Copenhagen 20
+1142	OMX Copenhagen 20 GI
+1143	OMX Copenhagen 25
+1144	OMX Copenhagen 25 GI
+1145	OMX Copenhagen GI
+1146	OMX Copenhagen PI
+1147	OMX Helsinki 15
+1148	OMX Helsinki 25
+1149	OMX Helsinki GI
+1150	OMX Helsinki PI
+1151	OMX Large Cap
+1152	OMX Mid Cap
+1153	OMX Nordic 40
+1154	OMX Small Cap
+1155	OMX Stockholm 30
+1156	OMX Stockholm 30 GI
+1157	OMX Stockholm 50 EW
+1158	OMX Stockholm 60
+1159	OMX Stockholm 60 GI
+1160	OMX Stockholm GI
+1161	OMX Stockholm PI
+1162	OMXC Financials
+1163	OMXC Goods
+1164	OMXC Health
+1165	OMXC Industrial
+1166	OMXC Oil&Gas
+1167	OMXC Sercives
+1168	OMXC Technology
+1169	OMXC Telecom
+1170	OMXC Utilities
+1171	OMXH Consumer
+1172	OMXH Financials
+1173	OMXH Health
+1174	OMXH Industrial
+1175	OMXH Materials
+1176	OMXH Oil&Gas
+1177	OMXH Services
+1178	OMXH Technology
+1179	OMXH Telecom
+1180	OMXH Utilities
+1181	OMXS Consumer Discretionary
+1182	OMXS Consumer Staples
+1183	OMXS Energy
+1184	OMXS Financials
+1185	OMXS Health Care
+1186	OMXS Industrials
+1187	OMXS Materials
+1188	OMXS Real Estate
+1189	OMXS Technology
+1190	OMXS Telecom
+1191	OMXS Utilities
+1192	Oncoinvent
+1193	Oncopeptides
+1194	OncoZenge
+1195	Oneflow
+1196	Online Brands Nordic
+1197	oodash Group
+1198	Opsy Holding
+1199	Opter
+1200	OptiCept Technologies
+1201	Optomed
+1202	Öresund
+1203	Orexo
+1204	OrganoClick
+1205	Oriola
+1206	Orion A
+1207	Orion B
+1208	Orkla
+1209	Orrön Energy
+1210	Orsted
+1211	Orthex
+1212	Ortivus A
+1213	Ortivus B
+1214	Ortoma
+1215	OSEBX Oslo
+1216	OssDsign
+1217	Ostasiatiske
+1218	Otello
+1219	Otovo
+1220	OurLiving
+1221	Outokumpu
+1222	Ovaro Kiinteistösijoitus
+1223	Ovzon
+1224	OXE Marine
+1225	Pallas Air
+1226	Pandora
+1227	Pandox
+1228	Panoro Energy
+1229	Panostaja
+1230	Papirfabrikken Invest
+1231	Paradox Interactive
+1232	Paratus Energy
+1233	Pareto Bank
+1234	Park Street
+1235	PARKEN Sport
+1236	Partnera
+1237	Paxman
+1238	PCI Biotech
+1239	Peab
+1240	Peptonic Medical
+1241	Per Aarsleff
+1242	Perpetua Medical
+1243	Personal Care
+1244	Personal Goods
+1245	Petrolia
+1246	PetroNor E&P
+1247	PExA
+1248	Pexip
+1249	Pharma Equity
+1250	Pharmaceuticals
+1251	PharmaLundensis
+1252	Phase Holographic
+1253	Philly Shipyard
+1254	Photocat
+1255	Photocure
+1256	Physitrack
+1257	Pierce Group
+1258	Pihlajalinna
+1259	Piippo
+1260	Pila Pharma
+1261	PION Group
+1262	Pioneer Property Pref
+1263	PixelFox
+1264	Platzer Fastigheter
+1265	Plejd
+1266	Pohjanmaan Arvo
+1267	PolarCool
+1268	Polaris Media
+1269	poLight
+1270	Polygiene
+1271	Polymer Factory
+1272	Ponsse 1
+1273	PowerCell
+1274	Prebona
+1275	Precio Fishbone
+1276	Precious Metals & Mining
+1277	Precise Biometrics
+1278	Precomp Solutions
+1279	Premium Snacks
+1280	Preservia Holding Pref
+1281	Preservia Hyresfastigheter
+1282	Preservia Pref
+1283	Preservium Property
+1284	Prevas
+1285	Pricer
+1286	Prime Office
+1287	Prisma Properties
+1288	Proact IT
+1289	ProfilGruppen
+1290	Profoto
+1291	Projektengagemang
+1292	Prolight Diagnostics
+1293	Promimic
+1294	Prosafe
+1295	ProstaLund
+1296	Prostatype Genomics
+1297	Protector
+1298	Provide IT
+1299	Proximar Seafood
+1300	Pryme
+1301	Public Property Invest
+1302	Purefun
+1303	Puuilo
+1304	Pyrum Innovations
+1305	Q-Interline
+1306	Q-Linea
+1307	QBank
+1308	Qben Infra
+1309	Qbrick
+1310	Qiiwi Games
+1311	QleanAir
+1312	QLife
+1313	Qliro
+1314	Qlosr Group
+1315	Qlucore
+1316	QPR Software
+1317	Qt Group
+1318	Qualisys
+1319	Questerre Energy
+1320	QuiaPEG Pharmaceuticals
+1321	Railcare
+1322	Railway Metrics & Dynamics
+1323	Raisio K
+1324	Raketech
+1325	Ramlösa Shipping
+1326	Rana Gruber
+1327	RanLOS
+1328	Ranplan
+1329	Rapala
+1330	Ratos A
+1331	Ratos B
+1332	Raute
+1333	RaySearch Laboratories
+1334	Raytelligence
+1335	Reach Subsea
+1336	Readly
+1337	Real Estate Investment
+1338	Real Fastigheter
+1339	Realfiction
+1340	Rebl Group
+1341	REC Silicon
+1342	Recyctec
+1343	Redsense Medical
+1344	Refine Group
+1345	ReFuels N.V.
+1346	Rejlers
+1347	Reka Industrial
+1348	Relais Group
+1349	Relevance Communication
+1350	Remedy Entertainment
+1351	Renewable Ventures
+1352	Rentunder
+1353	Respiratorius
+1354	Resurs Holding
+1355	Retail
+1356	Retailers
+1357	Revenio
+1358	Revolutionrace
+1359	Rias
+1360	RightBridge Ventures
+1361	Ringkjobing Landbobank
+1362	Risk Intelligence
+1363	RISMA Systems
+1364	River Tech
+1365	Robit
+1366	Roblon
+1367	Rockwool A
+1368	Rockwool B
+1369	Rogaland Sparebank
+1370	Röko
+1371	Rolling Optics
+1372	Romerike Sparebank
+1373	RomReal
+1374	Romsdal Sparebank
+1375	Rottneros
+1376	Rovsing
+1377	Royal UNIBREW
+1378	RTX
+1379	RugVista
+1380	Rusta
+1381	S.D. Standard ETC
+1382	S2Medical
+1383	Saab
+1384	Safe at Sea
+1385	Safe Lane Gaming
+1386	Safello Group
+1387	Safeture
+1388	Saga Furs
+1389	Saga Pure
+1390	Sagax A
+1391	Sagax B
+1392	Sagax D
+1393	SalMar
+1394	Salmon Evolution
+1395	SaltX Technology
+1396	Samhällsbyggnadsbolag B
+1397	Samhällsbyggnadsbolag D
+1398	Sampo
+1399	Samtrygg
+1400	Sandvik
+1401	Saniona
+1402	Sanoma
+1403	SARSYS
+1404	SATS
+1405	SaveLend
+1406	Saxlund
+1407	SCA A
+1408	SCA B
+1409	Scana
+1410	ScandBook
+1411	Scandi Standard
+1412	Scandic Hotels
+1413	ScandiDos
+1414	Scandinavian Astor
+1415	Scandinavian Enviro
+1416	Scandinavian Investment
+1417	Scandinavian Medical
+1418	Scandinavian Real Heart
+1419	Scandinavian Tobacco
+1420	Scandion Oncology
+1421	Scanfil
+1422	Scatec
+1423	Schibsted A
+1424	Schibsted B
+1425	Schouw & Co.
+1426	Scibase
+1427	Scout Gaming
+1428	Sdiptech
+1429	Sdiptech Pref
+1430	Sea1 Offshore
+1431	SeaBird Exploration
+1432	Seacrest Petroleo Bermuda
+1433	Seafire
+1434	Seamless Distribution Systems
+1435	SeaTwirl
+1436	SEB A
+1437	SEB C
+1438	SECITS Holding
+1439	Sectra
+1440	Securitas
+1441	Sedana Medical
+1442	SEHED Byggmästargruppen
+1443	Selvaag Bolig
+1444	SensoDetect
+1445	Sensys Gatso
+1446	SenzaGen
+1447	Senzime
+1448	Serstech
+1449	ShaMaran
+1450	Shape Robotics
+1451	Shelf Drilling
+1452	Shelf Drilling North Sea
+1453	SHT Smart High-Tech
+1454	Sibek
+1455	Siili Solutions
+1456	Sileon
+1457	Simris Alg
+1458	Sinch
+1459	SinterCast
+1460	Sitowise Group
+1461	Sivers Semiconductors
+1462	Sjöstrand Coffee
+1463	SKAKO
+1464	Skandia GreenPower
+1465	Skåne-möllan
+1466	Skanska
+1467	SKF A
+1468	SKF B
+1469	SkiStar
+1470	Skjern Bank
+1471	Skolon
+1472	Skue Sparebank
+1473	Sleep Cycle
+1474	Slottsviken B
+1475	Smart Eye
+1476	SmartCraft
+1477	Smartoptics
+1478	Smoltek
+1479	Sociallite US
+1480	Söder Sportfiske
+1481	SoftOx Solutions
+1482	Softronic
+1483	Software & Computer
+1484	Sogn Sparebank
+1485	Soiltech
+1486	Solar
+1487	Solar Foods
+1488	Solid Försäkring
+1489	SolidX
+1490	Solnaberg
+1491	Solstad Offshore
+1492	SolTech Energy
+1493	Solteq
+1494	Solwers
+1495	Sonetel
+1496	Sotkamo Silver
+1497	Sound Dimension
+1498	Sozap
+1499	SP Group
+1500	Spago Nanomedical
+1501	Spar Nord Bank
+1502	Sparebank 1 Helgeland
+1503	Sparebank 1 Nord-Norge
+1504	Sparebank 1 Nordmore
+1505	Sparebank 1 Ostfold Akershus
+1506	Sparebank 1 Ostlandet
+1507	Sparebank 1 Ringerike Hadeland
+1508	Sparebank 1 SMN
+1509	SpareBank 1 Sor-Norge
+1510	Sparebank 68 grader nord
+1511	Sparebanken More
+1512	Sparebanken Norge
+1513	Sparebanken Ost
+1514	Sparekassen Sjaelland-Fyn
+1515	SpectraCure
+1516	SpectrumOne
+1517	Spermosens
+1518	Sperrung
+1519	Spiffbet
+1520	Spiltan Invest
+1521	Spinnova
+1522	Spir Group
+1523	Spotlight Group
+1524	Spotlio
+1525	Springvest
+1526	Sprint Bioscience
+1527	SRV Group
+1528	SSAB A
+1529	SSAB B
+1530	SSH Communications
+1531	Stainless Tankers
+1532	Standard Supply
+1533	Star Vault
+1534	Starbreeze A
+1535	Starbreeze B
+1536	Stayble Therapeutics
+1537	Stendörren Fastigheter
+1538	Stenhus Fastigheter
+1539	Stenocare
+1540	Stille
+1541	Stillfront
+1542	Stockwik Förvaltning
+1543	Stolt-Nielsen
+1544	StoneBeach
+1545	Stora Enso A
+1546	Stora Enso R
+1547	Storebrand
+1548	Storskogen
+1549	Storytel
+1550	Strategic Investments
+1551	Strategic Partners
+1552	StrongPoint
+1553	Studentbostäder
+1554	Studsvik
+1555	Subsea7
+1556	Sunborn
+1557	Sunndal Sparebank
+1558	Suntrade
+1559	Suominen
+1560	Surgical Science
+1561	Sustainable Energy
+1562	Sustainion
+1563	Sveafastigheter
+1564	Svedbergs
+1565	Svenska Aerogel
+1566	Svitzer Group
+1567	Svolder A
+1568	Svolder B
+1569	Sweco A
+1570	Sweco B
+1571	Swedbank
+1572	Sweden BuyersClub
+1573	Swedencare
+1574	Swedish Logistic Property
+1575	Swedish Orphan Biovitrum
+1576	Swiss Properties Invest
+1577	Sydbank
+1578	Sydsvenska Hem
+1579	SynAct Pharma
+1580	Syncro
+1581	Synsam
+1582	SyntheticMR
+1583	Systemair
+1584	Taaleri
+1585	TagMaster
+1586	Talenom
+1587	Talkpool
+1588	Tallink Grupp
+1589	Tamtron
+1590	Tangiamo Touch
+1591	TCECUR
+1592	TCM Group
+1593	Technology Hardware
+1594	Techstep
+1595	Tecnotree
+1596	Tekna Holding
+1597	Tekova
+1598	Tele2 A
+1599	Tele2 B
+1600	Telecom Equipment
+1601	Telecom Service Providers
+1602	Telenor
+1603	Teleste
+1604	Telia Company
+1605	Tellusgruppen
+1606	Tempest Security
+1607	Tendo
+1608	Teneo AI
+1609	Teqnion
+1610	TerraNet
+1611	Terveystalo
+1612	Tessin Nordic
+1613	TF Bank
+1614	TGS
+1615	TH1NG
+1616	The Kingfish Company
+1617	Thinc
+1618	Thor Medical
+1619	Thule
+1620	Thunderful
+1621	TietoEVRY
+1622	Time People Group
+1623	Tingsvalvet A
+1624	Tingsvalvet B
+1625	Tingsvalvet Pref
+1626	Titania
+1627	Titanium
+1628	Tivoli
+1629	Tobii
+1630	Toivo Group
+1631	Tokmanni Group
+1632	Toleranzia
+1633	Tomra Systems
+1634	TopRight Nordic
+1635	TORM
+1636	Touchtech
+1637	Tourn
+1638	Traction
+1639	TradeDoubler
+1640	Train Alliance
+1641	Trainers House
+1642	Trainimal
+1643	Transfer Group
+1644	Transferator A
+1645	Transferator B
+1646	Transiro
+1647	Transtema
+1648	Traton
+1649	Travel & Leisure
+1650	Treasure
+1651	Trelleborg
+1652	Trianon
+1653	Triboron
+1654	Trifork
+1655	Triona
+1656	Troax Group
+1657	Trondelag Sparebank
+1658	Trophy Games
+1659	Truecaller
+1660	Tryg
+1661	Tulikivi
+1662	Tura Group
+1663	Tysnes Sparebank
+1664	UIE
+1665	Umida
+1666	Unibap
+1667	United Bankers
+1668	Unlimit Group
+1669	Unlimited Travel Group
+1670	Upgrade Invest Nordic
+1671	UPM-Kymmene
+1672	Upsales
+1673	USWE Sports
+1674	Vaisala
+1675	Valmet
+1676	Valuno Group
+1677	Vantage Drilling
+1678	Vår Energi
+1679	Västra Hamnen
+1680	Vaxxa
+1681	VBG Group
+1682	VEF
+1683	Veidekke
+1684	Ventura Offshore
+1685	Verkkokauppa.com
+1686	Vertiseit
+1687	Verve Group
+1688	Vestas Wind Systems
+1689	Vestjysk Bank
+1690	Vestum
+1691	Veteranpoolen
+1692	Viafin Service
+1693	Viaplay A
+1694	Viaplay B
+1695	Vibrosense Dynamics
+1696	Vicore Pharma
+1697	Vidhance
+1698	Viking Line
+1699	Viking Supply
+1700	Vimab Group
+1701	Vimian Group
+1702	Vincit
+1703	ViroGates
+1704	Vistin Pharma
+1705	Vitec Software
+1706	Vitrolife
+1707	Viva Wine
+1708	Vivesto
+1709	VNV Global
+1710	Vo2 Cap
+1711	Volati
+1712	Volati Pref
+1713	Volvo A
+1714	Volvo B
+1715	Volvo Car
+1716	Voss Veksel Landmandsbank
+1717	Vow
+1718	Vow Green Metals
+1719	Vultus
+1720	W5 Solutions
+1721	Wall to Wall
+1722	Wallenius Wilhelmsen
+1723	Wallenstam
+1724	Wärtsilä
+1725	Wästbygg
+1726	Waystream
+1727	Webrock Ventures
+1728	Webstep
+1729	Western Bulk Chartering
+1730	Westpay
+1731	Wetteri
+1732	White Pearl Technology
+1733	Wihlborgs Fastigheter
+1734	Wilh. Wilhelmsen A
+1735	Wilh. Wilhelmsen B
+1736	Windon
+1737	WindowMaster
+1738	WIRTEK
+1739	Wise Group
+1740	WithSecure
+1741	Witted Megacorp
+1742	Wonderboo
+1743	Wonderful Times
+1744	Wulff-Yhtiöt
+1745	Wyld Networks
+1746	XANO Industri
+1747	Xbrane Biopharma
+1748	Xintela
+1749	XMReality
+1750	Xoma
+1751	XP Chemistries
+1752	Xplora Technologies
+1753	Xspray Pharma
+1754	Xvivo Perfusion
+1755	XXL
+1756	Yara International
+1757	YIT Corporation
+1758	Yubico
+1759	Zalaris
+1760	Zaplox
+1761	Zaptec
+1762	Zealand Pharma
+1763	Zelluna
+1764	Zenergy
+1765	Zenicor Medical
+1766	Zenith Energy
+1767	Zinzino
+1768	Zoomability
+1769	BioInvent
+1770	engcon
+1771	Eolus

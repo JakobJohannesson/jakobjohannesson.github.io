@@ -1,0 +1,35 @@
+name: Fetch Podcasts
+
+on:
+  schedule:
+    - cron: '0 */2 * * 4'  # Every 2 hours on Thursdays
+  workflow_dispatch:         # Allow manual trigger
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  fetch-podcasts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Authenticate to Google Cloud
+        uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.GCP_SA_KEY }}
+
+      - name: Set up Cloud SDK
+        uses: google-github-actions/setup-gcloud@v2
+
+      - name: Download new podcast episodes
+        run: python scripts/podcast_downloader.py

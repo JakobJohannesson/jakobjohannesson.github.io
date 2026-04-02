@@ -128,3 +128,516 @@ attribute_id	attribute_name	attribute_description	standard_unit	frequency	sectio
 127	Övriga immateriella anläggningstillgångar	Övriga immateriella anläggningstillgångar	MSEK	quarterly	balansräkning	Immateriella tillgångar
 128	Övriga skulder (kort)	Övriga kortfristiga skulder	MSEK	quarterly	balansräkning	
 129	Övriga skulder (lång)	Övriga långfristiga skulder (ej räntebärande)	MSEK	quarterly	balansräkning	
+130	Scope 3 - Pendling	Scope 3 Cat 7: Employee commuting	ton CO2e	annual	utsläpp	
+131	Scope 3 - Användning av sålda produkter	Scope 3 Cat 11: Use of sold products	ton CO2e	annual	utsläpp	
+132	Scope 3 - Avfallshantering	Scope 3 Cat 5: Waste generated in operations	ton CO2e	annual	utsläpp	
+133	Scope 3 - Kapitalvaror	Scope 3 Cat 2: Capital goods	ton CO2e	annual	utsläpp	
+134	Taxonomi - andel eligible intäkter	EU Taxonomy eligible revenue share	%	annual	taxonomi	
+135	Taxonomi - andel aligned intäkter	EU Taxonomy aligned revenue share	%	annual	taxonomi	
+136	Taxonomi - andel eligible capex	EU Taxonomy eligible capex share	%	annual	taxonomi	
+137	Taxonomi - andel aligned capex	EU Taxonomy aligned capex share	%	annual	taxonomi	
+138	Taxonomi - andel eligible opex	EU Taxonomy eligible opex share	%	annual	taxonomi	
+139	Taxonomi - andel aligned opex	EU Taxonomy aligned opex share	%	annual	taxonomi	
+140	Vattenförbrukning	Total water consumption	m3	annual	miljö	
+141	Färskvattenförbrukning	Fresh water consumption	m3	annual	miljö	
+142	Farligt avfall	Hazardous waste	ton	annual	miljö	
+143	Icke-farligt avfall	Non-hazardous waste	ton	annual	miljö	
+144	Energiförbrukning	Total energy consumption	MWh	annual	miljö	
+145	Andel förnybar energi	Share of renewable energy	%	annual	miljö	
+146	Nettoomsättning per segment	Revenue breakdown by segment	MSEK	annual	segment	
+147	Nettoomsättning per geografi	Revenue breakdown by geography	MSEK	annual	geografi	
+148	Scope 1	Scope 1		annual	unknown	
+149	Scope 2 (location-based)	Scope 2 (location-based)		annual	unknown	
+150	Scope 2 (market-based)	Scope 2 (market-based)		annual	unknown	
+151	Scope 1+2 (market-based)	Scope 1+2 (market-based)		annual	unknown	
+152	Taxonomy eligible revenue	Taxonomy eligible revenue		annual	unknown	
+153	Taxonomy aligned revenue	Taxonomy aligned revenue		annual	unknown	
+154	Taxonomy eligible capex	Taxonomy eligible capex		annual	unknown	
+155	Taxonomy aligned capex	Taxonomy aligned capex		annual	unknown	
+156	Taxonomy eligible opex	Taxonomy eligible opex		annual	unknown	
+157	Taxonomy aligned opex	Taxonomy aligned opex		annual	unknown	
+158	Total energy consumption	Total energy consumption		annual	unknown	
+159	Total waste	Total waste		annual	unknown	
+160	Hazardous waste	Hazardous waste		annual	unknown	
+161	Non-hazardous waste	Non-hazardous waste		annual	unknown	
+162	Revenue Sweden & Poland	Revenue Sweden & Poland		annual	unknown	
+163	Revenue Finland & Baltics	Revenue Finland & Baltics		annual	unknown	
+164	Revenue Inventory sales	Revenue Inventory sales		annual	unknown	
+165	Revenue Production service sales	Revenue Production service sales		annual	unknown	
+166	Revenue Direct sales	Revenue Direct sales		annual	unknown	
+167	Net sales	Net sales		annual	unknown	
+168	Research and development costs	Research and development costs		annual	unknown	
+169	Sales and administrative costs	Sales and administrative costs		annual	unknown	
+170	Other operating revenue	Other operating revenue		annual	unknown	
+171	Total operating costs	Total operating costs		annual	unknown	
+172	Operating loss (Rorelseresultat)	Operating loss (Rorelseresultat)		annual	unknown	
+173	Net financial items (Finansnetto)	Net financial items (Finansnetto)		annual	unknown	
+174	Financial income	Financial income		annual	unknown	
+175	Financial expenses	Financial expenses		annual	unknown	
+176	Loss before tax (Resultat fore skatt)	Loss before tax (Resultat fore skatt)		annual	unknown	
+177	Tax (Skatt)	Tax (Skatt)		annual	unknown	
+178	Loss for the year (Resultat efter skatt)	Loss for the year (Resultat efter skatt)		annual	unknown	
+179	Intangible fixed assets	Intangible fixed assets		annual	unknown	
+180	Tangible fixed assets	Tangible fixed assets		annual	unknown	
+181	Financial fixed assets - long-term investments	Financial fixed assets - long-term investments		annual	unknown	
+182	Total fixed assets	Total fixed assets		annual	unknown	
+183	Inventories	Inventories		annual	unknown	
+184	Current receivables	Current receivables		annual	unknown	
+185	Liquid funds and current investments	Liquid funds and current investments		annual	unknown	
+186	Total assets	Total assets		annual	unknown	
+187	Shareholders equity	Shareholders equity		annual	unknown	
+188	Non-interest-bearing liabilities	Non-interest-bearing liabilities		annual	unknown	
+189	Interest-bearing liabilities	Interest-bearing liabilities		annual	unknown	
+190	Total shareholders equity and liabilities	Total shareholders equity and liabilities		annual	unknown	
+191	Cash flow from operating activities	Cash flow from operating activities		annual	unknown	
+192	Cash flow from investment activities	Cash flow from investment activities		annual	unknown	
+193	Cash flow from current operations and investment activities	Cash flow from current operations and investment activities		annual	unknown	
+194	Cash flow from financing activities	Cash flow from financing activities		annual	unknown	
+195	Change in liquid funds	Change in liquid funds		annual	unknown	
+196	Equity/assets ratio (%)	Equity/assets ratio (%)		annual	unknown	
+197	Average number of employees (FTE)	Average number of employees (FTE)		annual	unknown	
+198	Earnings per share before dilution (SEK)	Earnings per share before dilution (SEK)		annual	unknown	
+199	Earnings per share after dilution (SEK)	Earnings per share after dilution (SEK)		annual	unknown	
+200	Number of shares before dilution (thousands)	Number of shares before dilution (thousands)		annual	unknown	
+201	Hyresintäkter	Hyresintäkter		annual	unknown	
+202	Driftkostnader	Driftkostnader		annual	unknown	
+203	Driftnetto	Driftnetto		annual	unknown	
+204	Centrala administrationskostnader	Centrala administrationskostnader		annual	unknown	
+205	Intäkter från intresseföretag och JV	Intäkter från intresseföretag och JV		annual	unknown	
+206	Ränteintäkter	Ränteintäkter		annual	unknown	
+207	Räntekostnader	Räntekostnader		annual	unknown	
+208	Tomträttsavgäld	Tomträttsavgäld		annual	unknown	
+209	Förvaltningsresultat	Förvaltningsresultat		annual	unknown	
+210	Värdeförändringar fastigheter	Värdeförändringar fastigheter		annual	unknown	
+211	Värdeförändringar finansiella innehav	Värdeförändringar finansiella innehav		annual	unknown	
+212	Värdeförändringar goodwill	Värdeförändringar goodwill		annual	unknown	
+213	Värdeförändringar derivat	Värdeförändringar derivat		annual	unknown	
+214	Aktuell skatt	Aktuell skatt		annual	unknown	
+215	Uppskjuten skatt	Uppskjuten skatt		annual	unknown	
+216	Förvaltningsfastigheter	Förvaltningsfastigheter		annual	unknown	
+217	Andelar i intresseföretag och JV	Andelar i intresseföretag och JV		annual	unknown	
+218	Derivat (anläggningstillgång)	Derivat (anläggningstillgång)		annual	unknown	
+219	Övriga anläggningstillgångar	Övriga anläggningstillgångar		annual	unknown	
+220	Långfristiga skulder	Långfristiga skulder		annual	unknown	
+221	Kortfristiga skulder	Kortfristiga skulder		annual	unknown	
+222	Summa skulder	Summa skulder		annual	unknown	
+223	Kassaflöde från löpande verksamhet	Kassaflöde från löpande verksamhet		annual	unknown	
+224	Kassaflöde från investeringsverksamhet	Kassaflöde från investeringsverksamhet		annual	unknown	
+225	Kassaflöde från finansieringsverksamhet	Kassaflöde från finansieringsverksamhet		annual	unknown	
+226	Årets kassaflöde	Årets kassaflöde		annual	unknown	
+227	Soliditet (eget kapital / totala tillgångar)	Soliditet (eget kapital / totala tillgångar)		annual	unknown	
+228	Belåningsgrad (LTV)	Belåningsgrad (LTV)		annual	unknown	
+229	Räntetäckningsgrad	Räntetäckningsgrad		annual	unknown	
+230	Avkastning eget kapital	Avkastning eget kapital		annual	unknown	
+231	Avkastning totalt kapital	Avkastning totalt kapital		annual	unknown	
+232	EPRA EPS	EPRA EPS		annual	unknown	
+233	EPRA NRV per aktie	EPRA NRV per aktie		annual	unknown	
+234	Överskottsgrad	Överskottsgrad		annual	unknown	
+235	Ekonomisk uthyrningsgrad	Ekonomisk uthyrningsgrad		annual	unknown	
+236	Scope 3.1 Inköpta varor och tjänster	Scope 3.1 Inköpta varor och tjänster		annual	unknown	
+237	Scope 3.2 Kapitalvaror	Scope 3.2 Kapitalvaror		annual	unknown	
+238	Scope 3.3 Bränsle- och energirelaterade aktiviteter	Scope 3.3 Bränsle- och energirelaterade aktiviteter		annual	unknown	
+239	Scope 3.4 Uppströms transport och distribution	Scope 3.4 Uppströms transport och distribution		annual	unknown	
+240	Scope 3.5 Avfall i verksamheten	Scope 3.5 Avfall i verksamheten		annual	unknown	
+241	Scope 3.6 Tjänsteresor	Scope 3.6 Tjänsteresor		annual	unknown	
+242	Scope 3.7 Anställdas pendling	Scope 3.7 Anställdas pendling		annual	unknown	
+243	Scope 3.13 Nedströms leasade tillgångar	Scope 3.13 Nedströms leasade tillgångar		annual	unknown	
+244	Scope 3.15 Investeringar	Scope 3.15 Investeringar		annual	unknown	
+245	Totala växthusgasutsläpp (platsbaserad)	Totala växthusgasutsläpp (platsbaserad)		annual	unknown	
+246	Totala växthusgasutsläpp (marknadsbaserad)	Totala växthusgasutsläpp (marknadsbaserad)		annual	unknown	
+247	Energiförbrukning totalt	Energiförbrukning totalt		annual	unknown	
+248	Energiintensitet (normaliserad)	Energiintensitet (normaliserad)		annual	unknown	
+249	Totalt avfall	Totalt avfall		annual	unknown	
+250	Segment - Stockholm intäkter	Segment - Stockholm intäkter		annual	unknown	
+251	Segment - West intäkter	Segment - West intäkter		annual	unknown	
+252	Segment - Central intäkter	Segment - Central intäkter		annual	unknown	
+253	Segment - Mälardalen intäkter	Segment - Mälardalen intäkter		annual	unknown	
+254	Segment - Öresund intäkter	Segment - Öresund intäkter		annual	unknown	
+255	Segment - Finland intäkter	Segment - Finland intäkter		annual	unknown	
+256	Segment - Coworking intäkter	Segment - Coworking intäkter		annual	unknown	
+257	Rörelseresultat (EBIT)	Rörelseresultat (EBIT)		annual	unknown	
+258	Resultat per aktie (före utspädning)	Resultat per aktie (före utspädning)		annual	unknown	
+259	Resultat per aktie (efter utspädning)	Resultat per aktie (efter utspädning)		annual	unknown	
+260	Antal anställda (inkl konsulter FTE)	Antal anställda (inkl konsulter FTE)		annual	unknown	
+261	Rörelsemarginal (EBIT)	Rörelsemarginal (EBIT)		annual	unknown	
+262	EBITA-marginal	EBITA-marginal		annual	unknown	
+263	Scope 3	Scope 3		annual	unknown	
+264	Scope 3 - Data Centers (AWS)	Scope 3 - Data Centers (AWS)		annual	unknown	
+265	Scope 3 - Purchased hardware	Scope 3 - Purchased hardware		annual	unknown	
+266	Scope 3 - Business Travel	Scope 3 - Business Travel		annual	unknown	
+267	Total GHG Emissions (location-based)	Total GHG Emissions (location-based)		annual	unknown	
+268	GHG Intensity per Total Net Revenue	GHG Intensity per Total Net Revenue		annual	unknown	
+269	Taxonomy eligible CapEx	Taxonomy eligible CapEx		annual	unknown	
+270	Taxonomy aligned CapEx	Taxonomy aligned CapEx		annual	unknown	
+271	Taxonomy eligible OpEx	Taxonomy eligible OpEx		annual	unknown	
+272	Taxonomy aligned OpEx	Taxonomy aligned OpEx		annual	unknown	
+273	Taxonomy Total Turnover	Taxonomy Total Turnover		annual	unknown	
+274	Taxonomy Total CapEx	Taxonomy Total CapEx		annual	unknown	
+275	Taxonomy Total OpEx	Taxonomy Total OpEx		annual	unknown	
+276	Energy consumption	Energy consumption		annual	unknown	
+277	Energy from renewable sources	Energy from renewable sources		annual	unknown	
+278	Energy from non-renewable sources	Energy from non-renewable sources		annual	unknown	
+279	Revenue - Americas	Revenue - Americas		annual	unknown	
+280	Revenue - EMEA	Revenue - EMEA		annual	unknown	
+281	Revenue - APAC	Revenue - APAC		annual	unknown	
+282	Revenue - Cint Exchange	Revenue - Cint Exchange		annual	unknown	
+283	Revenue - Media Measurement	Revenue - Media Measurement		annual	unknown	
+284	Förändring i lager	Förändring i lager		annual	unknown	
+285	Egen arbete kapitaliserat	Egen arbete kapitaliserat		annual	unknown	
+286	Övriga rörelseintäkter	Övriga rörelseintäkter		annual	unknown	
+287	Summa rörelseintäkter	Summa rörelseintäkter		annual	unknown	
+288	Råvaror och förnödenheter	Råvaror och förnödenheter		annual	unknown	
+289	Övriga externa kostnader	Övriga externa kostnader		annual	unknown	
+290	Personalkostnader	Personalkostnader		annual	unknown	
+291	Avskrivningar	Avskrivningar		annual	unknown	
+292	Övriga rörelsekostnader	Övriga rörelsekostnader		annual	unknown	
+293	Summa rörelsekostnader	Summa rörelsekostnader		annual	unknown	
+294	Ränteintäkter och liknande	Ränteintäkter och liknande		annual	unknown	
+295	Räntekostnader och liknande	Räntekostnader och liknande		annual	unknown	
+296	Totalresultat	Totalresultat		annual	unknown	
+297	BALANCE_SHEET_Immateriella tillgångar	BALANCE_SHEET_Immateriella tillgångar		annual	unknown	
+298	BALANCE_SHEET_Materiella anläggningstillgångar	BALANCE_SHEET_Materiella anläggningstillgångar		annual	unknown	
+299	BALANCE_SHEET_Finansiella anläggningstillgångar	BALANCE_SHEET_Finansiella anläggningstillgångar		annual	unknown	
+300	BALANCE_SHEET_Summa anläggningstillgångar	BALANCE_SHEET_Summa anläggningstillgångar		annual	unknown	
+301	BALANCE_SHEET_Varulager	BALANCE_SHEET_Varulager		annual	unknown	
+302	BALANCE_SHEET_Kortfristiga fordringar	BALANCE_SHEET_Kortfristiga fordringar		annual	unknown	
+303	BALANCE_SHEET_Kassa och bank	BALANCE_SHEET_Kassa och bank		annual	unknown	
+304	BALANCE_SHEET_Summa omsättningstillgångar	BALANCE_SHEET_Summa omsättningstillgångar		annual	unknown	
+305	BALANCE_SHEET_Summa tillgångar	BALANCE_SHEET_Summa tillgångar		annual	unknown	
+306	BALANCE_SHEET_Eget kapital	BALANCE_SHEET_Eget kapital		annual	unknown	
+307	BALANCE_SHEET_Bundet eget kapital	BALANCE_SHEET_Bundet eget kapital		annual	unknown	
+308	BALANCE_SHEET_Fritt eget kapital	BALANCE_SHEET_Fritt eget kapital		annual	unknown	
+309	BALANCE_SHEET_Avsättningar	BALANCE_SHEET_Avsättningar		annual	unknown	
+310	BALANCE_SHEET_Långfristiga skulder	BALANCE_SHEET_Långfristiga skulder		annual	unknown	
+311	BALANCE_SHEET_Kortfristiga skulder	BALANCE_SHEET_Kortfristiga skulder		annual	unknown	
+312	BALANCE_SHEET_Summa eget kapital och skulder	BALANCE_SHEET_Summa eget kapital och skulder		annual	unknown	
+313	BALANCE_SHEET_Aktiekapital	BALANCE_SHEET_Aktiekapital		annual	unknown	
+314	BALANCE_SHEET_Bundna reserver	BALANCE_SHEET_Bundna reserver		annual	unknown	
+315	BALANCE_SHEET_Balanserat resultat	BALANCE_SHEET_Balanserat resultat		annual	unknown	
+316	BALANCE_SHEET_Årets resultat	BALANCE_SHEET_Årets resultat		annual	unknown	
+317	BALANCE_SHEET_Räntebärande skulder kreditinstitut (kortfristig)	BALANCE_SHEET_Räntebärande skulder kreditinstitut (kortfristig)		annual	unknown	
+318	BALANCE_SHEET_Leverantörsskulder	BALANCE_SHEET_Leverantörsskulder		annual	unknown	
+319	BALANCE_SHEET_Upplupna kostnader och förutbetalda intäkter	BALANCE_SHEET_Upplupna kostnader och förutbetalda intäkter		annual	unknown	
+320	CASHFLOW_Kassaflöde före förändringar i rörelsekapital	CASHFLOW_Kassaflöde före förändringar i rörelsekapital		annual	unknown	
+321	CASHFLOW_Förändring rörelsekapital	CASHFLOW_Förändring rörelsekapital		annual	unknown	
+322	CASHFLOW_Kassaflöde från den löpande verksamheten	CASHFLOW_Kassaflöde från den löpande verksamheten		annual	unknown	
+323	CASHFLOW_Kassaflöde från investeringsverksamheten	CASHFLOW_Kassaflöde från investeringsverksamheten		annual	unknown	
+324	CASHFLOW_Kassaflöde från finansieringsverksamheten	CASHFLOW_Kassaflöde från finansieringsverksamheten		annual	unknown	
+325	CASHFLOW_Årets kassaflöde	CASHFLOW_Årets kassaflöde		annual	unknown	
+326	CASHFLOW_Likvida medel vid årets slut	CASHFLOW_Likvida medel vid årets slut		annual	unknown	
+327	CASHFLOW_Amortering av lån	CASHFLOW_Amortering av lån		annual	unknown	
+328	CASHFLOW_Utbetald utdelning	CASHFLOW_Utbetald utdelning		annual	unknown	
+329	KEY_Resultat per aktie (SEK)	KEY_Resultat per aktie (SEK)		annual	unknown	
+330	KEY_Eget kapital per aktie (SEK)	KEY_Eget kapital per aktie (SEK)		annual	unknown	
+331	KEY_Utdelning per aktie (SEK)	KEY_Utdelning per aktie (SEK)		annual	unknown	
+332	KEY_Kassaflöde per aktie (SEK)	KEY_Kassaflöde per aktie (SEK)		annual	unknown	
+333	KEY_Antal aktier	KEY_Antal aktier		annual	unknown	
+334	KEY_Antal anställda (medeltal)	KEY_Antal anställda (medeltal)		annual	unknown	
+335	KEY_Antal anställda (vid årets slut)	KEY_Antal anställda (vid årets slut)		annual	unknown	
+336	KEY_Soliditet (%)	KEY_Soliditet (%)		annual	unknown	
+337	KEY_Rörelsemarginal (%)	KEY_Rörelsemarginal (%)		annual	unknown	
+338	KEY_Vinstmarginal (%)	KEY_Vinstmarginal (%)		annual	unknown	
+339	KEY_Avkastning på eget kapital (%)	KEY_Avkastning på eget kapital (%)		annual	unknown	
+340	KEY_Avkastning på sysselsatt kapital (%)	KEY_Avkastning på sysselsatt kapital (%)		annual	unknown	
+341	KEY_Avkastning på totalt kapital (%)	KEY_Avkastning på totalt kapital (%)		annual	unknown	
+342	KEY_Räntetäckningsgrad (ggr)	KEY_Räntetäckningsgrad (ggr)		annual	unknown	
+343	KEY_Skuldsättningsgrad (ggr)	KEY_Skuldsättningsgrad (ggr)		annual	unknown	
+344	KEY_Kassalikviditet (%)	KEY_Kassalikviditet (%)		annual	unknown	
+345	KEY_Intäkt per anställd (MSEK)	KEY_Intäkt per anställd (MSEK)		annual	unknown	
+346	KEY_Löner (MSEK)	KEY_Löner (MSEK)		annual	unknown	
+347	KEY_Investeringar (MSEK)	KEY_Investeringar (MSEK)		annual	unknown	
+348	KEY_Aktiekurs balansdag (SEK)	KEY_Aktiekurs balansdag (SEK)		annual	unknown	
+349	KEY_Nettoskuld (MSEK)	KEY_Nettoskuld (MSEK)		annual	unknown	
+350	KEY_Börsvärde (MSEK)	KEY_Börsvärde (MSEK)		annual	unknown	
+351	SEGMENT_OEM_Nettoomsättning	SEGMENT_OEM_Nettoomsättning		annual	unknown	
+352	SEGMENT_Retrofit_Nettoomsättning	SEGMENT_Retrofit_Nettoomsättning		annual	unknown	
+353	SEGMENT_PrivateJet_Nettoomsättning	SEGMENT_PrivateJet_Nettoomsättning		annual	unknown	
+354	SEGMENT_SystemSales_Total	SEGMENT_SystemSales_Total		annual	unknown	
+355	SEGMENT_Aftermarket_Nettoomsättning	SEGMENT_Aftermarket_Nettoomsättning		annual	unknown	
+356	SEGMENT_OtherSales_Nettoomsättning	SEGMENT_OtherSales_Nettoomsättning		annual	unknown	
+357	SEGMENT_GEO_Denmark	SEGMENT_GEO_Denmark		annual	unknown	
+358	SEGMENT_GEO_USA	SEGMENT_GEO_USA		annual	unknown	
+359	SEGMENT_GEO_France	SEGMENT_GEO_France		annual	unknown	
+360	SEGMENT_GEO_Sweden	SEGMENT_GEO_Sweden		annual	unknown	
+361	SEGMENT_GEO_RestOfWorld	SEGMENT_GEO_RestOfWorld		annual	unknown	
+362	FIVE_YEAR_IS_Operating income	FIVE_YEAR_IS_Operating income		annual	unknown	
+363	FIVE_YEAR_IS_Operating expenses excl depreciation	FIVE_YEAR_IS_Operating expenses excl depreciation		annual	unknown	
+364	FIVE_YEAR_IS_Depreciation	FIVE_YEAR_IS_Depreciation		annual	unknown	
+365	FIVE_YEAR_IS_Operating profit (EBIT)	FIVE_YEAR_IS_Operating profit (EBIT)		annual	unknown	
+366	FIVE_YEAR_IS_Finance income	FIVE_YEAR_IS_Finance income		annual	unknown	
+367	FIVE_YEAR_IS_Financial expenses	FIVE_YEAR_IS_Financial expenses		annual	unknown	
+368	FIVE_YEAR_IS_Profit before tax	FIVE_YEAR_IS_Profit before tax		annual	unknown	
+369	FIVE_YEAR_IS_Tax	FIVE_YEAR_IS_Tax		annual	unknown	
+370	FIVE_YEAR_IS_Profit for the year	FIVE_YEAR_IS_Profit for the year		annual	unknown	
+371	EMISSIONS_Scope1_Direct	EMISSIONS_Scope1_Direct		annual	unknown	
+372	EMISSIONS_Scope2_LocationBased	EMISSIONS_Scope2_LocationBased		annual	unknown	
+373	EMISSIONS_Scope2_MarketBased	EMISSIONS_Scope2_MarketBased		annual	unknown	
+374	EMISSIONS_Scope3_Total	EMISSIONS_Scope3_Total		annual	unknown	
+375	EMISSIONS_Scope3_1_PurchasedGoods	EMISSIONS_Scope3_1_PurchasedGoods		annual	unknown	
+376	EMISSIONS_Scope3_3_FuelEnergy	EMISSIONS_Scope3_3_FuelEnergy		annual	unknown	
+377	EMISSIONS_Scope3_4_UpstreamTransport	EMISSIONS_Scope3_4_UpstreamTransport		annual	unknown	
+378	EMISSIONS_Scope3_5_Waste	EMISSIONS_Scope3_5_Waste		annual	unknown	
+379	EMISSIONS_Scope3_6_BusinessTravel	EMISSIONS_Scope3_6_BusinessTravel		annual	unknown	
+380	EMISSIONS_Scope3_7_EmployeeCommuting	EMISSIONS_Scope3_7_EmployeeCommuting		annual	unknown	
+381	EMISSIONS_Scope3_9_DownstreamTransport	EMISSIONS_Scope3_9_DownstreamTransport		annual	unknown	
+382	EMISSIONS_Scope3_11_UseOfSoldProducts	EMISSIONS_Scope3_11_UseOfSoldProducts		annual	unknown	
+383	EMISSIONS_Scope3_12_EndOfLifeTreatment	EMISSIONS_Scope3_12_EndOfLifeTreatment		annual	unknown	
+384	EMISSIONS_Scope1_2_LocationBased_Total	EMISSIONS_Scope1_2_LocationBased_Total		annual	unknown	
+385	EMISSIONS_Scope1_3_LocationBased_Total	EMISSIONS_Scope1_3_LocationBased_Total		annual	unknown	
+386	EMISSIONS_Scope1_3_MarketBased_Total	EMISSIONS_Scope1_3_MarketBased_Total		annual	unknown	
+387	EMISSIONS_Scope4_AvoidedEmissions	EMISSIONS_Scope4_AvoidedEmissions		annual	unknown	
+388	EMISSIONS_Intensity_MarketBased	EMISSIONS_Intensity_MarketBased		annual	unknown	
+389	ENERGY_TotalConsumption	ENERGY_TotalConsumption		annual	unknown	
+390	ENERGY_RenewableShare	ENERGY_RenewableShare		annual	unknown	
+391	ENERGY_FossilShare	ENERGY_FossilShare		annual	unknown	
+392	ENERGY_Intensity	ENERGY_Intensity		annual	unknown	
+393	ENVIRONMENT_Waste_Total	ENVIRONMENT_Waste_Total		annual	unknown	
+394	ENVIRONMENT_Waste_Hazardous	ENVIRONMENT_Waste_Hazardous		annual	unknown	
+395	ENVIRONMENT_Waste_NonHazardous	ENVIRONMENT_Waste_NonHazardous		annual	unknown	
+396	ENVIRONMENT_RecyclingRate	ENVIRONMENT_RecyclingRate		annual	unknown	
+397	TAXONOMY	TAXONOMY		annual	unknown	
+398	SOCIAL_GenderPayGap	SOCIAL_GenderPayGap		annual	unknown	
+399	SOCIAL_FemaleEmployees	SOCIAL_FemaleEmployees		annual	unknown	
+400	SOCIAL_FemaleManagement	SOCIAL_FemaleManagement		annual	unknown	
+401	SOCIAL_FemaleBoard	SOCIAL_FemaleBoard		annual	unknown	
+402	SOCIAL_StaffTurnover	SOCIAL_StaffTurnover		annual	unknown	
+403	SOCIAL_AttendanceRate	SOCIAL_AttendanceRate		annual	unknown	
+404	Försäljningskostnader	Försäljningskostnader		annual	unknown	
+405	Administrationskostnader	Administrationskostnader		annual	unknown	
+406	Forsknings- och utvecklingskostnader	Forsknings- och utvecklingskostnader		annual	unknown	
+407	Övriga rörelseintäkter och rörelsekostnader	Övriga rörelseintäkter och rörelsekostnader		annual	unknown	
+408	Övriga immateriella tillgångar	Övriga immateriella tillgångar		annual	unknown	
+409	Kundfordringar	Kundfordringar		annual	unknown	
+410	Resultat per aktie (grundläggande)	Resultat per aktie (grundläggande)		annual	unknown	
+411	Resultat per aktie (utspädd)	Resultat per aktie (utspädd)		annual	unknown	
+412	Antal anställda (genomsnitt heltid)	Antal anställda (genomsnitt heltid)		annual	unknown	
+413	Avkastning på sysselsatt kapital	Avkastning på sysselsatt kapital		annual	unknown	
+414	Scope 2 utsläpp (marknadsbaserat)	Scope 2 utsläpp (marknadsbaserat)		annual	unknown	
+415	Scope 2 utsläpp (platsbaserat)	Scope 2 utsläpp (platsbaserat)		annual	unknown	
+416	Scope 1+2 utsläpp (marknadsbaserat)	Scope 1+2 utsläpp (marknadsbaserat)		annual	unknown	
+417	Scope 3 - Inköpta komponenter	Scope 3 - Inköpta komponenter		annual	unknown	
+418	Scope 3 - Uppströms och nedströms transport	Scope 3 - Uppströms och nedströms transport		annual	unknown	
+419	Scope 3 - Avfall i verksamheten	Scope 3 - Avfall i verksamheten		annual	unknown	
+420	Scope 3 - Tjänsteresor	Scope 3 - Tjänsteresor		annual	unknown	
+421	Scope 3 - Hantering av uttjänta produkter	Scope 3 - Hantering av uttjänta produkter		annual	unknown	
+422	Scope 1+2+3 utsläpp totalt	Scope 1+2+3 utsläpp totalt		annual	unknown	
+423	Scope 4 - Undvikna utsläpp (ackumulerat 2021-2025)	Scope 4 - Undvikna utsläpp (ackumulerat 2021-2025)		annual	unknown	
+424	Scope 4 - Undvikna utsläpp (årsutfall)	Scope 4 - Undvikna utsläpp (årsutfall)		annual	unknown	
+425	Energianvändning totalt	Energianvändning totalt		annual	unknown	
+426	Energi - utsläpp	Energi - utsläpp		annual	unknown	
+427	Avfall totalt	Avfall totalt		annual	unknown	
+428	Avfall - utsläpp	Avfall - utsläpp		annual	unknown	
+429	Inköpta råmaterial vikt	Inköpta råmaterial vikt		annual	unknown	
+430	Inköpta råmaterial - utsläpp	Inköpta råmaterial - utsläpp		annual	unknown	
+431	Transport - distans	Transport - distans		annual	unknown	
+432	Transport - utsläpp	Transport - utsläpp		annual	unknown	
+433	Nettoomsättning - Norden	Nettoomsättning - Norden		annual	unknown	
+434	Nettoomsättning - Europa	Nettoomsättning - Europa		annual	unknown	
+435	Nettoomsättning - Americas	Nettoomsättning - Americas		annual	unknown	
+436	Nettoomsättning - Asien-Oceanien	Nettoomsättning - Asien-Oceanien		annual	unknown	
+437	Nettoomsättning - Totalt exkl valuta	Nettoomsättning - Totalt exkl valuta		annual	unknown	
+438	Nettoomsättning - Valutaeffekt	Nettoomsättning - Valutaeffekt		annual	unknown	
+439	Nettoomsättning - Totalt inkl valuta	Nettoomsättning - Totalt inkl valuta		annual	unknown	
+440	Orderingång - Norden	Orderingång - Norden		annual	unknown	
+441	Orderingång - Europa	Orderingång - Europa		annual	unknown	
+442	Orderingång - Americas	Orderingång - Americas		annual	unknown	
+443	Orderingång - Asien-Oceanien	Orderingång - Asien-Oceanien		annual	unknown	
+444	Orderingång totalt	Orderingång totalt		annual	unknown	
+445	Nettoomsättning andel - Norden	Nettoomsättning andel - Norden		annual	unknown	
+446	Nettoomsättning andel - Europa	Nettoomsättning andel - Europa		annual	unknown	
+447	Nettoomsättning andel - Americas	Nettoomsättning andel - Americas		annual	unknown	
+448	Nettoomsättning andel - Asien-Oceanien	Nettoomsättning andel - Asien-Oceanien		annual	unknown	
+449	Andel återvinningsbart material (tiltrotatorer)	Andel återvinningsbart material (tiltrotatorer)		annual	unknown	
+450	Andel kvinnor	Andel kvinnor		annual	unknown	
+451	Sjukfrånvaro	Sjukfrånvaro		annual	unknown	
+452	Personalomsättning	Personalomsättning		annual	unknown	
+453	Other operating income	Other operating income		annual	unknown	
+454	Total operating income	Total operating income		annual	unknown	
+455	Cost of goods and project development	Cost of goods and project development		annual	unknown	
+456	Other external expenses	Other external expenses		annual	unknown	
+457	Employee benefits expenses	Employee benefits expenses		annual	unknown	
+458	Depreciation, amortization and impairment	Depreciation, amortization and impairment		annual	unknown	
+459	Profit from participations in associated companies	Profit from participations in associated companies		annual	unknown	
+460	Other operating expenses	Other operating expenses		annual	unknown	
+461	Total operating expenses	Total operating expenses		annual	unknown	
+462	Operating profit/loss (Rorelseresultat)	Operating profit/loss (Rorelseresultat)		annual	unknown	
+463	Interest income	Interest income		annual	unknown	
+464	Interest expense	Interest expense		annual	unknown	
+465	Other financial items	Other financial items		annual	unknown	
+466	Financial items net (Finansnetto)	Financial items net (Finansnetto)		annual	unknown	
+467	Profit/loss before tax (Resultat fore skatt)	Profit/loss before tax (Resultat fore skatt)		annual	unknown	
+468	Tax	Tax		annual	unknown	
+469	Net profit/loss for the year (Resultat efter skatt)	Net profit/loss for the year (Resultat efter skatt)		annual	unknown	
+470	Net profit attributable to parent company shareholders	Net profit attributable to parent company shareholders		annual	unknown	
+471	Net profit attributable to non-controlling interests	Net profit attributable to non-controlling interests		annual	unknown	
+472	Intangible assets	Intangible assets		annual	unknown	
+473	Property, plant and equipment	Property, plant and equipment		annual	unknown	
+474	Holdings in associated companies	Holdings in associated companies		annual	unknown	
+475	Deferred tax assets	Deferred tax assets		annual	unknown	
+476	Other financial assets	Other financial assets		annual	unknown	
+477	Total non-current assets (Summa anlaggningstillgangar)	Total non-current assets (Summa anlaggningstillgangar)		annual	unknown	
+478	Projects under construction	Projects under construction		annual	unknown	
+479	Projects under development	Projects under development		annual	unknown	
+480	Advance payments to suppliers	Advance payments to suppliers		annual	unknown	
+481	Accounts receivable	Accounts receivable		annual	unknown	
+482	Other current receivables	Other current receivables		annual	unknown	
+483	Prepaid expenses and accrued income	Prepaid expenses and accrued income		annual	unknown	
+484	Cash and cash equivalents	Cash and cash equivalents		annual	unknown	
+485	Total current assets (Summa omsattningstillgangar)	Total current assets (Summa omsattningstillgangar)		annual	unknown	
+486	Total assets (Summa tillgangar)	Total assets (Summa tillgangar)		annual	unknown	
+487	Share capital	Share capital		annual	unknown	
+488	Additional paid-in capital	Additional paid-in capital		annual	unknown	
+489	Reserves	Reserves		annual	unknown	
+490	Retained earnings	Retained earnings		annual	unknown	
+491	Equity attributable to shareholders	Equity attributable to shareholders		annual	unknown	
+492	Non-controlling interests	Non-controlling interests		annual	unknown	
+493	Total equity (Summa eget kapital)	Total equity (Summa eget kapital)		annual	unknown	
+494	Non-current interest-bearing liabilities	Non-current interest-bearing liabilities		annual	unknown	
+495	Bonds	Bonds		annual	unknown	
+496	Other non-current liabilities	Other non-current liabilities		annual	unknown	
+497	Total non-current liabilities (Langfristiga skulder)	Total non-current liabilities (Langfristiga skulder)		annual	unknown	
+498	Current interest-bearing liabilities	Current interest-bearing liabilities		annual	unknown	
+499	Accounts payable	Accounts payable		annual	unknown	
+500	Accrued expenses and deferred income	Accrued expenses and deferred income		annual	unknown	
+501	Other current liabilities	Other current liabilities		annual	unknown	
+502	Total current liabilities (Kortfristiga skulder)	Total current liabilities (Kortfristiga skulder)		annual	unknown	
+503	Total equity and liabilities	Total equity and liabilities		annual	unknown	
+504	Cash flow from investing activities	Cash flow from investing activities		annual	unknown	
+505	Cash flow for the year	Cash flow for the year		annual	unknown	
+506	Cash and cash equivalents at year-end	Cash and cash equivalents at year-end		annual	unknown	
+507	Earnings per share (EPS)	Earnings per share (EPS)		annual	unknown	
+508	Equity per share	Equity per share		annual	unknown	
+509	Dividend per share	Dividend per share		annual	unknown	
+510	Number of shares at year-end (thousands)	Number of shares at year-end (thousands)		annual	unknown	
+511	Average number of employees	Average number of employees		annual	unknown	
+512	Employees at year-end	Employees at year-end		annual	unknown	
+513	Equity/assets ratio	Equity/assets ratio		annual	unknown	
+514	Operating margin	Operating margin		annual	unknown	
+515	Profit margin	Profit margin		annual	unknown	
+516	Return on equity after tax	Return on equity after tax		annual	unknown	
+517	Return on capital employed	Return on capital employed		annual	unknown	
+518	Facilities taken into operation	Facilities taken into operation		annual	unknown	
+519	Managed energy facilities	Managed energy facilities		annual	unknown	
+520	Scope 1 - Direct emissions (owned/leased vehicles)	Scope 1 - Direct emissions (owned/leased vehicles)		annual	unknown	
+521	Scope 2 - Location-based	Scope 2 - Location-based		annual	unknown	
+522	Scope 2 - Market-based	Scope 2 - Market-based		annual	unknown	
+523	Scope 3 - Category 1 Purchased goods and services	Scope 3 - Category 1 Purchased goods and services		annual	unknown	
+524	Scope 3 - Category 2 Capital goods	Scope 3 - Category 2 Capital goods		annual	unknown	
+525	Scope 3 - Category 3 Fuel and energy-related activities	Scope 3 - Category 3 Fuel and energy-related activities		annual	unknown	
+526	Scope 3 - Category 5 Waste	Scope 3 - Category 5 Waste		annual	unknown	
+527	Scope 3 - Category 6 Business travel	Scope 3 - Category 6 Business travel		annual	unknown	
+528	Scope 3 - Category 7 Employee commuting	Scope 3 - Category 7 Employee commuting		annual	unknown	
+529	Total Scope 3	Total Scope 3		annual	unknown	
+530	Total Scope 1, 2, 3 - Location-based	Total Scope 1, 2, 3 - Location-based		annual	unknown	
+531	Total Scope 1, 2, 3 - Market-based	Total Scope 1, 2, 3 - Market-based		annual	unknown	
+532	GHG intensity - Business travel tCO2e per employee	GHG intensity - Business travel tCO2e per employee		annual	unknown	
+533	Land-based emissions from projects (tCO2e/MW)	Land-based emissions from projects (tCO2e/MW)		annual	unknown	
+534	EU Taxonomy - Eligible activity 4.1 Solar electricity generation	EU Taxonomy - Eligible activity 4.1 Solar electricity generation		annual	unknown	
+535	EU Taxonomy - Eligible activity 4.3 Wind electricity generation	EU Taxonomy - Eligible activity 4.3 Wind electricity generation		annual	unknown	
+536	EU Taxonomy - Eligible activity 4.9 Transmission/distribution of electricity	EU Taxonomy - Eligible activity 4.9 Transmission/distribution of electricity		annual	unknown	
+537	EU Taxonomy - Eligible activity 4.10 Electricity storage	EU Taxonomy - Eligible activity 4.10 Electricity storage		annual	unknown	
+538	EU Taxonomy - Eligible activity 7.3 Installation/maintenance of renewable energy	EU Taxonomy - Eligible activity 7.3 Installation/maintenance of renewable energy		annual	unknown	
+539	EU Taxonomy - Reporting note	EU Taxonomy - Reporting note		annual	unknown	
+540	Project portfolio total	Project portfolio total		annual	unknown	
+541	Project portfolio - Onshore wind power	Project portfolio - Onshore wind power		annual	unknown	
+542	Project portfolio - Solar power	Project portfolio - Solar power		annual	unknown	
+543	Project portfolio - Energy storage	Project portfolio - Energy storage		annual	unknown	
+544	Project portfolio - Offshore wind power	Project portfolio - Offshore wind power		annual	unknown	
+545	Segment - Project development sales	Segment - Project development sales		annual	unknown	
+546	Segment - Asset management sales	Segment - Asset management sales		annual	unknown	
+547	Segment - Other operating income	Segment - Other operating income		annual	unknown	
+548	Employees by country - Sweden	Employees by country - Sweden		annual	unknown	
+549	Employees by country - Latvia	Employees by country - Latvia		annual	unknown	
+550	Employees by country - Poland	Employees by country - Poland		annual	unknown	
+551	Employees by country - Finland	Employees by country - Finland		annual	unknown	
+552	Share of women employees	Share of women employees		annual	unknown	
+553	Total GHG (location-based)	Total GHG (location-based)		annual	unknown	
+554	Total GHG (market-based)	Total GHG (market-based)		annual	unknown	
+555	Taxonomy non-eligible revenue	Taxonomy non-eligible revenue		annual	unknown	
+556	Energy total consumption	Energy total consumption		annual	unknown	
+557	Energy from fossil sources	Energy from fossil sources		annual	unknown	
+558	Share renewable energy	Share renewable energy		annual	unknown	
+559	Revenue Sweden	Revenue Sweden		annual	unknown	
+560	Revenue Norway	Revenue Norway		annual	unknown	
+561	Revenue Finland	Revenue Finland		annual	unknown	
+562	Revenue Individual & Family in Sweden	Revenue Individual & Family in Sweden		annual	unknown	
+563	Revenue Personal Assistance in Sweden	Revenue Personal Assistance in Sweden		annual	unknown	
+564	Operating profit Sweden	Operating profit Sweden		annual	unknown	
+565	Operating profit Norway	Operating profit Norway		annual	unknown	
+566	Operating profit Finland	Operating profit Finland		annual	unknown	
+567	Finansiella anläggningstillgångar	Finansiella anläggningstillgångar		annual	unknown	
+568	Antal anställda (medeltal heltidsekvivalenter)	Antal anställda (medeltal heltidsekvivalenter)		annual	unknown	
+569	Antal anställda (vid årets slut, heltidsekvivalenter)	Antal anställda (vid årets slut, heltidsekvivalenter)		annual	unknown	
+570	Scope 1+2 utsläpp (marknadsbaserad)	Scope 1+2 utsläpp (marknadsbaserad)		annual	unknown	
+571	Scope 3 - Purchased goods and services	Scope 3 - Purchased goods and services		annual	unknown	
+572	Scope 3 - Capital goods	Scope 3 - Capital goods		annual	unknown	
+573	Scope 3 - Fuel and energy-related operations	Scope 3 - Fuel and energy-related operations		annual	unknown	
+574	Scope 3 - Upstream transportation and distribution	Scope 3 - Upstream transportation and distribution		annual	unknown	
+575	Scope 3 - Waste generated in operations	Scope 3 - Waste generated in operations		annual	unknown	
+576	Scope 3 - Business travel by air	Scope 3 - Business travel by air		annual	unknown	
+577	Scope 3 - Employee commuting	Scope 3 - Employee commuting		annual	unknown	
+578	Scope 3 - Downstream transportation	Scope 3 - Downstream transportation		annual	unknown	
+579	Scope 3 - Use of sold products	Scope 3 - Use of sold products		annual	unknown	
+580	Scope 3 - End-of-life treatment of sold products	Scope 3 - End-of-life treatment of sold products		annual	unknown	
+581	Totala växthusgasutsläpp Scope 1-3 (marknadsbaserad)	Totala växthusgasutsläpp Scope 1-3 (marknadsbaserad)		annual	unknown	
+582	Totala växthusgasutsläpp Scope 1-3 (platsbaserad)	Totala växthusgasutsläpp Scope 1-3 (platsbaserad)		annual	unknown	
+583	Taxonomi - andel eligible intäkter (turnover)	Taxonomi - andel eligible intäkter (turnover)		annual	unknown	
+584	Taxonomi - andel aligned intäkter (turnover)	Taxonomi - andel aligned intäkter (turnover)		annual	unknown	
+585	Taxonomi - andel eligible CapEx	Taxonomi - andel eligible CapEx		annual	unknown	
+586	Taxonomi - andel aligned CapEx	Taxonomi - andel aligned CapEx		annual	unknown	
+587	Taxonomi - andel eligible OpEx	Taxonomi - andel eligible OpEx		annual	unknown	
+588	Taxonomi - andel aligned OpEx	Taxonomi - andel aligned OpEx		annual	unknown	
+589	Andel fossila energikällor	Andel fossila energikällor		annual	unknown	
+590	Andel förnybara energikällor	Andel förnybara energikällor		annual	unknown	
+591	Segment - Dental nettoomsättning	Segment - Dental nettoomsättning		annual	unknown	
+592	Segment - Dental EBITA	Segment - Dental EBITA		annual	unknown	
+593	Segment - Demolition & Tools nettoomsättning	Segment - Demolition & Tools nettoomsättning		annual	unknown	
+594	Segment - Demolition & Tools EBITA	Segment - Demolition & Tools EBITA		annual	unknown	
+595	Segment - Systems Solutions nettoomsättning	Segment - Systems Solutions nettoomsättning		annual	unknown	
+596	Segment - Systems Solutions EBITA	Segment - Systems Solutions EBITA		annual	unknown	
+597	Geografi - Europa andel av nettoomsättning	Geografi - Europa andel av nettoomsättning		annual	unknown	
+598	Geografi - Nordamerika andel av nettoomsättning	Geografi - Nordamerika andel av nettoomsättning		annual	unknown	
+599	Geografi - Asien och Australien andel av nettoomsättning	Geografi - Asien och Australien andel av nettoomsättning		annual	unknown	
+600	Geografi - Övriga världen andel av nettoomsättning	Geografi - Övriga världen andel av nettoomsättning		annual	unknown	
+601	EBITA	EBITA		annual	unknown	
+602	Revenue	Revenue		annual	unknown	
+603	Cost of goods sold	Cost of goods sold		annual	unknown	
+604	Gross profit	Gross profit		annual	unknown	
+605	Administrative expenses	Administrative expenses		annual	unknown	
+606	Research & development expenses	Research & development expenses		annual	unknown	
+607	Operating profit/loss	Operating profit/loss		annual	unknown	
+608	Net financial items	Net financial items		annual	unknown	
+609	Profit/loss before tax	Profit/loss before tax		annual	unknown	
+610	Profit/loss from continuing operations	Profit/loss from continuing operations		annual	unknown	
+611	Profit/loss from discontinued operations	Profit/loss from discontinued operations		annual	unknown	
+612	Profit/loss for the year	Profit/loss for the year		annual	unknown	
+613	Tangible assets	Tangible assets		annual	unknown	
+614	Right-of-use assets	Right-of-use assets		annual	unknown	
+615	Long-term receivables	Long-term receivables		annual	unknown	
+616	Total non-current assets	Total non-current assets		annual	unknown	
+617	Inventory	Inventory		annual	unknown	
+618	Other receivables	Other receivables		annual	unknown	
+619	Assets held for sale	Assets held for sale		annual	unknown	
+620	Total current assets	Total current assets		annual	unknown	
+621	Other contributed capital	Other contributed capital		annual	unknown	
+622	Retained earnings including profit/loss for the year	Retained earnings including profit/loss for the year		annual	unknown	
+623	Total equity	Total equity		annual	unknown	
+624	Long-term interest-bearing liabilities	Long-term interest-bearing liabilities		annual	unknown	
+625	Leasing liabilities (long-term)	Leasing liabilities (long-term)		annual	unknown	
+626	Total long-term liabilities	Total long-term liabilities		annual	unknown	
+627	Current part of interest-bearing liability	Current part of interest-bearing liability		annual	unknown	
+628	Other liabilities	Other liabilities		annual	unknown	
+629	Leasing liabilities (current)	Leasing liabilities (current)		annual	unknown	
+630	Accrued expenses and prepaid income	Accrued expenses and prepaid income		annual	unknown	
+631	Liabilities attributable to assets held for sale	Liabilities attributable to assets held for sale		annual	unknown	
+632	Total current liabilities	Total current liabilities		annual	unknown	
+633	Total liabilities	Total liabilities		annual	unknown	
+634	Total liabilities and equity	Total liabilities and equity		annual	unknown	
+635	Earnings per share before dilution	Earnings per share before dilution		annual	unknown	
+636	Earnings per share after dilution	Earnings per share after dilution		annual	unknown	
+637	EPS from continuing operations before dilution	EPS from continuing operations before dilution		annual	unknown	
+638	EPS from continuing operations after dilution	EPS from continuing operations after dilution		annual	unknown	
+639	Equity ratio	Equity ratio		annual	unknown	
+640	Number of employees	Number of employees		annual	unknown	
+641	Number of shares before dilution	Number of shares before dilution		annual	unknown	
+642	R&D expenses as % of operating expenses	R&D expenses as % of operating expenses		annual	unknown	
