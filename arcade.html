@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.27">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Arcade – Aktiecase.com</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em;
+  vertical-align: middle;
+}
+.arcade-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+.arcade-card {
+  display: block;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+  background: #fff;
+}
+.arcade-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+  border-color: #c0c0c0;
+  text-decoration: none;
+  color: inherit;
+}
+.arcade-card h3 {
+  margin: 0 0 0.4rem 0;
+  font-size: 1.25rem;
+}
+.arcade-card p {
+  margin: 0;
+  color: #555;
+  font-size: 0.95rem;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="image/kaka.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-4adc78a17a60de5a17a6a54b05501aa1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-DFYGKE8606"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-DFYGKE8606', { 'anonymize_ip': true});
+</script>
+
+
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="fonts/fonts_styles.css">
+<meta property="og:title" content="Arcade – Aktiecase.com">
+<meta property="og:description" content="Small browser games by Jakob Johannesson">
+<meta property="og:image" content="https://www.aktiecase.com/image/jakob_profile.jpeg">
+<meta property="og:site_name" content="Aktiecase.com">
+<meta property="og:locale" content="sv_SE">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="index.html">
+    <span class="navbar-title">Aktiecase.com</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="posts.html">
+<span class="menu-text">Bloggen</span></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="bokhyllan.html">
+<span class="menu-text">Bokhyllan</span></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="feed.html">
+<span class="menu-text">Feed</span></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="agm.html">
+<span class="menu-text">AGM</span></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link active" href="arcade.html" aria-current="page">
+<span class="menu-text">Arcade</span></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="about.html">
+<span class="menu-text">Om Aktiecase.com</span></a>
+  </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="index.xml"> <i class="bi bi-rss" role="img">
+</i>
+<span class="menu-text"></span></a>
+  </li>
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Arcade</h1>
+</div>
+</header>
+
+<p>A small collection of browser games. Click to play.</p>
+
+<div class="arcade-grid">
+  <a class="arcade-card" href="seal_hunter/dist/index.html">
+    <h3>Seal Hunter</h3>
+    <p>A Svelte remake of the classic Seal Hunter flash game.</p>
+  </a>
+  <a class="arcade-card" href="tetris/build/index.html">
+    <h3>Tetris</h3>
+    <p>Classic block-stacking puzzle built with SvelteKit.</p>
+  </a>
+</div>
+
+</main>
+</div>
+<!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Copyright 2026, Jakob Johannesson - <a href="https://www.aktiecase.com">Main page</a></p>
+</div>
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/jakobjohannesson">
+      <i class="bi bi-github" role="img">
+</i>
+    </a>
+  </li>
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://x.com/aktiecase">
+      <i class="bi bi-twitter" role="img">
+</i>
+    </a>
+  </li>
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://bsky.app/profile/aktiecase.bsky.social">
+      <i class="bi bi-heart" role="img">
+</i>
+    </a>
+  </li>
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

@@ -38,4 +38,5 @@ export const SECTION_TABS = [
   { key: "aktiedata", label: "Aktie" },
   { key: "marginal", label: "Marginal" },
   { key: "per aktie", label: "Per Aktie" },
+  { key: "hållbarhet", label: "Hållbarhet" },
 ] as const;

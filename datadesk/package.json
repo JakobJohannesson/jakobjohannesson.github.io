@@ -4,7 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "build:data": "python3 scripts/build-data.py",
     "build": "next build",
+    "prebuild": "python3 scripts/build-data.py",
     "start": "next start",
     "lint": "eslint"
   },

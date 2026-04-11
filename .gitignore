@@ -2,3 +2,5 @@ rss_feed/pdfs/
 rss_podcasts/
 gcp_connect.txt
 data
+node_modules/
+.DS_Store
