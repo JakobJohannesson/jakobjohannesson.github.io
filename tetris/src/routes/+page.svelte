@@ -30,10 +30,30 @@
   let dropInterval: number = $state(800);
   let lastDrop: number = $state(0);
   let animationId: number = $state(0);
+  let musicOn: boolean = $state(false);
 
   let canvas: HTMLCanvasElement;
   let nextCanvas: HTMLCanvasElement;
   let music: HTMLAudioElement;
+
+  function toggleMusic() {
+    if (!music) return;
+    if (musicOn) {
+      music.pause();
+      musicOn = false;
+    } else {
+      music.currentTime = music.currentTime || 0;
+      music
+        .play()
+        .then(() => {
+          musicOn = true;
+        })
+        .catch((err) => {
+          console.error('Music playback failed:', err);
+          musicOn = false;
+        });
+    }
+  }
 
   function startGame() {
     board = createBoard();
@@ -49,8 +69,8 @@
     lastDrop = performance.now();
     cancelAnimationFrame(animationId);
 
-    // Start music
-    if (music) {
+    // Restart music from the beginning if it's currently on
+    if (music && musicOn) {
       music.currentTime = 0;
       music.play().catch(() => {});
     }
@@ -110,7 +130,7 @@
 
     if (collides(board, currentPiece)) {
       gameOver = true;
-      if (music) music.pause();
+      if (music && musicOn) music.pause();
     }
   }
 
@@ -284,7 +304,7 @@
     }
     if (e.key === 'p' || e.key === 'P') {
       paused = !paused;
-      if (music) {
+      if (music && musicOn) {
         if (paused) music.pause();
         else music.play().catch(() => {});
       }
@@ -391,6 +411,10 @@
         <div class="control-row"><span class="key">SPACE</span> HARD DROP</div>
         <div class="control-row"><span class="key">P</span> PAUSE</div>
       </div>
+
+      <button type="button" class="music-button" onclick={toggleMusic}>
+        {musicOn ? 'MUSIC: ON' : 'MUSIC: OFF'}
+      </button>
     </div>
   </div>
 </div>
