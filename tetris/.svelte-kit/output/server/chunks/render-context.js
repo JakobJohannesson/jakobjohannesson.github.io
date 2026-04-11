@@ -1,3 +1,4 @@
+const BROWSER = false;
 function experimental_async_required(name) {
   {
     throw new Error(`https://svelte.dev/e/experimental_async_required`);
@@ -50,6 +51,7 @@ function get_render_context() {
 }
 let als = null;
 export {
+  BROWSER as B,
   await_invalid as a,
   experimental_async_required as e,
   get_render_context as g,

@@ -1,4 +1,7 @@
-import { a0 as head, a1 as attr, e as escape_html } from "../../chunks/renderer.js";
+import { h as head, a as attr, e as escape_html, b as stringify } from "../../chunks/root.js";
+import { b as base } from "../../chunks/server.js";
+import "../../chunks/url.js";
+import "@sveltejs/kit/internal/server";
 const COLS = 10;
 const ROWS = 20;
 const BLOCK_SIZE = 30;
@@ -71,7 +74,7 @@ function _page($$renderer, $$props) {
     head("1uha8ag", $$renderer2, ($$renderer3) => {
       $$renderer3.push(`<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap" rel="stylesheet" class="svelte-1uha8ag"/>`);
     });
-    $$renderer2.push(`<audio src="/tetris.mp3" loop="" preload="auto" class="svelte-1uha8ag"></audio> <div class="game-container svelte-1uha8ag"><div class="title svelte-1uha8ag">TETRIS</div> <div class="game-area svelte-1uha8ag"><div class="board-container svelte-1uha8ag"><canvas${attr("width", COLS * BLOCK_SIZE)}${attr("height", ROWS * BLOCK_SIZE)} class="board svelte-1uha8ag"></canvas> `);
+    $$renderer2.push(`<audio${attr("src", `${stringify(base)}/tetris.mp3`)} loop="" preload="auto" class="svelte-1uha8ag"></audio> <div class="game-container svelte-1uha8ag"><div class="title svelte-1uha8ag">TETRIS</div> <div class="game-area svelte-1uha8ag"><div class="board-container svelte-1uha8ag"><canvas${attr("width", COLS * BLOCK_SIZE)}${attr("height", ROWS * BLOCK_SIZE)} class="board svelte-1uha8ag"></canvas> `);
     {
       $$renderer2.push("<!--[0-->");
       $$renderer2.push(`<div class="start-overlay svelte-1uha8ag"><div class="start-text svelte-1uha8ag">PRESS ENTER<br class="svelte-1uha8ag"/>TO START</div></div>`);

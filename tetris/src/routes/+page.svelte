@@ -1,4 +1,5 @@
 <script lang="ts">
+  import { base } from '$app/paths';
   import {
     COLS,
     ROWS,
@@ -332,7 +333,7 @@
   />
 </svelte:head>
 
-<audio bind:this={music} src="/tetris.mp3" loop preload="auto"></audio>
+<audio bind:this={music} src="{base}/tetris.mp3" loop preload="auto"></audio>
 
 <div class="game-container">
   <div class="title">TETRIS</div>
