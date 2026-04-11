@@ -1,3 +1,0 @@
-companyid	attribute_id	value	fiscial_year	quarter	date_inserted	source_id	unit
-1	1	236	2023	3	GETDATE()	2	MSEK
-1	1	302	2023	4	GETDATE()	2	MSEK
