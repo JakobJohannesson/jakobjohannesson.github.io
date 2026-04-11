@@ -549,4 +549,27 @@
   .key {
     color: #aaa;
   }
+
+  .music-button {
+    margin-top: 12px;
+    width: 100%;
+    padding: 10px 12px;
+    border: 2px solid #333;
+    background: #0a0a0a;
+    color: #aaa;
+    font-family: 'Press Start 2P', monospace;
+    font-size: 9px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: border-color 0.15s, color 0.15s;
+  }
+
+  .music-button:hover {
+    border-color: #888;
+    color: #fff;
+  }
+
+  .music-button:active {
+    transform: translateY(1px);
+  }
 </style>
