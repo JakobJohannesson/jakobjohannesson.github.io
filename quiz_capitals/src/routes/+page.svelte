@@ -189,7 +189,7 @@
   }
 
   function soloStartTimer() {
-    soloChosen = -1; soloTimeLeft = TIME_PER_Q; soloQStart = Date.now();
+    soloChosen = -1; soloTimeLeft = TIME_PER_Q; soloQStart = Date.now(); showOptionsAfterDelay();
     if (soloTimer) clearInterval(soloTimer);
     soloTimer = setInterval(() => { soloTimeLeft--; if (soloTimeLeft <= 0) { clearInterval(soloTimer!); soloTimer = null; soloAnswer(-1); } }, 1000);
   }
@@ -317,7 +317,7 @@
       if (phase === 'question' && (prevPhase !== 'question' || qi !== mpIdx)) {
         prevMpScores = Object.fromEntries(Object.entries(mpPlayers).map(([id, p]) => [id, p.score]));
         mpIdx = qi; mpStart = d.startTime ?? Date.now();
-        mpChosen = -1; mpAnswers = {}; mpStartTimer(mpStart); screen = 'mp_question';
+        mpChosen = -1; mpAnswers = {}; mpStartTimer(mpStart); showOptionsAfterDelay(); screen = 'mp_question';
       } else if (phase === 'reveal' && prevPhase !== 'reveal') {
         mpAnswers = d.answers?.[qi] ?? {}; mpIdx = qi; mpStopTimer();
         startScoreAnim();
