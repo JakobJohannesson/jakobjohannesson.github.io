@@ -367,6 +367,16 @@ function attributes(attrs, css_hash, classes, styles, flags = 0) {
   }
   return attr_str;
 }
+function attr_class(value, hash, directives) {
+  var result = to_class(value, hash, directives);
+  return result ? ` class="${escape_html(result, true)}"` : "";
+}
+function ensure_array_like(array_like_or_iterator) {
+  if (array_like_or_iterator) {
+    return array_like_or_iterator.length !== void 0 ? array_like_or_iterator : Array.from(array_like_or_iterator);
+  }
+  return [];
+}
 function once(get_value) {
   let value = (
     /** @type {V} */
@@ -1187,6 +1197,9 @@ export {
   HYDRATION_END as a,
   ssr_context as a0,
   head as a1,
+  ensure_array_like as a2,
+  attr_class as a3,
+  attr as a4,
   HYDRATION_START as b,
   HYDRATION_START_ELSE as c,
   EFFECT as d,
