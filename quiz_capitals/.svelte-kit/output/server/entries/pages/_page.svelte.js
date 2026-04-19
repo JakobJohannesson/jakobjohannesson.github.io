@@ -60,7 +60,7 @@ function _page($$renderer, $$props) {
         $$renderer2.push(`<button${attr_class("quiz-card svelte-1uha8ag", void 0, { "selected": selectedQuizId === q.id })}><span class="qc-emoji svelte-1uha8ag">${escape_html(q.emoji)}</span> <span class="qc-title svelte-1uha8ag">${escape_html(q.title)}</span> <span class="qc-count svelte-1uha8ag">${escape_html(q.questionCount)} questions</span> `);
         if (q.id !== "capitals") {
           $$renderer2.push("<!--[0-->");
-          $$renderer2.push(`<div class="qc-actions svelte-1uha8ag"><button title="Edit" class="svelte-1uha8ag">✏️</button> <button title="Delete" class="svelte-1uha8ag">🗑️</button></div>`);
+          $$renderer2.push(`<div class="qc-actions svelte-1uha8ag"><span role="button" tabindex="0" title="Edit" class="svelte-1uha8ag">✏️</span> <span role="button" tabindex="0" title="Delete" class="svelte-1uha8ag">🗑️</span></div>`);
         } else {
           $$renderer2.push("<!--[-1-->");
         }

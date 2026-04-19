@@ -395,7 +395,7 @@
 
   function medal(i: number) { return ['🥇', '🥈', '🥉'][i] ?? `${i + 1}.`; }
 
-  onDestroy(() => { if (soloTimer) clearInterval(soloTimer); mpStopTimer(); if (animTimer) clearInterval(animTimer); unsubRoom?.(); });
+  onDestroy(() => { if (soloTimer) clearInterval(soloTimer); mpStopTimer(); if (animTimer) clearInterval(animTimer); if (optionsTimer) clearTimeout(optionsTimer); unsubRoom?.(); });
 </script>
 
 <svelte:head><title>Quiz</title></svelte:head>
@@ -423,8 +423,8 @@
             <span class="qc-count">{q.questionCount} questions</span>
             {#if q.id !== 'capitals'}
               <div class="qc-actions">
-                <button onclick={(e) => { e.stopPropagation(); openBuilder(q.id); }} title="Edit">✏️</button>
-                <button onclick={(e) => { e.stopPropagation(); deleteQuiz(q.id); }} title="Delete">🗑️</button>
+                <span role="button" tabindex="0" onclick={(e) => { e.stopPropagation(); openBuilder(q.id); }} onkeydown={(e)=>e.key==='Enter'&&openBuilder(q.id)} title="Edit">✏️</span>
+                <span role="button" tabindex="0" onclick={(e) => { e.stopPropagation(); deleteQuiz(q.id); }} onkeydown={(e)=>e.key==='Enter'&&deleteQuiz(q.id)} title="Delete">🗑️</span>
               </div>
             {/if}
           </button>
@@ -577,9 +577,10 @@
             class:opt-correct={screen==='solo_reveal' && correct}
             class:opt-wrong={screen==='solo_reveal' && chosen && !correct}
             class:opt-dim={screen==='solo_reveal' && !chosen && !correct}
-            style="--c:{BTN[i].color}"
+            class:opts-hidden={!optionsVisible && screen==='solo_q'}
+            style="--c:{BTN[i].color};--delay:{i*80}ms"
             onclick={() => soloAnswer(i)}
-            disabled={screen === 'solo_reveal'}
+            disabled={screen === 'solo_reveal' || !optionsVisible}
           >
             <span class="shape">{screen==='solo_reveal'?(correct?'✓':chosen?'✗':BTN[i].shape):BTN[i].shape}</span>
             <span class="opt-text">{opt}</span>
@@ -631,9 +632,10 @@
             class:opt-correct={screen==='mp_reveal' && correct}
             class:opt-wrong={screen==='mp_reveal' && chosen && !correct}
             class:opt-dim={screen==='mp_reveal' && !chosen && !correct}
-            style="--c:{BTN[i].color}"
+            class:opts-hidden={!optionsVisible && screen==='mp_question'}
+            style="--c:{BTN[i].color};--delay:{i*80}ms"
             onclick={() => mpAnswer(i)}
-            disabled={screen==='mp_reveal' || mpChosen >= 0}
+            disabled={screen==='mp_reveal' || mpChosen >= 0 || !optionsVisible}
           >
             <span class="shape">{screen==='mp_reveal'?(correct?'✓':chosen?'✗':BTN[i].shape):BTN[i].shape}</span>
             <span class="opt-text">{opt}</span>
@@ -858,8 +860,11 @@
     cursor: pointer; display: flex; align-items: center; gap: 8px; min-height: 60px;
     text-align: left; box-shadow: 0 3px 10px rgba(0,0,0,.3); transition: transform .1s, filter .1s;
   }
-  .opt:hover:not([disabled]) { transform: scale(1.02); filter: brightness(1.1); }
-  .opt[disabled] { cursor: default; }
+  .opt:hover:not([disabled]):not(.opts-hidden) { transform: scale(1.02); filter: brightness(1.1); }
+  .opt[disabled]:not(.opts-hidden) { cursor: default; }
+  .opts-hidden { opacity: 0; transform: translateY(12px); pointer-events: none; transition: opacity .25s ease var(--delay), transform .25s ease var(--delay); }
+  .opt:not(.opts-hidden) { animation: optIn .25s ease var(--delay, 0ms) both; }
+  @keyframes optIn { from { opacity:0; transform:translateY(12px); } to { opacity:1; transform:translateY(0); } }
   .opt-correct { background: #27ae60 !important; animation: pop .3s ease; }
   .opt-wrong   { background: #c0392b !important; opacity: .8; }
   .opt-dim     { background: #3a3a3a !important; opacity: .4; }
