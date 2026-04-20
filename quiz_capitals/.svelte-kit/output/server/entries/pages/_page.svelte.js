@@ -43,14 +43,16 @@ function _page($$renderer, $$props) {
       }))
     ]);
     typeof crypto !== "undefined" ? crypto.randomUUID() : Math.random().toString(36).slice(2);
+    let confettiAnimId = 0;
     onDestroy(() => {
+      cancelAnimationFrame(confettiAnimId);
     });
     head("1uha8ag", $$renderer2, ($$renderer3) => {
       $$renderer3.title(($$renderer4) => {
         $$renderer4.push(`<title>Quiz</title>`);
       });
     });
-    $$renderer2.push(`<div class="app svelte-1uha8ag">`);
+    $$renderer2.push(`<canvas class="confetti-canvas svelte-1uha8ag"></canvas> <div class="app svelte-1uha8ag">`);
     {
       $$renderer2.push("<!--[0-->");
       $$renderer2.push(`<div class="home svelte-1uha8ag"><div class="home-header svelte-1uha8ag"><h1 class="svelte-1uha8ag">Quiz</h1> <a href="../../arcade.html" class="back-link svelte-1uha8ag">← Arcade</a></div> <p class="section-label svelte-1uha8ag">Select a quiz</p> <div class="quiz-grid svelte-1uha8ag"><!--[-->`);

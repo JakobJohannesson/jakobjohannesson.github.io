@@ -179,8 +179,20 @@
   let soloResults: { correct: boolean; points: number }[] = $state([]);
   let soloTimer: ReturnType<typeof setInterval> | null = null;
   let soloQStart = 0;
-  let soloPopupText = $state('');
-  let soloPopupOn = $state(false);
+  let soloPrevScore = 0;
+  let soloAnimScore = $state(0);
+  let soloScoreTimer: ReturnType<typeof setInterval> | null = null;
+
+  function animateSoloScore(from: number, to: number) {
+    if (soloScoreTimer) clearInterval(soloScoreTimer);
+    soloAnimScore = from;
+    const t0 = Date.now();
+    soloScoreTimer = setInterval(() => {
+      const t = Math.min(1, (Date.now() - t0) / 1400);
+      soloAnimScore = Math.round(from + (to - from) * (1 - Math.pow(1 - t, 2)));
+      if (t >= 1) { clearInterval(soloScoreTimer!); soloScoreTimer = null; }
+    }, 16);
+  }
 
   function startSolo() {
     soloQs = questionsForId(selectedQuizId);
@@ -202,18 +214,18 @@
     const ok = idx >= 0 && q.options[idx] === q.correct;
     const rem = Math.max(0, TIME_PER_Q - (Date.now() - soloQStart) / 1000);
     let pts = 0;
+    soloPrevScore = soloScore;
     if (ok) {
       pts = 100 + Math.round((rem / TIME_PER_Q) * 900) + (soloStreak >= 3 ? 100 : soloStreak >= 2 ? 50 : 0);
       soloScore += pts; soloStreak++;
-      soloPopupText = `+${pts}${soloStreak > 2 ? ' 🔥' : ''}`; soloPopupOn = true;
-      setTimeout(() => (soloPopupOn = false), 1200);
     } else { soloStreak = 0; }
     soloResults = [...soloResults, { correct: ok, points: pts }];
+    animateSoloScore(soloPrevScore, soloScore);
     screen = 'solo_reveal';
     setTimeout(() => {
       if (soloIdx + 1 >= soloQs.length) { if (soloScore > soloHi) soloHi = soloScore; screen = 'solo_final'; }
       else { soloIdx++; screen = 'solo_q'; soloStartTimer(); }
-    }, 2200);
+    }, 3500);
   }
 
   const soloPct = $derived(soloTimeLeft / TIME_PER_Q);
@@ -395,10 +407,66 @@
 
   function medal(i: number) { return ['🥇', '🥈', '🥉'][i] ?? `${i + 1}.`; }
 
-  onDestroy(() => { if (soloTimer) clearInterval(soloTimer); mpStopTimer(); if (animTimer) clearInterval(animTimer); if (optionsTimer) clearTimeout(optionsTimer); unsubRoom?.(); });
+  // ── Confetti ───────────────────────────────────────────────────────────────
+  let confettiCanvas: HTMLCanvasElement | undefined = $state();
+  let confettiAnimId = 0;
+
+  function launchConfetti() {
+    if (!confettiCanvas) return;
+    cancelAnimationFrame(confettiAnimId);
+    const canvas = confettiCanvas;
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    const ctx = canvas.getContext('2d')!;
+    const COLORS = ['#e74c3c','#3498db','#f1c40f','#2ecc71','#9b59b6','#e67e22','#ff6b6b','#1abc9c','#fff'];
+    type Piece = { x:number; y:number; vx:number; vy:number; rot:number; rv:number; color:string; w:number; h:number };
+    const pieces: Piece[] = Array.from({ length: 140 }, () => ({
+      x: Math.random() * canvas.width,
+      y: -10 - Math.random() * 300,
+      vx: (Math.random() - 0.5) * 4,
+      vy: 1.5 + Math.random() * 3.5,
+      rot: Math.random() * Math.PI * 2,
+      rv: (Math.random() - 0.5) * 0.18,
+      color: COLORS[Math.floor(Math.random() * COLORS.length)],
+      w: 7 + Math.random() * 9,
+      h: 3 + Math.random() * 5,
+    }));
+    const t0 = Date.now();
+    function frame() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      const elapsed = Date.now() - t0;
+      const alpha = Math.max(0, 1 - (elapsed - 3000) / 2500);
+      if (alpha <= 0) { ctx.clearRect(0, 0, canvas.width, canvas.height); return; }
+      for (const p of pieces) {
+        p.x += p.vx; p.y += p.vy; p.vy += 0.06; p.rot += p.rv;
+        if (p.y > canvas.height + 20) { p.y = -10; p.x = Math.random() * canvas.width; p.vy = 1.5 + Math.random() * 2; }
+        ctx.save();
+        ctx.globalAlpha = alpha;
+        ctx.translate(p.x, p.y);
+        ctx.rotate(p.rot);
+        ctx.fillStyle = p.color;
+        ctx.fillRect(-p.w / 2, -p.h / 2, p.w, p.h);
+        ctx.restore();
+      }
+      confettiAnimId = requestAnimationFrame(frame);
+    }
+    confettiAnimId = requestAnimationFrame(frame);
+  }
+
+  $effect(() => {
+    if (screen === 'solo_final' || screen === 'mp_final') {
+      setTimeout(launchConfetti, 100);
+    } else {
+      cancelAnimationFrame(confettiAnimId);
+    }
+  });
+
+  onDestroy(() => { if (soloTimer) clearInterval(soloTimer); if (soloScoreTimer) clearInterval(soloScoreTimer); mpStopTimer(); if (animTimer) clearInterval(animTimer); if (optionsTimer) clearTimeout(optionsTimer); cancelAnimationFrame(confettiAnimId); unsubRoom?.(); });
 </script>
 
 <svelte:head><title>Quiz</title></svelte:head>
+
+<canvas bind:this={confettiCanvas} class="confetti-canvas"></canvas>
 
 <div class="app">
 
@@ -588,11 +656,22 @@
         {/each}
       </div>
       {#if screen === 'solo_reveal'}
-        <div class="banner" class:banner-ok={soloResults[soloIdx]?.correct} class:banner-err={!soloResults[soloIdx]?.correct}>
-          {soloResults[soloIdx]?.correct ? `🎉 Correct! +${soloResults[soloIdx].points}` : soloChosen===-1 ? `⏱ Time's up! → ${q.correct}` : `❌ Wrong! → ${q.correct}`}
+        {@const res = soloResults[soloIdx]}
+        <div class="banner" class:banner-ok={res?.correct} class:banner-err={!res?.correct}>
+          {res?.correct ? `🎉 Correct!` : soloChosen===-1 ? `⏱ Time's up! → ${q.correct}` : `❌ Wrong! → ${q.correct}`}
+        </div>
+        <div class="score-reveal-card">
+          <div class="src-row">
+            <span class="src-label">Din poäng</span>
+            {#if res?.points > 0}<span class="src-gain">+{res.points}{soloStreak > 1 ? ' 🔥' : ''}</span>{/if}
+          </div>
+          <div class="src-score">{soloAnimScore.toLocaleString()}</div>
+          <div class="src-bar-track">
+            <div class="src-bar" style="width:{Math.min(100, (soloAnimScore / (soloQs.length * 1000)) * 100)}%"></div>
+          </div>
+          <div class="src-meta">{soloIdx + 1} / {soloQs.length} frågor</div>
         </div>
       {/if}
-      {#if soloPopupOn}<div class="popup">{soloPopupText}</div>{/if}
     </div>
 
   <!-- ── SOLO FINAL ────────────────────────────────── -->
@@ -720,6 +799,7 @@
   :global(*, *::before, *::after) { box-sizing: border-box; margin: 0; padding: 0; }
   :global(body) { background: #1a1a2e; font-family: 'Segoe UI', system-ui, sans-serif; min-height: 100vh; color: #fff; }
 
+  .confetti-canvas { position: fixed; inset: 0; width: 100%; height: 100%; pointer-events: none; z-index: 999; }
   .app { min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 16px; }
 
   /* ── Shared ── */
@@ -877,6 +957,20 @@
   @keyframes slideUp { from{transform:translateY(8px);opacity:0} to{transform:translateY(0);opacity:1} }
   .popup { position: fixed; top: 50%; left: 50%; transform: translate(-50%,-50%); font-size: 2rem; font-weight: 900; color: #f1c40f; pointer-events: none; animation: floatUp 1.2s ease forwards; z-index: 100; }
   @keyframes floatUp { 0%{opacity:1;transform:translate(-50%,-50%)} 100%{opacity:0;transform:translate(-50%,-130%)} }
+
+  /* ── Solo score reveal card ── */
+  .score-reveal-card {
+    background: #16213e; border-radius: 14px; padding: 18px 20px;
+    border: 1px solid rgba(255,255,255,.08); display: flex; flex-direction: column; gap: 8px;
+    animation: slideUp .35s ease;
+  }
+  .src-row { display: flex; align-items: center; justify-content: space-between; }
+  .src-label { font-size: .8rem; text-transform: uppercase; letter-spacing: 1.5px; color: #666; }
+  .src-gain { font-size: .85rem; font-weight: 700; color: #2ecc71; background: rgba(46,204,113,.15); border-radius: 20px; padding: 2px 10px; }
+  .src-score { font-size: 2.8rem; font-weight: 900; color: #f1c40f; line-height: 1; }
+  .src-bar-track { height: 8px; background: rgba(255,255,255,.07); border-radius: 4px; overflow: hidden; }
+  .src-bar { height: 100%; background: linear-gradient(90deg, #9b59b6, #f1c40f); border-radius: 4px; transition: width .05s linear; }
+  .src-meta { font-size: .78rem; color: #555; }
 
   /* ── Animated leaderboard ── */
   .anim-lb { display: flex; flex-direction: column; gap: 10px; }
