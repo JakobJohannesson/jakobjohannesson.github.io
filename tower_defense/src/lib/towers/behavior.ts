@@ -7,8 +7,10 @@ import type { Tower } from './types';
 // pick a target for this tower based on targetingMode
 export function pickTarget(t: Tower, timeMs: number): Enemy | null {
   const inRange: Enemy[] = [];
+  // EMP is the only tower that can detect cloaked stealth enemies.
+  const canSeeCloaked = t.kind === 'emp';
   for (const e of entities.enemies) {
-    if (!isTargetable(e, timeMs)) continue;
+    if (!isTargetable(e, timeMs, !canSeeCloaked)) continue;
     const d = distance(t.x, t.y, e.x, e.y);
     if (d <= t.range + enemyRadius(e)) inRange.push(e);
   }

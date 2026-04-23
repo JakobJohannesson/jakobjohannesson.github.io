@@ -904,7 +904,14 @@ function _page($$renderer, $$props) {
       $$renderer2.push(`<button${attr_class("tower-btn svelte-1uha8ag", void 0, {
         "selected": gameState.selectedKind === kind && gameState.phase === "placing",
         "disabled": !canAfford(kind)
-      })}${attr("title", s.blurb)}><div class="tb-head svelte-1uha8ag"><span class="tb-key svelte-1uha8ag">${escape_html(s.hotkey)}</span> <span class="tb-label svelte-1uha8ag"${attr_style(`color:${stringify(s.color)}`)}>${escape_html(s.label)}</span></div> <div class="tb-glyph svelte-1uha8ag"${attr_style(`--tw:${stringify(s.color)}; --tg:${stringify(s.accent)}`)}><div${attr_class(`glyph glyph-${stringify(kind)}`, "svelte-1uha8ag")}></div></div> <div${attr_class("tb-cost svelte-1uha8ag", void 0, { "insuff": !canAfford(kind) })}>$${escape_html(s.cost)}</div></button>`);
+      })}${attr("title", kind === "emp" ? s.blurb + " Only tower that can target cloaked STEALTH enemies." : s.blurb)}>`);
+      if (kind === "emp") {
+        $$renderer2.push("<!--[0-->");
+        $$renderer2.push(`<span class="detect-badge svelte-1uha8ag" title="Detects stealth">DETECT</span>`);
+      } else {
+        $$renderer2.push("<!--[-1-->");
+      }
+      $$renderer2.push(`<!--]--> <div class="tb-head svelte-1uha8ag"><span class="tb-key svelte-1uha8ag">${escape_html(s.hotkey)}</span> <span class="tb-label svelte-1uha8ag"${attr_style(`color:${stringify(s.color)}`)}>${escape_html(s.label)}</span></div> <div class="tb-glyph svelte-1uha8ag"${attr_style(`--tw:${stringify(s.color)}; --tg:${stringify(s.accent)}`)}><div${attr_class(`glyph glyph-${stringify(kind)}`, "svelte-1uha8ag")}></div></div> <div${attr_class("tb-cost svelte-1uha8ag", void 0, { "insuff": !canAfford(kind) })}>$${escape_html(s.cost)}</div></button>`);
     }
     $$renderer2.push(`<!--]--></div></div> `);
     if (selectedTower()) {

@@ -275,8 +275,13 @@
                 class:selected={gameState.selectedKind === kind && gameState.phase === 'placing'}
                 class:disabled={!canAfford(kind)}
                 onclick={() => pickKind(kind)}
-                title={s.blurb}
+                title={kind === 'emp'
+                  ? s.blurb + ' Only tower that can target cloaked STEALTH enemies.'
+                  : s.blurb}
               >
+                {#if kind === 'emp'}
+                  <span class="detect-badge" title="Detects stealth">DETECT</span>
+                {/if}
                 <div class="tb-head">
                   <span class="tb-key">{s.hotkey}</span>
                   <span class="tb-label" style="color:{s.color}">{s.label}</span>
@@ -666,6 +671,22 @@
     gap: 6px;
     align-items: center;
     box-shadow: inset 0 0 8px rgba(0, 240, 255, 0.08);
+    position: relative;
+  }
+  .detect-badge {
+    position: absolute;
+    top: -7px;
+    right: -4px;
+    font-family: 'Press Start 2P', monospace;
+    font-size: 5px;
+    letter-spacing: 1px;
+    color: #0a0220;
+    background: #39ff14;
+    padding: 2px 4px;
+    border-radius: 2px;
+    box-shadow: 0 0 6px #39ff14, 0 0 14px rgba(57, 255, 20, 0.6);
+    pointer-events: none;
+    z-index: 2;
   }
   .tower-btn:hover {
     border-color: #00f0ff;

@@ -44,10 +44,12 @@ export function updateProjectiles(dtSec: number, timeMs: number) {
       }
 
       // collision check
+      // EMP pulses (any projectile that applies empMs) can hit cloaked stealth.
+      const projectileCanHitCloaked = !!p.statusApply?.empMs;
       for (const e of entities.enemies) {
         if (!e.alive) continue;
-        // Cloaked stealth (never emp'd, never hit) cannot be collided with
-        if (e.cloaked && e.empUntil <= timeMs) continue;
+        // Cloaked stealth cannot be hit unless they've been revealed or this is an EMP pulse
+        if (e.cloaked && e.empUntil <= timeMs && !projectileCanHitCloaked) continue;
         if (p.piercedIds.has(e.id)) continue;
         const er = enemyRadius(e);
         const hitR = er + (p.kind === 'slug' ? 4 : 6);
@@ -70,9 +72,11 @@ function handleHit(p: Projectile, target: Enemy, timeMs: number) {
 
   if (p.splashRadius && p.splashRadius > 0) {
     spawnExplosion(p.x, p.y, p.splashRadius, p.color);
+    // EMP pulse splash can reveal cloaked enemies in the blast
+    const splashCanHitCloaked = !!p.statusApply?.empMs;
     for (const e of entities.enemies) {
       if (!e.alive || e === target) continue;
-      if (e.cloaked && e.empUntil <= timeMs) continue;
+      if (e.cloaked && e.empUntil <= timeMs && !splashCanHitCloaked) continue;
       if (distance(p.x, p.y, e.x, e.y) <= p.splashRadius + enemyRadius(e)) {
         // splash doesn't double-hit primary target
         // secondary damage = half (feel good)
