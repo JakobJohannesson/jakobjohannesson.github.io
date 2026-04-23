@@ -1,10 +1,10 @@
 import { CANVAS_H, CANVAS_W } from '../constants';
 import type { Enemy } from '../enemies/types';
-import { entities, getEnemyById, spawnExplosion, spawnFloater } from '../game/entities';
+import { entities, getEnemyById, spawnExplosion, spawnFloater } from '../game/entities.svelte';
 import { circleHit, distance, enemyRadius } from '../game/collision';
 import { applyDamage, popLayer } from '../towers/behavior';
 import type { Projectile, ProjectileStatusApply } from './types';
-import { gameState } from '../game/state';
+import { gameState } from '../game/state.svelte';
 
 export function updateProjectiles(dtSec: number, timeMs: number) {
   const projectiles = entities.projectiles;

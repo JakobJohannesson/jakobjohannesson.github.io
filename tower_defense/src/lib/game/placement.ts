@@ -1,7 +1,7 @@
 import { COLS, ROWS, TILE } from '../constants';
-import { entities, makeTower, spawnFloater } from './entities';
+import { entities, makeTower, spawnFloater } from './entities.svelte';
 import { PATH_TILES } from '../paths/track01';
-import { gameState } from './state';
+import { gameState } from './state.svelte';
 import { TOWER_STATS } from '../towers/definitions';
 import type { TowerKind } from '../towers/types';
 

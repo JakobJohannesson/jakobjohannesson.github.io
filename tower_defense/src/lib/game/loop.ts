@@ -9,9 +9,9 @@ import {
 } from '../enemies/waves';
 import { updateProjectiles } from '../projectiles/behavior';
 import { updateTowers } from '../towers/behavior';
-import { entities } from './entities';
+import { entities } from './entities.svelte';
 import { render } from './renderer';
-import { gameState } from './state';
+import { gameState } from './state.svelte';
 
 let rafId = 0;
 let last = 0;

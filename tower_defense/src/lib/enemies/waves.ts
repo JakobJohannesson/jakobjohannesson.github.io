@@ -1,5 +1,5 @@
 import { TOTAL_WAVES } from '../constants';
-import { spawnEnemy } from '../game/entities';
+import { spawnEnemy } from '../game/entities.svelte';
 import type { EnemyKind } from './types';
 
 export interface WaveEntry {

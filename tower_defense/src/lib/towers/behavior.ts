@@ -1,5 +1,5 @@
 import type { Enemy } from '../enemies/types';
-import { entities, spawnProjectile } from '../game/entities';
+import { entities, spawnProjectile } from '../game/entities.svelte';
 import { circleHit, distance, enemyRadius, isTargetable } from '../game/collision';
 import { TOTAL_PATH_LENGTH } from '../paths/track01';
 import type { Tower } from './types';

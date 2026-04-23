@@ -21,7 +21,7 @@ const START_MONEY = 650;
 const START_LIVES = 100;
 const TOTAL_WAVES = 20;
 const PATH_THICKNESS_TILES = 1;
-const gameState = $state({
+const gameState = {
   phase: "idle",
   money: START_MONEY,
   lives: START_LIVES,
@@ -29,14 +29,10 @@ const gameState = $state({
   waveRunning: false,
   selectedKind: null,
   selectedTowerId: null,
-  hoverCol: -1,
-  hoverRow: -1,
-  hoverValid: false,
   speedMultiplier: 1,
   timeMs: 0,
-  tickCount: 0,
   prevSpeed: 1
-});
+};
 const WAYPOINTS = [
   { x: 0, y: 90 },
   { x: 240, y: 90 },
@@ -173,13 +169,9 @@ const TOWER_KINDS = [
   "cryo",
   "railgun"
 ];
-const entities = $state({
-  enemies: [],
-  towers: [],
-  projectiles: [],
-  floaters: [],
-  explosions: []
-});
+const entities = {
+  towers: []
+};
 function buildWaves() {
   const waves = [];
   waves.push({
@@ -898,8 +890,10 @@ function _page($$renderer, $$props) {
       $$renderer2.push("<!--[-1-->");
     }
     $$renderer2.push(`<!--]--> `);
-    if (gameState.phase === "paused" && mounted) ;
-    else {
+    if (gameState.phase === "paused" && mounted) {
+      $$renderer2.push("<!--[0-->");
+      $$renderer2.push(`<div class="overlay pause-overlay svelte-1uha8ag"><div class="end-title cyan svelte-1uha8ag">PAUSED</div> <button class="btn btn-primary svelte-1uha8ag">> RESUME _</button></div>`);
+    } else {
       $$renderer2.push("<!--[-1-->");
     }
     $$renderer2.push(`<!--]--></div> <aside class="sidebar svelte-1uha8ag"><div class="panel svelte-1uha8ag"><div class="panel-title svelte-1uha8ag">TOWERS</div> <div class="tower-grid svelte-1uha8ag"><!--[-->`);

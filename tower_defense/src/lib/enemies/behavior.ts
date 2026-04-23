@@ -1,5 +1,5 @@
-import { entities, spawnFloater } from '../game/entities';
-import { gameState } from '../game/state';
+import { entities, spawnFloater } from '../game/entities.svelte';
+import { gameState } from '../game/state.svelte';
 import { TOTAL_PATH_LENGTH, positionAtDistance } from '../paths/track01';
 import type { Enemy } from './types';
 

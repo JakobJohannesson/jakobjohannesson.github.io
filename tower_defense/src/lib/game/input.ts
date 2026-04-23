@@ -1,7 +1,7 @@
 import { COLS, ROWS, TILE } from '../constants';
-import { entities } from './entities';
+import { entities } from './entities.svelte';
 import { attemptPlace, canPlace } from './placement';
-import { gameState } from './state';
+import { gameState } from './state.svelte';
 import { TOWER_KINDS, TOWER_STATS } from '../towers/definitions';
 import type { TowerKind } from '../towers/types';
 import { beginWave } from './loop';

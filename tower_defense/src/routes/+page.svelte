@@ -1,8 +1,8 @@
 <script lang="ts">
   import { onMount, onDestroy } from 'svelte';
   import { CANVAS_H, CANVAS_W, TOTAL_WAVES } from '$lib/constants';
-  import { gameState, resetGameState } from '$lib/game/state';
-  import { entities, resetEntities } from '$lib/game/entities';
+  import { gameState, resetGameState } from '$lib/game/state.svelte';
+  import { entities, resetEntities } from '$lib/game/entities.svelte';
   import { attachLoop, beginWave, startLoop, stopLoop } from '$lib/game/loop';
   import {
     cancelSelection,

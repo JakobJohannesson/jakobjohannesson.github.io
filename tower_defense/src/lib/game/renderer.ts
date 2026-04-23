@@ -5,8 +5,8 @@ import { PATH_TILES, WAYPOINTS } from '../paths/track01';
 import type { Projectile } from '../projectiles/types';
 import { TOWER_STATS } from '../towers/definitions';
 import type { Tower } from '../towers/types';
-import { entities } from './entities';
-import { gameState } from './state';
+import { entities } from './entities.svelte';
+import { gameState } from './state.svelte';
 
 let bgCanvas: HTMLCanvasElement | null = null;
 
