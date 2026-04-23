@@ -315,18 +315,81 @@ function renderEnemies(ctx: CanvasRenderingContext2D, timeMs: number) {
   for (const e of entities.enemies) {
     if (!e.alive) continue;
     if (e.cloaked && e.empUntil <= timeMs) {
-      // invisible — draw faint shimmer to hint but not clearly
-      ctx.save();
-      ctx.globalAlpha = 0.18;
-      ctx.fillStyle = 'rgba(255,255,255,0.3)';
-      ctx.beginPath();
-      ctx.arc(e.x, e.y, 4 + Math.sin(timeMs / 100 + e.id) * 1.5, 0, Math.PI * 2);
-      ctx.fill();
-      ctx.restore();
+      drawCloakedStealth(ctx, e, timeMs);
       continue;
     }
     drawEnemy(ctx, e, timeMs);
   }
+}
+
+// Cloaked stealth: visible but clearly "phantom" — translucent cyan wireframe
+// with a distortion ripple around it. Still readable as a ship you can't target
+// without an EMP.
+function drawCloakedStealth(ctx: CanvasRenderingContext2D, e: Enemy, timeMs: number) {
+  const stats = ENEMY_STATS[e.kind];
+  const r = stats.radius;
+  // subtle position jitter (cloak distortion)
+  const jitter = 0.7;
+  const jx = Math.sin(timeMs / 130 + e.id * 1.3) * jitter;
+  const jy = Math.cos(timeMs / 150 + e.id * 1.9) * jitter;
+
+  ctx.save();
+  ctx.translate(e.x + jx, e.y + jy);
+  ctx.rotate(e.rotation);
+
+  // Distortion field ring — oscillating radius
+  const ringPulse = 0.5 + 0.5 * Math.sin(timeMs / 220 + e.id);
+  ctx.globalAlpha = 0.35 + ringPulse * 0.25;
+  ctx.strokeStyle = '#00f0ff';
+  ctx.lineWidth = 1;
+  ctx.setLineDash([3, 4]);
+  ctx.shadowColor = '#00f0ff';
+  ctx.shadowBlur = 10;
+  ctx.beginPath();
+  ctx.arc(0, 0, r + 5 + ringPulse * 3, 0, Math.PI * 2);
+  ctx.stroke();
+  ctx.setLineDash([]);
+
+  // Ghost ship — translucent fill + bright wireframe of the stealth silhouette
+  const flicker = 0.55 + 0.25 * Math.sin(timeMs / 90 + e.id * 0.7);
+  ctx.globalAlpha = flicker * 0.65;
+  ctx.fillStyle = 'rgba(199, 36, 255, 0.18)';
+  ctx.strokeStyle = '#00f0ff';
+  ctx.lineWidth = 1.5;
+  ctx.shadowColor = '#00f0ff';
+  ctx.shadowBlur = 12;
+
+  ctx.beginPath();
+  ctx.moveTo(r, 0);
+  ctx.lineTo(0, -r * 0.6);
+  ctx.lineTo(-r * 0.9, -r * 0.3);
+  ctx.lineTo(-r * 0.6, 0);
+  ctx.lineTo(-r * 0.9, r * 0.3);
+  ctx.lineTo(0, r * 0.6);
+  ctx.closePath();
+  ctx.fill();
+  ctx.stroke();
+
+  // Inner crosshair dot — makes it feel like a radar ping
+  ctx.shadowBlur = 0;
+  ctx.globalAlpha = 0.9;
+  ctx.fillStyle = '#00f0ff';
+  ctx.fillRect(-1, -1, 2, 2);
+
+  // "?" tag above — hints that the player needs detection
+  ctx.rotate(-e.rotation);
+  ctx.globalAlpha = 0.75 + 0.25 * Math.sin(timeMs / 300 + e.id);
+  ctx.fillStyle = '#00f0ff';
+  ctx.font = '8px "Press Start 2P", monospace';
+  ctx.textAlign = 'center';
+  ctx.textBaseline = 'middle';
+  ctx.shadowColor = '#00f0ff';
+  ctx.shadowBlur = 6;
+  ctx.fillText('?', 0, -r - 8);
+
+  ctx.restore();
+  ctx.shadowBlur = 0;
+  ctx.globalAlpha = 1;
 }
 
 function drawEnemy(ctx: CanvasRenderingContext2D, e: Enemy, timeMs: number) {
