@@ -1,0 +1,559 @@
+/* ============================================================================
+   Arcade-theme.css — 80s neon aesthetic overlay for aktiecase.com
+   Loaded AFTER Bootstrap and styles.css so the cascade favors these rules.
+   ============================================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&family=Orbitron:wght@400;700;900&display=swap');
+
+:root {
+  --neon-pink:    #ff2bd6;
+  --neon-cyan:    #00f0ff;
+  --neon-magenta: #c724ff;
+  --neon-yellow:  #f9f002;
+  --neon-green:   #39ff14;
+  --neon-orange:  #ff7a00;
+
+  --bg-0:         #05000f;
+  --bg-1:         #0a0018;
+  --bg-2:         #14002b;
+  --bg-3:         #1d0040;
+
+  --panel-bg:     rgba(20, 0, 43, 0.78);
+  --panel-bg-alt: rgba(8, 0, 24, 0.86);
+
+  --border-neon:  2px solid var(--neon-cyan);
+  --glow-cyan:    0 0 6px var(--neon-cyan), 0 0 18px var(--neon-cyan);
+  --glow-pink:    0 0 6px var(--neon-pink), 0 0 18px var(--neon-pink);
+  --glow-yellow:  0 0 6px var(--neon-yellow), 0 0 18px var(--neon-yellow);
+  --glow-green:   0 0 6px var(--neon-green), 0 0 16px var(--neon-green);
+
+  --grid-line:    rgba(255, 43, 214, 0.33);
+  --grid-line-2:  rgba(0, 240, 255, 0.22);
+  --scanline:     rgba(0, 0, 0, 0.22);
+
+  --font-display: 'Press Start 2P', 'Courier New', monospace;
+  --font-body:    'VT323', 'Courier New', monospace;
+  --font-ui:      'Orbitron', 'Arial', sans-serif;
+}
+
+/* -------- Base reset / page background -------- */
+
+html, body {
+  background: var(--bg-0) !important;
+  color: #e9e6ff !important;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+body {
+  background:
+    radial-gradient(ellipse at 50% 0%, rgba(199, 36, 255, 0.28) 0%, transparent 55%),
+    radial-gradient(ellipse at 50% 100%, rgba(255, 43, 214, 0.28) 0%, transparent 60%),
+    linear-gradient(180deg, var(--bg-1) 0%, var(--bg-0) 55%, #000 100%) !important;
+  background-attachment: fixed !important;
+  font-family: var(--font-body) !important;
+  font-size: 20px !important;
+  line-height: 1.45;
+  filter: contrast(1.04) saturate(1.18);
+  position: relative;
+}
+
+/* Retro grid horizon pinned to viewport bottom */
+body::before {
+  content: '';
+  position: fixed;
+  left: 0; right: 0; bottom: 0;
+  height: 55vh;
+  pointer-events: none;
+  z-index: 0;
+  background:
+    repeating-linear-gradient(
+      to right,
+      transparent 0 calc(100% / 24 - 1px),
+      var(--grid-line) calc(100% / 24 - 1px) calc(100% / 24)
+    ),
+    repeating-linear-gradient(
+      to bottom,
+      transparent 0 36px,
+      var(--grid-line-2) 36px 37px
+    );
+  transform: perspective(520px) rotateX(62deg);
+  transform-origin: bottom center;
+  mask-image: linear-gradient(to bottom, transparent 0%, black 40%, black 100%);
+  -webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 40%, black 100%);
+  opacity: 0.95;
+}
+
+/* Sun disc behind the grid (synthwave) */
+body::after {
+  content: '';
+  position: fixed;
+  left: 50%;
+  bottom: 45vh;
+  width: 360px;
+  height: 360px;
+  margin-left: -180px;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 0;
+  background:
+    radial-gradient(circle at 50% 50%,
+      var(--neon-yellow) 0%,
+      var(--neon-orange) 35%,
+      var(--neon-pink) 70%,
+      transparent 80%);
+  filter: blur(2px);
+  opacity: 0.55;
+  mask-image: repeating-linear-gradient(to bottom,
+    black 0 18px, transparent 18px 22px,
+    black 22px 30px, transparent 30px 36px,
+    black 36px 52px, transparent 52px 60px,
+    black 60px);
+  -webkit-mask-image: repeating-linear-gradient(to bottom,
+    black 0 18px, transparent 18px 22px,
+    black 22px 30px, transparent 30px 36px,
+    black 36px 52px, transparent 52px 60px,
+    black 60px);
+}
+
+/* Global scanline overlay — sits above everything, below modals */
+#quarto-content::after,
+.quarto-container::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+  background: repeating-linear-gradient(
+    to bottom,
+    transparent 0 2px,
+    var(--scanline) 2px 3px
+  );
+  mix-blend-mode: multiply;
+  opacity: 0.75;
+}
+
+/* Keep actual content above the bg decorations */
+#quarto-content,
+.quarto-container,
+header,
+nav,
+main,
+footer {
+  position: relative;
+  z-index: 1;
+}
+
+/* -------- Typography -------- */
+
+h1, h2, h3, h4, h5, h6,
+.title, .navbar-title, .menu-text {
+  font-family: var(--font-display) !important;
+  color: var(--neon-pink) !important;
+  text-shadow:
+    0 0 2px var(--neon-pink),
+    0 0 6px var(--neon-pink),
+    0 0 12px rgba(255, 43, 214, 0.55),
+    0 0 24px rgba(255, 43, 214, 0.35);
+  letter-spacing: 0.04em;
+  line-height: 1.4;
+}
+
+h1, .title {
+  font-size: 2.2rem !important;
+  margin: 2rem 0 1.5rem !important;
+  animation: flicker 8s infinite steps(1, end);
+}
+h2 { font-size: 1.4rem !important; margin-top: 2rem !important; }
+h3 { font-size: 1.1rem !important; }
+h4 { font-size: 0.95rem !important; }
+
+h2, h3, h4 {
+  color: var(--neon-cyan) !important;
+  text-shadow:
+    0 0 2px var(--neon-cyan),
+    0 0 8px var(--neon-cyan),
+    0 0 18px rgba(0, 240, 255, 0.4);
+}
+
+p, ul, ol, li, div, span, td, th, label {
+  font-family: var(--font-body) !important;
+  font-size: 22px !important;
+  color: #e4dcff !important;
+}
+
+.description, .listing-description {
+  font-family: var(--font-body) !important;
+  font-size: 26px !important;
+  color: #d0c6ff !important;
+}
+
+a, a:visited {
+  color: var(--neon-cyan) !important;
+  text-decoration: none !important;
+  text-shadow: 0 0 4px rgba(0, 240, 255, 0.5);
+  transition: color 0.12s ease, text-shadow 0.12s ease;
+}
+a:hover {
+  color: var(--neon-yellow) !important;
+  text-shadow: 0 0 8px var(--neon-yellow), 0 0 20px var(--neon-yellow);
+}
+
+code, pre {
+  font-family: 'VT323', 'Courier New', monospace !important;
+  background: var(--panel-bg-alt) !important;
+  color: var(--neon-green) !important;
+  border: 1px solid rgba(0, 240, 255, 0.25);
+  text-shadow: 0 0 4px var(--neon-green);
+}
+
+/* -------- Navbar override -------- */
+
+.navbar,
+nav.navbar,
+header > nav {
+  background: var(--panel-bg-alt) !important;
+  background-image:
+    linear-gradient(180deg, rgba(0, 240, 255, 0.08) 0%, transparent 100%),
+    var(--panel-bg-alt) !important;
+  border-bottom: 2px solid var(--neon-cyan) !important;
+  box-shadow: 0 0 12px var(--neon-cyan), 0 2px 24px rgba(0, 240, 255, 0.35);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+
+.navbar .navbar-brand,
+.navbar .navbar-title,
+.navbar-title {
+  font-family: var(--font-display) !important;
+  color: var(--neon-yellow) !important;
+  text-shadow:
+    0 0 2px var(--neon-yellow),
+    0 0 8px var(--neon-yellow),
+    0 0 16px rgba(249, 240, 2, 0.6);
+  font-size: 22px !important;
+  letter-spacing: 0.08em;
+}
+
+.navbar .nav-link,
+.navbar .menu-text {
+  font-family: var(--font-display) !important;
+  font-size: 12px !important;
+  color: var(--neon-pink) !important;
+  text-shadow: 0 0 4px var(--neon-pink), 0 0 10px rgba(255, 43, 214, 0.4);
+  letter-spacing: 0.05em;
+  padding: 0.65rem 0.9rem !important;
+  transition: color 0.12s ease, text-shadow 0.12s ease, transform 0.12s ease;
+}
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  color: var(--neon-cyan) !important;
+  text-shadow: 0 0 6px var(--neon-cyan), 0 0 18px var(--neon-cyan);
+  transform: translateY(-1px);
+}
+.navbar .nav-link.active {
+  color: var(--neon-yellow) !important;
+  text-shadow: 0 0 6px var(--neon-yellow), 0 0 16px var(--neon-yellow);
+  animation: flicker 5s infinite steps(1, end);
+}
+
+.navbar-toggler {
+  border-color: var(--neon-cyan) !important;
+  color: var(--neon-cyan) !important;
+}
+
+/* -------- Arcade grid + cards -------- */
+
+.arcade-grid {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)) !important;
+  gap: 1.75rem !important;
+  margin-top: 2rem !important;
+}
+
+.arcade-card {
+  display: block !important;
+  padding: 1.5rem 1.6rem !important;
+  text-decoration: none !important;
+  color: inherit !important;
+  background: var(--panel-bg) !important;
+  background-image: linear-gradient(135deg,
+    rgba(255, 43, 214, 0.08) 0%,
+    rgba(0, 240, 255, 0.08) 100%) !important;
+  border: 2px solid var(--neon-cyan) !important;
+  border-radius: 4px !important;
+  box-shadow:
+    0 0 0 1px rgba(0, 240, 255, 0.25) inset,
+    0 0 12px rgba(0, 240, 255, 0.25),
+    0 6px 22px rgba(0, 0, 0, 0.65) !important;
+  transition: transform 0.14s ease, box-shadow 0.14s ease,
+              border-color 0.14s ease, background 0.14s ease !important;
+  position: relative;
+  overflow: hidden;
+}
+.arcade-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: -60%;
+  width: 40%;
+  height: 100%;
+  background: linear-gradient(120deg, transparent 0%,
+    rgba(0, 240, 255, 0.15) 50%, transparent 100%);
+  transform: skewX(-18deg);
+  transition: left 0.45s ease;
+  pointer-events: none;
+}
+.arcade-card:hover {
+  transform: translateY(-4px) skew(-0.3deg) !important;
+  border-color: var(--neon-pink) !important;
+  box-shadow:
+    0 0 0 1px rgba(255, 43, 214, 0.35) inset,
+    0 0 22px var(--neon-pink),
+    0 12px 32px rgba(255, 43, 214, 0.35) !important;
+  color: inherit !important;
+  text-decoration: none !important;
+}
+.arcade-card:hover::before {
+  left: 120%;
+}
+.arcade-card h3 {
+  margin: 0 0 0.6rem 0 !important;
+  font-family: var(--font-display) !important;
+  font-size: 0.95rem !important;
+  color: var(--neon-yellow) !important;
+  text-shadow:
+    0 0 4px var(--neon-yellow),
+    0 0 14px var(--neon-yellow),
+    0 0 24px rgba(249, 240, 2, 0.5) !important;
+  letter-spacing: 0.05em;
+}
+.arcade-card p {
+  margin: 0 !important;
+  font-family: var(--font-body) !important;
+  color: #d4caff !important;
+  font-size: 20px !important;
+  line-height: 1.35;
+}
+.arcade-card:hover h3 {
+  color: var(--neon-cyan) !important;
+  text-shadow:
+    0 0 4px var(--neon-cyan),
+    0 0 14px var(--neon-cyan),
+    0 0 24px rgba(0, 240, 255, 0.5) !important;
+}
+
+/* "NEW" ribbon helper class (for the TD card) */
+.arcade-card--new::after {
+  content: 'NEW';
+  position: absolute;
+  top: 10px; right: -30px;
+  background: var(--neon-pink);
+  color: #0a0018;
+  font-family: var(--font-display);
+  font-size: 10px;
+  font-weight: bold;
+  letter-spacing: 0.15em;
+  padding: 4px 40px;
+  transform: rotate(35deg);
+  box-shadow: 0 0 12px var(--neon-pink);
+  pointer-events: none;
+}
+
+/* -------- Quarto listing (index.html post cards) -------- */
+
+.quarto-post,
+.quarto-post.image-right {
+  background: var(--panel-bg) !important;
+  border: 2px solid var(--neon-magenta) !important;
+  border-radius: 4px !important;
+  padding: 1.2rem !important;
+  margin-bottom: 1.4rem !important;
+  box-shadow: 0 0 10px rgba(199, 36, 255, 0.35), 0 6px 20px rgba(0, 0, 0, 0.6) !important;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+}
+.quarto-post:hover {
+  transform: translateY(-3px);
+  border-color: var(--neon-cyan) !important;
+  box-shadow: 0 0 18px var(--neon-cyan), 0 10px 28px rgba(0, 240, 255, 0.3) !important;
+}
+.quarto-post .listing-title,
+.quarto-post .listing-title a {
+  font-family: var(--font-display) !important;
+  color: var(--neon-pink) !important;
+  text-shadow: 0 0 6px var(--neon-pink), 0 0 16px rgba(255, 43, 214, 0.5) !important;
+  font-size: 1rem !important;
+}
+.quarto-post .listing-description,
+.quarto-post .listing-description a {
+  color: #d0c6ff !important;
+  font-size: 22px !important;
+}
+.quarto-post .listing-date,
+.quarto-post .listing-subtitle,
+.quarto-post .listing-categories .listing-category {
+  color: var(--neon-cyan) !important;
+  font-family: var(--font-body) !important;
+  text-shadow: 0 0 4px var(--neon-cyan);
+}
+.quarto-post .listing-categories .listing-category {
+  display: inline-block;
+  border: 1px solid var(--neon-cyan);
+  padding: 2px 8px;
+  margin-right: 4px;
+  border-radius: 2px;
+  background: rgba(0, 240, 255, 0.08);
+}
+.quarto-post img,
+.listing-item-img-placeholder {
+  border: 2px solid var(--neon-cyan);
+  border-radius: 4px;
+  box-shadow: 0 0 14px rgba(0, 240, 255, 0.35);
+}
+
+/* -------- Hero/title block -------- */
+
+#title-block-header,
+.quarto-title-block {
+  padding: 1.2rem 0 !important;
+  border-bottom: 1px dashed rgba(0, 240, 255, 0.3);
+  margin-bottom: 1.2rem;
+}
+
+/* -------- About page imagery -------- */
+
+.irimage, .irimage2, .irimage3 {
+  border: 3px solid var(--neon-cyan) !important;
+  box-shadow:
+    0 0 10px var(--neon-cyan),
+    0 0 26px rgba(0, 240, 255, 0.55),
+    inset 0 0 12px rgba(0, 240, 255, 0.25) !important;
+}
+
+/* -------- Footer -------- */
+
+.footer, .nav-footer {
+  background: var(--panel-bg-alt) !important;
+  border-top: 2px solid var(--neon-magenta) !important;
+  box-shadow: 0 -6px 20px rgba(199, 36, 255, 0.25);
+  color: #d0c6ff !important;
+  padding: 1rem 0 !important;
+  font-family: var(--font-body) !important;
+}
+.footer p, .nav-footer p {
+  font-size: 18px !important;
+  margin: 0 !important;
+  color: #d0c6ff !important;
+}
+.footer a, .nav-footer a {
+  color: var(--neon-cyan) !important;
+}
+
+/* -------- Buttons / utility -------- */
+
+.neon-btn,
+.btn,
+button.btn {
+  display: inline-block;
+  font-family: var(--font-display);
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  padding: 0.7rem 1.2rem;
+  background: transparent;
+  color: var(--neon-yellow);
+  border: 2px solid var(--neon-yellow);
+  text-shadow: 0 0 6px var(--neon-yellow);
+  box-shadow: 0 0 10px rgba(249, 240, 2, 0.35), inset 0 0 8px rgba(249, 240, 2, 0.15);
+  cursor: pointer;
+  transition: all 0.15s ease;
+  text-transform: uppercase;
+}
+.neon-btn:hover,
+.btn:hover {
+  color: var(--bg-0);
+  background: var(--neon-yellow);
+  box-shadow: 0 0 18px var(--neon-yellow), 0 0 36px var(--neon-yellow);
+  text-shadow: none;
+}
+
+/* -------- Bootstrap cleanups — keep text legible on dark bg -------- */
+
+.sidebar, #quarto-margin-sidebar {
+  background: transparent !important;
+}
+
+.card, .card-body, .card-header {
+  background: var(--panel-bg) !important;
+  color: #e4dcff !important;
+  border: 1px solid rgba(0, 240, 255, 0.35) !important;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--neon-magenta);
+  box-shadow: 0 0 10px var(--neon-magenta);
+  opacity: 0.6;
+}
+
+blockquote {
+  border-left: 3px solid var(--neon-pink);
+  background: rgba(255, 43, 214, 0.07);
+  padding: 0.6rem 1rem;
+  color: #d4caff !important;
+  box-shadow: -6px 0 14px rgba(255, 43, 214, 0.2);
+}
+
+/* -------- Quarto search box (if visible) -------- */
+
+.aa-DetachedSearchButton,
+.aa-Form,
+#quarto-search {
+  background: var(--panel-bg-alt) !important;
+  border: 1px solid var(--neon-cyan) !important;
+  color: var(--neon-cyan) !important;
+  box-shadow: 0 0 8px rgba(0, 240, 255, 0.35);
+}
+
+/* -------- Animations -------- */
+
+@keyframes flicker {
+  0%, 94%, 100% { opacity: 1; }
+  95%           { opacity: 0.55; }
+  96%           { opacity: 1; }
+  97%           { opacity: 0.78; }
+  98%           { opacity: 1; }
+}
+
+@keyframes neonPulse {
+  0%, 100% { box-shadow: 0 0 10px var(--neon-cyan), 0 0 28px var(--neon-cyan); }
+  50%      { box-shadow: 0 0 18px var(--neon-pink), 0 0 44px var(--neon-pink); }
+}
+
+@keyframes scroll-grid {
+  from { background-position-y: 0; }
+  to   { background-position-y: 37px; }
+}
+
+/* -------- Accessibility — honor reduced motion -------- */
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  body::before { transform: none; opacity: 0.25; }
+  body::after { display: none; }
+}
+
+/* -------- Narrow viewport tuning -------- */
+
+@media (max-width: 640px) {
+  h1, .title       { font-size: 1.4rem !important; }
+  h2               { font-size: 1.05rem !important; }
+  h3               { font-size: 0.9rem !important; }
+  .navbar-title    { font-size: 14px !important; }
+  .navbar .nav-link{ font-size: 10px !important; padding: 0.4rem 0.5rem !important; }
+  .arcade-card h3  { font-size: 0.8rem !important; }
+  .arcade-card p   { font-size: 18px !important; }
+  p, ul, ol, li    { font-size: 18px !important; }
+}

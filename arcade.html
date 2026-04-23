@@ -20,38 +20,7 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em;
   vertical-align: middle;
 }
-.arcade-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.5rem;
-  margin-top: 1.5rem;
-}
-.arcade-card {
-  display: block;
-  border: 1px solid #e0e0e0;
-  border-radius: 8px;
-  padding: 1.25rem 1.5rem;
-  text-decoration: none;
-  color: inherit;
-  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
-  background: #fff;
-}
-.arcade-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
-  border-color: #c0c0c0;
-  text-decoration: none;
-  color: inherit;
-}
-.arcade-card h3 {
-  margin: 0 0 0.4rem 0;
-  font-size: 1.25rem;
-}
-.arcade-card p {
-  margin: 0;
-  color: #555;
-  font-size: 0.95rem;
-}
+/* arcade grid / card styling moved to arcade-theme.css (80s neon overlay) */
 </style>
 
 
@@ -84,6 +53,7 @@ gtag('config', 'G-DFYGKE8606', { 'anonymize_ip': true});
 
 <link rel="stylesheet" href="styles.css">
 <link rel="stylesheet" href="fonts/fonts_styles.css">
+<link rel="stylesheet" href="arcade-theme.css">
 <meta property="og:title" content="Arcade – Aktiecase.com">
 <meta property="og:description" content="Small browser games by Jakob Johannesson">
 <meta property="og:image" content="https://www.aktiecase.com/image/jakob_profile.jpeg">
@@ -163,6 +133,10 @@ gtag('config', 'G-DFYGKE8606', { 'anonymize_ip': true});
 <p>A small collection of browser games. Click to play.</p>
 
 <div class="arcade-grid">
+  <a class="arcade-card arcade-card--new" href="tower_defense/build/index.html">
+    <h3>Tower Defense</h3>
+    <p>Neon ships invade the grid — place lasers, railguns, and EMPs across 20 escalating waves.</p>
+  </a>
   <a class="arcade-card" href="seal_hunter/dist/index.html">
     <h3>Seal Hunter</h3>
     <p>A Svelte remake of the classic Seal Hunter flash game.</p>
